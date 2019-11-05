@@ -1,0 +1,618 @@
+Location,Latitude,Longitude,Ward,Community,Neighborhood,Tow_Zone,Day,Date,Time,Emergency
+"3241 CHICAGO AVE S,Minneapolis,MN",44.943518,-93.262331,9,Powderhorn,Powderhorn Park,6,1,01/28/2019,21:22,Quincy
+"3318 CHICAGO AVE S,Minneapolis,MN",44.942566,-93.262914,9,Powderhorn,Central,5,1,01/28/2019,21:33,Quincy
+"3320 CHICAGO AVE S,Minneapolis,MN",44.942741999999996,-93.261746,9,Powderhorn,Powderhorn Park,6,1,01/28/2019,21:36,Quincy
+"3500 Johnson ST NE ,Minneapolis,MN",45.031446,-93.237383,1,Northeast,Waite Park,2,1,01/28/2019,21:42,Quincy
+"3400 blk of johnson,Minneapolis,MN",44.94122,-93.25265300000001,9,Powderhorn,Powderhorn Park,6,1,01/28/2019,21:46,Quincy
+"125 W 15TH ST,Minneapolis,MN",44.967603999999994,-93.280493,7,Central,Loring Park,3,1,01/28/2019,21:51,Quincy
+"1800 blk johnson st ne,Minneapolis,MN",45.006101,-93.23719100000001,1,Northeast,Windom Park,2,1,01/28/2019,21:55,Quincy
+"315 W 15TH ST ,Minneapolis,MN",44.967553,-93.283101,7,Central,Loring Park,3,1,01/28/2019,21:59,Quincy
+"3110 CHICAGO AVE S,Minneapolis,MN",44.946216,-93.262996,9,Powderhorn,Central,5,1,01/28/2019,22:00,Quincy
+"2200 blk johnson st ne,Minneapolis,MN",45.009758000000005,-93.237397,1,Northeast,Windom Park,2,1,01/28/2019,22:00,Quincy
+"310 E 15TH ST ,Minneapolis,MN",44.968065,-93.269908,7,Central,Loring Park,3,1,01/28/2019,22:00,Quincy
+"119 university Ave se,Minneapolis,MN",44.986908,-93.254406,3,University,Marcy Holmes,4,1,01/28/2019,22:03,Quincy
+"3320 CHICAGO AVE S,Minneapolis,MN",44.942741999999996,-93.261746,9,Powderhorn,Powderhorn Park,6,1,01/28/2019,22:04,Quincy
+"3400 block of johnson st ne,Minneapolis,MN",45.029602000000004,-93.237431,1,Northeast,Waite Park,2,1,01/28/2019,22:08,Quincy
+"111 15th Street West,Minneapolis,MN",44.967602,-93.280149,7,Central,Loring Park,3,1,01/28/2019,22:11,Quincy
+"3919 CHICAGO AVE S,Minneapolis,MN",44.931727,-93.262187,8,Powderhorn,Bancroft,6,1,01/28/2019,22:11,Quincy
+"3444 lyndale Ave n,Minneapolis,MN",45.018003,-93.287759,4,Camden,McKinley,1,1,01/28/2019,22:12,Quincy
+"420 university ace se,Minneapolis,MN",44.984255,-93.24988499999999,3,University,Marcy Holmes,4,1,01/28/2019,22:12,Quincy
+"00 13th ave ne,Minneapolis,MN",44.999181,-93.271564,3,Northeast,Sheridan,2,1,01/28/2019,22:15,Quincy
+"306 15th st w ,Minneapolis,MN",44.967843,-93.282772,7,Central,Loring Park,3,1,01/28/2019,22:16,Quincy
+"300 W 15TH ST ,Minneapolis,MN",44.967838,-93.282678,7,Central,Loring Park,3,1,01/28/2019,22:19,Quincy
+"3425 LYNDALE AVE N ,Minneapolis,MN",45.01746,-93.288366,4,Camden,McKinley,1,1,01/28/2019,22:19,Quincy
+"21 W 15TH ST ,Minneapolis,MN",44.967632,-93.2789,7,Central,Loring Park,3,1,01/28/2019,22:20,Quincy
+"341 W 15TH ST ,Minneapolis,MN",44.967728,-93.283828,7,Central,Loring Park,3,1,01/28/2019,22:20,Quincy
+"3719 CHICAGO AVE S,Minneapolis,MN",44.935332,-93.262179,9,Powderhorn,Powderhorn Park,6,1,01/28/2019,22:21,Quincy
+"23 W 15TH ST ,Minneapolis,MN",44.967718,-93.278918,7,Central,Loring Park,3,1,01/28/2019,22:24,Quincy
+"25 E 15TH ST ,Minneapolis,MN",44.968049,-93.277575,7,Central,Loring Park,3,1,01/28/2019,22:24,Quincy
+"27 W 15TH ST ,Minneapolis,MN",44.967636,-93.279026,7,Central,Loring Park,3,1,01/28/2019,22:25,Quincy
+"3719 CHICAGO AVE S,Minneapolis,MN",44.935332,-93.262179,9,Powderhorn,Powderhorn Park,6,1,01/28/2019,22:26,Quincy
+"3931 LYNDALE AVE N ,Minneapolis,MN",45.026671,-93.28840799999999,4,Camden,Webber - Camden,1,1,01/28/2019,22:26,Quincy
+"3400 block of johnson st ne,Minneapolis,MN",45.029602000000004,-93.237431,1,Northeast,Waite Park,2,1,01/28/2019,22:29,Quincy
+"3917 CHICAGO AVE S,Minneapolis,MN",44.931727,-93.262084,8,Powderhorn,Bancroft,6,1,01/28/2019,22:29,Quincy
+"00 block of 13th ave ne,Minneapolis,MN",44.999181,-93.271564,3,Northeast,Sheridan,2,1,01/28/2019,22:31,Quincy
+"501 15th Street East,Minneapolis,MN",44.967714,-93.268562,6,Central,Elliot Park,3,1,01/28/2019,22:36,Quincy
+"500 block of university avse,Minneapolis,MN",44.984477000000005,-93.249027,3,University,Marcy Holmes,4,1,01/28/2019,22:37,Quincy
+"3427 LYNDALE AVE N ,Minneapolis,MN",45.017514,-93.288383,4,Camden,McKinley,1,1,01/28/2019,22:38,Quincy
+"611 15th st e,Minneapolis,MN",44.982327000000005,-93.232745,3,University,Marcy Holmes,4,1,01/28/2019,22:39,Quincy
+"6019 CHICAGO AVE S,Minneapolis,MN",44.893606,-93.262512,11,Nokomis,Diamond Lake,6,1,01/28/2019,22:42,Quincy
+"4600 4TH AVE S,Minneapolis,MN",44.919538,-93.270602,8,Nokomis,Field,5,1,01/28/2019,22:45,Quincy
+"500 UNIVERSITY AVE SE,Minneapolis,MN",44.984477000000005,-93.249027,3,University,Marcy Holmes,4,1,01/28/2019,22:47,Quincy
+"5200 BRYANT AVE N ,Minneapolis,MN",45.049456,-93.291165,4,Camden,Lind - Bohanon,1,1,01/28/2019,22:48,Quincy
+"#6 E 15TH ST ,Minneapolis,MN",44.968286,-93.27739100000001,7,Central,Loring Park,3,1,01/28/2019,22:49,Quincy
+"421 UNIVERSITY AVE SE,Minneapolis,MN",44.985,-93.24951999999999,3,University,Marcy Holmes,4,1,01/28/2019,22:49,Quincy
+"605 15TH ST E,Minneapolis,MN",44.968399,-93.285887,7,Central,Loring Park,3,1,01/28/2019,22:49,Quincy
+"4228 BLOOMINGTON AVE S,Minneapolis,MN",44.925916,-93.252725,8,Nokomis,Northrop,6,1,01/28/2019,22:53,Quincy
+"603 E 15TH ST ,Minneapolis,MN",44.967821,-93.26738,6,Central,Elliot Park,3,1,01/28/2019,22:53,Quincy
+"2801 CENTRAL AVE NE,Minneapolis,MN",45.018975,-93.246811,1,Northeast,Audubon Park,2,1,01/28/2019,22:54,Quincy
+"714 E 15TH ST ,Minneapolis,MN",44.968348,-93.264184,7,Central,Elliot Park,3,1,01/28/2019,22:54,Quincy
+"608 E 15TH ST ,Minneapolis,MN",44.968323999999996,-93.266973,7,Central,Elliot Park,3,1,01/28/2019,22:55,Quincy
+"5100 BRYANT AVE N ,Minneapolis,MN",45.047684000000004,-93.291219,4,Camden,Lind - Bohanon,1,1,01/28/2019,22:57,Quincy
+"2801 CENTRAL AVE NE,Minneapolis,MN",45.018975,-93.246811,1,Northeast,Audubon Park,2,1,01/28/2019,22:57,Quincy
+"3421 BLOOMINGTON AVE S,Minneapolis,MN",44.940657,-93.252136,9,Powderhorn,Powderhorn Park,6,1,01/28/2019,22:59,Quincy
+"3401 CENTRAL AVE NE,Minneapolis,MN",45.029625,-93.246913,1,Northeast,Waite Park,2,1,01/28/2019,22:59,Quincy
+"629 E 15TH ST ,Minneapolis,MN",44.967821,-93.26609,6,Central,Elliot Park,3,1,01/28/2019,23:02,Quincy
+"4300 thoMAS AVE N,Minneapolis,MN",45.033542,-93.313327,4,Camden,Victory,1,1,01/28/2019,23:06,Quincy
+"4634 LYNDALE AVE N ,Minneapolis,MN",45.039515,-93.286781,4,Camden,Camden Industrial,1,1,01/28/2019,23:08,Quincy
+"4620 4th ave s,Minneapolis,MN",44.919024,-93.27063100000001,8,Nokomis,Field,5,1,01/28/2019,23:09,Quincy
+"600 UNIVERSITY AVE SE,Minneapolis,MN",44.983581,-93.24761,3,University,Marcy Holmes,4,1,01/28/2019,23:10,Quincy
+"729 E 15TH ST ,Minneapolis,MN",44.967838,-93.263417,6,Central,Elliot Park,3,1,01/28/2019,23:12,Quincy
+"721 15th st e ,Minneapolis,MN",44.983681,-93.231826,3,University,Marcy Holmes,4,1,01/28/2019,23:12,Quincy
+"100 block 8th ave n,Minneapolis,MN",44.995195,-93.266588,3,Northeast,St. Anthony West,2,1,01/28/2019,23:14,Quincy
+"3522 4th ave s,Minneapolis,MN",44.938914000000004,-93.27059200000001,9,Powderhorn,Central,5,1,01/28/2019,23:14,Quincy
+"700 block of university Ave se,Minneapolis,MN",44.98304,-93.246128,3,University,Marcy Holmes,4,1,01/28/2019,23:17,Quincy
+"619 15th st e,Minneapolis,MN",44.96782,-93.26657800000001,6,Central,Elliot Park,3,1,01/28/2019,23:17,Quincy
+"600 block University ave se,Minneapolis,MN",44.983581,-93.24761,3,University,Marcy Holmes,4,1,01/28/2019,23:18,Quincy
+"7th univ ave se,Minneapolis,MN",44.983368,-93.24640699999999,3,University,Marcy Holmes,4,1,01/28/2019,23:18,Quincy
+"727 15th st e ,Minneapolis,MN",44.967842,-93.26351700000001,6,Central,Elliot Park,3,1,01/28/2019,23:21,Quincy
+"2639 HENNEPIN AV S,Minneapolis,MN",44.954301,-93.29705600000001,10,Calhoun Isle,Lowry Hill East,3,1,01/28/2019,23:22,Quincy
+"600 block University ave se,Minneapolis,MN",44.983581,-93.24761,3,University,Marcy Holmes,4,1,01/28/2019,23:22,Quincy
+"3600 Block of 4th ave s,Minneapolis,MN",44.937756,-93.270177,8,Powderhorn,Central,5,1,01/28/2019,23:24,Quincy
+"5130 BLOOMINGTON AVE S,Minneapolis,MN",44.909704999999995,-93.252859,11,Nokomis,Hale,6,1,01/28/2019,23:26,Quincy
+"3100 Block of 4th Ave s,Minneapolis,MN",44.946507000000004,-93.270646,9,Powderhorn,Central,5,1,01/28/2019,23:27,Quincy
+"2643 HENNEPIN AVE,Minneapolis,MN",44.954158,-93.29739000000001,10,Calhoun Isle,Lowry Hill East,3,1,01/28/2019,23:27,Quincy
+"3642 CHICAGO AVE S,Minneapolis,MN",44.936306,-93.262885,8,Powderhorn,Central,5,1,01/28/2019,23:30,Quincy
+"3300 4TH AVE S,Minneapolis,MN",44.943065999999995,-93.270504,9,Powderhorn,Central,5,1,01/28/2019,23:30,Quincy
+"3912 THOMAS AVE N,Minneapolis,MN",45.026374,-93.313115,4,Camden,Victory,1,1,01/28/2019,23:31,Quincy
+"1000 5TH ST N ,Minneapolis,MN",44.988051,-93.284072,5,Central,North Loop,1,1,01/28/2019,23:33,Quincy
+"600 5TH ST N ,Minneapolis,MN",44.984716,-93.279386,5,Central,North Loop,1,1,01/28/2019,23:34,Quincy
+"4542 LYNDALE AVE N ,Minneapolis,MN",45.037603000000004,-93.286407,4,Camden,Camden Industrial,1,1,01/28/2019,23:34,Quincy
+"3809 CHICAGO AVE S,Minneapolis,MN",44.933779,-93.262036,8,Powderhorn,Bancroft,6,1,01/28/2019,23:36,Quincy
+"3737 BLOOMINGTON AVE S,Minneapolis,MN",44.934826,-93.252136,9,Powderhorn,Powderhorn Park,6,1,01/28/2019,23:38,Quincy
+"3208 Bloomington,Minneapolis,MN",44.944328000000006,-93.25280500000001,9,Powderhorn,Powderhorn Park,6,1,01/28/2019,23:38,Quincy
+"3320 Bloomington Avenue,Minneapolis,MN",44.942261,-93.25274499999999,9,Powderhorn,Powderhorn Park,6,1,01/28/2019,23:38,Quincy
+"2810 Emerson Ave s,Minneapolis,MN",44.951574,-93.294725,10,Calhoun Isle,Lowry Hill East,3,1,01/28/2019,23:38,Quincy
+"3944 BLOOMINGTON AVE S,Minneapolis,MN",44.930984,-93.252686,8,Powderhorn,Bancroft,6,1,01/28/2019,23:38,Quincy
+"328 15th St W,Minneapolis,MN",44.967886,-93.283109,7,Central,Loring Park,3,1,01/28/2019,23:40,Quincy
+"2824 EMERSON AVE S,Minneapolis,MN",44.951169,-93.294735,10,Calhoun Isle,Lowry Hill East,3,1,01/28/2019,23:40,Quincy
+"700 block of unniversity se,Minneapolis,MN",44.98304,-93.246128,3,University,Marcy Holmes,4,1,01/28/2019,23:43,Quincy
+"3412 BLOOMINGTON AVE S,Minneapolis,MN",44.940911,-93.25278399999999,9,Powderhorn,Powderhorn Park,6,1,01/28/2019,23:43,Quincy
+"606 15th St E,Minneapolis,MN",44.968303000000006,-93.26709100000001,7,Central,Elliot Park,3,1,01/28/2019,23:45,Quincy
+"700 block university Ave se ,Minneapolis,MN",44.98304,-93.246128,3,University,Marcy Holmes,4,1,01/28/2019,23:45,Quincy
+"2816 Dupont ace s,Minneapolis,MN",44.9512,-93.293672,10,Calhoun Isle,Lowry Hill East,3,1,01/28/2019,23:46,Quincy
+"8th univ ave se,Minneapolis,MN",44.982807,-93.24503299999999,3,University,Marcy Holmes,4,1,01/28/2019,23:47,Quincy
+"3400 block 2nd st. N ,Minneapolis,MN",45.0167,-93.281018,4,Camden,McKinley,1,1,01/28/2019,23:48,Quincy
+"600 UNIVERSITY AVE SE,Minneapolis,MN",44.983581,-93.24761,3,University,Marcy Holmes,4,1,01/28/2019,23:48,Quincy
+"5299 BRYANT AVE N ,Minneapolis,MN",45.051115,-93.291534,4,Camden,Lind - Bohanon,1,1,01/28/2019,23:49,Quincy
+"2900 block 2nd st n,Minneapolis,MN",45.009468,-93.280378,5,Near North,Hawthorne,1,1,01/28/2019,23:51,Quincy
+"725 E 15TH ST ,Minneapolis,MN",44.967839,-93.26359599999999,6,Central,Elliot Park,3,1,01/28/2019,23:53,Quincy
+"2828 EMERSON AVE S,Minneapolis,MN",44.951074,-93.294915,10,Calhoun Isle,Lowry Hill East,3,1,01/28/2019,23:53,Quincy
+"700 UNIVERSITY AVE SE,Minneapolis,MN",44.98304,-93.246128,3,University,Marcy Holmes,4,1,01/28/2019,23:54,Quincy
+"723 E 15TH ST ,Minneapolis,MN",44.967839,-93.263675,6,Central,Elliot Park,3,1,01/28/2019,23:57,Quincy
+"740 2ND ST NE,Minneapolis,MN",44.995773,-93.26405799999999,3,Northeast,St. Anthony West,2,1,01/29/2019,01:00,Quincy
+"264 Irving Ave N,Minneapolis,MN",44.980109999999996,-93.29944,5,Near North,Harrison,3,2,01/29/2019,13:01,Quincy
+"3 1 04 18 ave s,Minneapolis,MN",44.95305,-93.248288,9,Phillips,East Phillips,3,2,01/29/2019,13:02,Quincy
+"638 quincy st ne,Minneapolis,MN",44.996251,-93.251449,3,Northeast,St. Anthony East,2,2,01/29/2019,13:02,Quincy
+"114 19th st e,Minneapolis,MN",44.964078,-93.275865,6,Central,Steven's Square - Loring Heights,3,2,01/29/2019,13:02,Quincy
+"817 2 24TH ST ,Minneapolis,MN",44.959167,-93.277834,10,Powderhorn,Whittier,3,1,01/29/2019,01:03,Quincy
+"600 4TH ST N ,Minneapolis,MN",44.98543,-93.278261,3,Central,North Loop,1,1,01/29/2019,01:04,Quincy
+"1268 LOWRY AVE NE,Minneapolis,MN",45.013179,-93.241298,1,Northeast,Audubon Park,2,1,01/29/2019,01:05,Quincy
+"302 CLIFTON AVE,Minneapolis,MN",44.966295,-93.283369,7,Central,Loring Park,3,2,01/29/2019,13:05,Quincy
+"1400 LASALLE AVE ,Minneapolis,MN",44.968778,-93.27933399999999,7,Central,Loring Park,3,1,01/29/2019,01:07,Quincy
+"142 19TH ST E,Minneapolis,MN",44.963955,-93.274529,6,Central,Steven's Square - Loring Heights,3,2,01/29/2019,13:07,Quincy
+"1300 LASALLE AVE ,Minneapolis,MN",44.970601,-93.279336,7,Central,Loring Park,3,1,01/29/2019,01:08,Quincy
+"3100 13th ave s,Minneapolis,MN",44.946434,-93.256536,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,13:08,Quincy
+"1400 LASALLE AVE ,Minneapolis,MN",44.968778,-93.27933399999999,7,Central,Loring Park,3,1,01/29/2019,01:09,Quincy
+"2400 4TH ST N ,Minneapolis,MN",45.003895,-93.28457900000001,5,Near North,Hawthorne,1,1,01/29/2019,01:09,Quincy
+"883 LOWRY AVE NE,Minneapolis,MN",45.013164,-93.249187,1,Northeast,Holland,2,1,01/29/2019,01:09,Quincy
+"312 6th ave se ,Minneapolis,MN",44.984097,-93.247212,3,University,Marcy Holmes,4,2,01/29/2019,13:09,Quincy
+"1400 LASALLE AVE,Minneapolis,MN",44.968778,-93.27933399999999,7,Central,Loring Park,3,1,01/29/2019,01:10,Quincy
+"2206 Stevens Ave South,Minneapolis,MN",44.96085,-93.275285,10,Powderhorn,Whittier,3,2,01/29/2019,13:10,Quincy
+"700 4TH ST N,Minneapolis,MN",44.985788,-93.278943,3,Central,North Loop,1,1,01/29/2019,01:11,Quincy
+"3100 18th ave s,Minneapolis,MN",44.946432,-93.248915,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,13:11,Quincy
+"2202 STEVENS AVE S ,Minneapolis,MN",44.960879999999996,-93.275285,10,Powderhorn,Whittier,3,2,01/29/2019,13:11,Quincy
+"3000 3RD AVE S,Minneapolis,MN",44.948332,-93.272829,9,Powderhorn,Central,5,1,01/29/2019,01:12,Quincy
+"2400 2ND ST N ,Minneapolis,MN",45.00393,-93.279416,5,Near North,Hawthorne,1,1,01/29/2019,01:12,Quincy
+"3012 Irving Ave n,Minneapolis,MN",45.011826,-93.299086,5,Near North,Jordan,1,2,01/29/2019,13:13,Quincy
+"326 7th ave se,Minneapolis,MN",44.983513,-93.245758,3,University,Marcy Holmes,4,2,01/29/2019,13:13,Quincy
+"1900 2nd st ne,Minneapolis,MN",45.007453000000005,-93.266182,3,Northeast,Bottineau,2,1,01/29/2019,01:14,Quincy
+"500 2ND ST N ,Minneapolis,MN",44.987221999999996,-93.27335699999999,3,Central,North Loop,1,1,01/29/2019,01:14,Quincy
+"1812 Russell ave n ,Minneapolis,MN",44.998090000000005,-93.31049499999999,5,Near North,Willard - Hay,1,2,01/29/2019,13:14,Quincy
+"2112 BRYANT AVE N,Minneapolis,MN",45.000675,-93.29077099999999,5,Near North,Hawthorne,1,2,01/29/2019,13:14,Quincy
+"13TH & UNIVERSITY AVE SE,Minneapolis,MN",44.981898,-93.236924,3,University,Marcy Holmes,4,1,01/29/2019,01:15,Quincy
+"1308 LINDEN AVE ,Minneapolis,MN",44.976234999999996,-93.28305999999999,5,Central,North Loop,3,1,01/29/2019,01:15,Quincy
+"244 Irving Ave n,Minneapolis,MN",44.979431,-93.299155,5,Near North,Harrison,3,2,01/29/2019,13:15,Quincy
+"2214 Stevens Ave,Minneapolis,MN",44.96079,-93.275873,10,Powderhorn,Whittier,3,2,01/29/2019,13:15,Quincy
+"1900 2nd st ne,Minneapolis,MN",45.007453000000005,-93.266182,3,Northeast,Bottineau,2,1,01/29/2019,01:17,Quincy
+"1404 Russell ave n ,Minneapolis,MN",44.99361,-93.310485,5,Near North,Willard - Hay,1,2,01/29/2019,13:17,Quincy
+"2318 Stevens Ave S,Minneapolis,MN",44.959969,-93.275876,10,Powderhorn,Whittier,3,2,01/29/2019,13:17,Quincy
+"600 2ND AVE N ,Minneapolis,MN",44.979313,-93.257898,3,Central,Downtown East,3,1,01/29/2019,01:18,Quincy
+"3470 E 46TH ST ,Minneapolis,MN",44.919686,-93.22203,12,Nokomis,Ericsson,6,1,01/29/2019,01:18,Quincy
+"700 2ND ST N ,Minneapolis,MN",44.988836,-93.27623299999999,3,Central,North Loop,1,1,01/29/2019,01:19,Quincy
+"628 11th ave se,Minneapolis,MN",44.984802,-93.23748,3,University,Marcy Holmes,4,2,01/29/2019,13:20,Quincy
+"2312 32nd Street East,Minneapolis,MN",44.959764,-93.225778,2,Longfellow,Seward,4,2,01/29/2019,13:21,Quincy
+"622 Van Buren st ne,Minneapolis,MN",44.995801,-93.248919,3,Northeast,St. Anthony East,2,2,01/29/2019,13:22,Quincy
+"900 2ND AVE N,Minneapolis,MN",44.997124,-93.264961,3,Northeast,St. Anthony West,2,1,01/29/2019,01:23,Quincy
+"2314 32nd Street East,Minneapolis,MN",44.944963,-93.238168,9,Powderhorn,Corcoran,6,2,01/29/2019,13:23,Quincy
+"340 quincy st ne,Minneapolis,MN",44.994758000000004,-93.251435,3,Northeast,St. Anthony East,2,2,01/29/2019,13:23,Quincy
+"17th Ave between university and 4th st se,Minneapolis,MN",44.978334999999994,-93.23133,2,University,University of Minnesota,4,1,01/29/2019,01:24,Quincy
+"326 7th ave se,Minneapolis,MN",44.983513,-93.245758,3,University,Marcy Holmes,4,2,01/29/2019,13:24,Quincy
+"3208 Elliott ave,Minneapolis,MN",44.944393,-93.26168299999999,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,13:24,Quincy
+"1100 block 25th st ne,Minneapolis,MN",44.957327,-93.29314699999999,10,Calhoun Isle,Lowry Hill East,3,1,01/29/2019,01:25,Quincy
+"632 quincy st ne,Minneapolis,MN",44.996096,-93.251408,3,Northeast,St. Anthony East,2,2,01/29/2019,13:25,Quincy
+"200 block of Cedar Lake Road,Minneapolis,MN",44.975193,-93.305617,7,Calhoun Isle,Bryn - Mawr,3,1,01/29/2019,01:26,Quincy
+"726 8th ave se,Minneapolis,MN",44.987471,-93.240923,3,University,Marcy Holmes,4,2,01/29/2019,13:27,Quincy
+"426 8th ave se,Minneapolis,MN",44.984376,-93.243301,3,University,Marcy Holmes,4,2,01/29/2019,13:27,Quincy
+"4600 34RD AVE S,Minneapolis,MN",44.941704,-93.207255,2,Longfellow,Cooper,6,1,01/29/2019,01:28,Quincy
+"850 marshall st ne,Minneapolis,MN",44.995857,-93.267964,3,Northeast,St. Anthony West,2,1,01/29/2019,01:28,Quincy
+"4050 aldrich ave n,Minneapolis,MN",45.029133,-93.289086,4,Camden,Webber - Camden,1,2,01/29/2019,13:29,Quincy
+"1500 block lasalle,Minneapolis,MN",44.967451000000004,-93.279534,7,Central,Loring Park,3,1,01/29/2019,01:30,Quincy
+"612 7th st se,Minneapolis,MN",44.985698,-93.239622,3,University,Marcy Holmes,4,2,01/29/2019,13:30,Quincy
+"4600 3RD AVE S,Minneapolis,MN",44.919539,-93.27311800000001,8,Nokomis,Field,5,1,01/29/2019,01:31,Quincy
+"1708 2nd ave n,Minneapolis,MN",44.979217,-93.302856,5,Near North,Harrison,3,2,01/29/2019,13:31,Quincy
+"3824 aldrich av n,Minneapolis,MN",45.0247,-93.289057,4,Camden,Webber - Camden,1,2,01/29/2019,13:32,Quincy
+"3554 17th ave s,Minneapolis,MN",44.937946999999994,-93.250208,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,13:32,Quincy
+"600 1ST ST N ,Minneapolis,MN",44.979528,-93.275989,3,Central,Downtown West,3,1,01/29/2019,01:33,Quincy
+"4399 3rd Ave South,Minneapolis,MN",44.923319,-93.272775,8,Nokomis,Regina,5,1,01/29/2019,01:33,Quincy
+"1422 Russell Ave n ,Minneapolis,MN",44.994012,-93.310463,5,Near North,Willard - Hay,1,2,01/29/2019,13:33,Quincy
+"2420 stevens,Minneapolis,MN",44.958421,-93.275644,10,Powderhorn,Whittier,3,2,01/29/2019,13:34,Quincy
+"1400 LASALLE AVE ,Minneapolis,MN",44.968778,-93.27933399999999,7,Central,Loring Park,3,1,01/29/2019,01:35,Quincy
+"600 2ND ST ,Minneapolis,MN",44.979098,-93.257869,3,Central,Downtown East,3,1,01/29/2019,01:36,Quincy
+"1400 LASALLE AVE ,Minneapolis,MN",44.968778,-93.27933399999999,7,Central,Loring Park,3,1,01/29/2019,01:36,Quincy
+"2316 Stevens ave s ,Minneapolis,MN",44.959988,-93.275876,10,Powderhorn,Whittier,3,2,01/29/2019,13:36,Quincy
+"1204 Russell Ave n ,Minneapolis,MN",44.989805,-93.310455,5,Near North,Willard - Hay,1,2,01/29/2019,13:36,Quincy
+"426 logan av N,Minneapolis,MN",44.982490000000006,-93.30291899999999,5,Near North,Harrison,3,2,01/29/2019,13:36,Quincy
+"3400 3RD AVE S,Minneapolis,MN",44.941188000000004,-93.27311800000001,9,Powderhorn,Central,5,1,01/29/2019,01:37,Quincy
+"2116 BRYANT AVE N ,Minneapolis,MN",45.000816,-93.290772,5,Near North,Hawthorne,1,2,01/29/2019,13:37,Quincy
+"100 N 8TH AVE ,Minneapolis,MN",44.978025,-93.277019,7,Central,Downtown West,3,1,01/29/2019,01:38,Quincy
+"2432 Stevens Avenue South,Minneapolis,MN",44.958153,-93.275673,10,Powderhorn,Whittier,3,2,01/29/2019,13:38,Quincy
+"4099 3RD AVE S,Minneapolis,MN",44.928736,-93.272728,8,Powderhorn,Bryant,5,1,01/29/2019,01:39,Quincy
+"310 6th ave se ,Minneapolis,MN",44.984054,-93.24724599999999,3,University,Marcy Holmes,4,2,01/29/2019,13:41,Quincy
+"332 Gramercy ave,Minneapolis,MN",44.980505,-93.30080600000001,5,Near North,Harrison,3,2,01/29/2019,13:42,Quincy
+"304 gramercy Ave,Minneapolis,MN",44.979909,-93.301436,5,Near North,Harrison,3,2,01/29/2019,13:43,Quincy
+"2600 block university ave se,Minneapolis,MN",44.972331,-93.22008199999999,2,University,Prospect Park - East River Road,4,1,01/29/2019,01:44,Quincy
+"3000 3RD AVE S,Minneapolis,MN",44.948332,-93.272829,9,Powderhorn,Central,5,1,01/29/2019,01:44,Quincy
+"308 8TH AVE SE,Minneapolis,MN",44.982935,-93.244328,3,University,Marcy Holmes,4,2,01/29/2019,13:44,Quincy
+"3416 Bryant Ave n ,Minneapolis,MN",45.017328000000006,-93.290285,4,Camden,McKinley,1,2,01/29/2019,13:44,Quincy
+"2502 Jackson st ne,Minneapolis,MN",45.01325,-93.249116,1,Northeast,Holland,2,2,01/29/2019,13:45,Quincy
+"1400 LASALLE AVE ,Minneapolis,MN",44.968778,-93.27933399999999,7,Central,Loring Park,3,1,01/29/2019,01:46,Quincy
+"2320 32nd st,Minneapolis,MN",44.94495,-93.237922,9,Powderhorn,Corcoran,6,2,01/29/2019,13:46,Quincy
+"858 MARSHALL ST NE,Minneapolis,MN",44.995866,-93.267971,3,Northeast,St. Anthony West,2,1,01/29/2019,01:47,Quincy
+"2100 BLAISDELL AV S,Minneapolis,MN",44.961735,-93.28014499999999,10,Powderhorn,Whittier,3,1,01/29/2019,01:47,Quincy
+"600 2ND ST N ,Minneapolis,MN",44.988062,-93.274558,3,Central,North Loop,1,1,01/29/2019,01:48,Quincy
+"2318 32nd st,Minneapolis,MN",44.944974,-93.237944,9,Powderhorn,Corcoran,6,2,01/29/2019,13:48,Quincy
+"800 BLOCK 4 ST SE,Minneapolis,MN",44.983458,-93.24402099999999,3,University,Marcy Holmes,4,1,01/29/2019,01:49,Quincy
+"1134 VAN WHITE MEMORIAL ,Minneapolis,MN",44.982163,-93.294667,5,Near North,Sumner - Glenwood,3,1,01/29/2019,01:49,Quincy
+"930 MARSHALL ST NE,Minneapolis,MN",44.997126,-93.268784,3,Northeast,St. Anthony West,2,1,01/29/2019,01:50,Quincy
+"1700 LASALLE AVE S,Minneapolis,MN",44.966364,-93.27933399999999,7,Central,Loring Park,3,1,01/29/2019,01:50,Quincy
+"310 8TH AVE SE,Minneapolis,MN",44.982996,-93.244281,3,University,Marcy Holmes,4,2,01/29/2019,13:50,Quincy
+"2430 Stevens av s,Minneapolis,MN",44.958188,-93.27565899999999,10,Powderhorn,Whittier,3,2,01/29/2019,13:50,Quincy
+"1500 LASALLE AVE,Minneapolis,MN",44.967451000000004,-93.279534,7,Central,Loring Park,3,1,01/29/2019,01:51,Quincy
+"2554 holmes ave,Minneapolis,MN",44.947832,-93.299933,10,Calhoun Isle,ECCO,5,2,01/29/2019,13:51,Quincy
+"806 7th st se,Minneapolis,MN",44.985698,-93.239622,3,University,Marcy Holmes,4,2,01/29/2019,13:51,Quincy
+"909 MARSHALL ST NE,Minneapolis,MN",44.996612,-93.267273,3,Northeast,St. Anthony West,2,1,01/29/2019,01:53,Quincy
+"3118 18 ave,Minneapolis,MN",44.945921999999996,-93.248915,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,13:53,Quincy
+"3536 holmes ave,Minneapolis,MN",44.938340999999994,-93.29992800000001,10,Calhoun Isle,ECCO,5,2,01/29/2019,13:53,Quincy
+"1700 LASALLE AVE ,Minneapolis,MN",44.966364,-93.27933399999999,7,Central,Loring Park,3,1,01/29/2019,01:55,Quincy
+"1134 VAN WHITE MEM. BLVD,Minneapolis,MN",44.982163,-93.294667,5,Near North,Sumner - Glenwood,3,1,01/29/2019,01:55,Quincy
+"600 1ST ST N ,Minneapolis,MN",44.979528,-93.275989,3,Central,Downtown West,3,1,01/29/2019,01:55,Quincy
+"3602 BRYANT AVE N,Minneapolis,MN",45.020415,-93.290565,4,Camden,McKinley,1,2,01/29/2019,13:55,Quincy
+"2200 BLAISDELL AVE S,Minneapolis,MN",44.960681,-93.280064,10,Powderhorn,Whittier,3,1,01/29/2019,01:56,Quincy
+"406 QUEEN AV N,Minneapolis,MN",44.981788,-93.309436,5,Near North,Harrison,3,2,01/29/2019,13:57,Quincy
+"800 4th st n,Minneapolis,MN",44.987114,-93.280816,5,Central,North Loop,1,1,01/29/2019,01:58,Quincy
+"320 gramsey Ave ,Minneapolis,MN",44.970698,-93.21347,2,University,Prospect Park - East River Road,4,2,01/29/2019,13:58,Quincy
+"3310 41st e,Minneapolis,MN",44.928727,-93.223762,12,Longfellow,Hiawatha,6,2,01/29/2019,13:58,Quincy
+"900 20th Ave s,Minneapolis,MN",44.963551,-93.24454899999999,6,Longfellow,Seward,4,1,01/29/2019,02:00,Quincy
+"3222 23RD AVE S,Minneapolis,MN",44.943775,-93.239226,9,Powderhorn,Corcoran,6,1,01/29/2019,02:01,Quincy
+"1900 block of LaSalle Ave ,Minneapolis,MN",44.963918,-93.279777,7,Central,Steven's Square - Loring Heights,3,1,01/29/2019,02:01,Quincy
+"900 BLOCK 20TH AVE S,Minneapolis,MN",44.963551,-93.24454899999999,6,Longfellow,Seward,4,1,01/29/2019,02:02,Quincy
+"620 5th st se,Minneapolis,MN",44.9853,-93.245632,3,University,Marcy Holmes,4,2,01/29/2019,14:02,Quincy
+"914 Russell ave n ,Minneapolis,MN",44.987404999999995,-93.310715,5,Near North,Willard - Hay,1,2,01/29/2019,14:02,Quincy
+"2200 Blaisdell ave,Minneapolis,MN",44.960681,-93.280064,10,Powderhorn,Whittier,3,1,01/29/2019,02:03,Quincy
+"00 4th ave n ,Minneapolis,MN",44.98658,-93.271383,3,Central,North Loop,3,1,01/29/2019,02:03,Quincy
+"3835 28TH AVE S,Minneapolis,MN",44.933128,-93.23184,12,Powderhorn,Standish,6,1,01/29/2019,02:06,Quincy
+"1624 EMERSON AVE N ,Minneapolis,MN",44.996133,-93.293787,5,Near North,Near - North,1,1,01/29/2019,02:06,Quincy
+"1212 POWDERHORN TER,Minneapolis,MN",44.945892,-93.25702700000001,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,14:06,Quincy
+"1812 Jackson st ne,Minneapolis,MN",45.006407,-93.249471,1,Northeast,Logan Park,2,2,01/29/2019,14:06,Quincy
+"318 8th ave se,Minneapolis,MN",44.983243,-93.2441,3,University,Marcy Holmes,4,2,01/29/2019,14:06,Quincy
+"1422 Queen ave n,Minneapolis,MN",44.994066,-93.309214,5,Near North,Willard - Hay,1,2,01/29/2019,14:06,Quincy
+"2534 STEVENS AVE S ,Minneapolis,MN",44.956072999999996,-93.275638,10,Powderhorn,Whittier,3,2,01/29/2019,14:08,Quincy
+"410 6th st se,Minneapolis,MN",44.98765,-93.248071,3,University,Marcy Holmes,4,2,01/29/2019,14:08,Quincy
+"2648 2nd Ave South,Minneapolis,MN",44.953931,-93.274384,10,Powderhorn,Whittier,3,2,01/29/2019,14:08,Quincy
+"1236 queen Ave n,Minneapolis,MN",44.990804,-93.309173,5,Near North,Willard - Hay,1,2,01/29/2019,14:08,Quincy
+"2532 stevens,Minneapolis,MN",44.956128,-93.27557900000001,10,Powderhorn,Whittier,3,2,01/29/2019,14:09,Quincy
+"314 8th ave se,Minneapolis,MN",44.983118,-93.244188,3,University,Marcy Holmes,4,2,01/29/2019,14:09,Quincy
+"3514 Bryant Ave n,Minneapolis,MN",45.019064,-93.2903,4,Camden,McKinley,1,2,01/29/2019,14:10,Quincy
+"1810 jackson st ne,Minneapolis,MN",45.006334,-93.249462,1,Northeast,Logan Park,2,2,01/29/2019,14:10,Quincy
+"618 6TH AVE SE ,Minneapolis,MN",44.986822,-93.243224,3,University,Marcy Holmes,4,2,01/29/2019,14:10,Quincy
+"520 5TH AVE SE ,Minneapolis,MN",44.986903999999996,-93.24674399999999,3,University,Marcy Holmes,4,2,01/29/2019,14:10,Quincy
+"2434 Stevens ave s ,Minneapolis,MN",44.958021,-93.275598,10,Powderhorn,Whittier,3,2,01/29/2019,14:11,Quincy
+"1820 queen Ave n ,Minneapolis,MN",44.998249,-93.309232,5,Near North,Willard - Hay,1,2,01/29/2019,14:12,Quincy
+"404 queen av n,Minneapolis,MN",44.981722999999995,-93.309438,5,Near North,Harrison,3,2,01/29/2019,14:12,Quincy
+"2418 EMERSON AVE N ,Minneapolis,MN",45.004428000000004,-93.293814,5,Near North,Hawthorne,1,1,01/29/2019,02:13,Quincy
+"800 2ND AVE N ,Minneapolis,MN",44.978934,-93.289552,5,Near North,Harrison,3,1,01/29/2019,02:13,Quincy
+"2200 BLAISDELL AV S,Minneapolis,MN",44.960681,-93.280064,10,Powderhorn,Whittier,3,1,01/29/2019,02:15,Quincy
+"3022 10th ave so,Minneapolis,MN",44.947643,-93.260475,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,14:15,Quincy
+"1904 jackson st ne,Minneapolis,MN",45.008176,-93.249454,1,Northeast,Holland,2,2,01/29/2019,14:16,Quincy
+"2324 32nd Street East,Minneapolis,MN",44.94495,-93.23788,9,Powderhorn,Corcoran,6,2,01/29/2019,14:16,Quincy
+"2121 Emerson ave n ,Minneapolis,MN",45.001096000000004,-93.294524,5,Near North,Jordan,1,1,01/29/2019,02:17,Quincy
+"2222 32nd Street East,Minneapolis,MN",44.960845,-93.225425,2,Longfellow,Seward,4,2,01/29/2019,14:19,Quincy
+"2119 emerson ave n,Minneapolis,MN",45.00097,-93.294426,5,Near North,Jordan,1,1,01/29/2019,02:20,Quincy
+"802 6th st se,Minneapolis,MN",44.985531,-93.24255600000001,3,University,Marcy Holmes,4,2,01/29/2019,14:20,Quincy
+"3800 54th st e,Minneapolis,MN",44.905374,-93.217782,12,Nokomis,Morris Park,6,1,01/29/2019,02:21,Quincy
+"272 queen ave n,Minneapolis,MN",44.979345,-93.30935699999999,5,Near North,Harrison,3,2,01/29/2019,14:23,Quincy
+"1318 PowDERHOR TER,Minneapolis,MN",44.945896999999995,-93.255573,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,14:24,Quincy
+"800 5th st se,Minneapolis,MN",44.984525,-93.24324,3,University,Marcy Holmes,4,2,01/29/2019,14:24,Quincy
+"1030 14th ave se,Minneapolis,MN",44.988762,-93.23174,1,University,Como,4,2,01/29/2019,14:25,Quincy
+"3412 BRYANT AVE N,Minneapolis,MN",45.017213,-93.290284,4,Camden,McKinley,1,2,01/29/2019,14:26,Quincy
+"2401 marshall st ne,Minneapolis,MN",45.012198,-93.271323,3,Northeast,Bottineau,2,1,01/29/2019,02:27,Quincy
+"3300 FREMOUNT AVE N ,Minneapolis,MN",45.015221999999994,-93.295175,4,Camden,Folwell,1,1,01/29/2019,02:27,Quincy
+"616 penn Ave n,Minneapolis,MN",44.984895,-93.308015,5,Near North,Near - North,1,1,01/29/2019,02:28,Quincy
+"2300 BLOCK OF BLAISDELL AVE,Minneapolis,MN",44.959732,-93.280183,10,Powderhorn,Whittier,3,1,01/29/2019,02:28,Quincy
+"2300 block of Blaisdell ave,Minneapolis,MN",44.959732,-93.280183,10,Powderhorn,Whittier,3,1,01/29/2019,02:28,Quincy
+"3410 35th st e,Minneapolis,MN",44.939738,-93.22245600000001,12,Longfellow,Howe,6,1,01/29/2019,02:30,Quincy
+"2100 BLOCK 9TH ST S,Minneapolis,MN",44.964017999999996,-93.242491,6,Longfellow,Seward,4,1,01/29/2019,02:31,Quincy
+"4099 3rd Ave South,Minneapolis,MN",44.928736,-93.272728,8,Powderhorn,Bryant,5,1,01/29/2019,02:31,Quincy
+"2200 block of blaisdell Ave ,Minneapolis,MN",44.960681,-93.280064,10,Powderhorn,Whittier,3,1,01/29/2019,02:32,Quincy
+"2647 marshall st ne,Minneapolis,MN",45.016489,-93.271985,1,Northeast,Marshall Terrace,2,1,01/29/2019,02:33,Quincy
+"3441 23rd av s,Minneapolis,MN",44.939985,-93.238546,9,Powderhorn,Corcoran,6,1,01/29/2019,02:34,Quincy
+"2099 9th st s,Minneapolis,MN",44.964017999999996,-93.24252299999999,6,Longfellow,Seward,4,1,01/29/2019,02:35,Quincy
+"3400 block of 3rd Avenue south,Minneapolis,MN",44.941188000000004,-93.27311800000001,9,Powderhorn,Central,5,1,01/29/2019,02:37,Quincy
+"402 QUEEN AV N,Minneapolis,MN",44.981658,-93.309439,5,Near North,Harrison,3,2,01/29/2019,14:41,Quincy
+"1490 MARSHALL ST NE,Minneapolis,MN",45.002703000000004,-93.271528,3,Northeast,Sheridan,2,1,01/29/2019,02:42,Quincy
+"2608 pillsbury ave,Minneapolis,MN",44.955125,-93.281587,10,Powderhorn,Whittier,3,2,01/29/2019,14:42,Quincy
+"3834 Freemont ave n,Minneapolis,MN",45.025011,-93.295373,4,Camden,Webber - Camden,1,1,01/29/2019,02:43,Quincy
+"4144 Bryant Ave n,Minneapolis,MN",45.030736,-93.290417,4,Camden,Webber - Camden,1,2,01/29/2019,14:43,Quincy
+"2502 Harriet Ave South,Minneapolis,MN",44.957117,-93.28581,10,Powderhorn,Whittier,3,2,01/29/2019,14:44,Quincy
+"310 Russell Ave n,Minneapolis,MN",44.980806,-93.31110600000001,5,Near North,Harrison,3,2,01/29/2019,14:44,Quincy
+"3118 12 ave s,Minneapolis,MN",44.945972999999995,-93.257908,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,14:44,Quincy
+"2400 BLAISDELL AVE S,Minneapolis,MN",44.958876000000004,-93.280113,10,Powderhorn,Whittier,3,1,01/29/2019,02:45,Quincy
+"1492 MARSHALL ST NE,Minneapolis,MN",45.002712,-93.271529,3,Northeast,Sheridan,2,1,01/29/2019,02:45,Quincy
+"3845 Fremont Ave n,Minneapolis,MN",45.025298,-93.29598,4,Camden,Webber - Camden,1,1,01/29/2019,02:45,Quincy
+"2300 BLOCK OF BLAISDELL AVE,Minneapolis,MN",44.959732,-93.280183,10,Powderhorn,Whittier,3,1,01/29/2019,02:46,Quincy
+"2650 marshall st ne,Minneapolis,MN",45.016412,-93.27257,1,Northeast,Marshall Terrace,2,1,01/29/2019,02:49,Quincy
+"302 Russell Ave N,Minneapolis,MN",44.980742,-93.31110699999999,5,Near North,Harrison,3,2,01/29/2019,14:51,Quincy
+"2400 BLAISDELL AV S,Minneapolis,MN",44.958876000000004,-93.280113,10,Powderhorn,Whittier,3,1,01/29/2019,02:52,Quincy
+"3124 Elliot ave ,Minneapolis,MN",44.945784,-93.261651,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,14:52,Quincy
+"1906 queen ave n ,Minneapolis,MN",44.999043,-93.309217,5,Near North,Willard - Hay,1,2,01/29/2019,14:53,Quincy
+"2116 34th st,Minneapolis,MN",44.94158,-93.241522,9,Powderhorn,Corcoran,6,2,01/29/2019,14:53,Quincy
+"2100 9TH ST S,Minneapolis,MN",44.964017999999996,-93.242491,6,Longfellow,Seward,4,1,01/29/2019,02:54,Quincy
+"2401 MARSHALL ST NE,Minneapolis,MN",45.012198,-93.271323,3,Northeast,Bottineau,2,1,01/29/2019,02:54,Quincy
+"2624 2nd ave s,Minneapolis,MN",44.954442,-93.274428,10,Powderhorn,Whittier,3,2,01/29/2019,14:54,Quincy
+"4224 Colfax Ave n,Minneapolis,MN",45.032344,-93.29163,4,Camden,Webber - Camden,1,2,01/29/2019,14:54,Quincy
+"610 7TH ST SE,Minneapolis,MN",44.986676,-93.243309,3,University,Marcy Holmes,4,2,01/29/2019,14:55,Quincy
+"2218 32nd st,Minneapolis,MN",44.944967999999996,-93.239799,9,Powderhorn,Corcoran,6,2,01/29/2019,14:55,Quincy
+"2806 EMERSON AVE N ,Minneapolis,MN",45.008815999999996,-93.294062,5,Near North,Hawthorne,1,1,01/29/2019,02:56,Quincy
+"2900 queen ave n ,Minneapolis,MN",45.009802,-93.309196,5,Near North,Jordan,1,2,01/29/2019,14:56,Quincy
+"1800 block 49th Ave n,Minneapolis,MN",45.043912,-93.30298499999999,4,Camden,Humboldt Industrial Area,1,1,01/29/2019,02:57,Quincy
+"1460 44TH AVE N,Minneapolis,MN",45.035447,-93.298644,4,Camden,Webber - Camden,1,1,01/29/2019,02:57,Quincy
+"3428 bryant ave n,Minneapolis,MN",45.017715,-93.290287,4,Camden,McKinley,1,2,01/29/2019,14:57,Quincy
+"3846 FREMONT AVE N ,Minneapolis,MN",45.02534,-93.295371,4,Camden,Webber - Camden,1,1,01/29/2019,02:58,Quincy
+"4226 Colfax Ave n ,Minneapolis,MN",45.032432,-93.291739,4,Camden,Webber - Camden,1,2,01/29/2019,14:58,Quincy
+"302 8TH AVE SE,Minneapolis,MN",44.982751,-93.24446800000001,3,University,Marcy Holmes,4,2,01/29/2019,14:58,Quincy
+"2100 9TH ST S,Minneapolis,MN",44.964017999999996,-93.242491,6,Longfellow,Seward,4,1,01/29/2019,03:00,Quincy
+"3626 FREMONT AVE N ,Minneapolis,MN",45.021183,-93.295288,4,Camden,Folwell,1,1,01/29/2019,03:00,Quincy
+"1501 MARSHALL ST NE,Minneapolis,MN",45.00297,-93.270893,3,Northeast,Sheridan,2,1,01/29/2019,03:00,Quincy
+"2200 BLAISDELL AVE S,Minneapolis,MN",44.960681,-93.280064,10,Powderhorn,Whittier,3,1,01/29/2019,03:00,Quincy
+"2100 9TH ST S,Minneapolis,MN",44.964017999999996,-93.242491,6,Longfellow,Seward,4,1,01/29/2019,03:00,Quincy
+"4038 bryant ave n,Minneapolis,MN",45.028804,-93.290353,4,Camden,Webber - Camden,1,2,01/29/2019,15:00,Quincy
+"818 5th st se,Minneapolis,MN",44.984315,-93.24268000000001,3,University,Marcy Holmes,4,2,01/29/2019,15:01,Quincy
+"2444 STEVENS AVE S,Minneapolis,MN",44.957621,-93.275592,10,Powderhorn,Whittier,3,2,01/29/2019,15:01,Quincy
+"2199 9TH ST S,Minneapolis,MN",44.963997,-93.24092900000001,6,Longfellow,Seward,4,1,01/29/2019,03:04,Quincy
+"2734 2ND AVE S,Minneapolis,MN",44.952495,-93.274372,10,Powderhorn,Whittier,3,2,01/29/2019,15:04,Quincy
+"2732 2nd ave s ,Minneapolis,MN",44.952501,-93.27435600000001,10,Powderhorn,Whittier,3,2,01/29/2019,15:04,Quincy
+"326 russell av,Minneapolis,MN",44.980933,-93.311105,5,Near North,Harrison,3,2,01/29/2019,15:05,Quincy
+"3028 Elliott ave,Minneapolis,MN",44.947371999999994,-93.261736,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,15:08,Quincy
+"5440 34TH AVE S,Minneapolis,MN",44.904109999999996,-93.22322,11,Nokomis,Wenonah,6,1,01/29/2019,03:09,Quincy
+"2730 2ND AVE S ,Minneapolis,MN",44.952574,-93.274371,10,Powderhorn,Whittier,3,2,01/29/2019,15:09,Quincy
+"116 14th ave ne,Minneapolis,MN",45.00134,-93.269897,3,Northeast,Sheridan,2,2,01/29/2019,15:12,Quincy
+"1932 33rd Street East,Minneapolis,MN",44.943160999999996,-93.303565,10,Calhoun Isle,ECCO,5,2,01/29/2019,15:14,Quincy
+"56 16th ave ne,Minneapolis,MN",45.003719,-93.269577,3,Northeast,Sheridan,2,2,01/29/2019,15:15,Quincy
+"2400 BLAISDELL AVE S,Minneapolis,MN",44.958876000000004,-93.280113,10,Powderhorn,Whittier,3,1,01/29/2019,03:16,Quincy
+"2500 BLOCK OF BLAISDELL AVE,Minneapolis,MN",44.957001,-93.280076,10,Powderhorn,Whittier,3,1,01/29/2019,03:17,Quincy
+"3400 block of 3rd Avenue south,Minneapolis,MN",44.941188000000004,-93.27311800000001,9,Powderhorn,Central,5,1,01/29/2019,03:18,Quincy
+"1100 7TH AVE N ,Minneapolis,MN",44.98514,-93.293975,5,Near North,Near - North,1,1,01/29/2019,03:19,Quincy
+"3020 11th Avenue South,Minneapolis,MN",44.947637,-93.25909,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,15:19,Quincy
+"1411 4th ave n ,Minneapolis,MN",44.98158,-93.301339,5,Near North,Harrison,3,1,01/29/2019,03:26,Quincy
+"5335 34th ave s,Minneapolis,MN",44.906137,-93.222604,12,Nokomis,Minnehaha,6,1,01/29/2019,03:27,Quincy
+"4729 LYNDALE AVE N,Minneapolis,MN",45.041197,-93.287071,4,Camden,Lind - Bohanon,1,1,01/29/2019,03:29,Quincy
+"1216 penn Ave n,Minneapolis,MN",44.990255,-93.30793299999999,5,Near North,Near - North,1,1,01/29/2019,03:29,Quincy
+"1421 4th ave n,Minneapolis,MN",44.98158,-93.301339,5,Near North,Harrison,3,1,01/29/2019,03:31,Quincy
+"5333 34th ave s,Minneapolis,MN",44.906169,-93.222643,12,Nokomis,Minnehaha,6,1,01/29/2019,03:31,Quincy
+"2500 BLAISDELL AVE S,Minneapolis,MN",44.957001,-93.280076,10,Powderhorn,Whittier,3,1,01/29/2019,03:34,Quincy
+"1 19th st e,Minneapolis,MN",44.963797,-93.277559,6,Central,Steven's Square - Loring Heights,3,1,01/29/2019,03:34,Quincy
+"3226 MINNEHAHA AVE S,Minneapolis,MN",44.943815,-93.2313,9,Longfellow,Longfellow,6,1,01/29/2019,03:35,Quincy
+"2189 9TH ST S,Minneapolis,MN",44.963743,-93.241035,6,Longfellow,Seward,4,1,01/29/2019,03:35,Quincy
+"3206 MINNEHAHA AVE S,Minneapolis,MN",44.944369,-93.231757,9,Longfellow,Longfellow,6,1,01/29/2019,03:38,Quincy
+"200 19TH ST ,Minneapolis,MN",44.963955,-93.273395,6,Central,Steven's Square - Loring Heights,3,1,01/29/2019,03:41,Quincy
+"200 BLOCK 19TH ST E,Minneapolis,MN",44.963955,-93.273395,6,Central,Steven's Square - Loring Heights,3,1,01/29/2019,03:41,Quincy
+"2500 Blaisdell ave,Minneapolis,MN",44.957001,-93.280076,10,Powderhorn,Whittier,3,1,01/29/2019,03:45,Quincy
+"4400 NICOLLET AVE S,Minneapolis,MN",44.923018,-93.278286,8,Southwest,King Field,5,1,01/29/2019,03:46,Quincy
+"1706 penn Ave n,Minneapolis,MN",44.996694,-93.30788100000001,5,Near North,Willard - Hay,1,1,01/29/2019,03:47,Quincy
+"4400 NICOLLET AVE S,Minneapolis,MN",44.923018,-93.278286,8,Southwest,King Field,5,1,01/29/2019,03:50,Quincy
+"1421 44TH AVE N ,Minneapolis,MN",45.035242,-93.298074,4,Camden,Webber - Camden,1,1,01/29/2019,03:51,Quincy
+"4851 LYNDALE AVE N ,Minneapolis,MN",45.04356,-93.286116,4,Camden,Lind - Bohanon,1,1,01/29/2019,03:53,Quincy
+"1411 44th ave n,Minneapolis,MN",45.035273,-93.297623,4,Camden,Webber - Camden,1,1,01/29/2019,03:54,Quincy
+"1838 PENN AVE N,Minneapolis,MN",44.99858,-93.307877,5,Near North,Willard - Hay,1,1,01/29/2019,03:55,Quincy
+"4643 LYNDALE AVE N ,Minneapolis,MN",45.039916999999996,-93.287774,4,Camden,Lind - Bohanon,1,1,01/29/2019,03:56,Quincy
+"2100 9TH ST S,Minneapolis,MN",44.964017999999996,-93.242491,6,Longfellow,Seward,4,1,01/29/2019,03:57,Quincy
+"3499 3rd AVE south,Minneapolis,MN",44.939584,-93.272772,9,Powderhorn,Central,5,1,01/29/2019,04:01,Quincy
+"00 BLOCK 19TH ST E,Minneapolis,MN",44.963704,-93.257473,6,Phillips,Ventura Village,3,1,01/29/2019,04:02,Quincy
+"2600 block of Blaisdell av,Minneapolis,MN",44.955521000000005,-93.279634,10,Powderhorn,Whittier,3,1,01/29/2019,04:06,Quincy
+"00 19th st e,Minneapolis,MN",44.96405,-93.272827,6,Central,Steven's Square - Loring Heights,3,1,01/29/2019,04:06,Quincy
+"3229 Penn Ave n,Minneapolis,MN",45.014171999999995,-93.308611,4,Camden,Cleveland,1,1,01/29/2019,04:07,Quincy
+"3400 3 Ave St,Minneapolis,MN",44.941188000000004,-93.27311800000001,9,Powderhorn,Central,5,1,01/29/2019,04:07,Quincy
+"2500 9th st s,Minneapolis,MN",44.964186,-93.235391,6,Longfellow,Seward,4,1,01/29/2019,04:08,Quincy
+"2117 penn Ave n,Minneapolis,MN",45.001151,-93.308494,5,Near North,Willard - Hay,1,1,01/29/2019,04:09,Quincy
+"2500 block of blaisdell Ave ,Minneapolis,MN",44.957001,-93.280076,10,Powderhorn,Whittier,3,1,01/29/2019,04:09,Quincy
+"3213 Penn Ave n ,Minneapolis,MN",45.013594,-93.308614,4,Camden,Cleveland,1,1,01/29/2019,04:14,Quincy
+"3229 PENN AVE N,Minneapolis,MN",45.014171999999995,-93.308611,4,Camden,Cleveland,1,1,01/29/2019,04:22,Quincy
+"3010 Minnehaha Avenue South,Minneapolis,MN",44.947885,-93.234477,9,Longfellow,Longfellow,6,1,01/29/2019,04:23,Quincy
+"00 BLOCK 19TH ST E,Minneapolis,MN",44.963704,-93.257473,6,Phillips,Ventura Village,3,1,01/29/2019,04:28,Quincy
+"3328 Minnehaha Avenue South,Minneapolis,MN",44.942029,-93.23004399999999,9,Longfellow,Longfellow,6,1,01/29/2019,04:29,Quincy
+"00 19th st e,Minneapolis,MN",44.96405,-93.272827,6,Central,Steven's Square - Loring Heights,3,1,01/29/2019,04:30,Quincy
+"2700 BLAISDELL AVE S,Minneapolis,MN",44.953632,-93.280025,10,Powderhorn,Whittier,3,1,01/29/2019,04:32,Quincy
+"2700 BLAISDELL AVE S,Minneapolis,MN",44.953632,-93.280025,10,Powderhorn,Whittier,3,1,01/29/2019,04:33,Quincy
+"1556 PENN AVE N ,Minneapolis,MN",44.995127000000004,-93.30821800000001,5,Near North,Willard - Hay,1,1,01/29/2019,04:45,Quincy
+"2150 9TH ST S,Minneapolis,MN",44.964017,-93.241694,6,Longfellow,Seward,4,1,01/29/2019,04:46,Quincy
+"4900 PENN AVE N ,Minneapolis,MN",45.04407,-93.308965,4,Camden,Shingle Creek,1,1,01/29/2019,04:48,Quincy
+"3229 PENN AVE N ,Minneapolis,MN",45.014171999999995,-93.308611,4,Camden,Cleveland,1,1,01/29/2019,04:48,Quincy
+"3010 MINNEHAHA AVE S,Minneapolis,MN",44.947885,-93.234477,9,Longfellow,Longfellow,6,1,01/29/2019,04:50,Quincy
+"00 BLOCK 19TH ST E,Minneapolis,MN",44.963704,-93.257473,6,Phillips,Ventura Village,3,1,01/29/2019,04:50,Quincy
+"3441 MINNEHAHA AVE S,Minneapolis,MN",44.940335,-93.22784200000001,12,Longfellow,Howe,6,1,01/29/2019,04:56,Quincy
+"2211 PENN AVE N ,Minneapolis,MN",45.001909000000005,-93.308441,5,Near North,Willard - Hay,1,1,01/29/2019,04:59,Quincy
+"2420 3rd st n,Minneapolis,MN",44.994181,-93.281878,5,Near North,Near - North,1,2,01/29/2019,08:20,Quincy
+"2410 3rd ave n ,Minneapolis,MN",45.012567,-93.264979,3,Northeast,Bottineau,2,2,01/29/2019,08:23,Quincy
+"500 lyn park cir n ,Minneapolis,MN",44.997076,-93.286424,5,Near North,Near - North,1,2,01/29/2019,08:29,Quincy
+"502 LYN PARK CIR,Minneapolis,MN",44.99712,-93.286587,5,Near North,Near - North,1,2,01/29/2019,08:37,Quincy
+"124 14TH ST W,Minneapolis,MN",44.968798,-93.28066899999999,7,Central,Loring Park,3,2,01/29/2019,08:38,Quincy
+"3701 S 4TH AVE ,Minneapolis,MN",44.935815000000005,-93.269856,8,Powderhorn,Central,5,2,01/29/2019,08:39,Quincy
+"1032 Aldrich ave n ,Minneapolis,MN",44.988359,-93.290778,5,Near North,Sumner - Glenwood,1,2,01/29/2019,08:41,Quincy
+"3002 knox Avenue s,Minneapolis,MN",44.948259,-93.304899,10,Calhoun Isle,ECCO,5,2,01/29/2019,08:41,Quincy
+"3040 james ave s,Minneapolis,MN",44.946940000000005,-93.303703,10,Calhoun Isle,ECCO,5,2,01/29/2019,08:44,Quincy
+"1030 aldrich ave n,Minneapolis,MN",44.988347999999995,-93.290777,5,Near North,Sumner - Glenwood,1,2,01/29/2019,08:48,Quincy
+"408 2nd Ave SE,Minneapolis,MN",44.983413,-93.250399,3,University,Marcy Holmes,4,2,01/29/2019,08:50,Quincy
+"1712 lyn park ave n,Minneapolis,MN",44.996999,-93.285923,5,Near North,Near - North,1,2,01/29/2019,08:51,Quincy
+"1512 41st e ,Minneapolis,MN",44.928715000000004,-93.253529,8,Powderhorn,Bancroft,6,2,01/29/2019,08:52,Quincy
+"114 14TH ST W,Minneapolis,MN",44.968798,-93.280647,7,Central,Loring Park,3,2,01/29/2019,08:53,Quincy
+"406 2nd Ave SE,Minneapolis,MN",44.983428,-93.250437,3,University,Marcy Holmes,4,2,01/29/2019,08:55,Quincy
+"1040 ALDRICH AVE N,Minneapolis,MN",44.988402,-93.290779,5,Near North,Sumner - Glenwood,1,2,01/29/2019,08:56,Quincy
+"3012 Knox ave s,Minneapolis,MN",44.947834,-93.30494200000001,10,Calhoun Isle,ECCO,5,2,01/29/2019,08:57,Quincy
+"1208 main st SE,Minneapolis,MN",44.980975,-93.246438,3,University,Marcy Holmes,4,2,01/29/2019,08:59,Quincy
+"3108 N 3rd St ,Minneapolis,MN",45.012062,-93.283377,5,Near North,Hawthorne,1,2,01/29/2019,08:59,Quincy
+"1218 NE Main St ,Minneapolis,MN",45.0005,-93.267977,3,Northeast,Sheridan,2,2,01/29/2019,09:00,Quincy
+"3106 N 3rd St ,Minneapolis,MN",45.012038000000004,-93.283377,5,Near North,Hawthorne,1,2,01/29/2019,09:02,Quincy
+"120 14TH ST W,Minneapolis,MN",44.968938,-93.280491,7,Central,Loring Park,3,2,01/29/2019,09:04,Quincy
+"3616 15 ave s,Minneapolis,MN",44.937071,-93.253943,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,09:06,Quincy
+"100 14TH ST W,Minneapolis,MN",44.968798,-93.280617,7,Central,Loring Park,3,2,01/29/2019,09:07,Quincy
+"530 N BRYANT AVE ,Minneapolis,MN",44.983835,-93.290499,5,Near North,Sumner - Glenwood,3,2,01/29/2019,09:09,Quincy
+"1526 Spruce Pl,Minneapolis,MN",44.966904,-93.280556,7,Central,Loring Park,3,2,01/29/2019,09:09,Quincy
+"1408 grand st ne,Minneapolis,MN",45.001909000000005,-93.269938,3,Northeast,Sheridan,2,2,01/29/2019,09:11,Quincy
+"724 Aldrich ave n ,Minneapolis,MN",44.986064,-93.290012,5,Near North,Sumner - Glenwood,1,2,01/29/2019,09:11,Quincy
+"700 block 2nd st n ,Minneapolis,MN",44.988836,-93.27623299999999,3,Central,North Loop,1,2,01/29/2019,09:16,Quincy
+"3928 15th ave,Minneapolis,MN",44.931422999999995,-93.253904,8,Powderhorn,Bancroft,6,2,01/29/2019,09:16,Quincy
+"1202 main st ne,Minneapolis,MN",44.999876,-93.267975,3,Northeast,Sheridan,2,2,01/29/2019,09:16,Quincy
+"3016 James ave,Minneapolis,MN",44.947706,-93.303703,10,Calhoun Isle,ECCO,5,2,01/29/2019,09:18,Quincy
+"4016 14th ave,Minneapolis,MN",44.929964,-93.255239,8,Powderhorn,Bancroft,6,2,01/29/2019,09:19,Quincy
+"3516 15th Avenue South,Minneapolis,MN",44.938856,-93.253943,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,09:20,Quincy
+"3036 James ave s,Minneapolis,MN",44.947069,-93.30368299999999,10,Calhoun Isle,ECCO,5,2,01/29/2019,09:21,Quincy
+"3522 14th Avenue South,Minneapolis,MN",44.938702,-93.25520999999999,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,09:23,Quincy
+"3032 James ave s,Minneapolis,MN",44.947214,-93.30368299999999,10,Calhoun Isle,ECCO,5,2,01/29/2019,09:24,Quincy
+"1410 SPRUCE PLACE,Minneapolis,MN",44.968306,-93.281143,7,Central,Loring Park,3,2,01/29/2019,09:27,Quincy
+"1108 FREMONT AVE N,Minneapolis,MN",44.991984,-93.29565,5,Near North,Near - North,1,2,01/29/2019,09:28,Quincy
+"4200 Longfellow ave s,Minneapolis,MN",44.926783,-93.246341,12,Nokomis,Ericsson,6,2,01/29/2019,09:34,Quincy
+"2226 4th st n,Minneapolis,MN",45.002339,-93.284665,5,Near North,Hawthorne,1,2,01/29/2019,09:34,Quincy
+"724 bryant ave n ,Minneapolis,MN",44.991409999999995,-93.291051,5,Near North,Near - North,1,2,01/29/2019,09:35,Quincy
+"3210 15th ave s,Minneapolis,MN",44.944334999999995,-93.25412,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,09:35,Quincy
+"3102 james ave s,Minneapolis,MN",44.946377000000005,-93.303708,10,Calhoun Isle,ECCO,5,2,01/29/2019,09:36,Quincy
+"422 2nd ave se,Minneapolis,MN",44.987427000000004,-93.252525,3,University,Marcy Holmes,4,2,01/29/2019,09:37,Quincy
+"1042 aldrich ave n,Minneapolis,MN",44.988414,-93.290779,5,Near North,Sumner - Glenwood,1,2,01/29/2019,09:38,Quincy
+"1606 3rd st ne,Minneapolis,MN",45.004488,-93.264937,3,Northeast,Sheridan,2,2,01/29/2019,09:39,Quincy
+"3020 james ave s,Minneapolis,MN",44.947579,-93.30368299999999,10,Calhoun Isle,ECCO,5,2,01/29/2019,09:39,Quincy
+"428 2nd ave s e,Minneapolis,MN",44.987358,-93.252165,3,University,Marcy Holmes,4,2,01/29/2019,09:39,Quincy
+"3606 15th ave so,Minneapolis,MN",44.937411,-93.253963,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,09:41,Quincy
+"3128 3rd St,Minneapolis,MN",44.945667,-93.273196,9,Powderhorn,Central,5,2,01/29/2019,09:43,Quincy
+"3542 13th av s,Minneapolis,MN",44.937982,-93.256496,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,09:44,Quincy
+"220 4th ave ne,Minneapolis,MN",44.991817,-93.259989,3,Northeast,St. Anthony West,2,2,01/29/2019,09:44,Quincy
+"3118 3rd st ,Minneapolis,MN",45.012178000000006,-93.283376,5,Near North,Hawthorne,1,2,01/29/2019,09:45,Quincy
+"136 6th ave ne,Minneapolis,MN",44.993544,-93.262493,3,Northeast,St. Anthony West,2,2,01/29/2019,09:47,Quincy
+"Humboldt/ The Mall,Minneapolis,MN",44.949883,-93.300832,7,Calhoun Isle,East Isles,3,2,01/29/2019,09:48,Quincy
+"302 4th ave ne,Minneapolis,MN",44.992306,-93.25873299999999,3,Northeast,St. Anthony West,2,2,01/29/2019,09:49,Quincy
+"2116 4TH ST N,Minneapolis,MN",45.000443,-93.284941,5,Near North,Hawthorne,1,2,01/29/2019,09:49,Quincy
+"414 6th ave ne,Minneapolis,MN",44.994938,-93.258489,3,Northeast,St. Anthony West,2,2,01/29/2019,09:51,Quincy
+"3122 15 ave e,Minneapolis,MN",44.94585,-93.254021,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,09:51,Quincy
+"1310 SPTUCE PLACE,Minneapolis,MN",44.968506,-93.28114000000001,7,Central,Loring Park,3,2,01/29/2019,09:53,Quincy
+"306 4th ave ne,Minneapolis,MN",44.992329,-93.258668,3,Northeast,St. Anthony West,2,2,01/29/2019,09:57,Quincy
+"204 7th ave ne,Minneapolis,MN",44.995208,-93.26302,3,Northeast,St. Anthony West,2,2,01/29/2019,10:01,Quincy
+"322 4th st se,Minneapolis,MN",44.986103,-93.25047099999999,3,University,Marcy Holmes,4,2,01/29/2019,10:05,Quincy
+"2224 4TH ST N,Minneapolis,MN",44.981790999999994,-93.309473,5,Near North,Harrison,3,2,01/29/2019,10:06,Quincy
+"1906 Colfax Ave s ,Minneapolis,MN",44.964108,-93.292151,7,Calhoun Isle,Lowry Hill,3,2,01/29/2019,10:07,Quincy
+"324 4 ave se ,Minneapolis,MN",44.985614,-93.249992,3,University,Marcy Holmes,4,2,01/29/2019,10:08,Quincy
+"404 4th ave se,Minneapolis,MN",44.986532000000004,-93.249062,3,University,Marcy Holmes,4,2,01/29/2019,10:09,Quincy
+"612 3rd ave se,Minneapolis,MN",44.989089,-93.249358,3,University,Marcy Holmes,4,2,01/29/2019,10:10,Quincy
+"THE MALL @ HUMBOLDT AVE S,Minneapolis,MN",44.949883,-93.300832,7,Calhoun Isle,East Isles,3,2,01/29/2019,10:10,Quincy
+"THE MALL @ HUMBOLDT AVE S,Minneapolis,MN",44.949883,-93.300832,7,Calhoun Isle,East Isles,3,2,01/29/2019,10:16,Quincy
+"3028 James ave s,Minneapolis,MN",44.947303999999995,-93.303742,10,Calhoun Isle,ECCO,5,2,01/29/2019,10:16,Quincy
+"3118 15th ave s,Minneapolis,MN",44.945959,-93.254017,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,10:18,Quincy
+"3604 15th ave,Minneapolis,MN",44.937470000000005,-93.253982,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,10:18,Quincy
+"504 3rd ave se,Minneapolis,MN",44.987681,-93.25014300000001,3,University,Marcy Holmes,4,2,01/29/2019,10:20,Quincy
+"1024 Fremont ave n ,Minneapolis,MN",44.991984,-93.29565,5,Near North,Near - North,1,2,01/29/2019,10:20,Quincy
+"3534 12th ave,Minneapolis,MN",44.938382,-93.257793,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,10:20,Quincy
+"3142 James ave s,Minneapolis,MN",44.945161999999996,-93.303717,10,Calhoun Isle,ECCO,5,2,01/29/2019,10:21,Quincy
+"3146 15th ave s,Minneapolis,MN",44.945194,-93.254021,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,10:21,Quincy
+"2900 4th st n,Minneapolis,MN",45.009698,-93.28463,5,Near North,Hawthorne,1,2,01/29/2019,10:23,Quincy
+"3120 james ave s,Minneapolis,MN",44.945812,-93.303664,10,Calhoun Isle,ECCO,5,2,01/29/2019,10:23,Quincy
+"3928 13th Avenue South,Minneapolis,MN",44.931442,-93.256438,8,Powderhorn,Bancroft,6,2,01/29/2019,10:25,Quincy
+"3128 james ave s,Minneapolis,MN",44.945557,-93.303664,10,Calhoun Isle,ECCO,5,2,01/29/2019,10:25,Quincy
+"3750 12th Avenue South,Minneapolis,MN",44.934471,-93.257802,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,10:28,Quincy
+"3418 6TH ST N,Minneapolis,MN",45.017285,-93.286222,4,Camden,McKinley,1,2,01/29/2019,10:30,Quincy
+"3312 6th st n,Minneapolis,MN",45.015399,-93.28621,4,Camden,McKinley,1,2,01/29/2019,10:31,Quincy
+"2414 4th st n,Minneapolis,MN",45.00421,-93.28461300000001,5,Near North,Hawthorne,1,2,01/29/2019,10:33,Quincy
+"3100 15 avev s,Minneapolis,MN",44.946433,-93.254021,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,10:33,Quincy
+"3242 6th st n,Minneapolis,MN",45.014511999999996,-93.28622,4,Camden,McKinley,1,2,01/29/2019,10:34,Quincy
+"2706 4th st n,Minneapolis,MN",45.00745,-93.28463199999999,5,Near North,Hawthorne,1,2,01/29/2019,10:37,Quincy
+"2504 6th st n,Minneapolis,MN",45.004994,-93.286194,5,Near North,Hawthorne,1,2,01/29/2019,10:39,Quincy
+"622 4th ave se,Minneapolis,MN",44.988516,-93.247637,3,University,Marcy Holmes,4,2,01/29/2019,10:39,Quincy
+"304 5th ave se,Minneapolis,MN",44.984455,-93.248611,3,University,Marcy Holmes,4,2,01/29/2019,10:41,Quincy
+"400 5th ave se,Minneapolis,MN",44.985482,-93.248271,3,University,Marcy Holmes,4,2,01/29/2019,10:41,Quincy
+"Humboldt/ The Mall ,Minneapolis,MN",44.949883,-93.300832,7,Calhoun Isle,East Isles,3,2,01/29/2019,10:42,Quincy
+"606 5th ave se,Minneapolis,MN",44.987312,-93.24619100000001,3,University,Marcy Holmes,4,2,01/29/2019,10:42,Quincy
+"674 summer st ne,Minneapolis,MN",44.996735,-93.254087,3,Northeast,St. Anthony East,2,2,01/29/2019,10:42,Quincy
+"3540 11th ave so,Minneapolis,MN",44.938292,-93.25903000000001,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,10:44,Quincy
+"410 7th ave ne,Minneapolis,MN",44.996132,-93.259458,3,Northeast,St. Anthony West,2,2,01/29/2019,10:45,Quincy
+"692 summer st ne,Minneapolis,MN",44.996751,-93.25286899999999,3,Northeast,St. Anthony East,2,2,01/29/2019,10:46,Quincy
+"688 summer st ne,Minneapolis,MN",44.996748,-93.253149,3,Northeast,St. Anthony East,2,2,01/29/2019,10:47,Quincy
+"684 summer st ne,Minneapolis,MN",44.996751,-93.25352,3,Northeast,St. Anthony East,2,2,01/29/2019,10:50,Quincy
+"908 5th av n,Minneapolis,MN",44.98294,-93.291823,5,Near North,Sumner - Glenwood,3,2,01/29/2019,10:51,Quincy
+"The mall & Humboldt Ave s ,Minneapolis,MN",44.949883,-93.300832,7,Calhoun Isle,East Isles,3,2,01/29/2019,10:53,Quincy
+"3802 6TH ST N,Minneapolis,MN",45.024069,-93.28625,4,Camden,Webber - Camden,1,2,01/29/2019,10:53,Quincy
+"1826 Bryant ave n ,Minneapolis,MN",44.998332,-93.290782,5,Near North,Near - North,1,2,01/29/2019,10:54,Quincy
+"902 summer st ne,Minneapolis,MN",44.996916,-93.248581,3,Northeast,St. Anthony East,2,2,01/29/2019,10:54,Quincy
+"3010 15th ave s ,Minneapolis,MN",44.947963,-93.254021,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,10:57,Quincy
+"1906 Upton ave n ,Minneapolis,MN",44.999162,-93.314317,5,Near North,Willard - Hay,1,2,01/29/2019,10:58,Quincy
+"518 3rd ace se,Minneapolis,MN",44.98814,-93.24978399999999,3,University,Marcy Holmes,4,2,01/29/2019,11:03,Quincy
+"818 5TH AV N,Minneapolis,MN",44.982946000000005,-93.29032600000001,5,Near North,Sumner - Glenwood,3,2,01/29/2019,11:03,Quincy
+"626 5th ave se,Minneapolis,MN",44.987507,-93.246032,3,University,Marcy Holmes,4,2,01/29/2019,11:04,Quincy
+"3820 6th st n,Minneapolis,MN",45.024557,-93.286254,4,Camden,Webber - Camden,1,2,01/29/2019,11:04,Quincy
+"120 10th ave ne,Minneapolis,MN",44.997758000000005,-93.267227,3,Northeast,St. Anthony West,2,2,01/29/2019,11:04,Quincy
+"3120 6th st n,Minneapolis,MN",45.0122,-93.28643000000001,5,Near North,Hawthorne,1,2,01/29/2019,11:05,Quincy
+"3650 Longfellow ave s,Minneapolis,MN",44.936194,-93.246318,12,Powderhorn,Standish,6,2,01/29/2019,11:05,Quincy
+"528 5th ave se,Minneapolis,MN",44.987074,-93.24662099999999,3,University,Marcy Holmes,4,2,01/29/2019,11:07,Quincy
+"3122 6th st n ,Minneapolis,MN",45.012223,-93.286429,5,Near North,Hawthorne,1,2,01/29/2019,11:08,Quincy
+"1306 36th st e,Minneapolis,MN",44.93793,-93.255899,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,11:10,Quincy
+"524 3rd ave se ,Minneapolis,MN",44.988252,-93.249696,3,University,Marcy Holmes,4,2,01/29/2019,11:12,Quincy
+"1012 5TH AV N,Minneapolis,MN",44.982898,-93.292692,5,Near North,Sumner - Glenwood,3,2,01/29/2019,11:15,Quincy
+"3830 6 TH ST N,Minneapolis,MN",45.024853,-93.286281,4,Camden,Webber - Camden,1,2,01/29/2019,11:19,Quincy
+"Irving/ The Mall,Minneapolis,MN",44.950096,-93.30209,7,Calhoun Isle,East Isles,3,2,01/29/2019,11:25,Quincy
+"THE MALL @ HUMBOLDT AVE S,Minneapolis,MN",44.949883,-93.300832,7,Calhoun Isle,East Isles,3,2,01/29/2019,11:27,Quincy
+"1602 34 st e,Minneapolis,MN",44.941328999999996,-93.302886,10,Calhoun Isle,ECCO,5,2,01/29/2019,11:27,Quincy
+"730 Vincent ave n ,Minneapolis,MN",44.985988,-93.315608,5,Near North,Willard - Hay,1,2,01/29/2019,11:28,Quincy
+"3720 11th Avenue South,Minneapolis,MN",44.935286,-93.259011,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,11:28,Quincy
+"304 clifton ave,Minneapolis,MN",44.96632,-93.28345,7,Central,Loring Park,3,2,01/29/2019,11:30,Quincy
+"1773 THE MALL,Minneapolis,MN",44.950025,-93.30458,7,Calhoun Isle,East Isles,3,2,01/29/2019,11:30,Quincy
+"126 9th ave ne,Minneapolis,MN",44.996145,-93.266588,3,Northeast,St. Anthony West,2,2,01/29/2019,11:31,Quincy
+"3724 6th st n,Minneapolis,MN",45.023012,-93.286227,4,Camden,McKinley,1,2,01/29/2019,11:31,Quincy
+"826 40th Street East,Minneapolis,MN",44.930841,-93.262158,8,Powderhorn,Bancroft,6,2,01/29/2019,11:31,Quincy
+"2350 Upton ave n ,Minneapolis,MN",45.003890999999996,-93.314323,5,Near North,Willard - Hay,1,2,01/29/2019,11:33,Quincy
+"604 4th ave se,Minneapolis,MN",44.988219,-93.247958,3,University,Marcy Holmes,4,2,01/29/2019,11:36,Quincy
+"1528 37th st e,Minneapolis,MN",44.935934,-93.252359,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,11:37,Quincy
+"3316 humboldt ave s,Minneapolis,MN",44.942569,-93.301147,10,Calhoun Isle,ECCO,5,2,01/29/2019,11:38,Quincy
+"1316 adams st ne,Minneapolis,MN",45.001501,-93.256571,1,Northeast,Logan Park,2,2,01/29/2019,11:39,Quincy
+"3526 6th st n,Minneapolis,MN",45.019290999999996,-93.28621600000001,4,Camden,McKinley,1,2,01/29/2019,11:40,Quincy
+"308 Clifton Ave ,Minneapolis,MN",44.966042,-93.28371800000001,7,Central,Loring Park,3,2,01/29/2019,11:41,Quincy
+"1818 4TH AV N,Minneapolis,MN",44.981759999999994,-93.30421700000001,5,Near North,Harrison,3,2,01/29/2019,11:41,Quincy
+"3208 Elliott ave,Minneapolis,MN",44.944393,-93.26168299999999,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,11:42,Quincy
+"1218 Adams st ne,Minneapolis,MN",45.000275,-93.256568,1,Northeast,Logan Park,2,2,01/29/2019,11:44,Quincy
+"1502 33rd st w,Minneapolis,MN",44.943304,-93.300973,10,Calhoun Isle,ECCO,5,2,01/29/2019,11:45,Quincy
+"1728 adams st ne,Minneapolis,MN",45.005662,-93.25627800000001,1,Northeast,Logan Park,2,2,01/29/2019,11:45,Quincy
+"602 3RD AVE SE,Minneapolis,MN",44.988718,-93.24965999999999,3,University,Marcy Holmes,4,2,01/29/2019,11:46,Quincy
+"3306 humboldt ave s,Minneapolis,MN",44.942840000000004,-93.301245,10,Calhoun Isle,ECCO,5,2,01/29/2019,11:46,Quincy
+"314 CLIFTON AVE,Minneapolis,MN",44.966434,-93.283998,7,Central,Loring Park,3,2,01/29/2019,11:46,Quincy
+"422 6th ave se,Minneapolis,MN",44.985332,-93.246557,3,University,Marcy Holmes,4,2,01/29/2019,11:46,Quincy
+"600 5th ave se,Minneapolis,MN",44.987453,-93.246725,3,University,Marcy Holmes,4,2,01/29/2019,11:47,Quincy
+"3124 humboldt ave s,Minneapolis,MN",44.945667,-93.301108,10,Calhoun Isle,ECCO,5,2,01/29/2019,11:48,Quincy
+"604 3RD AVE SE,Minneapolis,MN",44.988793,-93.2496,3,University,Marcy Holmes,4,2,01/29/2019,11:50,Quincy
+"1506 37th st,Minneapolis,MN",44.936097,-93.253273,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,11:50,Quincy
+"3440 11th ave s,Minneapolis,MN",44.940205,-93.25905,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,11:54,Quincy
+"828 40th st,Minneapolis,MN",44.930841,-93.26213299999999,8,Powderhorn,Bancroft,6,2,01/29/2019,11:57,Quincy
+"3602 6th st n,Minneapolis,MN",45.020403,-93.28624,4,Camden,McKinley,1,2,01/29/2019,11:58,Quincy
+"812 40th st,Minneapolis,MN",44.930553,-93.262338,8,Powderhorn,Bancroft,6,2,01/29/2019,11:59,Quincy
+"3320 ALDRICH AVE N,Minneapolis,MN",45.015671000000005,-93.289035,4,Camden,McKinley,1,2,01/29/2019,11:59,Quincy
+"2500 2ND ST N ,Minneapolis,MN",45.00496,-93.27964300000001,5,Near North,Hawthorne,1,1,01/29/2019,00:00,Quincy
+"1714 adams st ne,Minneapolis,MN",45.005461,-93.256282,1,Northeast,Logan Park,2,2,01/29/2019,12:01,Quincy
+"2814 Aldrich Ave n,Minneapolis,MN",45.009034,-93.289029,5,Near North,Hawthorne,1,2,01/29/2019,12:02,Quincy
+"2108 3RD AVE N,Minneapolis,MN",44.961344,-93.273138,10,Powderhorn,Whittier,3,2,01/29/2019,12:03,Quincy
+"1724 adams st ne,Minneapolis,MN",45.005604,-93.25628,1,Northeast,Logan Park,2,2,01/29/2019,12:04,Quincy
+"2500 2ND ST N ,Minneapolis,MN",45.00496,-93.27964300000001,5,Near North,Hawthorne,1,1,01/29/2019,00:07,Quincy
+"2834 DUPONT AVE S,Minneapolis,MN",44.950484,-93.293201,10,Calhoun Isle,Lowry Hill East,3,1,01/29/2019,00:08,Quincy
+"2834 Emerson Ave S,Minneapolis,MN",44.951,-93.294739,10,Calhoun Isle,Lowry Hill East,3,1,01/29/2019,00:08,Quincy
+"414 6th ave se,Minneapolis,MN",44.984746,-93.244828,3,University,Marcy Holmes,4,2,01/29/2019,12:08,Quincy
+"1704 Thomas ave n ,Minneapolis,MN",44.997219,-93.313024,5,Near North,Willard - Hay,1,2,01/29/2019,12:08,Quincy
+"3200 3RD AVE S,Minneapolis,MN",44.944833,-93.273078,9,Powderhorn,Central,5,1,01/29/2019,00:09,Quincy
+"3900 aldrich ave n,Minneapolis,MN",45.025887,-93.289029,4,Camden,Webber - Camden,1,2,01/29/2019,12:09,Quincy
+"2836 dupont ave s,Minneapolis,MN",44.950687,-93.293661,10,Calhoun Isle,Lowry Hill East,3,1,01/29/2019,00:12,Quincy
+"3200 blk 3rd ave s,Minneapolis,MN",44.944833,-93.273078,9,Powderhorn,Central,5,1,01/29/2019,00:12,Quincy
+"1706 thomas ave n ,Minneapolis,MN",44.997256,-93.313001,5,Near North,Willard - Hay,1,2,01/29/2019,12:13,Quincy
+"2804 EMERSON AVE S,Minneapolis,MN",44.951577,-93.294725,10,Calhoun Isle,Lowry Hill East,3,1,01/29/2019,00:14,Quincy
+"1808 stevens s,Minneapolis,MN",44.96485,-93.27569,6,Central,Steven's Square - Loring Heights,3,2,01/29/2019,12:15,Quincy
+"2300 2ND ST N ,Minneapolis,MN",45.003058,-93.27931600000001,5,Near North,Hawthorne,1,1,01/29/2019,00:16,Quincy
+"1512 37 ave e,Minneapolis,MN",44.936078,-93.252961,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,12:16,Quincy
+"800 block of university Ave se ,Minneapolis,MN",44.982494,-93.244804,3,University,Marcy Holmes,4,1,01/29/2019,00:17,Quincy
+"422 7th ave se,Minneapolis,MN",44.984734,-93.24480600000001,3,University,Marcy Holmes,4,2,01/29/2019,12:17,Quincy
+"1802 STEVENS AVE S ,Minneapolis,MN",44.965005,-93.27563599999999,6,Central,Steven's Square - Loring Heights,3,2,01/29/2019,12:18,Quincy
+"8TH & UNIVERSITY AVE SE,Minneapolis,MN",44.982864,-93.243995,3,University,Marcy Holmes,4,1,01/29/2019,00:19,Quincy
+"2400 2ND ST N ,Minneapolis,MN",45.00393,-93.279416,5,Near North,Hawthorne,1,1,01/29/2019,00:19,Quincy
+"1820 Stevens ave s ,Minneapolis,MN",44.964487,-93.275648,6,Central,Steven's Square - Loring Heights,3,2,01/29/2019,12:19,Quincy
+"700 BLOCK OF UNIVERSITY AVE SE,Minneapolis,MN",44.98304,-93.246128,3,University,Marcy Holmes,4,1,01/29/2019,00:20,Quincy
+"2806 Aldrich Ave n ,Minneapolis,MN",45.008813,-93.289082,5,Near North,Hawthorne,1,2,01/29/2019,12:20,Quincy
+"2400 block 2nd st n ,Minneapolis,MN",45.00393,-93.279416,5,Near North,Hawthorne,1,1,01/29/2019,00:21,Quincy
+"800 4TH ST SE,Minneapolis,MN",44.983458,-93.24402099999999,3,University,Marcy Holmes,4,1,01/29/2019,00:21,Quincy
+"3103 4th ave,Minneapolis,MN",44.946443,-93.270012,9,Powderhorn,Central,5,1,01/29/2019,00:22,Quincy
+"4044 ALDRICH AVE N,Minneapolis,MN",45.028877,-93.289096,4,Camden,Webber - Camden,1,2,01/29/2019,12:22,Quincy
+"3406 BLOOMINGTON AVE S,Minneapolis,MN",44.941035,-93.252753,9,Powderhorn,Powderhorn Park,6,1,01/29/2019,00:23,Quincy
+"1628 6th st ne,Minneapolis,MN",45.004998,-93.259247,3,Northeast,Sheridan,2,2,01/29/2019,12:23,Quincy
+"716 5th ave se,Minneapolis,MN",44.988825,-93.245207,3,University,Marcy Holmes,4,2,01/29/2019,12:23,Quincy
+"2820 DUPONT AVE S,Minneapolis,MN",44.951192,-93.29379899999999,10,Calhoun Isle,Lowry Hill East,3,1,01/29/2019,00:25,Quincy
+"2500 2ND ST N ,Minneapolis,MN",45.00496,-93.27964300000001,5,Near North,Hawthorne,1,1,01/29/2019,00:25,Quincy
+"4013 BLOOMINGTON AVE S,Minneapolis,MN",44.929971,-93.25200799999999,8,Powderhorn,Bancroft,6,1,01/29/2019,00:25,Quincy
+"1716 5th st ne,Minneapolis,MN",45.005837,-93.260539,1,Northeast,Holland,2,2,01/29/2019,12:25,Quincy
+"700 BLOCK OF UNIVERSITY AVE SE,Minneapolis,MN",44.98304,-93.246128,3,University,Marcy Holmes,4,1,01/29/2019,00:26,Quincy
+"2500 block 2nd st n ,Minneapolis,MN",45.00496,-93.27964300000001,5,Near North,Hawthorne,1,1,01/29/2019,00:26,Quincy
+"1526 Madison st ne,Minneapolis,MN",45.003908,-93.254003,1,Northeast,Logan Park,2,2,01/29/2019,12:26,Quincy
+"1406 33rd st e,Minneapolis,MN",44.943101,-93.25466999999999,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,12:26,Quincy
+"1522 37th st e,Minneapolis,MN",44.936095,-93.252542,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,12:27,Quincy
+"3204 17th Avenue South,Minneapolis,MN",44.944465,-93.25017199999999,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,12:27,Quincy
+"630 15th St E,Minneapolis,MN",44.968325,-93.266258,7,Central,Elliot Park,3,1,01/29/2019,00:28,Quincy
+"2600 2ND ST N ,Minneapolis,MN",45.00627,-93.27951,5,Near North,Hawthorne,1,1,01/29/2019,00:29,Quincy
+"1916 2nd ave s,Minneapolis,MN",44.963381,-93.274331,6,Central,Steven's Square - Loring Heights,3,2,01/29/2019,12:30,Quincy
+"2700 2ND ST N ,Minneapolis,MN",45.007719,-93.279534,5,Near North,Hawthorne,1,1,01/29/2019,00:31,Quincy
+"1924 5th st ne,Minneapolis,MN",45.008277,-93.26035300000001,1,Northeast,Holland,2,2,01/29/2019,12:31,Quincy
+"3302 15th Avenue South,Minneapolis,MN",44.942747999999995,-93.254086,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,12:32,Quincy
+"4011 BLOOMINGTON AVE S,Minneapolis,MN",44.930054,-93.25203499999999,8,Powderhorn,Bancroft,6,1,01/29/2019,00:34,Quincy
+"3205 BLOOMINGTON AVE S,Minneapolis,MN",44.944409,-93.252136,9,Powderhorn,Powderhorn Park,6,1,01/29/2019,00:34,Quincy
+"5100 28TH AVE S,Minneapolis,MN",44.91063,-93.232537,11,Nokomis,Keewaydin,6,1,01/29/2019,00:36,Quincy
+"4009 BLOOMINGTON AVE S,Minneapolis,MN",44.930092,-93.252018,8,Powderhorn,Bancroft,6,1,01/29/2019,00:37,Quincy
+"3738 BLOOMINGTON AVE S,Minneapolis,MN",44.934484000000005,-93.252674,9,Powderhorn,Powderhorn Park,6,1,01/29/2019,00:39,Quincy
+"312 12th ave s,Minneapolis,MN",44.974616999999995,-93.252647,3,Central,Downtown East,3,2,01/29/2019,12:39,Quincy
+"2828 DUPONT AV S,Minneapolis,MN",44.950946,-93.29344499999999,10,Calhoun Isle,Lowry Hill East,3,1,01/29/2019,00:40,Quincy
+"3630 18th ave s,Minneapolis,MN",44.936794,-93.248914,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,12:40,Quincy
+"510 6th ave se,Minneapolis,MN",44.985531,-93.244242,3,University,Marcy Holmes,4,2,01/29/2019,12:41,Quincy
+"1536 32nd st,Minneapolis,MN",44.944913,-93.251723,9,Powderhorn,Powderhorn Park,6,2,01/29/2019,12:41,Quincy
+"1716 5th st ne,Minneapolis,MN",45.005837,-93.260539,1,Northeast,Holland,2,2,01/29/2019,12:42,Quincy
+"1512 Sheridan ave n ,Minneapolis,MN",44.994539,-93.311755,5,Near North,Willard - Hay,1,2,01/29/2019,12:42,Quincy
+"228 18th st e,Minneapolis,MN",44.965222,-93.273661,6,Central,Steven's Square - Loring Heights,3,2,01/29/2019,12:43,Quincy
+"514 7TH AVE SE,Minneapolis,MN",44.985756,-93.243945,3,University,Marcy Holmes,4,2,01/29/2019,12:43,Quincy
+"736 quincy st ne,Minneapolis,MN",44.998011,-93.251541,3,Northeast,St. Anthony East,2,2,01/29/2019,12:43,Quincy
+"1540 32nd st,Minneapolis,MN",44.944586,-93.301373,10,Calhoun Isle,ECCO,5,2,01/29/2019,12:43,Quincy
+"2824 DUPONT AVE S,Minneapolis,MN",44.95107,-93.293675,10,Calhoun Isle,Lowry Hill East,3,1,01/29/2019,00:45,Quincy
+"3331 23RD AVE S,Minneapolis,MN",44.941894,-93.238518,9,Powderhorn,Corcoran,6,1,01/29/2019,00:46,Quincy
+"2822 DUPONT AVE S,Minneapolis,MN",44.95113,-93.293674,10,Calhoun Isle,Lowry Hill East,3,1,01/29/2019,00:46,Quincy
+"1510 Sheridan ave n ,Minneapolis,MN",44.994483,-93.31181099999999,5,Near North,Willard - Hay,1,2,01/29/2019,12:46,Quincy
+"3505 Holmes ave s,Minneapolis,MN",44.939367,-93.299306,10,Calhoun Isle,ECCO,5,2,01/29/2019,12:46,Quincy
+"726 7th ave se,Minneapolis,MN",44.987778999999996,-93.242474,3,University,Marcy Holmes,4,2,01/29/2019,12:47,Quincy
+"700 2ND ST N ,Minneapolis,MN",44.988836,-93.27623299999999,3,Central,North Loop,1,1,01/29/2019,00:48,Quincy
+"704 7TH AVE SE,Minneapolis,MN",44.987386,-93.242784,3,University,Marcy Holmes,4,2,01/29/2019,12:49,Quincy
+"528 7th ave se,Minneapolis,MN",44.985913000000004,-93.243821,3,University,Marcy Holmes,4,2,01/29/2019,12:49,Quincy
+"148 18TH ST E,Minneapolis,MN",44.965403,-93.274723,6,Central,Steven's Square - Loring Heights,3,2,01/29/2019,12:50,Quincy
+"200 5TH AVE SE,Minneapolis,MN",44.983676,-93.249422,3,University,Marcy Holmes,4,1,01/29/2019,00:51,Quincy
+"200 5TH AVE SE,Minneapolis,MN",44.983676,-93.249422,3,University,Marcy Holmes,4,1,01/29/2019,00:51,Quincy
+"2400 2ND ST N ,Minneapolis,MN",45.00393,-93.279416,5,Near North,Hawthorne,1,1,01/29/2019,00:51,Quincy
+"418 5th ave se,Minneapolis,MN",44.985935,-93.24750300000001,3,University,Marcy Holmes,4,2,01/29/2019,12:51,Quincy
+"500 2ND ST N,Minneapolis,MN",44.987221999999996,-93.27335699999999,3,Central,North Loop,1,1,01/29/2019,00:53,Quincy
+"204 18th st e ,Minneapolis,MN",44.965224,-93.273965,6,Central,Steven's Square - Loring Heights,3,2,01/29/2019,12:53,Quincy
+"1918 Sheridan Ave n,Minneapolis,MN",44.99937,-93.311784,5,Near North,Willard - Hay,1,2,01/29/2019,12:53,Quincy
+"2202 Sheridan Ave n ,Minneapolis,MN",45.001705,-93.311738,5,Near North,Willard - Hay,1,2,01/29/2019,12:56,Quincy
+"738 quincy st ne,Minneapolis,MN",44.998036,-93.251449,3,Northeast,St. Anthony East,2,2,01/29/2019,12:56,Quincy
+"900 25TH ST NE,Minneapolis,MN",44.957478,-93.290932,10,Calhoun Isle,Lowry Hill East,3,1,01/29/2019,00:57,Quincy
+"2400 2ND ST N ,Minneapolis,MN",45.00393,-93.279416,5,Near North,Hawthorne,1,1,01/29/2019,00:58,Quincy

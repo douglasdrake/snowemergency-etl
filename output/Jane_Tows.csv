@@ -1,0 +1,1431 @@
+Location,Latitude,Longitude,Ward,Neighborhood,Community,Day,Tow_Zone,Date,Time,Emergency
+"2709 4th St se,Minneapolis,MN",44.973232,-93.217582,2,Prospect Park - East River Road,University,3,4,01/13/2017,14:10,Jane
+"2715 4thSST se,Minneapolis,MN",44.973393,-93.21695600000001,2,Prospect Park - East River Road,University,3,4,01/13/2017,14:13,Jane
+"2807 4th st se,Minneapolis,MN",44.97282,-93.216539,2,Prospect Park - East River Road,University,3,4,01/13/2017,14:14,Jane
+"2513 Delaware st se,Minneapolis,MN",44.972383,-93.22194499999999,2,Prospect Park - East River Road,University,3,4,01/13/2017,14:16,Jane
+"2601 Delaware st se,Minneapolis,MN",44.971919,-93.220766,2,Prospect Park - East River Road,University,3,4,01/13/2017,14:19,Jane
+"2805 4TH ST SE,Minneapolis,MN",44.972822,-93.216546,2,Prospect Park - East River Road,University,3,4,01/13/2017,14:32,Jane
+"2615 Delaware st se,Minneapolis,MN",44.971841,-93.220568,2,Prospect Park - East River Road,University,3,4,01/13/2017,14:36,Jane
+"4500 block of 4th Avenue South,Minneapolis,MN",44.921371,-93.270537,8,Regina,Nokomis,1,5,01/11/2017,22:51,Jane
+"4500 block of 3rd ave s,Minneapolis,MN",44.921353,-93.272817,8,Regina,Nokomis,1,5,01/11/2017,23:10,Jane
+"4500 4th ave S,Minneapolis,MN",44.921371,-93.270537,8,Regina,Nokomis,1,5,01/11/2017,23:12,Jane
+"2213 9th st s,Minneapolis,MN",44.963972,-93.240012,6,Seward,Longfellow,1,4,01/11/2017,22:07,Jane
+"2329 9TH ST S,Minneapolis,MN",44.963068,-93.237898,6,Seward,Longfellow,1,4,01/11/2017,22:23,Jane
+"2304 9th st s,Minneapolis,MN",44.963994,-93.238798,6,Seward,Longfellow,1,4,01/11/2017,23:55,Jane
+"2205 9TH ST S,Minneapolis,MN",44.963978000000004,-93.240521,6,Seward,Longfellow,2,4,01/12/2017,00:02,Jane
+"2325 9th st s,Minneapolis,MN",44.963965,-93.238028,6,Seward,Longfellow,2,4,01/12/2017,00:27,Jane
+"2216 9TH ST S,Minneapolis,MN",44.963998,-93.239685,6,Seward,Longfellow,2,4,01/12/2017,00:46,Jane
+"2128 9th street,Minneapolis,MN",44.964032,-93.24204499999999,6,Seward,Longfellow,2,4,01/12/2017,00:55,Jane
+"2525 9th st s,Minneapolis,MN",44.963974,-93.234949,6,Seward,Longfellow,2,4,01/12/2017,01:02,Jane
+"2218 27th Ave s,Minneapolis,MN",44.960384999999995,-93.233335,6,Seward,Longfellow,2,4,01/12/2017,01:06,Jane
+"2201 minnehaha ave,Minneapolis,MN",44.96082,-93.242778,6,Seward,Longfellow,2,4,01/12/2017,01:30,Jane
+"2122 Minnehaha Ave,Minneapolis,MN",44.962364,-93.24415,6,Seward,Longfellow,2,4,01/12/2017,01:31,Jane
+"2107 9th Street South,Minneapolis,MN",44.964005,-93.242239,6,Seward,Longfellow,2,4,01/12/2017,01:32,Jane
+"2205 minnehaha ave ,Minneapolis,MN",44.960715,-93.242976,6,Seward,Longfellow,2,4,01/12/2017,02:25,Jane
+"914 24th ave ne,Minneapolis,MN",44.963547999999996,-93.23787,6,Seward,Longfellow,2,4,01/12/2017,14:11,Jane
+"2018 22nd Ave s,Minneapolis,MN",44.962588000000004,-93.24095200000001,6,Seward,Longfellow,2,4,01/12/2017,14:21,Jane
+"2106 22nd Ave s,Minneapolis,MN",44.961626,-93.24094699999999,6,Seward,Longfellow,2,4,01/12/2017,14:23,Jane
+"904 25th Ave s,Minneapolis,MN",44.962847,-93.234592,6,Seward,Longfellow,2,4,01/12/2017,15:21,Jane
+"902 25th Ave s,Minneapolis,MN",44.962849,-93.234592,6,Seward,Longfellow,2,4,01/12/2017,15:23,Jane
+"353 13th Ave Ne,Minneapolis,MN",45.00092,-93.261985,3,Sheridan,Northeast,1,2,01/11/2017,22:34,Jane
+"342 13th ave ne,Minneapolis,MN",45.00063,-93.26253,3,Sheridan,Northeast,1,2,01/11/2017,22:37,Jane
+"344 13th ave ne,Minneapolis,MN",45.000893,-93.262157,3,Sheridan,Northeast,1,2,01/11/2017,22:42,Jane
+"338 13th ave ne,Minneapolis,MN",45.000892,-93.262626,3,Sheridan,Northeast,1,2,01/11/2017,22:52,Jane
+"205 13th ave ne ,Minneapolis,MN",45.000924,-93.26598,3,Sheridan,Northeast,1,2,01/11/2017,22:54,Jane
+"340 13th ave ne,Minneapolis,MN",45.000892,-93.2626,3,Sheridan,Northeast,1,2,01/11/2017,22:56,Jane
+"339 13th ave ne,Minneapolis,MN",45.001123,-93.26257,3,Sheridan,Northeast,1,2,01/11/2017,22:58,Jane
+"118 13th ave ne,Minneapolis,MN",45.000337,-93.269272,3,Sheridan,Northeast,1,2,01/11/2017,23:36,Jane
+"120 13th ave ne,Minneapolis,MN",45.00028,-93.268821,3,Sheridan,Northeast,1,2,01/11/2017,23:49,Jane
+"116 13th ave ne,Minneapolis,MN",45.00031,-93.269351,3,Sheridan,Northeast,1,2,01/11/2017,23:54,Jane
+"1200 4th st ne,Minneapolis,MN",44.999817,-93.261588,3,Sheridan,Northeast,2,2,01/12/2017,01:27,Jane
+"1312 Grand St ne,Minneapolis,MN",45.000999,-93.26904300000001,3,Sheridan,Northeast,2,2,01/12/2017,09:56,Jane
+"1428 Grand st ne,Minneapolis,MN",45.002449,-93.27028,3,Sheridan,Northeast,2,2,01/12/2017,10:21,Jane
+"1400 5th st ne,Minneapolis,MN",45.002039,-93.260548,3,Sheridan,Northeast,2,2,01/12/2017,10:41,Jane
+"1408 Grand st,Minneapolis,MN",45.001909000000005,-93.269938,3,Sheridan,Northeast,2,2,01/12/2017,10:59,Jane
+"1110 6th st ne,Minneapolis,MN",44.999108,-93.259198,3,Sheridan,Northeast,2,2,01/12/2017,11:01,Jane
+"1311 Main st ne,Minneapolis,MN",45.001031,-93.26765400000001,3,Sheridan,Northeast,3,2,01/13/2017,09:25,Jane
+"1207 Main St ne,Minneapolis,MN",45.000231,-93.267397,3,Sheridan,Northeast,3,2,01/13/2017,09:33,Jane
+"1115 Main st ne,Minneapolis,MN",44.999338,-93.267353,3,Sheridan,Northeast,3,2,01/13/2017,09:50,Jane
+"1119 Main st ne,Minneapolis,MN",44.999448,-93.26736,3,Sheridan,Northeast,3,2,01/13/2017,09:52,Jane
+"1509 Main St ne,Minneapolis,MN",45.003409000000005,-93.26766500000001,3,Sheridan,Northeast,3,2,01/13/2017,09:57,Jane
+"1625 6th st ave,Minneapolis,MN",45.00493,-93.25888,3,Sheridan,Northeast,3,2,01/13/2017,10:07,Jane
+"1615 6th st ne,Minneapolis,MN",45.004652,-93.258593,3,Sheridan,Northeast,3,2,01/13/2017,10:17,Jane
+"1411 5th st ne,Minneapolis,MN",45.002277,-93.259966,3,Sheridan,Northeast,3,2,01/13/2017,10:19,Jane
+"221 12th ave ne,Minneapolis,MN",45.00005,-93.26513299999999,3,Sheridan,Northeast,3,2,01/13/2017,10:57,Jane
+"345 15th ave ,Minneapolis,MN",45.003233,-93.26240899999999,3,Sheridan,Northeast,3,2,01/13/2017,11:45,Jane
+"1417 6th st e,Minneapolis,MN",45.002484,-93.258499,3,Sheridan,Northeast,3,2,01/13/2017,11:45,Jane
+"315 15th ave ne,Minneapolis,MN",45.003059,-93.263858,3,Sheridan,Northeast,3,2,01/13/2017,11:46,Jane
+"161 15th ave ne,Minneapolis,MN",45.003288,-93.26695,3,Sheridan,Northeast,3,2,01/13/2017,11:53,Jane
+"1421 5th st ne,Minneapolis,MN",45.002604999999996,-93.260009,3,Sheridan,Northeast,3,2,01/13/2017,12:41,Jane
+"800 3rd ave ne,Minneapolis,MN",44.993601,-93.25159000000001,3,St. Anthony East,Northeast,2,2,01/12/2017,09:17,Jane
+"804 3rd ave ne,Minneapolis,MN",44.993601,-93.25159000000001,3,St. Anthony East,Northeast,2,2,01/12/2017,09:18,Jane
+"252 6th st ne,Minneapolis,MN",44.992153,-93.254099,3,St. Anthony East,Northeast,2,2,01/12/2017,09:38,Jane
+"254 6th st ne,Minneapolis,MN",44.992021,-93.254535,3,St. Anthony East,Northeast,2,2,01/12/2017,10:02,Jane
+"808 Summer st ne,Minneapolis,MN",44.996924,-93.25080600000001,3,St. Anthony East,Northeast,2,2,01/12/2017,10:17,Jane
+"702 Summer St ne,Minneapolis,MN",44.996918,-93.25241,3,St. Anthony East,Northeast,2,2,01/12/2017,10:19,Jane
+"688 Summer st ne,Minneapolis,MN",44.996751,-93.253155,3,St. Anthony East,Northeast,2,2,01/12/2017,10:22,Jane
+"240 6th st ne,Minneapolis,MN",44.99196,-93.254075,3,St. Anthony East,Northeast,2,2,01/12/2017,11:15,Jane
+"250 5th st ne,Minneapolis,MN",44.99181,-93.25546700000001,3,St. Anthony East,Northeast,2,2,01/12/2017,11:54,Jane
+"248 5th st ne,Minneapolis,MN",44.991801,-93.255461,3,St. Anthony East,Northeast,2,2,01/12/2017,12:21,Jane
+"724 Adams st ne,Minneapolis,MN",44.997690000000006,-93.256514,3,St. Anthony East,Northeast,2,2,01/12/2017,12:38,Jane
+"649 Summer st ne,Minneapolis,MN",44.997062,-93.255707,3,St. Anthony East,Northeast,3,2,01/13/2017,08:50,Jane
+"691 Summer st ne,Minneapolis,MN",44.996891,-93.25301400000001,3,St. Anthony East,Northeast,3,2,01/13/2017,08:58,Jane
+"705 Summer st ne,Minneapolis,MN",44.996891999999995,-93.25238399999999,3,St. Anthony East,Northeast,3,2,01/13/2017,09:15,Jane
+"843 Summer st ne,Minneapolis,MN",44.997079,-93.248975,3,St. Anthony East,Northeast,3,2,01/13/2017,09:24,Jane
+"215 5th st ne,Minneapolis,MN",44.991583,-93.25484399999999,3,St. Anthony East,Northeast,3,2,01/13/2017,10:29,Jane
+"627 Quincy st ne,Minneapolis,MN",44.995886999999996,-93.25088000000001,3,St. Anthony East,Northeast,3,2,01/13/2017,11:08,Jane
+"625 Quincy st ne,Minneapolis,MN",44.995846,-93.251143,3,St. Anthony East,Northeast,3,2,01/13/2017,11:19,Jane
+"841 Spring st ne,Minneapolis,MN",44.995236,-93.248885,3,St. Anthony East,Northeast,3,2,01/13/2017,11:20,Jane
+"811 Spring st ne,Minneapolis,MN",44.995105,-93.250399,3,St. Anthony East,Northeast,3,2,01/13/2017,11:22,Jane
+"613 Jackson st ne,Minneapolis,MN",44.995557,-93.249578,3,St. Anthony East,Northeast,3,2,01/13/2017,11:26,Jane
+"635 washington st ne,Minneapolis,MN",44.996107,-93.257232,3,St. Anthony East,Northeast,3,2,01/13/2017,11:41,Jane
+"813 Spring st ne,Minneapolis,MN",44.995105,-93.250312,3,St. Anthony East,Northeast,3,2,01/13/2017,11:50,Jane
+"614 2nd st n,Minneapolis,MN",44.99476,-93.263601,3,St. Anthony West,Northeast,1,2,01/11/2017,22:12,Jane
+"714 5th st n,Minneapolis,MN",44.997116999999996,-93.25936899999999,3,St. Anthony West,Northeast,2,2,01/12/2017,00:58,Jane
+"500 MAIN ST SE,Minneapolis,MN",44.992641,-93.263547,3,St. Anthony West,Northeast,2,2,01/12/2017,01:06,Jane
+"200 2nd st ne,Minneapolis,MN",44.989684999999994,-93.259628,3,St. Anthony West,Northeast,2,2,01/12/2017,01:28,Jane
+"600 MAIN ST NE,Minneapolis,MN",44.993453,-93.264013,3,St. Anthony West,Northeast,2,2,01/12/2017,01:34,Jane
+"102 3rd AVE ne,Minneapolis,MN",44.989897,-93.260707,3,St. Anthony West,Northeast,2,2,01/12/2017,09:11,Jane
+"104 3rd Ave ne,Minneapolis,MN",44.989919,-93.260634,3,St. Anthony West,Northeast,2,2,01/12/2017,09:12,Jane
+"420 4th ave ne,Minneapolis,MN",44.992979,-93.256763,3,St. Anthony West,Northeast,2,2,01/12/2017,09:27,Jane
+"116 7th ave ne,Minneapolis,MN",44.994478,-93.26519,3,St. Anthony West,Northeast,2,2,01/12/2017,10:00,Jane
+"314 5th ave ne,Minneapolis,MN",44.993656,-93.259381,3,St. Anthony West,Northeast,2,2,01/12/2017,10:14,Jane
+"318 7th ave ne,Minneapolis,MN",44.99575,-93.260638,3,St. Anthony West,Northeast,2,2,01/12/2017,10:16,Jane
+"314 7th ave ne,Minneapolis,MN",44.995765000000006,-93.260812,3,St. Anthony West,Northeast,2,2,01/12/2017,10:42,Jane
+"806 5th st ne,Minneapolis,MN",44.997811,-93.259901,3,St. Anthony West,Northeast,2,2,01/12/2017,11:01,Jane
+"304 9th ave ne,Minneapolis,MN",44.997662,-93.262477,3,St. Anthony West,Northeast,2,2,01/12/2017,11:23,Jane
+"210 5th st ne,Minneapolis,MN",44.991295,-93.25571,3,St. Anthony West,Northeast,2,2,01/12/2017,11:53,Jane
+"214 5th st ne,Minneapolis,MN",44.991295,-93.25571,3,St. Anthony West,Northeast,2,2,01/12/2017,12:03,Jane
+"216 5th st ne,Minneapolis,MN",44.991295,-93.25571,3,St. Anthony West,Northeast,2,2,01/12/2017,12:14,Jane
+"223 4th ave ne,Minneapolis,MN",44.992295,-93.260038,3,St. Anthony West,Northeast,3,2,01/13/2017,08:44,Jane
+"307 6th ave ne,Minneapolis,MN",44.994679999999995,-93.26051600000001,3,St. Anthony West,Northeast,3,2,01/13/2017,08:59,Jane
+"207 9th ave ne,Minneapolis,MN",44.99727,-93.264042,3,St. Anthony West,Northeast,3,2,01/13/2017,10:16,Jane
+"307 9th ave ne,Minneapolis,MN",44.997834000000005,-93.262451,3,St. Anthony West,Northeast,3,2,01/13/2017,10:26,Jane
+"145 10th ave ne,Minneapolis,MN",44.997746,-93.266199,3,St. Anthony West,Northeast,3,2,01/13/2017,10:32,Jane
+"123 9th ave ne,Minneapolis,MN",44.996533,-93.266287,3,St. Anthony West,Northeast,3,2,01/13/2017,10:33,Jane
+"113 9th ave ne,Minneapolis,MN",44.996389,-93.266705,3,St. Anthony West,Northeast,3,2,01/13/2017,10:59,Jane
+"707 9th ave n,Minneapolis,MN",44.998551,-93.260243,3,St. Anthony West,Northeast,3,2,01/13/2017,13:42,Jane
+"1905 38th st e,Minneapolis,MN",44.933871999999994,-93.244361,12,Standish,Powderhorn,2,6,01/12/2017,03:56,Jane
+"1832 41st st e,Minneapolis,MN",44.928748999999996,-93.246712,12,Standish,Powderhorn,2,6,01/12/2017,09:16,Jane
+"3600 Longfellow ave so,Minneapolis,MN",44.937591999999995,-93.24609699999999,12,Standish,Powderhorn,2,6,01/12/2017,10:37,Jane
+"3622 20th Ave S ,Minneapolis,MN",44.937001,-93.243577,12,Standish,Powderhorn,2,6,01/12/2017,11:25,Jane
+"3904 24TH AVE S,Minneapolis,MN",44.932077,-93.237574,12,Standish,Powderhorn,2,6,01/12/2017,13:07,Jane
+"3816 24th Ave S,Minneapolis,MN",44.933555,-93.23752900000001,12,Standish,Powderhorn,2,6,01/12/2017,13:13,Jane
+"3744 24TH AVE S,Minneapolis,MN",44.934569,-93.23722,12,Standish,Powderhorn,2,6,01/12/2017,13:55,Jane
+"3920 24th Ave. S. ,Minneapolis,MN",44.931639000000004,-93.237575,12,Standish,Powderhorn,2,6,01/12/2017,14:54,Jane
+"4104 23rd Ave S,Minneapolis,MN",44.928481,-93.238824,12,Standish,Powderhorn,2,6,01/12/2017,15:26,Jane
+"3744 21st ave so,Minneapolis,MN",44.934488,-93.242648,12,Standish,Powderhorn,2,6,01/12/2017,15:41,Jane
+"3103 41st st e,Minneapolis,MN",44.928686,-93.227028,12,Standish,Powderhorn,3,6,01/13/2017,08:43,Jane
+"2083 40th st e,Minneapolis,MN",44.930507,-93.242494,12,Standish,Powderhorn,3,6,01/13/2017,09:02,Jane
+"4023 25th ave so,Minneapolis,MN",44.929709,-93.23566600000001,12,Standish,Powderhorn,3,6,01/13/2017,10:17,Jane
+"3637 21ST AVE S,Minneapolis,MN",44.936305,-93.24195,12,Standish,Powderhorn,3,6,01/13/2017,11:12,Jane
+"3647 28th ave s,Minneapolis,MN",44.936310999999996,-93.231729,12,Standish,Powderhorn,3,6,01/13/2017,11:38,Jane
+"3635 21ST AVE S,Minneapolis,MN",44.936469,-93.241978,12,Standish,Powderhorn,3,6,01/13/2017,11:47,Jane
+"3733 27th Ave. S.,Minneapolis,MN",44.934658,-93.233005,12,Standish,Powderhorn,3,6,01/13/2017,12:17,Jane
+"3623 21st ave s,Minneapolis,MN",44.936975,-93.241912,12,Standish,Powderhorn,3,6,01/13/2017,12:18,Jane
+"2227 37TH ST E,Minneapolis,MN",44.935914000000004,-93.239992,12,Standish,Powderhorn,3,6,01/13/2017,13:11,Jane
+"2337 37th st E,Minneapolis,MN",44.93591,-93.23805300000001,12,Standish,Powderhorn,3,6,01/13/2017,13:45,Jane
+"3637 28th ave,Minneapolis,MN",44.936589,-93.231726,12,Standish,Powderhorn,3,6,01/13/2017,13:47,Jane
+"2303 37TH ST E,Minneapolis,MN",44.93591,-93.23864,12,Standish,Powderhorn,3,6,01/13/2017,13:53,Jane
+"3921 29th ave s,Minneapolis,MN",44.931635,-93.230575,12,Standish,Powderhorn,3,6,01/13/2017,14:28,Jane
+"1831 36th st,Minneapolis,MN",44.937725,-93.246921,12,Standish,Powderhorn,3,6,01/13/2017,15:45,Jane
+"1800 LASALLE AVE,Minneapolis,MN",44.965215,-93.279713,7,Steven's Square - Loring Heights,Central,2,3,01/12/2017,02:42,Jane
+"1800 lasalle av s,Minneapolis,MN",44.965215,-93.279713,7,Steven's Square - Loring Heights,Central,2,3,01/12/2017,02:47,Jane
+"1800 Lasalle Ave S ,Minneapolis,MN",44.965215,-93.279713,7,Steven's Square - Loring Heights,Central,2,3,01/12/2017,02:54,Jane
+"2200 LASALLE AVE ,Minneapolis,MN",44.962714,-93.279445,7,Steven's Square - Loring Heights,Central,2,3,01/12/2017,03:08,Jane
+"988 17th Ave SE - MPLS,Minneapolis,MN",44.966289,-93.27656400000001,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,11:46,Jane
+"986 17th Ave SE - MPLS,Minneapolis,MN",44.966289,-93.27656400000001,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,11:50,Jane
+"132 19TH ST E,Minneapolis,MN",44.963968,-93.274608,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,12:00,Jane
+"118 19TH ST E,Minneapolis,MN",44.96405,-93.275814,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,12:06,Jane
+"106 19TH ST E,Minneapolis,MN",44.963968,-93.276104,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,12:10,Jane
+"138 19TH ST E,Minneapolis,MN",44.963968,-93.274561,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,12:22,Jane
+"140 19th St e,Minneapolis,MN",44.963968,-93.27454499999999,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,12:23,Jane
+"308 19th St e ,Minneapolis,MN",44.963969,-93.272193,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,12:32,Jane
+"326 18TH ST E,Minneapolis,MN",44.965375,-93.271289,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,12:38,Jane
+"320 18TH ST E,Minneapolis,MN",44.965233000000005,-93.271473,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,12:42,Jane
+"130 18TH ST E,Minneapolis,MN",44.965408000000004,-93.27486,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,12:45,Jane
+"326 19TH ST E,Minneapolis,MN",44.96397,-93.27125500000001,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,12:49,Jane
+"328 19TH ST E,Minneapolis,MN",44.96397,-93.271176,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,12:52,Jane
+"134 18th St e,Minneapolis,MN",44.965322,-93.274787,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,12:54,Jane
+"128 18TH ST E,Minneapolis,MN",44.965421,-93.274971,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,13:06,Jane
+"1806 2nd Ave s,Minneapolis,MN",44.965064,-93.274046,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,13:09,Jane
+"1808 2nd Ave s,Minneapolis,MN",44.96504,-93.274046,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,13:12,Jane
+"1718 Steven's Ave s ,Minneapolis,MN",44.965866999999996,-93.275313,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,13:21,Jane
+"110 18TH ST E,Minneapolis,MN",44.965623,-93.27591,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,13:21,Jane
+"106 18TH ST E,Minneapolis,MN",44.965231,-93.27620300000001,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,13:23,Jane
+"1810 s stevens ave,Minneapolis,MN",44.964814000000004,-93.27531,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,13:27,Jane
+"1702 STEVENS AVE S,Minneapolis,MN",44.966097999999995,-93.275315,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,13:32,Jane
+"1926 stevens av s,Minneapolis,MN",44.962919,-93.275307,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,13:33,Jane
+"1712 STEVENS AVE S,Minneapolis,MN",44.965916,-93.275314,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,13:36,Jane
+"1924 Steven's Ave s ,Minneapolis,MN",44.963007,-93.275653,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,13:50,Jane
+"1816 2nd Ave s. ,Minneapolis,MN",44.964945,-93.274046,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,13:51,Jane
+"1712 2nd Ave s,Minneapolis,MN",44.965713,-93.274046,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,13:54,Jane
+"1710 2nd Ave s,Minneapolis,MN",44.96578,-93.274046,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,13:56,Jane
+"1928 Pillsbury Ave s ,Minneapolis,MN",44.963307,-93.280826,7,Steven's Square - Loring Heights,Central,2,3,01/12/2017,14:12,Jane
+"1710 STEVENS AVE S,Minneapolis,MN",44.965932,-93.275314,6,Steven's Square - Loring Heights,Central,2,3,01/12/2017,14:15,Jane
+"441 Ridgewood ,Minneapolis,MN",44.963277000000005,-93.28541700000001,7,Steven's Square - Loring Heights,Central,3,3,01/13/2017,10:05,Jane
+"507 Ridgewood ,Minneapolis,MN",44.963264,-93.286074,7,Steven's Square - Loring Heights,Central,3,3,01/13/2017,10:07,Jane
+"105 19TH ST E,Minneapolis,MN",44.963941,-93.276327,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,10:24,Jane
+"107 19TH ST E,Minneapolis,MN",44.963941,-93.276218,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,10:31,Jane
+"223 Ridgewood Avenue South,Minneapolis,MN",44.963564,-93.281751,7,Steven's Square - Loring Heights,Central,3,3,01/13/2017,10:37,Jane
+"101 19TH ST E,Minneapolis,MN",44.963941999999996,-93.276546,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,10:52,Jane
+"343 19th e,Minneapolis,MN",44.963822,-93.270555,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,10:54,Jane
+"311 19TH ST E,Minneapolis,MN",44.963941999999996,-93.272067,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,10:55,Jane
+"133 19th St e,Minneapolis,MN",44.963941999999996,-93.27450999999999,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,10:57,Jane
+"305 19TH ST E,Minneapolis,MN",44.963941999999996,-93.27244499999999,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,10:59,Jane
+"345 18th st e,Minneapolis,MN",44.965073,-93.270551,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,11:07,Jane
+"339 19TH ST E,Minneapolis,MN",44.963805,-93.27091899999999,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,11:16,Jane
+"343 18TH ST E,Minneapolis,MN",44.965073,-93.270593,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,11:20,Jane
+"137 18th St e ,Minneapolis,MN",44.965202000000005,-93.275075,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,11:20,Jane
+"121 18TH ST E,Minneapolis,MN",44.965201,-93.27539300000001,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,11:25,Jane
+"131 18th st e,Minneapolis,MN",44.965201,-93.275175,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,11:27,Jane
+"1913 2nd Ave s ,Minneapolis,MN",44.96346,-93.274013,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,11:44,Jane
+"1909 2nd ave s,Minneapolis,MN",44.963621,-93.274012,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,11:48,Jane
+"1707 2ND AV s,Minneapolis,MN",44.965979,-93.274008,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,11:49,Jane
+"217 18TH ST E,Minneapolis,MN",44.965207,-93.273332,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,11:50,Jane
+"307 - 19TH ST E,Minneapolis,MN",44.963941999999996,-93.272319,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,11:48,Jane
+"1911 2ND AVE S,Minneapolis,MN",44.963541,-93.274012,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,11:52,Jane
+"211 18th St e,Minneapolis,MN",44.965208000000004,-93.27346899999999,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,11:53,Jane
+"1805 2nd ave s,Minneapolis,MN",44.964943,-93.27400899999999,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,12:11,Jane
+"1811 stevens av s,Minneapolis,MN",44.965072,-93.275272,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,12:23,Jane
+"1917 2ND AVE S,Minneapolis,MN",44.96328,-93.273798,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,12:35,Jane
+"1921 STEVENS AVE S,Minneapolis,MN",44.963246999999996,-93.27527099999999,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,12:37,Jane
+"1913 Stevens ave s,Minneapolis,MN",44.963403,-93.275002,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,12:42,Jane
+"1819 stevens ave s,Minneapolis,MN",44.964969,-93.275272,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,13:15,Jane
+"1817 Stevens,Minneapolis,MN",44.964995,-93.275272,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,13:24,Jane
+"1907 2ND AVE S,Minneapolis,MN",44.963702000000005,-93.274011,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,13:30,Jane
+"1915 STEVENS AVE S,Minneapolis,MN",44.963333,-93.27527099999999,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,13:32,Jane
+"1915 CLINTON AVE S,Minneapolis,MN",44.963482,-93.271153,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,13:32,Jane
+"1807 CLINTON AVE S,Minneapolis,MN",44.964884000000005,-93.271241,6,Steven's Square - Loring Heights,Central,3,3,01/13/2017,13:36,Jane
+"1021 7th St N,Minneapolis,MN",44.988375,-93.290132,5,Sumner - Glenwood,Near North,1,1,01/11/2017,22:58,Jane
+"732 Aldrich Ave n,Minneapolis,MN",44.985613,-93.289987,5,Sumner - Glenwood,Near North,2,1,01/12/2017,08:10,Jane
+"734 Aldrich Ave N,Minneapolis,MN",44.985833,-93.290263,5,Sumner - Glenwood,Near North,2,1,01/12/2017,08:20,Jane
+"842 Gertrude Brown Pl,Minneapolis,MN",44.985436,-93.291191,5,Sumner - Glenwood,Near North,2,1,01/12/2017,12:07,Jane
+"850 10th Ave. N.,Minneapolis,MN",44.988356,-93.29151800000001,5,Sumner - Glenwood,Near North,2,1,01/12/2017,12:26,Jane
+"711 Lyndale Pl,Minneapolis,MN",44.985843,-93.289213,5,Sumner - Glenwood,Near North,3,1,01/13/2017,08:21,Jane
+"1005 Aldrich Ave n,Minneapolis,MN",44.988512,-93.291065,5,Sumner - Glenwood,Near North,3,1,01/13/2017,08:24,Jane
+"1045 ALDRICH AV N,Minneapolis,MN",44.988611999999996,-93.291067,5,Sumner - Glenwood,Near North,3,1,01/13/2017,08:29,Jane
+"901 10th Ave N,Minneapolis,MN",44.988152,-93.292132,5,Sumner - Glenwood,Near North,3,1,01/13/2017,12:36,Jane
+"715 5th ave n,Minneapolis,MN",44.982788,-93.28926,5,Sumner - Glenwood,Near North,3,3,01/13/2017,14:22,Jane
+"813 5TH AV n,Minneapolis,MN",44.982774,-93.289674,5,Sumner - Glenwood,Near North,3,3,01/13/2017,14:32,Jane
+"124 15th ST W,Minneapolis,MN",44.975885,-93.23674399999999,2,University of Minnesota,University,1,4,01/11/2017,22:10,Jane
+"614 Delaware ST SE,Minneapolis,MN",44.971961,-93.22949799999999,2,University of Minnesota,University,2,4,01/12/2017,01:44,Jane
+"8th 15th Street Southeast,Minneapolis,MN",44.983748999999996,-93.23127,2,University of Minnesota,University,2,4,01/12/2017,02:03,Jane
+"614 Delaware ST SE,Minneapolis,MN",44.971961,-93.22949799999999,2,University of Minnesota,University,2,4,01/12/2017,02:10,Jane
+"614 Delaware state se,Minneapolis,MN",44.971961,-93.22949799999999,2,University of Minnesota,University,2,4,01/12/2017,03:28,Jane
+"1502 8th st se,Minneapolis,MN",44.983807,-93.231197,2,University of Minnesota,University,2,4,01/12/2017,15:47,Jane
+"1508 8th St SE ,Minneapolis,MN",44.983725,-93.230994,2,University of Minnesota,University,2,4,01/12/2017,15:57,Jane
+"1522 8th st se,Minneapolis,MN",44.983536,-93.230521,2,University of Minnesota,University,2,4,01/12/2017,16:29,Jane
+"1506 8th st se,Minneapolis,MN",44.983753,-93.231062,2,University of Minnesota,University,2,4,01/12/2017,16:45,Jane
+"221 19th St s,Minneapolis,MN",44.973618,-93.245856,2,University of Minnesota,University,3,4,01/13/2017,10:28,Jane
+"315 19th ave ne,Minneapolis,MN",44.970776,-93.245648,2,University of Minnesota,University,3,4,01/13/2017,12:29,Jane
+"2109 Bloomington Ave s ,Minneapolis,MN",44.961452,-93.252071,6,Ventura Village,Phillips,1,3,01/11/2017,23:42,Jane
+"900 24 ST E,Minneapolis,MN",44.959133,-93.261083,6,Ventura Village,Phillips,2,3,01/12/2017,02:07,Jane
+"1000 19th st e,Minneapolis,MN",44.963947,-93.259664,6,Ventura Village,Phillips,2,3,01/12/2017,15:38,Jane
+"1004 19th st e,Minneapolis,MN",44.963947999999995,-93.259427,6,Ventura Village,Phillips,2,3,01/12/2017,15:40,Jane
+"620 19th St e,Minneapolis,MN",44.964153,-93.266494,6,Ventura Village,Phillips,2,3,01/12/2017,15:44,Jane
+"820 18th St e ,Minneapolis,MN",44.965171000000005,-93.262236,6,Ventura Village,Phillips,2,3,01/12/2017,15:50,Jane
+"718 18TH ST E,Minneapolis,MN",44.965236,-93.26462099999999,6,Ventura Village,Phillips,2,3,01/12/2017,16:22,Jane
+"720 18TH ST E,Minneapolis,MN",44.965236,-93.26457099999999,6,Ventura Village,Phillips,2,3,01/12/2017,16:28,Jane
+"1805 10th s,Minneapolis,MN",44.964996,-93.259248,6,Ventura Village,Phillips,3,3,01/13/2017,11:51,Jane
+"4100 THOMAS AV N,Minneapolis,MN",45.029699,-93.313187,4,Victory,Camden,2,1,01/12/2017,00:26,Jane
+"4228 penn ave n ,Minneapolis,MN",45.032294,-93.30819100000001,4,Victory,Camden,2,1,01/12/2017,00:55,Jane
+"4334 Penn Ave N,Minneapolis,MN",45.03441,-93.308161,4,Victory,Camden,2,1,01/12/2017,01:02,Jane
+"3859 Lyndale Ave N,Minneapolis,MN",45.02559,-93.288344,4,Webber - Camden,Camden,2,1,01/12/2017,00:12,Jane
+"4172 Penn av n,Minneapolis,MN",45.030634,-93.30845699999999,4,Webber - Camden,Camden,2,1,01/12/2017,01:34,Jane
+"823 42nd Ave n ,Minneapolis,MN",45.031368,-93.290453,4,Webber - Camden,Camden,2,1,01/12/2017,02:11,Jane
+"4134 girard Ave n ,Minneapolis,MN",45.030834000000006,-93.29678,4,Webber - Camden,Camden,2,1,01/12/2017,12:06,Jane
+"4224 n girard ave,Minneapolis,MN",45.032505,-93.296851,4,Webber - Camden,Camden,2,1,01/12/2017,12:19,Jane
+"4130 Aldrich Ave. N. ,Minneapolis,MN",45.03027,-93.28913399999999,4,Webber - Camden,Camden,2,1,01/12/2017,12:26,Jane
+"3824 aldrich ave n ,Minneapolis,MN",45.024688,-93.289313,4,Webber - Camden,Camden,2,1,01/12/2017,13:28,Jane
+"3834 Bryant Ave n ,Minneapolis,MN",45.024989,-93.290322,4,Webber - Camden,Camden,2,1,01/12/2017,13:31,Jane
+"4142 Bryant Ave N,Minneapolis,MN",45.030614,-93.290356,4,Webber - Camden,Camden,2,1,01/12/2017,14:25,Jane
+"4042 Colfax av no,Minneapolis,MN",45.029108,-93.29155300000001,4,Webber - Camden,Camden,2,1,01/12/2017,15:39,Jane
+"4136 n bryant ave,Minneapolis,MN",45.030504,-93.290628,4,Webber - Camden,Camden,2,1,01/12/2017,15:41,Jane
+"4346 & humboldt ave,Minneapolis,MN",45.034698999999996,-93.298112,4,Webber - Camden,Camden,2,1,01/12/2017,16:38,Jane
+"3807 6 st no,Minneapolis,MN",45.024164,-93.286556,4,Webber - Camden,Camden,3,1,01/13/2017,10:06,Jane
+"3849 6th st n,Minneapolis,MN",45.025338,-93.28657,4,Webber - Camden,Camden,3,1,01/13/2017,10:16,Jane
+"4027 Bryant av no ,Minneapolis,MN",45.028597999999995,-93.29095799999999,4,Webber - Camden,Camden,3,1,01/13/2017,11:35,Jane
+"3943 Bryant av no,Minneapolis,MN",45.027003,-93.290887,4,Webber - Camden,Camden,3,1,01/13/2017,12:08,Jane
+"4031 Colfax Ave n ,Minneapolis,MN",45.028737,-93.29219499999999,4,Webber - Camden,Camden,3,1,01/13/2017,12:19,Jane
+"4045 Colfax av no,Minneapolis,MN",45.029195,-93.29215500000001,4,Webber - Camden,Camden,3,1,01/13/2017,13:14,Jane
+"4207 aldrich ave n ,Minneapolis,MN",45.031824,-93.289571,4,Webber - Camden,Camden,3,1,01/13/2017,13:27,Jane
+"3905 dupont Ave n ,Minneapolis,MN",45.026013,-93.293161,4,Webber - Camden,Camden,3,1,01/13/2017,13:33,Jane
+"4123 Emerson Ave. N. ,Minneapolis,MN",45.030444,-93.294501,4,Webber - Camden,Camden,3,1,01/13/2017,13:33,Jane
+"4017 dupont Ave n ,Minneapolis,MN",45.028233,-93.293215,4,Webber - Camden,Camden,3,1,01/13/2017,14:41,Jane
+"5715 25th ave,Minneapolis,MN",44.8994,-93.235925,11,Wenonah,Nokomis,3,6,01/13/2017,14:21,Jane
+"5737 bossen Terrace,Minneapolis,MN",44.899127,-93.22661,11,Wenonah,Nokomis,3,6,01/13/2017,15:07,Jane
+"5713 bossen Terrace,Minneapolis,MN",44.899701,-93.225953,11,Wenonah,Nokomis,3,6,01/13/2017,16:18,Jane
+"3000 DREW AVE S,Minneapolis,MN",44.948402,-93.32629200000001,13,West Calhoun,Calhoun Isle,1,3,01/11/2017,23:11,Jane
+"3000 DREW AVE S,Minneapolis,MN",44.948402,-93.32629200000001,13,West Calhoun,Calhoun Isle,1,3,01/11/2017,23:58,Jane
+"3000 DREW AVE S,Minneapolis,MN",44.948402,-93.32629200000001,13,West Calhoun,Calhoun Isle,2,3,01/12/2017,00:01,Jane
+"3800 30th 1/2 Street West,Minneapolis,MN",44.947834,-93.327572,13,West Calhoun,Calhoun Isle,2,3,01/12/2017,00:46,Jane
+"3000 DREW AVE S,Minneapolis,MN",44.948402,-93.32629200000001,13,West Calhoun,Calhoun Isle,2,3,01/12/2017,01:28,Jane
+"3800 30 1/2 st w,Minneapolis,MN",44.947834,-93.327572,13,West Calhoun,Calhoun Isle,2,3,01/12/2017,01:34,Jane
+"3000 DREW AVE S,Minneapolis,MN",44.948402,-93.32629200000001,13,West Calhoun,Calhoun Isle,2,3,01/12/2017,01:40,Jane
+"2200 Blaisdell Ave Ave S,Minneapolis,MN",44.960681,-93.280062,10,Whittier,Powderhorn,2,3,01/12/2017,03:13,Jane
+"2200 BLAISDELL AVE,Minneapolis,MN",44.960681,-93.280062,10,Whittier,Powderhorn,2,3,01/12/2017,03:17,Jane
+"2300 BLAISDELL AVE S,Minneapolis,MN",44.959674,-93.279624,10,Whittier,Powderhorn,2,3,01/12/2017,03:25,Jane
+"2400 BLAISDELL AVE ,Minneapolis,MN",44.958844,-93.280097,10,Whittier,Powderhorn,2,3,01/12/2017,03:41,Jane
+"2400 blaidsdell ave,Minneapolis,MN",44.958844,-93.280097,10,Whittier,Powderhorn,2,3,01/12/2017,03:47,Jane
+"2400 BLAISDELL AVE S,Minneapolis,MN",44.958844,-93.280097,10,Whittier,Powderhorn,2,3,01/12/2017,03:48,Jane
+"2400 BLAISDELL AVE,Minneapolis,MN",44.958844,-93.280097,10,Whittier,Powderhorn,2,3,01/12/2017,03:53,Jane
+"2200 BLAISDELL AVE,Minneapolis,MN",44.960681,-93.280062,10,Whittier,Powderhorn,2,3,01/12/2017,03:56,Jane
+"26th St and Blaisdell Ave s ,Minneapolis,MN",44.955539,-93.279634,10,Whittier,Powderhorn,2,3,01/12/2017,04:12,Jane
+"2500 blaisdell ave,Minneapolis,MN",44.956971,-93.280108,10,Whittier,Powderhorn,2,3,01/12/2017,04:13,Jane
+"2600 blaisdell ave,Minneapolis,MN",44.955521000000005,-93.279653,10,Whittier,Powderhorn,2,3,01/12/2017,04:20,Jane
+"2400 BLAISDELL AVE,Minneapolis,MN",44.958844,-93.280097,10,Whittier,Powderhorn,2,3,01/12/2017,04:35,Jane
+"27th and Blaisdell Ave s ,Minneapolis,MN",44.953742999999996,-93.279658,10,Whittier,Powderhorn,2,3,01/12/2017,04:36,Jane
+"2600 BLAisdell Ave,Minneapolis,MN",44.955521000000005,-93.279653,10,Whittier,Powderhorn,2,3,01/12/2017,04:38,Jane
+"28th and Blaisdell ,Minneapolis,MN",44.951937,-93.279655,10,Whittier,Powderhorn,2,3,01/12/2017,05:02,Jane
+"2600 BLAisdell Ave,Minneapolis,MN",44.955521000000005,-93.279653,10,Whittier,Powderhorn,2,3,01/12/2017,05:23,Jane
+"27th and Blaisdell Ave s ,Minneapolis,MN",44.953742999999996,-93.279658,10,Whittier,Powderhorn,2,3,01/12/2017,05:29,Jane
+"2600 block blaisdale,Minneapolis,MN",44.955521000000005,-93.279653,10,Whittier,Powderhorn,2,3,01/12/2017,05:54,Jane
+"2700 block Blaisdell South,Minneapolis,MN",44.953612,-93.28003000000001,10,Whittier,Powderhorn,2,3,01/12/2017,05:59,Jane
+"2306 Clinton Ave s ,Minneapolis,MN",44.959723,-93.271506,10,Whittier,Powderhorn,2,3,01/12/2017,10:54,Jane
+"2106 clinton av s,Minneapolis,MN",44.96145,-93.271723,10,Whittier,Powderhorn,2,3,01/12/2017,10:56,Jane
+"2304 CLINTON AVE S,Minneapolis,MN",44.959734000000005,-93.271506,10,Whittier,Powderhorn,2,3,01/12/2017,11:11,Jane
+"2410 Clinton Ave s ,Minneapolis,MN",44.958813,-93.271506,10,Whittier,Powderhorn,2,3,01/12/2017,11:21,Jane
+"2004 pleasant ave s,Minneapolis,MN",44.962658000000005,-93.28294,10,Whittier,Powderhorn,2,3,01/12/2017,11:22,Jane
+"2414 Clinton ,Minneapolis,MN",44.958739,-93.271615,10,Whittier,Powderhorn,2,3,01/12/2017,11:23,Jane
+"2710 3RD AV S,Minneapolis,MN",44.952903000000006,-93.273084,10,Whittier,Powderhorn,2,3,01/12/2017,11:23,Jane
+"2202 Clinton ,Minneapolis,MN",44.960682,-93.271508,10,Whittier,Powderhorn,2,3,01/12/2017,11:25,Jane
+"2110 CLINTON AVE S,Minneapolis,MN",44.961346,-93.271775,10,Whittier,Powderhorn,2,3,01/12/2017,11:32,Jane
+"2630 3RD AVE,Minneapolis,MN",44.954307,-93.27280999999999,10,Whittier,Powderhorn,2,3,01/12/2017,11:36,Jane
+"2312 pleasant ave s,Minneapolis,MN",44.959589,-93.282951,10,Whittier,Powderhorn,2,3,01/12/2017,11:51,Jane
+"2418 pleasant ave s,Minneapolis,MN",44.958416,-93.282963,10,Whittier,Powderhorn,2,3,01/12/2017,11:53,Jane
+"2540 pleasant ave s,Minneapolis,MN",44.955974,-93.283275,10,Whittier,Powderhorn,2,3,01/12/2017,12:25,Jane
+"2416 PLEASENT AVE S ,Minneapolis,MN",44.958503,-93.282962,10,Whittier,Powderhorn,2,3,01/12/2017,12:27,Jane
+"2310 harriet ave s,Minneapolis,MN",44.959602000000004,-93.285876,10,Whittier,Powderhorn,2,3,01/12/2017,12:56,Jane
+"2200 harriet ave s,Minneapolis,MN",44.96071,-93.28576899999999,10,Whittier,Powderhorn,2,3,01/12/2017,12:58,Jane
+"2420 Garfield ave s,Minneapolis,MN",44.958420000000004,-93.28709599999999,10,Whittier,Powderhorn,2,3,01/12/2017,13:17,Jane
+"2216 Garfield ave s,Minneapolis,MN",44.960244,-93.287092,10,Whittier,Powderhorn,2,3,01/12/2017,13:34,Jane
+"2428 Garfield ave s,Minneapolis,MN",44.9582,-93.28709599999999,10,Whittier,Powderhorn,2,3,01/12/2017,13:36,Jane
+"2446 garfield ave s,Minneapolis,MN",44.957709,-93.286781,10,Whittier,Powderhorn,2,3,01/12/2017,13:41,Jane
+"2002 PLEASANT AVE S ,Minneapolis,MN",44.962675,-93.28294,10,Whittier,Powderhorn,2,3,01/12/2017,14:02,Jane
+"2648 garfield ave s,Minneapolis,MN",44.95389,-93.28706899999999,10,Whittier,Powderhorn,2,3,01/12/2017,14:08,Jane
+"2450 Garfield ave s,Minneapolis,MN",44.957576,-93.28678199999999,10,Whittier,Powderhorn,2,3,01/12/2017,14:11,Jane
+"2454 harriet ave s,Minneapolis,MN",44.957516999999996,-93.28550600000001,10,Whittier,Powderhorn,2,3,01/12/2017,14:13,Jane
+"2011 PILLSBURY av s,Minneapolis,MN",44.962183,-93.280811,10,Whittier,Powderhorn,2,3,01/12/2017,14:15,Jane
+"2002 2ND AVE S,Minneapolis,MN",44.962559999999996,-93.274035,10,Whittier,Powderhorn,2,3,01/12/2017,14:17,Jane
+"2204 PILLSBURY AVE S,Minneapolis,MN",44.960515,-93.28129,10,Whittier,Powderhorn,2,3,01/12/2017,14:19,Jane
+"2200 PILLSBURY AVE S,Minneapolis,MN",44.960615999999995,-93.281754,10,Whittier,Powderhorn,2,3,01/12/2017,14:25,Jane
+"2304 Pillsbury AV S,Minneapolis,MN",44.959863,-93.281769,10,Whittier,Powderhorn,2,3,01/12/2017,14:33,Jane
+"2014 grand ave s,Minneapolis,MN",44.96215,-93.284201,10,Whittier,Powderhorn,2,3,01/12/2017,14:33,Jane
+"2436 Pillsbury AV S,Minneapolis,MN",44.957794,-93.281305,10,Whittier,Powderhorn,2,3,01/12/2017,14:36,Jane
+"2726 pleasant Ave s ,Minneapolis,MN",44.952698999999996,-93.283385,10,Whittier,Powderhorn,2,3,01/12/2017,14:38,Jane
+"2414 grand ave s,Minneapolis,MN",44.958519,-93.284231,10,Whittier,Powderhorn,2,3,01/12/2017,14:49,Jane
+"2430 harriet ave s,Minneapolis,MN",44.9582,-93.285765,10,Whittier,Powderhorn,2,3,01/12/2017,14:51,Jane
+"2706 pleasant av,Minneapolis,MN",44.953398,-93.28331800000001,10,Whittier,Powderhorn,2,3,01/12/2017,14:56,Jane
+"2102 grand ave s,Minneapolis,MN",44.9617,-93.28420200000001,10,Whittier,Powderhorn,2,3,01/12/2017,14:58,Jane
+"2544 PLEASANT AVE S,Minneapolis,MN",44.955839000000005,-93.28336999999999,10,Whittier,Powderhorn,2,3,01/12/2017,15:04,Jane
+"2538 PLEASANT AVE S,Minneapolis,MN",44.956107,-93.283268,10,Whittier,Powderhorn,2,3,01/12/2017,15:06,Jane
+"2724 pleasant Ave s ,Minneapolis,MN",44.952829,-93.283385,10,Whittier,Powderhorn,2,3,01/12/2017,15:10,Jane
+"2008 GRAND AVE,Minneapolis,MN",44.962314,-93.284454,10,Whittier,Powderhorn,2,3,01/12/2017,15:22,Jane
+"2308 grand Ave s,Minneapolis,MN",44.959747,-93.284487,10,Whittier,Powderhorn,2,3,01/12/2017,15:42,Jane
+"2808 Garfield av s,Minneapolis,MN",44.95153,-93.286839,10,Whittier,Powderhorn,2,3,01/12/2017,15:58,Jane
+"2802 PILLSBURY AVE S,Minneapolis,MN",44.951715,-93.281343,10,Whittier,Powderhorn,2,3,01/12/2017,16:25,Jane
+"2518 STEVENS AVE S,Minneapolis,MN",44.956555,-93.275335,10,Whittier,Powderhorn,2,3,01/12/2017,16:30,Jane
+"2314 STEVENS AVE SO,Minneapolis,MN",44.960006,-93.275307,10,Whittier,Powderhorn,2,3,01/12/2017,16:35,Jane
+"2436 stevens av s,Minneapolis,MN",44.957918,-93.275675,10,Whittier,Powderhorn,2,3,01/12/2017,16:43,Jane
+"507 22nd st w,Minneapolis,MN",44.960906,-93.286185,10,Whittier,Powderhorn,3,3,01/13/2017,10:19,Jane
+"509 22nd st w,Minneapolis,MN",44.960718,-93.286018,10,Whittier,Powderhorn,3,3,01/13/2017,10:21,Jane
+"2019 Garfield ave s,Minneapolis,MN",44.962086,-93.286388,10,Whittier,Powderhorn,3,3,01/13/2017,10:51,Jane
+"2007 Garfield ave s,Minneapolis,MN",44.962388,-93.28669000000001,10,Whittier,Powderhorn,3,3,01/13/2017,10:52,Jane
+"2203 Garfield ave s,Minneapolis,MN",44.960462,-93.28670600000001,10,Whittier,Powderhorn,3,3,01/13/2017,11:22,Jane
+"2405 garfield ave s,Minneapolis,MN",44.958822,-93.286736,10,Whittier,Powderhorn,3,3,01/13/2017,11:23,Jane
+"2419 Garfield ave s,Minneapolis,MN",44.95848,-93.286738,10,Whittier,Powderhorn,3,3,01/13/2017,11:24,Jane
+"2453 garfield ave s,Minneapolis,MN",44.957551,-93.286396,10,Whittier,Powderhorn,3,3,01/13/2017,11:42,Jane
+"2317 harriet ave s,Minneapolis,MN",44.959512,-93.285134,10,Whittier,Powderhorn,3,3,01/13/2017,12:03,Jane
+"2225 Harriet Ave s ,Minneapolis,MN",44.960058000000004,-93.285134,10,Whittier,Powderhorn,3,3,01/13/2017,12:05,Jane
+"2401 grand ave s,Minneapolis,MN",44.958981,-93.283974,10,Whittier,Powderhorn,3,3,01/13/2017,12:06,Jane
+"2441 HARRIET AVE,Minneapolis,MN",44.957747,-93.285256,10,Whittier,Powderhorn,3,3,01/13/2017,12:07,Jane
+"2517 HARRIET AVE,Minneapolis,MN",44.956643,-93.285476,10,Whittier,Powderhorn,3,3,01/13/2017,12:10,Jane
+"203 22nd st w,Minneapolis,MN",44.960884,-93.281429,10,Whittier,Powderhorn,3,3,01/13/2017,12:18,Jane
+"603 22nd St w,Minneapolis,MN",44.960903,-93.286741,10,Whittier,Powderhorn,3,3,01/13/2017,12:19,Jane
+"2129 pleasant Ave s,Minneapolis,MN",44.961085,-93.282905,10,Whittier,Powderhorn,3,3,01/13/2017,12:30,Jane
+"2215 pleasant Ave s,Minneapolis,MN",44.960431,-93.282499,10,Whittier,Powderhorn,3,3,01/13/2017,12:32,Jane
+"217 22nd St w,Minneapolis,MN",44.960886,-93.28231,10,Whittier,Powderhorn,3,3,01/13/2017,12:38,Jane
+"2517 pleasant ave,Minneapolis,MN",44.956686,-93.28249100000001,10,Whittier,Powderhorn,3,3,01/13/2017,12:39,Jane
+"621 22ND ST W,Minneapolis,MN",44.960902000000004,-93.28698100000001,10,Whittier,Powderhorn,3,3,01/13/2017,12:43,Jane
+"425 25TH ST W,Minneapolis,MN",44.95733,-93.284994,10,Whittier,Powderhorn,3,3,01/13/2017,12:45,Jane
+"129 22nd St w ,Minneapolis,MN",44.960888,-93.28008,10,Whittier,Powderhorn,3,3,01/13/2017,12:54,Jane
+"2219 pillsbury av s,Minneapolis,MN",44.960184999999996,-93.280916,10,Whittier,Powderhorn,3,3,01/13/2017,12:55,Jane
+"2427 pillsbury ave s,Minneapolis,MN",44.958166999999996,-93.281267,10,Whittier,Powderhorn,3,3,01/13/2017,13:08,Jane
+"115 22nd St w ,Minneapolis,MN",44.960889,-93.279845,10,Whittier,Powderhorn,3,3,01/13/2017,13:12,Jane
+"2525 pillsburry ave s,Minneapolis,MN",44.956443,-93.28089,10,Whittier,Powderhorn,3,3,01/13/2017,13:14,Jane
+"2443 Garfield ave s,Minneapolis,MN",44.957764000000005,-93.286394,10,Whittier,Powderhorn,3,3,01/13/2017,13:25,Jane
+"113 22nd St w,Minneapolis,MN",44.960889,-93.27981199999999,10,Whittier,Powderhorn,3,3,01/13/2017,13:31,Jane
+"2215 GARFIELD AVE S,Minneapolis,MN",44.960332,-93.286393,10,Whittier,Powderhorn,3,3,01/13/2017,13:41,Jane
+"2009 clinton ave s,Minneapolis,MN",44.962384,-93.271476,10,Whittier,Powderhorn,3,3,01/13/2017,13:46,Jane
+"907 Penn Ave N,Minneapolis,MN",44.987177,-93.308576,5,Willard - Hay,Near North,1,1,01/11/2017,22:28,Jane
+"2419 Plymouth Ave N,Minneapolis,MN",44.991341,-93.311727,5,Willard - Hay,Near North,1,1,01/11/2017,22:39,Jane
+"804 Washburn Ave N,Minneapolis,MN",44.986282,-93.3172,5,Willard - Hay,Near North,2,1,01/12/2017,09:04,Jane
+"1914 Logan Ave N,Minneapolis,MN",44.998892,-93.303161,5,Willard - Hay,Near North,2,1,01/12/2017,09:51,Jane
+"1912 Morgan av no,Minneapolis,MN",44.999201,-93.304419,5,Willard - Hay,Near North,2,1,01/12/2017,10:26,Jane
+"1308 Logan Ave N,Minneapolis,MN",44.991884000000006,-93.303184,5,Willard - Hay,Near North,2,1,01/12/2017,10:40,Jane
+"1428 newton ave n,Minneapolis,MN",44.993953999999995,-93.305689,5,Willard - Hay,Near North,2,1,01/12/2017,11:38,Jane
+"1418 Newton Ave N,Minneapolis,MN",44.993695,-93.30544599999999,5,Willard - Hay,Near North,2,1,01/12/2017,11:45,Jane
+"1506 newton ave n,Minneapolis,MN",44.994433,-93.305444,5,Willard - Hay,Near North,2,1,01/12/2017,12:02,Jane
+"1828 newton ave n,Minneapolis,MN",44.998301,-93.305673,5,Willard - Hay,Near North,2,1,01/12/2017,12:07,Jane
+"1330 queen ave n,Minneapolis,MN",44.992083,-93.309485,5,Willard - Hay,Near North,2,1,01/12/2017,12:50,Jane
+"1528 Queen Ave. N. ,Minneapolis,MN",44.994948,-93.309483,5,Willard - Hay,Near North,2,1,01/12/2017,12:56,Jane
+"2008 14th Ave n ,Minneapolis,MN",44.993086,-93.305815,5,Willard - Hay,Near North,2,1,01/12/2017,12:56,Jane
+"926 Sheridan Ave N,Minneapolis,MN",44.987773,-93.311791,5,Willard - Hay,Near North,2,1,01/12/2017,13:18,Jane
+"2004 14th Ave n ,Minneapolis,MN",44.993086,-93.305763,5,Willard - Hay,Near North,2,1,01/12/2017,13:18,Jane
+"2020 Sheridan Ave N. ,Minneapolis,MN",45.000189,-93.312031,5,Willard - Hay,Near North,2,1,01/12/2017,13:19,Jane
+"2022 queen ave n,Minneapolis,MN",45.000233,-93.309115,5,Willard - Hay,Near North,2,1,01/12/2017,13:20,Jane
+"1822 queen ave n,Minneapolis,MN",44.998263,-93.309473,5,Willard - Hay,Near North,2,1,01/12/2017,13:26,Jane
+"1230 Thomas Ave. N. ,Minneapolis,MN",44.990598,-93.313339,5,Willard - Hay,Near North,2,1,01/12/2017,13:47,Jane
+"2006 14th Ave n ,Minneapolis,MN",44.993086,-93.305789,5,Willard - Hay,Near North,2,1,01/12/2017,13:48,Jane
+"2212 queen ave n,Minneapolis,MN",45.001978,-93.309466,5,Willard - Hay,Near North,2,1,01/12/2017,14:04,Jane
+"2010 Thomas ave n,Minneapolis,MN",44.99992,-93.312961,5,Willard - Hay,Near North,2,1,01/12/2017,14:14,Jane
+"1516 Sheridan Ave. N. ,Minneapolis,MN",44.994646,-93.312044,5,Willard - Hay,Near North,2,1,01/12/2017,14:20,Jane
+"2106 Russell Ave. N. ,Minneapolis,MN",45.000854,-93.310401,5,Willard - Hay,Near North,2,1,01/12/2017,14:46,Jane
+"2712 upton ave n,Minneapolis,MN",45.008033000000005,-93.314588,4,Willard - Hay,Near North,2,1,01/12/2017,14:57,Jane
+"2512 23rd Ave. N. ,Minneapolis,MN",45.002651,-93.312788,5,Willard - Hay,Near North,2,1,01/12/2017,15:21,Jane
+"2204 21st Ave. N. ,Minneapolis,MN",45.000594,-93.30847,5,Willard - Hay,Near North,2,1,01/12/2017,15:50,Jane
+"2210 12th ave n ,Minneapolis,MN",44.989715999999994,-93.308389,5,Willard - Hay,Near North,2,1,01/12/2017,16:48,Jane
+"1315 Vincent Ave N,Minneapolis,MN",44.992146000000005,-93.316213,5,Willard - Hay,Near North,3,1,01/13/2017,10:12,Jane
+"727 upton ave n,Minneapolis,MN",44.985872,-93.31501300000001,5,Willard - Hay,Near North,3,1,01/13/2017,10:16,Jane
+"1027 upton ave n,Minneapolis,MN",44.988706,-93.31499000000001,5,Willard - Hay,Near North,3,1,01/13/2017,10:20,Jane
+"1415 Morgan Ave N,Minneapolis,MN",44.993628,-93.30470799999999,5,Willard - Hay,Near North,3,1,01/13/2017,10:54,Jane
+"1801 James ave n,Minneapolis,MN",44.996981,-93.302576,5,Willard - Hay,Near North,3,1,01/13/2017,10:54,Jane
+"1329 Russell Ave n,Minneapolis,MN",44.992513,-93.311144,5,Willard - Hay,Near North,3,1,01/13/2017,11:23,Jane
+"1317 newton ave n,Minneapolis,MN",44.992173,-93.305963,5,Willard - Hay,Near North,3,1,01/13/2017,11:35,Jane
+"919 Russell Ave n,Minneapolis,MN",44.987524,-93.31134499999999,5,Willard - Hay,Near North,3,1,01/13/2017,11:37,Jane
+"1615 Oliver ave n,Minneapolis,MN",44.995707,-93.307313,5,Willard - Hay,Near North,3,1,01/13/2017,11:40,Jane
+"1419 queen Ave n,Minneapolis,MN",44.993911,-93.309786,5,Willard - Hay,Near North,3,1,01/13/2017,11:51,Jane
+"1917 Oliver Ave. N. ,Minneapolis,MN",44.999362,-93.30696400000001,5,Willard - Hay,Near North,3,1,01/13/2017,11:57,Jane
+"1349 Russell Ave n,Minneapolis,MN",44.993081,-93.31107,5,Willard - Hay,Near North,3,1,01/13/2017,12:09,Jane
+"1811 queen ave n,Minneapolis,MN",44.998036,-93.309726,5,Willard - Hay,Near North,3,1,01/13/2017,12:12,Jane
+"1703 Oliver Ave N,Minneapolis,MN",44.996428,-93.306985,5,Willard - Hay,Near North,3,1,01/13/2017,12:13,Jane
+"2215 Russell ave n ,Minneapolis,MN",45.002056,-93.311048,5,Willard - Hay,Near North,3,1,01/13/2017,12:27,Jane
+"1507 Russell Ave n,Minneapolis,MN",44.994365,-93.310804,5,Willard - Hay,Near North,3,1,01/13/2017,12:34,Jane
+"1639 Russell ave n,Minneapolis,MN",44.996301,-93.311141,5,Willard - Hay,Near North,3,1,01/13/2017,13:00,Jane
+"1705 Thomas ave n,Minneapolis,MN",44.997222,-93.31336,5,Willard - Hay,Near North,3,1,01/13/2017,13:08,Jane
+"1347 Sheridan Ave N,Minneapolis,MN",44.993109999999994,-93.312338,5,Willard - Hay,Near North,3,1,01/13/2017,13:45,Jane
+"731 Vincent ave n,Minneapolis,MN",44.985965,-93.316212,5,Willard - Hay,Near North,3,1,01/13/2017,14:08,Jane
+"2111 17th ave n,Minneapolis,MN",44.996323,-93.307108,5,Willard - Hay,Near North,3,1,01/13/2017,14:42,Jane
+"2227 JOHNSON ST NE,Minneapolis,MN",45.010471,-93.2369,1,Windom Park,Northeast,1,2,01/11/2017,22:06,Jane
+"1700 Block of 18th ,Minneapolis,MN",45.005995,-93.23589,1,Windom Park,Northeast,2,2,01/12/2017,01:56,Jane
+"1800 18th ave ne,Minneapolis,MN",45.005995,-93.234602,1,Windom Park,Northeast,2,2,01/12/2017,02:07,Jane
+"2210 Pierce St ne,Minneapolis,MN",45.010024,-93.24127299999999,1,Windom Park,Northeast,2,2,01/12/2017,13:38,Jane
+"1802 garfield st ne,Minneapolis,MN",45.006319,-93.233345,1,Windom Park,Northeast,2,2,01/12/2017,13:46,Jane
+"1828 Ulysses st ne,Minneapolis,MN",45.007096999999995,-93.23625899999999,1,Windom Park,Northeast,2,2,01/12/2017,13:53,Jane
+"1830 ulysses st ne,Minneapolis,MN",45.007099,-93.236214,1,Windom Park,Northeast,2,2,01/12/2017,13:59,Jane
+"2406 Fillmore st ne,Minneapolis,MN",45.012464,-93.242498,1,Windom Park,Northeast,2,2,01/12/2017,14:01,Jane
+"1808 Garfield st ne,Minneapolis,MN",45.006405,-93.233345,1,Windom Park,Northeast,2,2,01/12/2017,14:03,Jane
+"1804 Garfield st ne,Minneapolis,MN",45.006347999999996,-93.233345,1,Windom Park,Northeast,2,2,01/12/2017,14:10,Jane
+"1806 Garfield st ne,Minneapolis,MN",45.006376,-93.233345,1,Windom Park,Northeast,2,2,01/12/2017,14:16,Jane
+"948 24th ave ne,Minneapolis,MN",45.012153000000005,-93.246403,1,Windom Park,Northeast,2,2,01/12/2017,14:28,Jane
+"2412 Polk st ne,Minneapolis,MN",45.012664,-93.246051,1,Windom Park,Northeast,2,2,01/12/2017,15:25,Jane
+"1911 Taylor st ne,Minneapolis,MN",45.008356,-93.2438,1,Windom Park,Northeast,3,2,01/13/2017,12:05,Jane
+"2303 Fillmore st ne,Minneapolis,MN",45.011569,-93.242232,1,Windom Park,Northeast,3,2,01/13/2017,12:09,Jane
+"2227 Polk st ne,Minneapolis,MN",45.010711,-93.24509300000001,1,Windom Park,Northeast,3,2,01/13/2017,12:26,Jane
+"1831 Ulysses st ne,Minneapolis,MN",45.00694,-93.235869,1,Windom Park,Northeast,3,2,01/13/2017,12:30,Jane
+"1827 Hayes st ne,Minneapolis,MN",45.006898,-93.234587,1,Windom Park,Northeast,3,2,01/13/2017,12:40,Jane
+"1813 Garfield st ne,Minneapolis,MN",45.006391,-93.233308,1,Windom Park,Northeast,3,2,01/13/2017,12:46,Jane
+"954 18 1/2 ave ne,Minneapolis,MN",45.006918,-93.247033,1,Windom Park,Northeast,3,2,01/13/2017,13:05,Jane
+"2313 Polk st ne,Minneapolis,MN",45.011319,-93.245215,1,Windom Park,Northeast,3,2,01/13/2017,13:06,Jane
+"1807 Garfield st ne,Minneapolis,MN",45.006232000000004,-93.233307,1,Windom Park,Northeast,3,2,01/13/2017,13:39,Jane
+"4032 Bloomington Avenue South,Minneapolis,MN",44.929368,-93.252415,8,Bancroft,Powderhorn,2,6,01/12/2017,01:02,Jane
+"966 41st st e,Minneapolis,MN",44.928752,-93.260403,8,Bancroft,Powderhorn,2,6,01/12/2017,08:22,Jane
+"4042 14tbh ave s,Minneapolis,MN",44.929244,-93.25495500000001,8,Bancroft,Powderhorn,2,6,01/12/2017,08:33,Jane
+"1532 41st st e,Minneapolis,MN",44.928724,-93.253302,8,Bancroft,Powderhorn,2,6,01/12/2017,08:39,Jane
+"4138 12th Avenue South,Minneapolis,MN",44.927566,-93.25749,8,Bancroft,Powderhorn,2,6,01/12/2017,09:31,Jane
+"4020 15th Ave. S.,Minneapolis,MN",44.929619,-93.253683,8,Bancroft,Powderhorn,2,6,01/12/2017,09:43,Jane
+"3836 13th ave s,Minneapolis,MN",44.932969,-93.256427,8,Bancroft,Powderhorn,2,6,01/12/2017,09:48,Jane
+"4018 15th Avenue South,Minneapolis,MN",44.929619,-93.253683,8,Bancroft,Powderhorn,2,6,01/12/2017,09:48,Jane
+"3938 14th ave so,Minneapolis,MN",44.931155,-93.25495,8,Bancroft,Powderhorn,2,6,01/12/2017,10:24,Jane
+"3912 13th ave s,Minneapolis,MN",44.931895000000004,-93.25644100000001,8,Bancroft,Powderhorn,2,6,01/12/2017,10:40,Jane
+"4102 10th Avenue South,Minneapolis,MN",44.928608000000004,-93.26001099999999,8,Bancroft,Powderhorn,2,6,01/12/2017,10:54,Jane
+"1364 39th Street East,Minneapolis,MN",44.932347,-93.255368,8,Bancroft,Powderhorn,2,6,01/12/2017,11:00,Jane
+"3904 17th ave s,Minneapolis,MN",44.932047,-93.250215,8,Bancroft,Powderhorn,2,6,01/12/2017,12:02,Jane
+"4019 14th Ave. S.,Minneapolis,MN",44.929624,-93.254917,8,Bancroft,Powderhorn,3,6,01/13/2017,08:34,Jane
+"1515 41st st,Minneapolis,MN",44.928701000000004,-93.253507,8,Bancroft,Powderhorn,3,6,01/13/2017,08:44,Jane
+"4101 12th ave s,Minneapolis,MN",44.92859,-93.257166,8,Bancroft,Powderhorn,3,6,01/13/2017,09:30,Jane
+"4139 17th ave so,Minneapolis,MN",44.927562,-93.249462,8,Bancroft,Powderhorn,3,6,01/13/2017,09:47,Jane
+"3919 13th ave s,Minneapolis,MN",44.931709999999995,-93.256168,8,Bancroft,Powderhorn,3,6,01/13/2017,10:14,Jane
+"4121 11th ave s,Minneapolis,MN",44.928059000000005,-93.258411,8,Bancroft,Powderhorn,3,6,01/13/2017,11:30,Jane
+"3833 11th ave s,Minneapolis,MN",44.93309,-93.258427,8,Bancroft,Powderhorn,3,6,01/13/2017,11:32,Jane
+"742 Polk St ne,Minneapolis,MN",44.998131,-93.244828,3,Beltrami,Northeast,2,2,01/12/2017,12:33,Jane
+"750 Buchanan St ne,Minneapolis,MN",44.998382,-93.239983,3,Beltrami,Northeast,2,2,01/12/2017,12:49,Jane
+"740 Buchanan st ne,Minneapolis,MN",44.998098999999996,-93.239735,3,Beltrami,Northeast,2,2,01/12/2017,12:50,Jane
+"414 Buchanan St ne,Minneapolis,MN",44.993796,-93.23996899999999,3,Beltrami,Northeast,2,2,01/12/2017,13:08,Jane
+"620 Buchanan St ne,Minneapolis,MN",44.995796,-93.239953,3,Beltrami,Northeast,2,2,01/12/2017,13:09,Jane
+"432 Buchanan st ne,Minneapolis,MN",44.994276,-93.239983,3,Beltrami,Northeast,2,2,01/12/2017,13:10,Jane
+"1308 Summer st ne,Minneapolis,MN",44.996919,-93.240874,3,Beltrami,Northeast,2,2,01/12/2017,13:32,Jane
+"611 Fillmore st ne,Minneapolis,MN",44.995515999999995,-93.242228,3,Beltrami,Northeast,3,2,01/13/2017,11:56,Jane
+"719 Tyler st ne,Minneapolis,MN",44.99738,-93.246062,3,Beltrami,Northeast,3,2,01/13/2017,11:57,Jane
+"1900 2nd st ne,Minneapolis,MN",45.007453000000005,-93.266201,3,Bottineau,Northeast,2,2,01/12/2017,00:45,Jane
+"2001 3rd St n,Minneapolis,MN",45.008718,-93.26432,3,Bottineau,Northeast,3,2,01/13/2017,08:18,Jane
+"2215 Grand st ne,Minneapolis,MN",45.010596,-93.26988399999999,3,Bottineau,Northeast,3,2,01/13/2017,11:31,Jane
+"305 17th ave ne,Minneapolis,MN",45.005424,-93.26432199999999,3,Bottineau,Northeast,3,2,01/13/2017,12:27,Jane
+"3032 DuPont Ave s,Minneapolis,MN",44.947195,-93.29350699999999,10,South Uptown,Calhoun Isle,1,5,01/11/2017,22:52,Jane
+"3040 DuPont Ave s,Minneapolis,MN",44.946856,-93.293554,10,South Uptown,Calhoun Isle,1,5,01/11/2017,22:59,Jane
+"3500 LYNDALE AVE S,Minneapolis,MN",44.93938,-93.288521,10,South Uptown,Calhoun Isle,2,5,01/12/2017,03:51,Jane
+"3300 block of Lyndale Avenue South,Minneapolis,MN",44.942787,-93.28819200000001,10,South Uptown,Calhoun Isle,2,5,01/12/2017,04:19,Jane
+"3400 block of Lyndale ave s,Minneapolis,MN",44.941134999999996,-93.288533,10,South Uptown,Calhoun Isle,2,5,01/12/2017,04:22,Jane
+"3328 fremont Ave s,Minneapolis,MN",44.942028,-93.296165,10,South Uptown,Calhoun Isle,2,5,01/12/2017,11:53,Jane
+"3124 Girard ave s,Minneapolis,MN",44.945673,-93.29734599999999,10,South Uptown,Calhoun Isle,2,5,01/12/2017,14:11,Jane
+"3108 girard ave s,Minneapolis,MN",44.94615,-93.297393,10,South Uptown,Calhoun Isle,2,5,01/12/2017,14:12,Jane
+"3220 girard ave s,Minneapolis,MN",44.944047999999995,-93.29747900000001,10,South Uptown,Calhoun Isle,2,5,01/12/2017,14:57,Jane
+"3336 Fremont ave s,Minneapolis,MN",44.941814,-93.29616899999999,10,South Uptown,Calhoun Isle,2,5,01/12/2017,14:59,Jane
+"1012 33rd st w,Minneapolis,MN",44.942924,-93.292491,10,South Uptown,Calhoun Isle,2,5,01/12/2017,15:33,Jane
+"3344 Fremont ave s,Minneapolis,MN",44.941593,-93.29616999999999,10,South Uptown,Calhoun Isle,2,5,01/12/2017,16:05,Jane
+"3204 Fremont ave s,Minneapolis,MN",44.944454,-93.29606,10,South Uptown,Calhoun Isle,2,5,01/12/2017,16:08,Jane
+"3229 Girard,Minneapolis,MN",44.94377,-93.296809,10,South Uptown,Calhoun Isle,3,5,01/13/2017,09:24,Jane
+"3321 Fremont Ave s,Minneapolis,MN",44.942243,-93.295438,10,South Uptown,Calhoun Isle,3,5,01/13/2017,10:07,Jane
+"1325 33rd st w,Minneapolis,MN",44.942894,-93.296127,10,South Uptown,Calhoun Isle,3,5,01/13/2017,10:52,Jane
+"1205 33rd st w,Minneapolis,MN",44.942902000000004,-93.294597,10,South Uptown,Calhoun Isle,3,5,01/13/2017,10:54,Jane
+"3117 FREEMONT AVE S,Minneapolis,MN",44.945903,-93.295402,10,South Uptown,Calhoun Isle,3,5,01/13/2017,11:37,Jane
+"1323 34TH ST W,Minneapolis,MN",44.9413,-93.296364,10,South Uptown,Calhoun Isle,3,5,01/13/2017,11:44,Jane
+"811 34 TH ST W,Minneapolis,MN",44.941169,-93.290028,10,South Uptown,Calhoun Isle,3,5,01/13/2017,12:27,Jane
+"829 34TH ST W,Minneapolis,MN",44.941297999999996,-93.29033199999999,10,South Uptown,Calhoun Isle,3,5,01/13/2017,12:40,Jane
+"715' 32ND ST W,Minneapolis,MN",44.944721,-93.288336,10,South Uptown,Calhoun Isle,3,5,01/13/2017,13:15,Jane
+"3405 COLFAX AVE S,Minneapolis,MN",44.940494,-93.291985,10,South Uptown,Calhoun Isle,3,5,01/13/2017,13:22,Jane
+"2521 butler pl,Minneapolis,MN",44.964626,-93.236018,2,Cedar Riverside,University,1,4,01/11/2017,23:40,Jane
+"1400-1499 3rd st s,Minneapolis,MN",44.972991,-93.249325,6,Cedar Riverside,University,2,4,01/12/2017,04:07,Jane
+"1400-1499 3rd st s,Minneapolis,MN",44.972991,-93.249325,6,Cedar Riverside,University,2,4,01/12/2017,04:30,Jane
+"302 19th St s ,Minneapolis,MN",44.970538,-93.245684,6,Cedar Riverside,University,2,4,01/12/2017,12:12,Jane
+"322 19th ave ne,Minneapolis,MN",44.97047,-93.24568199999999,6,Cedar Riverside,University,2,4,01/12/2017,15:21,Jane
+"421 19th ave ne,Minneapolis,MN",44.969543,-93.245622,2,Cedar Riverside,University,3,4,01/13/2017,14:16,Jane
+"713 27th Ave s,Minneapolis,MN",44.966435,-93.232968,2,Cedar Riverside,University,3,4,01/13/2017,14:17,Jane
+"721 27th Ave s,Minneapolis,MN",44.966331,-93.232968,2,Cedar Riverside,University,3,4,01/13/2017,14:19,Jane
+"701 27th Ave s,Minneapolis,MN",44.966590999999994,-93.232968,2,Cedar Riverside,University,3,4,01/13/2017,14:54,Jane
+"703 27th Ave s,Minneapolis,MN",44.966565,-93.232968,2,Cedar Riverside,University,3,4,01/13/2017,14:56,Jane
+"707 27th Ave s,Minneapolis,MN",44.966513,-93.232968,2,Cedar Riverside,University,3,4,01/13/2017,15:41,Jane
+"719 27 th Ave s,Minneapolis,MN",44.966357,-93.232968,2,Cedar Riverside,University,3,4,01/13/2017,15:43,Jane
+"3024 chicago ave s,Minneapolis,MN",44.947497,-93.26300400000001,9,Central,Powderhorn,1,5,01/11/2017,21:29,Jane
+"3732 Chicago Avenue South,Minneapolis,MN",44.934802000000005,-93.262888,8,Central,Powderhorn,1,5,01/11/2017,22:03,Jane
+"3436 Chicago Avenue South,Minneapolis,MN",44.939981,-93.262948,9,Central,Powderhorn,1,5,01/11/2017,22:12,Jane
+"3022 Chicago Ave S,Minneapolis,MN",44.947595,-93.263048,9,Central,Powderhorn,1,5,01/11/2017,22:15,Jane
+"3123 20 3rd Avenue South,Minneapolis,MN",44.945818,-93.272806,9,Central,Powderhorn,2,5,01/12/2017,05:38,Jane
+"3512 4th ave s,Minneapolis,MN",44.938914000000004,-93.27059200000001,9,Central,Powderhorn,2,5,01/12/2017,15:20,Jane
+"3013 columbus ave s,Minneapolis,MN",44.947849,-93.263918,9,Central,Powderhorn,3,5,01/13/2017,14:57,Jane
+"3723 Penn ave n ,Minneapolis,MN",45.022960999999995,-93.308684,4,Cleveland,Camden,2,1,01/12/2017,00:05,Jane
+"3733 Penn ave n,Minneapolis,MN",45.023288,-93.308689,4,Cleveland,Camden,2,1,01/12/2017,00:41,Jane
+"2700 CENTRAL AVE NE,Minneapolis,MN",45.017124,-93.247783,1,Columbia Park,Northeast,2,2,01/12/2017,00:01,Jane
+"2800 block of central,Minneapolis,MN",45.018603000000006,-93.24745300000001,1,Columbia Park,Northeast,2,2,01/12/2017,00:10,Jane
+"611 35th ave ne,Minneapolis,MN",45.031372999999995,-93.256559,1,Columbia Park,Northeast,3,2,01/13/2017,13:33,Jane
+"745 36th ave ne,Minneapolis,MN",45.034134,-93.251793,1,Columbia Park,Northeast,3,2,01/13/2017,13:38,Jane
+"3631 Quincy st ne,Minneapolis,MN",45.034881,-93.251127,1,Columbia Park,Northeast,3,2,01/13/2017,14:00,Jane
+"1101 como Ave SE,Minneapolis,MN",44.987935,-93.235782,2,Como,University,2,4,01/12/2017,01:10,Jane
+"1082 12th Ave SE ,Minneapolis,MN",44.990361,-93.234341,2,Como,University,2,4,01/12/2017,08:39,Jane
+"1114 12th Ave SE ,Minneapolis,MN",44.991233,-93.23434,2,Como,University,2,4,01/12/2017,08:42,Jane
+"334 Garfield St ne,Minneapolis,MN",44.992141,-93.233351,1,Como,University,2,2,01/12/2017,08:59,Jane
+"328 Garfield st ne,Minneapolis,MN",44.992034999999994,-93.233351,1,Como,University,2,2,01/12/2017,09:00,Jane
+"334 Ulysses St NE,Minneapolis,MN",44.991505,-93.235895,1,Como,University,2,4,01/12/2017,09:06,Jane
+"924 12th ave se,Minneapolis,MN",44.986983,-93.234551,2,Como,University,2,4,01/12/2017,09:37,Jane
+"1008 12th Ave SE -,Minneapolis,MN",44.988109,-93.234377,2,Como,University,2,4,01/12/2017,09:43,Jane
+"1026 12th Ave SE -,Minneapolis,MN",44.988654,-93.234193,2,Como,University,2,4,01/12/2017,09:47,Jane
+"1211 talmage ave e,Minneapolis,MN",44.989678000000005,-93.234116,2,Como,University,2,4,01/12/2017,10:21,Jane
+"1086 13th ave se,Minneapolis,MN",44.990463,-93.233032,2,Como,University,2,4,01/12/2017,10:23,Jane
+"1034 12th Ave SE ,Minneapolis,MN",44.988883,-93.234328,2,Como,University,2,4,01/12/2017,10:45,Jane
+"1024 15th Ave SE - ,Minneapolis,MN",44.988655,-93.230447,1,Como,University,2,4,01/12/2017,10:49,Jane
+"1058 16th Ave se,Minneapolis,MN",44.989513,-93.229222,1,Como,University,2,4,01/12/2017,10:55,Jane
+"1090 15th Ave s e,Minneapolis,MN",44.990561,-93.230491,1,Como,University,2,4,01/12/2017,11:34,Jane
+"1104 14th ave se,Minneapolis,MN",44.990996,-93.23174,1,Como,University,2,4,01/12/2017,11:38,Jane
+"1070 14th ave se,Minneapolis,MN",44.990007,-93.231647,1,Como,University,2,4,01/12/2017,11:40,Jane
+"952 weeks ave se,Minneapolis,MN",44.986908,-93.21737900000001,2,Como,University,2,4,01/12/2017,11:55,Jane
+"924 19th ave se,Minneapolis,MN",44.987313,-93.225277,2,Como,University,2,4,01/12/2017,11:58,Jane
+"1094 17th Ave s e,Minneapolis,MN",44.99066,-93.227936,1,Como,University,2,4,01/12/2017,12:13,Jane
+"888 21st ave se,Minneapolis,MN",44.986379,-93.222826,2,Como,University,2,4,01/12/2017,12:19,Jane
+"850 18th Ave SE ,Minneapolis,MN",44.984974,-93.22691,2,Como,University,2,4,01/12/2017,12:34,Jane
+"1117 talmage,Minneapolis,MN",44.989678000000005,-93.23561600000001,2,Como,University,2,4,01/12/2017,12:45,Jane
+"1030 19th Ave s e,Minneapolis,MN",44.988771,-93.225337,1,Como,University,2,4,01/12/2017,12:50,Jane
+"854 23rd Ave SE ,Minneapolis,MN",44.985298,-93.219942,2,Como,University,2,4,01/12/2017,12:54,Jane
+"2304 Talmage Ave SE ,Minneapolis,MN",44.9897,-93.220213,1,Como,University,2,4,01/12/2017,12:58,Jane
+"834 23rd ave se,Minneapolis,MN",44.984671,-93.220311,2,Como,University,2,4,01/12/2017,13:02,Jane
+"1034 19th ave se,Minneapolis,MN",44.988895,-93.22529399999999,1,Como,University,2,4,01/12/2017,13:06,Jane
+"1018 16th ave se,Minneapolis,MN",44.988423,-93.229244,1,Como,University,2,4,01/12/2017,13:10,Jane
+"922 18th ave se,Minneapolis,MN",44.987244,-93.22691400000001,2,Como,University,2,4,01/12/2017,13:16,Jane
+"1527 talmage ave se,Minneapolis,MN",44.989672999999996,-93.229854,1,Como,University,2,4,01/12/2017,13:17,Jane
+"2412 colr av se ,Minneapolis,MN",44.985938,-93.218874,2,Como,University,2,4,01/12/2017,13:23,Jane
+"1028 23rd Ave s e,Minneapolis,MN",44.988805,-93.219983,1,Como,University,2,4,01/12/2017,13:33,Jane
+"860 20th ave se,Minneapolis,MN",44.985283,-93.223947,2,Como,University,2,4,01/12/2017,13:51,Jane
+"844 18th ave se,Minneapolis,MN",44.984837,-93.226912,2,Como,University,2,4,01/12/2017,14:03,Jane
+"846 25th ave se,Minneapolis,MN",44.984992999999996,-93.217539,2,Como,University,2,4,01/12/2017,14:03,Jane
+"1020 27th Ave s e ,Minneapolis,MN",44.988624,-93.21475,1,Como,University,2,4,01/12/2017,14:22,Jane
+"1708 Rollins Ave se,Minneapolis,MN",44.985344,-93.228211,2,Como,University,2,4,01/12/2017,14:24,Jane
+"894 26th ave se,Minneapolis,MN",44.986649,-93.216094,2,Como,University,2,4,01/12/2017,14:45,Jane
+"1706 rollins ave se,Minneapolis,MN",44.985345,-93.228311,2,Como,University,2,4,01/12/2017,14:50,Jane
+"1704 Rollins Ave se,Minneapolis,MN",44.985347,-93.228411,2,Como,University,2,4,01/12/2017,15:19,Jane
+"1071 12th Ave SE - ,Minneapolis,MN",44.990029,-93.23489000000001,2,Como,University,3,4,01/13/2017,08:49,Jane
+"1033 12th Ave SE - ,Minneapolis,MN",44.988819,-93.234615,2,Como,University,3,4,01/13/2017,08:52,Jane
+"333 Garfield st ne,Minneapolis,MN",44.992489,-93.23306099999999,1,Como,University,3,2,01/13/2017,09:00,Jane
+"333 Ulysses st ne,Minneapolis,MN",44.991776,-93.235905,1,Como,University,3,2,01/13/2017,09:45,Jane
+"1021 12th Ave SE - ,Minneapolis,MN",44.988562,-93.234616,2,Como,University,3,4,01/13/2017,10:02,Jane
+"1027 14th ave se,Minneapolis,MN",44.988661,-93.232411,2,Como,University,3,4,01/13/2017,10:20,Jane
+"1011 16th ave se,Minneapolis,MN",44.988209000000005,-93.229861,1,Como,University,3,4,01/13/2017,10:38,Jane
+"1053 15th ave se,Minneapolis,MN",44.989398,-93.231073,1,Como,University,3,4,01/13/2017,10:47,Jane
+"1005 25th ave se,Minneapolis,MN",44.988175,-93.218071,1,Como,University,3,4,01/13/2017,10:49,Jane
+"1043 13th Ave SE - ,Minneapolis,MN",44.989090999999995,-93.23369,2,Como,University,3,4,01/13/2017,11:02,Jane
+"931 13th Ave SE - ,Minneapolis,MN",44.987189,-93.233331,2,Como,University,3,4,01/13/2017,11:05,Jane
+"1027 17th ave se,Minneapolis,MN",44.988651000000004,-93.22845600000001,1,Como,University,3,4,01/13/2017,11:14,Jane
+"933 13th ave se,Minneapolis,MN",44.987189,-93.233331,2,Como,University,3,4,01/13/2017,11:21,Jane
+"1045 16th ave se,Minneapolis,MN",44.989128,-93.229865,1,Como,University,3,4,01/13/2017,11:26,Jane
+"1503 brook ave se,Minneapolis,MN",44.986598,-93.230257,2,Como,University,3,4,01/13/2017,11:43,Jane
+"1087 17th ave se,Minneapolis,MN",44.990421999999995,-93.22858599999999,1,Como,University,3,4,01/13/2017,11:45,Jane
+"919 12th Avenue Southeast ,Minneapolis,MN",44.987083,-93.235101,2,Como,University,3,4,01/13/2017,11:46,Jane
+"1223 BROOK AVE SE ,Minneapolis,MN",44.986955,-93.23427099999999,2,Como,University,3,4,01/13/2017,11:47,Jane
+"1221 BROOK AVE SE ,Minneapolis,MN",44.986955,-93.23427099999999,2,Como,University,3,4,01/13/2017,11:50,Jane
+"1055 16th Ave SE ,Minneapolis,MN",44.98941,-93.22979699999999,1,Como,University,3,4,01/13/2017,12:00,Jane
+"981 17th Ave SE ,Minneapolis,MN",44.987114,-93.228868,2,Como,University,3,4,01/13/2017,12:02,Jane
+"1021 17th ave se,Minneapolis,MN",44.988479,-93.228241,1,Como,University,3,4,01/13/2017,12:05,Jane
+"1019 17th ave se,Minneapolis,MN",44.988427,-93.228535,1,Como,University,3,4,01/13/2017,12:05,Jane
+"1505 Brook Ave se,Minneapolis,MN",44.986598,-93.230148,2,Como,University,3,4,01/13/2017,12:07,Jane
+"851 18th Ave SE ,Minneapolis,MN",44.985186999999996,-93.22694399999999,2,Como,University,3,4,01/13/2017,12:08,Jane
+"927 18th Ave se,Minneapolis,MN",44.985515,-93.226943,2,Como,University,3,4,01/13/2017,12:08,Jane
+"1515 brooks ave se,Minneapolis,MN",44.986863,-93.229641,2,Como,University,3,4,01/13/2017,12:08,Jane
+"1707 Rollins ave se,Minneapolis,MN",44.985371,-93.22824399999999,2,Como,University,3,4,01/13/2017,12:13,Jane
+"841 19th Avenue Southeast ,Minneapolis,MN",44.984707,-93.22588499999999,2,Como,University,3,4,01/13/2017,12:15,Jane
+"993 17th ave se,Minneapolis,MN",44.987607000000004,-93.228607,2,Como,University,3,4,01/13/2017,12:26,Jane
+"989 17th Ave se,Minneapolis,MN",44.987468,-93.228608,2,Como,University,3,4,01/13/2017,12:30,Jane
+"985 17th ave se ,Minneapolis,MN",44.987328999999995,-93.228608,2,Como,University,3,4,01/13/2017,12:31,Jane
+"829 23rd Ave se,Minneapolis,MN",44.984574,-93.22066,2,Como,University,3,4,01/13/2017,12:36,Jane
+"1030 19th ave se,Minneapolis,MN",44.988771,-93.225337,1,Como,University,3,4,01/13/2017,12:40,Jane
+"919 21st ave se,Minneapolis,MN",44.987286,-93.222853,2,Como,University,3,4,01/13/2017,12:42,Jane
+"915 21st ave se,Minneapolis,MN",44.987111999999996,-93.223209,2,Como,University,3,4,01/13/2017,12:45,Jane
+"1805 Talmage Ave se,Minneapolis,MN",44.98981,-93.226496,1,Como,University,3,4,01/13/2017,12:46,Jane
+"853 20th Ave se,Minneapolis,MN",44.985046999999994,-93.224487,2,Como,University,3,4,01/13/2017,12:46,Jane
+"1011 21ST AVE SE,Minneapolis,MN",44.988232,-93.223232,1,Como,University,3,4,01/13/2017,12:48,Jane
+"1105 22nd Ave se,Minneapolis,MN",44.991171,-93.221753,1,Como,University,3,4,01/13/2017,12:49,Jane
+"1057 16th ave se,Minneapolis,MN",44.989465,-93.229514,1,Como,University,3,4,01/13/2017,12:50,Jane
+"823 22nd Avenue Southeast ,Minneapolis,MN",44.984421000000005,-93.221613,2,Como,University,3,4,01/13/2017,12:54,Jane
+"1067 16th ave se,Minneapolis,MN",44.989901,-93.22980799999999,1,Como,University,3,4,01/13/2017,13:01,Jane
+"861 23rd ave se,Minneapolis,MN",44.985457000000004,-93.220341,2,Como,University,3,4,01/13/2017,13:02,Jane
+"865 23rd Ave SE ,Minneapolis,MN",44.985553,-93.22034000000001,2,Como,University,3,4,01/13/2017,13:11,Jane
+"1025 21st Ave se,Minneapolis,MN",44.98867,-93.22323,1,Como,University,3,4,01/13/2017,13:16,Jane
+"2221 cole ave se,Minneapolis,MN",44.987221999999996,-93.220989,2,Como,University,3,4,01/13/2017,13:17,Jane
+"929 22nd Ave se,Minneapolis,MN",44.987513,-93.221575,2,Como,University,3,4,01/13/2017,13:17,Jane
+"1019 20th Avenue Southeast ,Minneapolis,MN",44.988438,-93.224488,1,Como,University,3,4,01/13/2017,13:25,Jane
+"867 23rd ave se ,Minneapolis,MN",44.985611999999996,-93.220652,2,Como,University,3,4,01/13/2017,13:26,Jane
+"1517 brook Ave se,Minneapolis,MN",44.986599,-93.229599,2,Como,University,3,4,01/13/2017,13:30,Jane
+"847 25th Ave se,Minneapolis,MN",44.985061,-93.21810500000001,2,Como,University,3,4,01/13/2017,13:33,Jane
+"911 27TH AVE SE,Minneapolis,MN",44.987089000000005,-93.215515,2,Como,University,3,4,01/13/2017,13:35,Jane
+"2301 cole ave se,Minneapolis,MN",44.986847999999995,-93.219915,2,Como,University,3,4,01/13/2017,13:54,Jane
+"1031 27th Avenue Southeast ,Minneapolis,MN",44.988960999999996,-93.215525,1,Como,University,3,4,01/13/2017,13:58,Jane
+"2127 fairmont st se,Minneapolis,MN",44.986081,-93.22252399999999,2,Como,University,3,4,01/13/2017,14:14,Jane
+"951 weeks ave se,Minneapolis,MN",44.987515,-93.218928,2,Como,University,3,4,01/13/2017,14:54,Jane
+"2739 40 th ave s,Minneapolis,MN",44.952519,-93.21526800000001,2,Cooper,Longfellow,3,4,01/13/2017,08:47,Jane
+"2103 31st st e,Minneapolis,MN",44.946545,-93.24221,9,Corcoran,Powderhorn,2,6,01/12/2017,02:14,Jane
+"3434 23rd ave s,Minneapolis,MN",44.940094,-93.239202,9,Corcoran,Powderhorn,2,6,01/12/2017,05:34,Jane
+"3316 Longfellow ave s,Minneapolis,MN",44.94226,-93.246341,9,Corcoran,Powderhorn,2,6,01/12/2017,10:26,Jane
+"3528 19th ave so,Minneapolis,MN",44.938472999999995,-93.245082,9,Corcoran,Powderhorn,2,6,01/12/2017,11:49,Jane
+"3520 19th ave so,Minneapolis,MN",44.938699,-93.245171,9,Corcoran,Powderhorn,2,6,01/12/2017,11:57,Jane
+"3108 22nd ave s,Minneapolis,MN",44.946209,-93.240646,9,Corcoran,Powderhorn,2,6,01/12/2017,12:28,Jane
+"3546 22nd ave s,Minneapolis,MN",44.937996999999996,-93.241046,9,Corcoran,Powderhorn,2,6,01/12/2017,12:36,Jane
+"3128 22nd ave s,Minneapolis,MN",44.94571,-93.241119,9,Corcoran,Powderhorn,2,6,01/12/2017,13:04,Jane
+"3122 22nd ave s,Minneapolis,MN",44.945831,-93.241117,9,Corcoran,Powderhorn,2,6,01/12/2017,13:17,Jane
+"3116 19th ave so,Minneapolis,MN",44.945882,-93.245138,9,Corcoran,Powderhorn,2,6,01/12/2017,13:18,Jane
+"3106 22nd ave so,Minneapolis,MN",44.946267,-93.24096999999999,9,Corcoran,Powderhorn,2,6,01/12/2017,13:25,Jane
+"3118 22nd ave s,Minneapolis,MN",44.945925,-93.240645,9,Corcoran,Powderhorn,2,6,01/12/2017,13:40,Jane
+"3212 21st ave s,Minneapolis,MN",44.944158,-93.24261899999999,9,Corcoran,Powderhorn,2,6,01/12/2017,14:17,Jane
+"3508 26TH AVE S,Minneapolis,MN",44.939209000000005,-93.23495799999999,9,Corcoran,Powderhorn,2,6,01/12/2017,14:27,Jane
+"3116 22nd ave s,Minneapolis,MN",44.945971,-93.24112099999999,9,Corcoran,Powderhorn,2,6,01/12/2017,14:30,Jane
+"1838 32nd Street East,Minneapolis,MN",44.944757,-93.24642800000001,9,Corcoran,Powderhorn,2,6,01/12/2017,15:25,Jane
+"3504 27th ave so,Minneapolis,MN",44.939273,-93.23342,9,Corcoran,Powderhorn,2,6,01/12/2017,15:47,Jane
+"3205 21st ave s,Minneapolis,MN",44.944438,-93.242007,9,Corcoran,Powderhorn,3,6,01/13/2017,09:58,Jane
+"3021 21st Ave. S. ,Minneapolis,MN",44.947037,-93.242308,9,Corcoran,Powderhorn,3,6,01/13/2017,10:15,Jane
+"3015 21st Avenue South,Minneapolis,MN",44.947297999999996,-93.242308,9,Corcoran,Powderhorn,3,6,01/13/2017,10:20,Jane
+"3149 21st ave s,Minneapolis,MN",44.945018,-93.24183199999999,9,Corcoran,Powderhorn,3,6,01/13/2017,10:46,Jane
+"3151 21ST AVE S.,Minneapolis,MN",44.944965,-93.242299,9,Corcoran,Powderhorn,3,6,01/13/2017,10:53,Jane
+"3127 21st Avenue South,Minneapolis,MN",44.945592,-93.24184100000001,9,Corcoran,Powderhorn,3,6,01/13/2017,10:54,Jane
+"3017 21th Ave,Minneapolis,MN",44.947062,-93.24163399999999,9,Corcoran,Powderhorn,3,6,01/13/2017,11:28,Jane
+"1829 34th St. E.,Minneapolis,MN",44.941327,-93.24706,9,Corcoran,Powderhorn,3,6,01/13/2017,11:40,Jane
+"3533 24th ave so,Minneapolis,MN",44.938441999999995,-93.236926,9,Corcoran,Powderhorn,3,6,01/13/2017,11:52,Jane
+"3041 22nd Avenue South,Minneapolis,MN",44.94807,-93.24032700000001,9,Corcoran,Powderhorn,3,6,01/13/2017,11:53,Jane
+"3321 longfellow,Minneapolis,MN",44.942121,-93.24578299999999,9,Corcoran,Powderhorn,3,6,01/13/2017,12:04,Jane
+"3135 longfellow,Minneapolis,MN",44.945244,-93.246088,9,Corcoran,Powderhorn,3,6,01/13/2017,12:05,Jane
+"3215 22nd Avenue South,Minneapolis,MN",44.944105,-93.240279,9,Corcoran,Powderhorn,3,6,01/13/2017,12:26,Jane
+"3551 22ND AVE S,Minneapolis,MN",44.937878000000005,-93.24023199999999,9,Corcoran,Powderhorn,3,6,01/13/2017,12:29,Jane
+"2301 32nd ST E,Minneapolis,MN",44.944744,-93.238919,9,Corcoran,Powderhorn,3,6,01/13/2017,12:47,Jane
+"2305 32nd st E,Minneapolis,MN",44.944552,-93.23859300000001,9,Corcoran,Powderhorn,3,6,01/13/2017,12:49,Jane
+"2309 32nd st e,Minneapolis,MN",44.944549,-93.238365,9,Corcoran,Powderhorn,3,6,01/13/2017,12:58,Jane
+"1911 32nd st e,Minneapolis,MN",44.944590000000005,-93.244088,9,Corcoran,Powderhorn,3,6,01/13/2017,13:32,Jane
+"3049 22nd ave so,Minneapolis,MN",44.946827,-93.240332,9,Corcoran,Powderhorn,3,6,01/13/2017,13:40,Jane
+"900 2nd st ne,Minneapolis,MN",44.977746,-93.254701,3,Downtown East,Central,2,3,01/12/2017,00:42,Jane
+"299 11th Ave s,Minneapolis,MN",44.97439,-93.253999,3,Downtown East,Central,2,3,01/12/2017,02:11,Jane
+"229 11 the Ave s,Minneapolis,MN",44.975497999999995,-93.253045,3,Downtown East,Central,2,3,01/12/2017,02:14,Jane
+"229 12th ave ne,Minneapolis,MN",44.974641999999996,-93.2509,3,Downtown East,Central,3,3,01/13/2017,11:07,Jane
+"33 4th st n,Minneapolis,MN",44.981048,-93.27229799999999,3,Downtown West,Central,1,3,01/11/2017,22:48,Jane
+"311 8th st SW ,Minneapolis,MN",44.974014000000004,-93.268603,7,Downtown West,Central,2,3,01/12/2017,04:43,Jane
+"106 3rd st ne,Minneapolis,MN",44.980098999999996,-93.267393,3,Downtown West,Central,2,3,01/12/2017,08:57,Jane
+"704 3rd ave ne,Minneapolis,MN",44.975137,-93.268291,7,Downtown West,Central,2,3,01/12/2017,09:21,Jane
+"300 5th ave ne,Minneapolis,MN",44.977806,-93.262579,3,Downtown West,Central,2,3,01/12/2017,10:04,Jane
+"256 6th st ne,Minneapolis,MN",44.976399,-93.267948,7,Downtown West,Central,2,3,01/12/2017,11:47,Jane
+"315 4th ave ne,Minneapolis,MN",44.977140999999996,-93.265136,7,Downtown West,Central,3,3,01/13/2017,08:36,Jane
+"511 3rd ave ne,Minneapolis,MN",44.976914,-93.266581,7,Downtown West,Central,3,3,01/13/2017,08:46,Jane
+"4100 Block of Lyndale Avenue South,Minneapolis,MN",44.928416999999996,-93.288834,10,East Harriet,Southwest,2,5,01/12/2017,04:16,Jane
+"3629 aldrich ave s,Minneapolis,MN",44.936737,-93.289261,10,East Harriet,Southwest,3,5,01/13/2017,13:53,Jane
+"1025 37th st w,Minneapolis,MN",44.935878,-93.292834,10,East Harriet,Southwest,3,5,01/13/2017,14:16,Jane
+"821 37th st w,Minneapolis,MN",44.935871,-93.289781,10,East Harriet,Southwest,3,5,01/13/2017,14:19,Jane
+"2742 HENNEPIN AVE,Minneapolis,MN",44.952436999999996,-93.298598,7,East Isles,Calhoun Isle,1,3,01/11/2017,22:49,Jane
+"2822 HENNEPIN AVE ,Minneapolis,MN",44.951174,-93.29828499999999,7,East Isles,Calhoun Isle,1,3,01/11/2017,23:02,Jane
+"2320 fremont ave s,Minneapolis,MN",44.959396999999996,-93.296019,7,East Isles,Calhoun Isle,2,3,01/12/2017,10:49,Jane
+"2300 humboldt ave s,Minneapolis,MN",44.959977,-93.29860699999999,7,East Isles,Calhoun Isle,2,3,01/12/2017,11:09,Jane
+"2628 humboldt ave s,Minneapolis,MN",44.954640999999995,-93.29921,7,East Isles,Calhoun Isle,2,3,01/12/2017,11:43,Jane
+"2714 humbolt Ave s ,Minneapolis,MN",44.953212,-93.299448,7,East Isles,Calhoun Isle,2,3,01/12/2017,11:52,Jane
+"2700 irving ave s,Minneapolis,MN",44.953897,-93.30089,7,East Isles,Calhoun Isle,2,3,01/12/2017,12:10,Jane
+"2620 Humboldt s,Minneapolis,MN",44.954912,-93.299074,7,East Isles,Calhoun Isle,2,3,01/12/2017,12:21,Jane
+"2723 irving ave s ,Minneapolis,MN",44.953326000000004,-93.300884,7,East Isles,Calhoun Isle,2,3,01/12/2017,12:39,Jane
+"2213 Emerson Ave s ,Minneapolis,MN",44.960437,-93.294353,7,East Isles,Calhoun Isle,3,3,01/13/2017,09:21,Jane
+"2449 girard ave s,Minneapolis,MN",44.957478,-93.29658,7,East Isles,Calhoun Isle,3,3,01/13/2017,10:09,Jane
+"2739 humbolt ave s,Minneapolis,MN",44.952646,-93.29966,7,East Isles,Calhoun Isle,3,3,01/13/2017,10:37,Jane
+"2703 humbolt ave s,Minneapolis,MN",44.953567,-93.299251,7,East Isles,Calhoun Isle,3,3,01/13/2017,11:04,Jane
+"2499 BLOOMINGTON AVE,Minneapolis,MN",44.957353999999995,-93.252398,9,East Phillips,Phillips,2,3,01/12/2017,00:02,Jane
+"3022 James Ave s,Minneapolis,MN",44.947492,-93.303414,10,ECCO,Calhoun Isle,2,5,01/12/2017,09:21,Jane
+"3012 James Ave s,Minneapolis,MN",44.947811,-93.303753,10,ECCO,Calhoun Isle,2,5,01/12/2017,09:34,Jane
+"3104 Holmes ave s,Minneapolis,MN",44.946312,-93.299901,10,ECCO,Calhoun Isle,2,5,01/12/2017,10:52,Jane
+"3102 Holmes ave s,Minneapolis,MN",44.94636,-93.29959699999999,10,ECCO,Calhoun Isle,2,5,01/12/2017,10:56,Jane
+"3124 Holmes Ave s,Minneapolis,MN",44.945678,-93.29983299999999,10,ECCO,Calhoun Isle,2,5,01/12/2017,11:10,Jane
+"3502 humbolt Ave s,Minneapolis,MN",44.939316999999996,-93.300946,10,ECCO,Calhoun Isle,2,5,01/12/2017,11:14,Jane
+"3040 James Ave s,Minneapolis,MN",44.946923,-93.303765,10,ECCO,Calhoun Isle,2,5,01/12/2017,11:47,Jane
+"3106 Holmes ave s,Minneapolis,MN",44.946246,-93.299599,10,ECCO,Calhoun Isle,2,5,01/12/2017,12:09,Jane
+"3120 Humboldt ave s,Minneapolis,MN",44.945762,-93.30122800000001,10,ECCO,Calhoun Isle,2,5,01/12/2017,12:12,Jane
+"3011 James Ave s,Minneapolis,MN",44.94791,-93.303377,10,ECCO,Calhoun Isle,3,5,01/13/2017,08:24,Jane
+"3025 James Ave s,Minneapolis,MN",44.947438,-93.30304,10,ECCO,Calhoun Isle,3,5,01/13/2017,08:28,Jane
+"3025 Knox Ave s,Minneapolis,MN",44.947435,-93.304311,10,ECCO,Calhoun Isle,3,5,01/13/2017,08:33,Jane
+"3019 Knox Ave s,Minneapolis,MN",44.947626,-93.304627,10,ECCO,Calhoun Isle,3,5,01/13/2017,08:35,Jane
+"3543 Humboldt Ave s,Minneapolis,MN",44.938234,-93.30064,10,ECCO,Calhoun Isle,3,5,01/13/2017,09:12,Jane
+"3427 Humboldt Ave s,Minneapolis,MN",44.940371,-93.300536,10,ECCO,Calhoun Isle,3,5,01/13/2017,09:14,Jane
+"3005 knox ave s ,Minneapolis,MN",44.94807,-93.304303,10,ECCO,Calhoun Isle,3,5,01/13/2017,10:01,Jane
+"3117 Holmes Ave s,Minneapolis,MN",44.945926,-93.299336,10,ECCO,Calhoun Isle,3,5,01/13/2017,10:05,Jane
+"604 15th ST E,Minneapolis,MN",44.968070000000004,-93.267301,7,Elliot Park,Central,1,3,01/11/2017,22:28,Jane
+"512 15TH ST E,Minneapolis,MN",44.968074,-93.26847099999999,7,Elliot Park,Central,1,3,01/11/2017,22:38,Jane
+"625 13th ave ne,Minneapolis,MN",44.970110999999996,-93.253908,6,Elliot Park,Central,1,3,01/11/2017,22:40,Jane
+"745 15TH st e,Minneapolis,MN",44.96804,-93.26316,6,Elliot Park,Central,1,3,01/11/2017,23:08,Jane
+"741 15TH ST E,Minneapolis,MN",44.96804,-93.263204,6,Elliot Park,Central,1,3,01/11/2017,23:30,Jane
+"729 15TH ST E,Minneapolis,MN",44.968041,-93.26341500000001,6,Elliot Park,Central,1,3,01/11/2017,23:35,Jane
+"731 15TH ST E,Minneapolis,MN",44.967845000000004,-93.263317,6,Elliot Park,Central,1,3,01/11/2017,23:54,Jane
+"735 15th st e,Minneapolis,MN",44.96804,-93.263271,6,Elliot Park,Central,2,3,01/12/2017,01:04,Jane
+"743 15th st e,Minneapolis,MN",44.96804,-93.263182,6,Elliot Park,Central,2,3,01/12/2017,01:08,Jane
+"1502brook Ave se,Minneapolis,MN",44.967895,-93.26510999999999,6,Elliot Park,Central,2,3,01/12/2017,13:26,Jane
+"4718 Chicago ave s,Minneapolis,MN",44.917531,-93.262627,8,Field,Nokomis,1,5,01/11/2017,22:18,Jane
+"4900 BLOCK OF 4th Avenue South,Minneapolis,MN",44.914131,-93.27068,8,Field,Nokomis,1,5,01/11/2017,23:10,Jane
+"4844 Chicago Avenue South,Minneapolis,MN",44.914684,-93.26299399999999,8,Field,Nokomis,1,5,01/11/2017,23:25,Jane
+"3706 Penn Ave N,Minneapolis,MN",45.022511,-93.30793299999999,4,Folwell,Camden,1,1,01/11/2017,23:53,Jane
+"33RD & EMERSON AVE ,Minneapolis,MN",45.014943,-93.294336,4,Folwell,Camden,2,1,01/12/2017,01:23,Jane
+"3753 FREMONT AVE N ,Minneapolis,MN",45.023682,-93.295767,4,Folwell,Camden,2,1,01/12/2017,01:30,Jane
+"3457 FREMONT AVE ,Minneapolis,MN",45.018457,-93.295851,4,Folwell,Camden,2,1,01/12/2017,02:06,Jane
+"3507 Fremont Ave N,Minneapolis,MN",45.018825,-93.295951,4,Folwell,Camden,2,1,01/12/2017,02:19,Jane
+"3230 Girard Ave N. ,Minneapolis,MN",45.014183,-93.296483,4,Folwell,Camden,2,1,01/12/2017,11:22,Jane
+"3750 girard Ave n ,Minneapolis,MN",45.02366,-93.29665,4,Folwell,Camden,2,1,01/12/2017,11:37,Jane
+"3240 Irving Ave n,Minneapolis,MN",45.014565999999995,-93.299042,4,Folwell,Camden,2,1,01/12/2017,13:12,Jane
+"3413 dupont Ave n ,Minneapolis,MN",45.017222,-93.293424,4,Folwell,Camden,3,1,01/13/2017,14:09,Jane
+"3501 dupont Ave n ,Minneapolis,MN",45.018687,-93.29343,4,Folwell,Camden,3,1,01/13/2017,14:13,Jane
+"3411 dupont Ave n ,Minneapolis,MN",45.017108,-93.293425,4,Folwell,Camden,3,1,01/13/2017,14:43,Jane
+"3447 Morgan av n,Minneapolis,MN",45.018167,-93.304725,4,Folwell,Camden,3,1,01/13/2017,15:59,Jane
+"3431 morgan av no,Minneapolis,MN",45.017733,-93.304745,4,Folwell,Camden,3,1,01/13/2017,16:03,Jane
+"217 Freemont Ave s,Minneapolis,MN",44.97922,-93.29554,5,Harrison,Near North,3,3,01/13/2017,09:48,Jane
+"247 humbolt ave n,Minneapolis,MN",44.979515,-93.298204,5,Harrison,Near North,3,3,01/13/2017,14:04,Jane
+"1721 3rd ave n,Minneapolis,MN",44.97963,-93.302806,5,Harrison,Near North,3,3,01/13/2017,14:38,Jane
+"317 RUSSELL AVE N,Minneapolis,MN",44.980849,-93.311125,5,Harrison,Near North,3,3,01/13/2017,14:45,Jane
+"2547 2nd st n,Minneapolis,MN",45.005334999999995,-93.280231,5,Hawthorne,Near North,1,1,01/11/2017,21:38,Jane
+"2549 2nd st n,Minneapolis,MN",45.005357000000004,-93.280231,5,Hawthorne,Near North,1,1,01/11/2017,21:40,Jane
+"2653 lyndale Ave n ,Minneapolis,MN",45.007560999999995,-93.28834499999999,5,Hawthorne,Near North,1,1,01/11/2017,22:55,Jane
+"2100 WASHINGTON ST NE,Minneapolis,MN",45.000265,-93.28174,5,Hawthorne,Near North,2,1,01/12/2017,01:16,Jane
+"2604 3rd st n,Minneapolis,MN",45.005971,-93.283401,5,Hawthorne,Near North,2,1,01/12/2017,09:16,Jane
+"3028 3rd st no,Minneapolis,MN",45.011088,-93.283397,5,Hawthorne,Near North,2,1,01/12/2017,09:26,Jane
+"3004 4th st n,Minneapolis,MN",45.010870000000004,-93.284885,5,Hawthorne,Near North,2,1,01/12/2017,09:31,Jane
+"2712 4th st n,Minneapolis,MN",45.007317,-93.284952,5,Hawthorne,Near North,2,1,01/12/2017,09:35,Jane
+"2614 4th st n,Minneapolis,MN",45.006446999999994,-93.284669,5,Hawthorne,Near North,2,1,01/12/2017,09:39,Jane
+"2510 4th st no,Minneapolis,MN",45.00525,-93.284642,5,Hawthorne,Near North,2,1,01/12/2017,09:54,Jane
+"2030 4th st n ,Minneapolis,MN",44.999988,-93.28492299999999,5,Hawthorne,Near North,2,1,01/12/2017,09:56,Jane
+"2506 4th st n,Minneapolis,MN",45.005066,-93.284909,5,Hawthorne,Near North,2,1,01/12/2017,10:01,Jane
+"2028 4th st n,Minneapolis,MN",44.999981,-93.28492299999999,5,Hawthorne,Near North,2,1,01/12/2017,10:03,Jane
+"2414 4th St n,Minneapolis,MN",45.004213,-93.284615,5,Hawthorne,Near North,2,1,01/12/2017,10:08,Jane
+"2406 6th st n ,Minneapolis,MN",45.004009,-93.286176,5,Hawthorne,Near North,2,1,01/12/2017,10:37,Jane
+"2504 6th at n,Minneapolis,MN",45.004982,-93.286194,5,Hawthorne,Near North,2,1,01/12/2017,10:45,Jane
+"3002 6th St n,Minneapolis,MN",45.010834,-93.286428,5,Hawthorne,Near North,2,1,01/12/2017,11:10,Jane
+"2904 aldrich ave n ,Minneapolis,MN",45.009734,-93.289249,5,Hawthorne,Near North,2,1,01/12/2017,11:46,Jane
+"2906 aldrich ave n ,Minneapolis,MN",45.00977,-93.28890600000001,5,Hawthorne,Near North,2,1,01/12/2017,11:49,Jane
+"2104 aldrich ave n ,Minneapolis,MN",45.000512,-93.289244,5,Hawthorne,Near North,2,1,01/12/2017,12:21,Jane
+"2326 aldrich ave n ,Minneapolis,MN",45.003536,-93.289084,5,Hawthorne,Near North,2,1,01/12/2017,12:24,Jane
+"2514 Bryant Ave n ,Minneapolis,MN",45.005368,-93.290604,5,Hawthorne,Near North,2,1,01/12/2017,13:00,Jane
+"2106 Bryant Ave n,Minneapolis,MN",45.000456,-93.29103,5,Hawthorne,Near North,2,1,01/12/2017,13:33,Jane
+"812 21st Ave n,Minneapolis,MN",45.000421,-93.2902,5,Hawthorne,Near North,2,1,01/12/2017,13:53,Jane
+"2522 Bryant Ave n ,Minneapolis,MN",45.005642,-93.290603,5,Hawthorne,Near North,2,1,01/12/2017,14:00,Jane
+"2950 aldrich ave n ,Minneapolis,MN",45.010976,-93.289024,5,Hawthorne,Near North,2,1,01/12/2017,14:03,Jane
+"2726 Aldrich Ave. n. ,Minneapolis,MN",45.008568,-93.289048,5,Hawthorne,Near North,2,1,01/12/2017,14:25,Jane
+"2818 aldrich ave n ,Minneapolis,MN",45.009138,-93.28899,5,Hawthorne,Near North,2,1,01/12/2017,14:34,Jane
+"2603 3rd st n,Minneapolis,MN",45.005947,-93.283363,5,Hawthorne,Near North,3,1,01/13/2017,08:22,Jane
+"2929 3rd st no,Minneapolis,MN",45.009858,-93.283355,5,Hawthorne,Near North,3,1,01/13/2017,08:45,Jane
+"3103 3rd st n,Minneapolis,MN",45.012003,-93.28335899999999,5,Hawthorne,Near North,3,1,01/13/2017,08:49,Jane
+"3101 3rd st n ,Minneapolis,MN",45.01198,-93.28335899999999,5,Hawthorne,Near North,3,1,01/13/2017,08:52,Jane
+"2101 BRYANT AV N,Minneapolis,MN",45.000397,-93.291358,5,Hawthorne,Near North,3,1,01/13/2017,09:21,Jane
+"2103 6th st n,Minneapolis,MN",45.000409000000005,-93.28680200000001,5,Hawthorne,Near North,3,1,01/13/2017,09:22,Jane
+"3107 3rd St n,Minneapolis,MN",45.012048,-93.28335899999999,5,Hawthorne,Near North,3,1,01/13/2017,09:25,Jane
+"2915 3rd st n ,Minneapolis,MN",45.010042,-93.283794,5,Hawthorne,Near North,3,1,01/13/2017,09:34,Jane
+"2527 6th st n,Minneapolis,MN",45.005578,-93.28648299999999,5,Hawthorne,Near North,3,1,01/13/2017,09:42,Jane
+"2727 4th st n ,Minneapolis,MN",45.007496,-93.284914,5,Hawthorne,Near North,3,1,01/13/2017,10:04,Jane
+"2651 COLFAX AVE N,Minneapolis,MN",45.007475,-93.292148,5,Hawthorne,Near North,3,1,01/13/2017,10:14,Jane
+"2609 COLFAX AVE N,Minneapolis,MN",45.00631,-93.29214300000001,5,Hawthorne,Near North,3,1,01/13/2017,10:32,Jane
+"2039 Aldrich av no,Minneapolis,MN",44.999953000000005,-93.289539,5,Hawthorne,Near North,3,1,01/13/2017,10:40,Jane
+"2947 COLFAX AV N,Minneapolis,MN",45.01089,-93.292148,5,Hawthorne,Near North,3,1,01/13/2017,10:45,Jane
+"2207 Aldrich Ave. N. ,Minneapolis,MN",45.001783,-93.289793,5,Hawthorne,Near North,3,1,01/13/2017,10:52,Jane
+"2815 COLFAX AV N,Minneapolis,MN",45.009037,-93.29215,5,Hawthorne,Near North,3,1,01/13/2017,11:25,Jane
+"2313 dupont N,Minneapolis,MN",45.003158,-93.292982,5,Hawthorne,Near North,3,1,01/13/2017,12:33,Jane
+"2327 dupont Ave n ,Minneapolis,MN",45.003565,-93.292982,5,Hawthorne,Near North,3,1,01/13/2017,12:44,Jane
+"2711 Bryant Ave n ,Minneapolis,MN",45.008133,-93.290841,5,Hawthorne,Near North,3,1,01/13/2017,12:50,Jane
+"46TH ST & MINNEHAHA AVE S,Minneapolis,MN",44.919745,-93.214848,12,Hiawatha,Longfellow,2,6,01/12/2017,01:03,Jane
+"4516 SNELLING AVE S,Minneapolis,MN",44.920851,-93.217614,12,Hiawatha,Longfellow,2,6,01/12/2017,15:46,Jane
+"2500 CENTRAL AVE NE,Minneapolis,MN",45.013301,-93.24786999999999,1,Holland,Northeast,1,2,01/11/2017,23:43,Jane
+"1900 CENTRL AVE NE,Minneapolis,MN",45.008291,-93.24789799999999,1,Holland,Northeast,1,2,01/11/2017,23:57,Jane
+"1800 4TH ST NE,Minneapolis,MN",45.006558,-93.262006,1,Holland,Northeast,2,2,01/12/2017,01:48,Jane
+"2200 4TH ST NE,Minneapolis,MN",45.010125,-93.261794,1,Holland,Northeast,2,2,01/12/2017,01:58,Jane
+"2200 Block of 4th st ne,Minneapolis,MN",45.010139,-93.261611,1,Holland,Northeast,2,2,01/12/2017,02:01,Jane
+"1900 Block of 4th st ne,Minneapolis,MN",45.007659000000004,-93.2616,1,Holland,Northeast,2,2,01/12/2017,02:08,Jane
+"2500 4TH ST NE,Minneapolis,MN",45.013317,-93.26181,1,Holland,Northeast,2,2,01/12/2017,02:24,Jane
+"2500 4TH ST NE,Minneapolis,MN",45.013317,-93.26181,1,Holland,Northeast,2,2,01/12/2017,02:35,Jane
+"2500 4TH ST NE,Minneapolis,MN",45.013317,-93.26181,1,Holland,Northeast,2,2,01/12/2017,02:40,Jane
+"2500 4TH ST NE,Minneapolis,MN",45.013317,-93.26181,1,Holland,Northeast,2,2,01/12/2017,02:42,Jane
+"2500 4th st ne,Minneapolis,MN",45.013317,-93.26181,1,Holland,Northeast,2,2,01/12/2017,02:54,Jane
+"1812 5th st ne,Minneapolis,MN",45.006854,-93.26031,1,Holland,Northeast,2,2,01/12/2017,10:56,Jane
+"926 20th ave ne,Minneapolis,MN",45.008877000000005,-93.247579,1,Holland,Northeast,2,2,01/12/2017,13:49,Jane
+"922 20th ave ne,Minneapolis,MN",45.008877000000005,-93.247781,1,Holland,Northeast,2,2,01/12/2017,13:49,Jane
+"2208 Jackson st ne,Minneapolis,MN",45.010217,-93.24916800000001,1,Holland,Northeast,2,2,01/12/2017,13:51,Jane
+"2506 Howard st ne,Minneapolis,MN",45.013690999999994,-93.25308000000001,1,Holland,Northeast,2,2,01/12/2017,13:56,Jane
+"918 24th ave ne,Minneapolis,MN",45.012139000000005,-93.248255,1,Holland,Northeast,2,2,01/12/2017,14:20,Jane
+"332 18th ave ne,Minneapolis,MN",45.006371,-93.263038,1,Holland,Northeast,2,2,01/12/2017,15:18,Jane
+"802 24TH AVE NE,Minneapolis,MN",45.012152,-93.250749,1,Holland,Northeast,2,2,01/12/2017,15:26,Jane
+"2510 Jackson st ne,Minneapolis,MN",45.013521999999995,-93.24941700000001,1,Holland,Northeast,2,2,01/12/2017,15:29,Jane
+"2512 Jackson st ne,Minneapolis,MN",45.013624,-93.249135,1,Holland,Northeast,2,2,01/12/2017,16:00,Jane
+"2539 Jackson st ne,Minneapolis,MN",45.014471,-93.248892,1,Holland,Northeast,2,2,01/12/2017,16:02,Jane
+"2409 5th st ne,Minneapolis,MN",45.012678,-93.260061,1,Holland,Northeast,3,2,01/13/2017,09:56,Jane
+"1707 6th st ne,Minneapolis,MN",45.005516,-93.258876,1,Holland,Northeast,3,2,01/13/2017,10:30,Jane
+"2327 7th st ne,Minneapolis,MN",45.012017,-93.257919,1,Holland,Northeast,3,2,01/13/2017,10:39,Jane
+"409 24th ave ne,Minneapolis,MN",45.012190000000004,-93.261162,1,Holland,Northeast,3,2,01/13/2017,13:17,Jane
+"639 23rd ave ne,Minneapolis,MN",45.011418,-93.257177,1,Holland,Northeast,3,2,01/13/2017,13:19,Jane
+"353 24th ave ne,Minneapolis,MN",45.012190000000004,-93.262013,1,Holland,Northeast,3,2,01/13/2017,13:23,Jane
+"411 24th ave ne,Minneapolis,MN",45.012355,-93.261061,1,Holland,Northeast,3,2,01/13/2017,13:51,Jane
+"695 23rd ave ne,Minneapolis,MN",45.011072,-93.25277700000001,1,Holland,Northeast,3,2,01/13/2017,14:07,Jane
+"3628 40th ave s,Minneapolis,MN",44.936916,-93.215564,12,Howe,Longfellow,2,6,01/12/2017,14:22,Jane
+"3804 Snelling Avenue South,Minneapolis,MN",44.933844,-93.225849,12,Howe,Longfellow,2,6,01/12/2017,16:52,Jane
+"3749 snelling ave S,Minneapolis,MN",44.934595,-93.22596,12,Howe,Longfellow,3,6,01/13/2017,12:28,Jane
+"3623 Snelling Avenue South,Minneapolis,MN",44.937079,-93.227494,12,Howe,Longfellow,3,6,01/13/2017,13:02,Jane
+"3437 33rd ave,Minneapolis,MN",44.940157,-93.223975,12,Howe,Longfellow,3,6,01/13/2017,15:49,Jane
+"2930 PENN AVE N,Minneapolis,MN",45.010642,-93.307854,5,Jordan,Near North,1,1,01/11/2017,23:20,Jane
+"3013 Penn Ave N,Minneapolis,MN",45.011848,-93.308263,5,Jordan,Near North,1,1,01/11/2017,23:33,Jane
+"2002 Broadway w,Minneapolis,MN",45.001585,-93.305678,5,Jordan,Near North,2,1,01/12/2017,00:57,Jane
+"24TH & EMERSON AVE N ,Minneapolis,MN",45.003705,-93.29413199999999,5,Jordan,Near North,2,1,01/12/2017,01:01,Jane
+"2315 EMERSON AVE ,Minneapolis,MN",45.003177,-93.29451999999999,5,Jordan,Near North,2,1,01/12/2017,01:59,Jane
+"26TH & EMERSON AVE,Minneapolis,MN",45.005951,-93.29418299999999,5,Jordan,Near North,2,1,01/12/2017,02:38,Jane
+"2028 Girard ave n,Minneapolis,MN",44.999744,-93.297187,5,Jordan,Near North,2,1,01/12/2017,09:20,Jane
+"3014 Humboldt Ave. N. ,Minneapolis,MN",45.011915,-93.297888,5,Jordan,Near North,2,1,01/12/2017,10:49,Jane
+"2328 Irving av no,Minneapolis,MN",45.00356,-93.29897,5,Jordan,Near North,2,1,01/12/2017,11:04,Jane
+"2642 girard Ave n ,Minneapolis,MN",45.007274,-93.29657900000001,5,Jordan,Near North,2,1,01/12/2017,11:04,Jane
+"2328 IRVING AVE N,Minneapolis,MN",45.00356,-93.29897,5,Jordan,Near North,2,1,01/12/2017,11:09,Jane
+"2806 Girard Ave n ,Minneapolis,MN",45.008834,-93.29661,5,Jordan,Near North,2,1,01/12/2017,11:12,Jane
+"2938 girard Ave n,Minneapolis,MN",45.010825,-93.296616,5,Jordan,Near North,2,1,01/12/2017,11:25,Jane
+"2610 humboldt Ave n,Minneapolis,MN",45.006339000000004,-93.29773399999999,5,Jordan,Near North,2,1,01/12/2017,11:45,Jane
+"2814 humboldt Ave n,Minneapolis,MN",45.009094,-93.29786999999999,5,Jordan,Near North,2,1,01/12/2017,12:21,Jane
+"2958 Russell ave n,Minneapolis,MN",45.011299,-93.310497,4,Jordan,Near North,2,1,01/12/2017,15:08,Jane
+"2822 Newton Ave. N. ,Minneapolis,MN",45.00938,-93.305447,5,Jordan,Near North,2,1,01/12/2017,15:24,Jane
+"2626 Newton Ave N. ,Minneapolis,MN",45.006840000000004,-93.305312,5,Jordan,Near North,2,1,01/12/2017,15:56,Jane
+"2420 29th Ave. N.,Minneapolis,MN",45.009651,-93.310925,4,Jordan,Near North,2,1,01/12/2017,16:36,Jane
+"2719 Irving Ave n,Minneapolis,MN",45.008363,-93.299717,5,Jordan,Near North,3,1,01/13/2017,10:11,Jane
+"2107 James Ave n,Minneapolis,MN",45.000429,-93.303053,5,Jordan,Near North,3,1,01/13/2017,10:35,Jane
+"2009 James Ave n,Minneapolis,MN",45.000014,-93.301572,5,Jordan,Near North,3,1,01/13/2017,10:57,Jane
+"1819 25th Ave N,Minneapolis,MN",45.004915000000004,-93.304069,5,Jordan,Near North,3,1,01/13/2017,14:25,Jane
+"4300 NICOLLET AVE S,Minneapolis,MN",44.924943,-93.278242,8,King Field,Southwest,2,5,01/12/2017,02:13,Jane
+"4400 BLOCK of Nicollet Avenue South,Minneapolis,MN",44.923018,-93.277957,8,King Field,Southwest,2,5,01/12/2017,03:21,Jane
+"3715 Harriet Ave s,Minneapolis,MN",44.935351000000004,-93.285352,8,King Field,Southwest,3,5,01/13/2017,14:42,Jane
+"411 37th st w,Minneapolis,MN",44.935877000000005,-93.28449300000001,8,King Field,Southwest,3,5,01/13/2017,14:46,Jane
+"3715 PILLSBURY AVE S ,Minneapolis,MN",44.935358,-93.28104,8,King Field,Southwest,3,5,01/13/2017,14:52,Jane
+"4635 Lyndale Ave N,Minneapolis,MN",45.039590999999994,-93.28769399999999,4,Lind - Bohanon,Camden,1,1,01/11/2017,23:59,Jane
+"5239 Bryant Ave N,Minneapolis,MN",45.050585999999996,-93.291823,4,Lind - Bohanon,Camden,2,1,01/12/2017,02:55,Jane
+"5028 Camden av n,Minneapolis,MN",45.046844,-93.288628,4,Lind - Bohanon,Camden,2,1,01/12/2017,09:36,Jane
+"5020 6th st no,Minneapolis,MN",45.046546,-93.287345,4,Lind - Bohanon,Camden,2,1,01/12/2017,09:39,Jane
+"4802 Aldrich av no,Minneapolis,MN",45.04228,-93.290124,4,Lind - Bohanon,Camden,2,1,01/12/2017,10:46,Jane
+"4754 Aldrich av no,Minneapolis,MN",45.041854,-93.28988299999999,4,Lind - Bohanon,Camden,2,1,01/12/2017,10:49,Jane
+"5014 Aldrich av no,Minneapolis,MN",45.04635,-93.29018,4,Lind - Bohanon,Camden,2,1,01/12/2017,11:46,Jane
+"4740 Camden av no,Minneapolis,MN",45.041497,-93.28885,4,Lind - Bohanon,Camden,2,1,01/12/2017,11:49,Jane
+"4856 Camden av no ,Minneapolis,MN",45.043684999999996,-93.288847,4,Lind - Bohanon,Camden,2,1,01/12/2017,12:37,Jane
+"4838 Aldrich av no ,Minneapolis,MN",45.043231,-93.28989,4,Lind - Bohanon,Camden,2,1,01/12/2017,12:42,Jane
+"4514 Colfax av no ,Minneapolis,MN",45.037157,-93.292475,4,Lind - Bohanon,Camden,2,1,01/12/2017,14:17,Jane
+"4604 colfax av n,Minneapolis,MN",45.038699,-93.292679,4,Lind - Bohanon,Camden,2,1,01/12/2017,14:21,Jane
+"4842 Camden av no ,Minneapolis,MN",45.043381,-93.28859200000001,4,Lind - Bohanon,Camden,2,1,01/12/2017,15:22,Jane
+"5024 Fremont av no ,Minneapolis,MN",45.046561,-93.29633199999999,4,Lind - Bohanon,Camden,2,1,01/12/2017,15:26,Jane
+"4826 Fremont av no ,Minneapolis,MN",45.043084,-93.296325,4,Lind - Bohanon,Camden,2,1,01/12/2017,16:45,Jane
+"1410 52nd av no ,Minneapolis,MN",45.049352,-93.298063,4,Lind - Bohanon,Camden,3,1,01/13/2017,14:44,Jane
+"1800 block of central ave,Minneapolis,MN",45.006091999999995,-93.247698,1,Logan Park,Northeast,1,2,01/11/2017,23:46,Jane
+"1726 Adams st ne,Minneapolis,MN",45.005633,-93.256298,1,Logan Park,Northeast,2,2,01/12/2017,11:04,Jane
+"1314 Adams st ne,Minneapolis,MN",45.001376,-93.256641,1,Logan Park,Northeast,2,2,01/12/2017,11:16,Jane
+"1416 Adams st ne,Minneapolis,MN",45.002401,-93.25657,1,Logan Park,Northeast,2,2,01/12/2017,11:21,Jane
+"1718 Adams st ne,Minneapolis,MN",45.005519,-93.2563,1,Logan Park,Northeast,2,2,01/12/2017,11:25,Jane
+"1318 Adams st ne,Minneapolis,MN",45.001529,-93.256293,1,Logan Park,Northeast,2,2,01/12/2017,11:40,Jane
+"1114 Adams st ne,Minneapolis,MN",44.999212,-93.256538,1,Logan Park,Northeast,2,2,01/12/2017,11:41,Jane
+"1420 Adams st ne,Minneapolis,MN",45.002555,-93.256297,1,Logan Park,Northeast,2,2,01/12/2017,11:51,Jane
+"1712 Adams st ne,Minneapolis,MN",45.005433000000004,-93.25630100000001,1,Logan Park,Northeast,2,2,01/12/2017,12:07,Jane
+"1710 Adams st ne,Minneapolis,MN",45.005404,-93.256302,1,Logan Park,Northeast,2,2,01/12/2017,12:10,Jane
+"1418 Adam St ne,Minneapolis,MN",45.002518,-93.256649,1,Logan Park,Northeast,2,2,01/12/2017,12:35,Jane
+"1110 Jefferson st ne,Minneapolis,MN",44.999136,-93.255016,1,Logan Park,Northeast,2,2,01/12/2017,12:40,Jane
+"1131 Adams st ne,Minneapolis,MN",44.999651,-93.255961,1,Logan Park,Northeast,3,2,01/13/2017,10:45,Jane
+"3220 34th Avenue South,Minneapolis,MN",44.944262,-93.223238,2,Longfellow,Longfellow,2,6,01/12/2017,15:15,Jane
+"3116 32nd Ave S,Minneapolis,MN",44.946228000000005,-93.22601,2,Longfellow,Longfellow,2,6,01/12/2017,15:33,Jane
+"3503 27th ave so,Minneapolis,MN",44.947228,-93.233367,2,Longfellow,Longfellow,3,6,01/13/2017,12:00,Jane
+"3107 28th ave s,Minneapolis,MN",44.946576,-93.231278,2,Longfellow,Longfellow,3,6,01/13/2017,13:01,Jane
+"3043 35th ave ,Minneapolis,MN",44.946994000000004,-93.221322,2,Longfellow,Longfellow,3,6,01/13/2017,13:41,Jane
+"3031 29th ave so,Minneapolis,MN",44.947103000000006,-93.22998299999999,2,Longfellow,Longfellow,3,6,01/13/2017,13:45,Jane
+"3119 28th Ave S,Minneapolis,MN",44.946168,-93.23129,2,Longfellow,Longfellow,3,6,01/13/2017,14:43,Jane
+"3127 28th Ave S,Minneapolis,MN",44.945912,-93.231279,2,Longfellow,Longfellow,3,6,01/13/2017,14:47,Jane
+"427 15th st w,Minneapolis,MN",44.968418,-93.285985,7,Loring Park,Central,1,3,01/11/2017,21:22,Jane
+"336 15th st w,Minneapolis,MN",44.968422,-93.285911,7,Loring Park,Central,1,3,01/11/2017,21:37,Jane
+"1400 lasalle av s,Minneapolis,MN",44.968778,-93.279353,7,Loring Park,Central,2,3,01/12/2017,01:51,Jane
+"1400 lasalle av s,Minneapolis,MN",44.968778,-93.279353,7,Loring Park,Central,2,3,01/12/2017,02:08,Jane
+"1400 LASALLE AVE ,Minneapolis,MN",44.968778,-93.279353,7,Loring Park,Central,2,3,01/12/2017,02:11,Jane
+"1300 LASALLE AVE,Minneapolis,MN",44.970601,-93.27935500000001,7,Loring Park,Central,2,3,01/12/2017,02:12,Jane
+"1500 lasalle av s,Minneapolis,MN",44.967395,-93.27967199999999,7,Loring Park,Central,2,3,01/12/2017,02:27,Jane
+"1400 LASALLE AVE ,Minneapolis,MN",44.968778,-93.279353,7,Loring Park,Central,2,3,01/12/2017,02:33,Jane
+"1400 LASALLE AVE ,Minneapolis,MN",44.968778,-93.279353,7,Loring Park,Central,2,3,01/12/2017,02:37,Jane
+"1510 spruce pl,Minneapolis,MN",44.967040000000004,-93.280986,7,Loring Park,Central,2,3,01/12/2017,09:25,Jane
+"1508 SPRUCE pl,Minneapolis,MN",44.966751,-93.28085300000001,7,Loring Park,Central,2,3,01/12/2017,09:28,Jane
+"1502 SPRUCE PL,Minneapolis,MN",44.966868,-93.280854,7,Loring Park,Central,2,3,01/12/2017,09:39,Jane
+"1326 SPRUCE PL,Minneapolis,MN",44.968503999999996,-93.28085300000001,7,Loring Park,Central,2,3,01/12/2017,09:42,Jane
+"1522 spruce place ,Minneapolis,MN",44.966476,-93.28085,7,Loring Park,Central,2,3,01/12/2017,09:48,Jane
+"102 oak grove st,Minneapolis,MN",44.966387,-93.28009200000001,7,Loring Park,Central,2,3,01/12/2017,09:56,Jane
+"322 clifton Ave s,Minneapolis,MN",44.966577,-93.284418,7,Loring Park,Central,2,3,01/12/2017,10:09,Jane
+"1524 SPRUCE PL,Minneapolis,MN",44.966437,-93.280849,7,Loring Park,Central,2,3,01/12/2017,10:11,Jane
+"1310 SPRUCE PL,Minneapolis,MN",44.968503999999996,-93.28085300000001,7,Loring Park,Central,2,3,01/12/2017,10:13,Jane
+"206 CLIFTON AV,Minneapolis,MN",44.965790000000005,-93.282852,7,Loring Park,Central,2,3,01/12/2017,10:15,Jane
+"118 OAk grove st,Minneapolis,MN",44.966387,-93.28025,7,Loring Park,Central,2,3,01/12/2017,10:20,Jane
+"116 OAK GROVE ST,Minneapolis,MN",44.966705,-93.280238,7,Loring Park,Central,2,3,01/12/2017,10:22,Jane
+"204 clifton av,Minneapolis,MN",44.965789,-93.28285,7,Loring Park,Central,2,3,01/12/2017,10:33,Jane
+"314 clifton Ave s,Minneapolis,MN",44.96642,-93.284026,7,Loring Park,Central,2,3,01/12/2017,10:34,Jane
+"310 CLIFTON AVE,Minneapolis,MN",44.966307,-93.283615,7,Loring Park,Central,2,3,01/12/2017,10:50,Jane
+"302 CLIFTON AVE ,Minneapolis,MN",44.965828,-93.282975,7,Loring Park,Central,2,3,01/12/2017,10:52,Jane
+"210 CLIFTON AVE,Minneapolis,MN",44.965790999999996,-93.28285600000001,7,Loring Park,Central,2,3,01/12/2017,11:09,Jane
+"219 14TH ST W,Minneapolis,MN",44.968784,-93.28134,7,Loring Park,Central,3,3,01/13/2017,08:27,Jane
+"203 14TH ST W,Minneapolis,MN",44.968712,-93.28124,7,Loring Park,Central,3,3,01/13/2017,08:32,Jane
+"205 14th st w,Minneapolis,MN",44.968784,-93.281253,7,Loring Park,Central,3,3,01/13/2017,08:33,Jane
+"107 14TH ST W,Minneapolis,MN",44.968775,-93.27937,7,Loring Park,Central,3,3,01/13/2017,08:46,Jane
+"113 14TH ST W,Minneapolis,MN",44.968776,-93.27940100000001,7,Loring Park,Central,3,3,01/13/2017,09:00,Jane
+"1509 SPRUCE PL,Minneapolis,MN",44.967358000000004,-93.28081800000001,7,Loring Park,Central,3,3,01/13/2017,09:17,Jane
+"25 OAK GROVE ST,Minneapolis,MN",44.966361,-93.27882,7,Loring Park,Central,3,3,01/13/2017,09:19,Jane
+"1505 SPRUCE PL,Minneapolis,MN",44.967504999999996,-93.280821,7,Loring Park,Central,3,3,01/13/2017,09:21,Jane
+"315 clifton av s,Minneapolis,MN",44.966095,-93.283937,7,Loring Park,Central,3,3,01/13/2017,09:36,Jane
+"1307 SPRUCE pl,Minneapolis,MN",44.96983,-93.280815,7,Loring Park,Central,3,3,01/13/2017,09:56,Jane
+"241 CLIFTON AVE,Minneapolis,MN",44.965299,-93.283067,7,Loring Park,Central,3,3,01/13/2017,10:04,Jane
+"213 CLIFTON AVE,Minneapolis,MN",44.966065,-93.28384,7,Loring Park,Central,3,3,01/13/2017,10:05,Jane
+"309 oak grove st,Minneapolis,MN",44.96693,-93.28326899999999,7,Loring Park,Central,3,3,01/13/2017,10:11,Jane
+"1780 BRYANT AVE S,Minneapolis,MN",44.965804999999996,-93.29054000000001,7,Lowry Hill,Calhoun Isle,2,3,01/12/2017,08:23,Jane
+"1806 colfax Ave s ,Minneapolis,MN",44.964984,-93.29217299999999,7,Lowry Hill,Calhoun Isle,2,3,01/12/2017,08:23,Jane
+"1904 DUPONT AVE S,Minneapolis,MN",44.964151,-93.293447,7,Lowry Hill,Calhoun Isle,2,3,01/12/2017,08:37,Jane
+"1826 BRYANT AVE S,Minneapolis,MN",44.96464,-93.290903,7,Lowry Hill,Calhoun Isle,2,3,01/12/2017,08:40,Jane
+"1768 COLFAX AVE S,Minneapolis,MN",44.966233,-93.292142,7,Lowry Hill,Calhoun Isle,2,3,01/12/2017,08:43,Jane
+"1910 dupont Ave s ,Minneapolis,MN",44.963856,-93.293093,7,Lowry Hill,Calhoun Isle,2,3,01/12/2017,08:45,Jane
+"1936 dupont Ave s ,Minneapolis,MN",44.963358,-93.293364,7,Lowry Hill,Calhoun Isle,2,3,01/12/2017,09:05,Jane
+"1940 DUPONT AVE S,Minneapolis,MN",44.963248,-93.29344,7,Lowry Hill,Calhoun Isle,2,3,01/12/2017,09:11,Jane
+"1914 DUPONT AVE S,Minneapolis,MN",44.963698,-93.293093,7,Lowry Hill,Calhoun Isle,2,3,01/12/2017,09:14,Jane
+"1770 COLFAX AVE S,Minneapolis,MN",44.966134000000004,-93.29181899999999,7,Lowry Hill,Calhoun Isle,2,3,01/12/2017,09:25,Jane
+"1812 EMERSON AVE S,Minneapolis,MN",44.964873,-93.29469300000001,7,Lowry Hill,Calhoun Isle,2,3,01/12/2017,09:28,Jane
+"1948 emerson ave s,Minneapolis,MN",44.963007,-93.29438,7,Lowry Hill,Calhoun Isle,2,3,01/12/2017,09:30,Jane
+"1816 fremont ave s,Minneapolis,MN",44.964677,-93.296003,7,Lowry Hill,Calhoun Isle,2,3,01/12/2017,09:48,Jane
+"2006 fremont ave s,Minneapolis,MN",44.962415,-93.295992,7,Lowry Hill,Calhoun Isle,2,3,01/12/2017,10:04,Jane
+"1784 emerson ave s,Minneapolis,MN",44.965726000000004,-93.294358,7,Lowry Hill,Calhoun Isle,2,3,01/12/2017,10:25,Jane
+"1774 FREMONT AVE S,Minneapolis,MN",44.965979,-93.295998,7,Lowry Hill,Calhoun Isle,2,3,01/12/2017,11:54,Jane
+"1704 FREMONT AVE S,Minneapolis,MN",44.967134,-93.295644,7,Lowry Hill,Calhoun Isle,2,3,01/12/2017,11:57,Jane
+"1729 Bryant Ave s ,Minneapolis,MN",44.966162,-93.290502,7,Lowry Hill,Calhoun Isle,3,3,01/13/2017,08:18,Jane
+"1911 DuPont ave s,Minneapolis,MN",44.963952,-93.293056,7,Lowry Hill,Calhoun Isle,3,3,01/13/2017,08:31,Jane
+"1785 Bryant Ave s ,Minneapolis,MN",44.965697999999996,-93.290254,7,Lowry Hill,Calhoun Isle,3,3,01/13/2017,08:35,Jane
+"1917 colfax Ave s ,Minneapolis,MN",44.963743,-93.291535,7,Lowry Hill,Calhoun Isle,3,3,01/13/2017,08:54,Jane
+"1911 colfax ave s,Minneapolis,MN",44.963943,-93.29179,7,Lowry Hill,Calhoun Isle,3,3,01/13/2017,08:54,Jane
+"1779 bryant ave s,Minneapolis,MN",44.965748,-93.290502,7,Lowry Hill,Calhoun Isle,3,3,01/13/2017,08:55,Jane
+"1901 Emerson ave s,Minneapolis,MN",44.964207,-93.29397800000001,7,Lowry Hill,Calhoun Isle,3,3,01/13/2017,08:57,Jane
+"2003 Emerson ave s,Minneapolis,MN",44.962478999999995,-93.29434599999999,7,Lowry Hill,Calhoun Isle,3,3,01/13/2017,09:17,Jane
+"1929 Fremont ave s,Minneapolis,MN",44.96356,-93.29525,7,Lowry Hill,Calhoun Isle,3,3,01/13/2017,09:32,Jane
+"1937 FREMOUNT AVE S,Minneapolis,MN",44.963182,-93.295248,7,Lowry Hill,Calhoun Isle,3,3,01/13/2017,09:33,Jane
+"1933 Fremont ave s,Minneapolis,MN",44.963359000000004,-93.295248,7,Lowry Hill,Calhoun Isle,3,3,01/13/2017,09:34,Jane
+"2105 EMERSON AVE S,Minneapolis,MN",44.961679,-93.293994,7,Lowry Hill,Calhoun Isle,3,3,01/13/2017,09:36,Jane
+"1821 fremont ave s,Minneapolis,MN",44.96463,-93.29559499999999,7,Lowry Hill,Calhoun Isle,3,3,01/13/2017,09:46,Jane
+"1817 humbolt ave s,Minneapolis,MN",44.964749,-93.298147,7,Lowry Hill,Calhoun Isle,3,3,01/13/2017,10:00,Jane
+"805 SUMMIT AVE S,Minneapolis,MN",44.965406,-93.289384,7,Lowry Hill,Calhoun Isle,3,3,01/13/2017,14:29,Jane
+"2820 Emerson Ave s ,Minneapolis,MN",44.951477000000004,-93.294473,10,Lowry Hill East,Calhoun Isle,1,3,01/11/2017,21:27,Jane
+"2834 emerson ave s,Minneapolis,MN",44.951218,-93.29447900000001,10,Lowry Hill East,Calhoun Isle,1,3,01/11/2017,21:34,Jane
+"2906 emerson ave s,Minneapolis,MN",44.949794,-93.29449699999999,10,Lowry Hill East,Calhoun Isle,1,3,01/11/2017,22:08,Jane
+"2836 EMERSON AVE S,Minneapolis,MN",44.951163,-93.294481,10,Lowry Hill East,Calhoun Isle,1,3,01/11/2017,22:47,Jane
+"2806 Emerson s,Minneapolis,MN",44.951572999999996,-93.29446999999999,10,Lowry Hill East,Calhoun Isle,1,3,01/11/2017,22:59,Jane
+"2305 Emerson ave s,Minneapolis,MN",44.958458,-93.294563,10,Lowry Hill East,Calhoun Isle,3,3,01/13/2017,09:45,Jane
+"2215 Aldrich s,Minneapolis,MN",44.96018,-93.289271,10,Lowry Hill East,Calhoun Isle,3,3,01/13/2017,13:22,Jane
+"2213 colfax av s,Minneapolis,MN",44.960368,-93.291815,10,Lowry Hill East,Calhoun Isle,3,3,01/13/2017,13:28,Jane
+"2509 Emerson ave s,Minneapolis,MN",44.956998999999996,-93.29439599999999,10,Lowry Hill East,Calhoun Isle,3,3,01/13/2017,13:43,Jane
+"2209 Bryant Ave s ,Minneapolis,MN",44.960421000000004,-93.290236,10,Lowry Hill East,Calhoun Isle,3,3,01/13/2017,13:48,Jane
+"2007 Bryant Ave s ,Minneapolis,MN",44.962288,-93.29051899999999,10,Lowry Hill East,Calhoun Isle,3,3,01/13/2017,14:06,Jane
+"2111 colfax s,Minneapolis,MN",44.961424,-93.291514,10,Lowry Hill East,Calhoun Isle,3,3,01/13/2017,14:08,Jane
+"2205 colfax s,Minneapolis,MN",44.96074,-93.291813,10,Lowry Hill East,Calhoun Isle,3,3,01/13/2017,14:11,Jane
+"2431 BRYANT AVE S,Minneapolis,MN",44.958039,-93.29055799999999,10,Lowry Hill East,Calhoun Isle,3,3,01/13/2017,14:11,Jane
+"2323 BRYANT AVE S,Minneapolis,MN",44.959289,-93.290185,10,Lowry Hill East,Calhoun Isle,3,3,01/13/2017,14:14,Jane
+"1937 Bryant Ave s ,Minneapolis,MN",44.963009,-93.29042700000001,10,Lowry Hill East,Calhoun Isle,3,3,01/13/2017,14:24,Jane
+"2113 BRYANT AVE S,Minneapolis,MN",44.961402,-93.290265,10,Lowry Hill East,Calhoun Isle,3,3,01/13/2017,14:27,Jane
+"1931 Aldrich Ave s ,Minneapolis,MN",44.96322,-93.289332,10,Lowry Hill East,Calhoun Isle,3,3,01/13/2017,14:38,Jane
+"1927 Aldrich Ave s ,Minneapolis,MN",44.963294,-93.289337,10,Lowry Hill East,Calhoun Isle,3,3,01/13/2017,14:55,Jane
+"3200 NICOLLET AVE ,Minneapolis,MN",44.944375,-93.278418,8,Lyndale,Powderhorn,2,5,01/12/2017,01:35,Jane
+"3400 block of Nicollet Avenue South,Minneapolis,MN",44.941133,-93.27814599999999,8,Lyndale,Powderhorn,2,5,01/12/2017,01:43,Jane
+"3200 Nicollet Ave,Minneapolis,MN",44.944375,-93.278418,8,Lyndale,Powderhorn,2,5,01/12/2017,02:30,Jane
+"3200 Nicollet Ave,Minneapolis,MN",44.944375,-93.278418,8,Lyndale,Powderhorn,2,5,01/12/2017,02:34,Jane
+"3200 NICOLLET AVE S,Minneapolis,MN",44.944375,-93.278418,8,Lyndale,Powderhorn,2,5,01/12/2017,02:36,Jane
+"3200 NICOLLET AVE S,Minneapolis,MN",44.944375,-93.278418,8,Lyndale,Powderhorn,2,5,01/12/2017,02:44,Jane
+"3200 block of Nicollet Avenue South,Minneapolis,MN",44.944375,-93.278418,8,Lyndale,Powderhorn,2,5,01/12/2017,03:15,Jane
+"3500 Nicollet ,Minneapolis,MN",44.939365,-93.278296,8,Lyndale,Powderhorn,2,5,01/12/2017,03:20,Jane
+"3400 NICOLLET AVE,Minneapolis,MN",44.941133,-93.27814599999999,8,Lyndale,Powderhorn,2,5,01/12/2017,03:24,Jane
+"32nd & Nicollet Ave,Minneapolis,MN",44.944958,-93.277939,8,Lyndale,Powderhorn,2,5,01/12/2017,03:06,Jane
+"3500 block of Grand Avenue South,Minneapolis,MN",44.939403999999996,-93.284604,8,Lyndale,Powderhorn,2,5,01/12/2017,04:10,Jane
+"3000 block of Grand ave s,Minneapolis,MN",44.948355,-93.284301,8,Lyndale,Powderhorn,2,5,01/12/2017,04:41,Jane
+"3400 BLOCK OF GRAND AVE S,Minneapolis,MN",44.941129,-93.284562,8,Lyndale,Powderhorn,2,5,01/12/2017,04:44,Jane
+"3400 BLOCK OF GRAND AVE S,Minneapolis,MN",44.941129,-93.284562,8,Lyndale,Powderhorn,2,5,01/12/2017,04:49,Jane
+"3500 block of Grand Avenue South,Minneapolis,MN",44.939403999999996,-93.284604,8,Lyndale,Powderhorn,2,5,01/12/2017,04:50,Jane
+"3000 block of Grand Avenue South,Minneapolis,MN",44.948355,-93.284301,8,Lyndale,Powderhorn,2,5,01/12/2017,04:56,Jane
+"3000 block of Grand Avenue South,Minneapolis,MN",44.948355,-93.284301,8,Lyndale,Powderhorn,2,5,01/12/2017,04:59,Jane
+"3200 BLOCK OF GRAND AVE S,Minneapolis,MN",44.944563,-93.284586,8,Lyndale,Powderhorn,2,5,01/12/2017,05:38,Jane
+"228 33rd st w,Minneapolis,MN",44.943106,-93.282696,8,Lyndale,Powderhorn,2,5,01/12/2017,13:46,Jane
+"218 33rd st w,Minneapolis,MN",44.943103,-93.282237,8,Lyndale,Powderhorn,2,5,01/12/2017,13:48,Jane
+"3101 Garfield Ave s,Minneapolis,MN",44.946433,-93.286589,8,Lyndale,Powderhorn,3,5,01/13/2017,13:25,Jane
+"3RD & UNIVERSITY AVE SE,Minneapolis,MN",44.985686,-93.25205600000001,3,Marcy Holmes,University,1,4,01/11/2017,22:13,Jane
+"413 university Ave se,Minneapolis,MN",44.9849,-93.25005999999999,3,Marcy Holmes,University,1,4,01/11/2017,22:29,Jane
+"8TH & UNIVERSITY AVE SE,Minneapolis,MN",44.982813,-93.24487099999999,3,Marcy Holmes,University,1,4,01/11/2017,22:39,Jane
+"707 UNIVERSITY AVE SE,Minneapolis,MN",44.983470000000004,-93.24556199999999,3,Marcy Holmes,University,1,4,01/11/2017,22:45,Jane
+"200 block 5th ave se,Minneapolis,MN",44.98369,-93.249661,3,Marcy Holmes,University,1,4,01/11/2017,23:24,Jane
+"200 5TH AVE SE,Minneapolis,MN",44.98369,-93.249661,3,Marcy Holmes,University,1,4,01/11/2017,23:26,Jane
+"200 block of 3rd ave se,Minneapolis,MN",44.984704,-93.252815,3,Marcy Holmes,University,1,4,01/11/2017,23:29,Jane
+"200 5th Ave SE,Minneapolis,MN",44.98369,-93.249661,3,Marcy Holmes,University,1,4,01/11/2017,23:34,Jane
+"1321 University Ave se,Minneapolis,MN",44.979821,-93.237259,3,Marcy Holmes,University,1,4,01/11/2017,23:52,Jane
+"600 MAIN ST SE,Minneapolis,MN",44.980705,-93.249633,3,Marcy Holmes,University,2,4,01/12/2017,00:15,Jane
+"600 MAIN ST SE,Minneapolis,MN",44.980705,-93.249633,3,Marcy Holmes,University,2,4,01/12/2017,01:04,Jane
+"1415 8th st se,Minneapolis,MN",44.984175,-93.231476,3,Marcy Holmes,University,2,4,01/12/2017,01:47,Jane
+"600 block of main st se,Minneapolis,MN",44.980705,-93.249633,3,Marcy Holmes,University,2,4,01/12/2017,01:48,Jane
+"100 block of 3rd ave se,Minneapolis,MN",44.983594000000004,-93.252289,3,Marcy Holmes,University,2,4,01/12/2017,01:50,Jane
+"1400 8 ST SE ,Minneapolis,MN",44.984404999999995,-93.232664,3,Marcy Holmes,University,2,4,01/12/2017,02:03,Jane
+"1499 8th St se,Minneapolis,MN",44.983875,-93.23129,3,Marcy Holmes,University,2,4,01/12/2017,02:15,Jane
+"1323 8th st se,Minneapolis,MN",44.984792999999996,-93.23304399999999,3,Marcy Holmes,University,2,4,01/12/2017,02:18,Jane
+"1318 8th st se ,Minneapolis,MN",44.984444,-93.233296,3,Marcy Holmes,University,2,4,01/12/2017,02:23,Jane
+"1410 8th Street Southeast,Minneapolis,MN",44.984088,-93.23231899999999,3,Marcy Holmes,University,2,4,01/12/2017,02:24,Jane
+"1125 8th St Se,Minneapolis,MN",44.985851000000004,-93.235677,3,Marcy Holmes,University,2,4,01/12/2017,02:38,Jane
+"1106 8th ST SE,Minneapolis,MN",44.985935999999995,-93.236521,3,Marcy Holmes,University,2,4,01/12/2017,02:42,Jane
+"1312 8th st se,Minneapolis,MN",44.984549,-93.23357800000001,3,Marcy Holmes,University,2,4,01/12/2017,02:45,Jane
+"1318 8th s,Minneapolis,MN",44.984444,-93.233296,3,Marcy Holmes,University,2,4,01/12/2017,02:45,Jane
+"1417 8th Street Southeast,Minneapolis,MN",44.984026,-93.231659,3,Marcy Holmes,University,2,4,01/12/2017,02:49,Jane
+"1015 8th st se,Minneapolis,MN",44.986584,-93.23724200000001,3,Marcy Holmes,University,2,4,01/12/2017,03:01,Jane
+"1015 8th st se,Minneapolis,MN",44.986584,-93.23724200000001,3,Marcy Holmes,University,2,4,01/12/2017,03:03,Jane
+"1001 8th St se,Minneapolis,MN",44.986628,-93.23818299999999,3,Marcy Holmes,University,2,4,01/12/2017,03:15,Jane
+"517 8th st se,Minneapolis,MN",44.989323999999996,-93.244208,3,Marcy Holmes,University,2,4,01/12/2017,03:37,Jane
+"517 8th st se,Minneapolis,MN",44.989323999999996,-93.244208,3,Marcy Holmes,University,2,4,01/12/2017,03:37,Jane
+"331 8 ST SE,Minneapolis,MN",44.990146,-93.24705300000001,3,Marcy Holmes,University,2,4,01/12/2017,03:43,Jane
+"1020 8th st e,Minneapolis,MN",44.986362,-93.23759,3,Marcy Holmes,University,2,4,01/12/2017,03:45,Jane
+"517 8th Street Southeast,Minneapolis,MN",44.989323999999996,-93.244208,3,Marcy Holmes,University,2,4,01/12/2017,03:53,Jane
+"311 8th st se,Minneapolis,MN",44.99055,-93.247502,3,Marcy Holmes,University,2,4,01/12/2017,03:59,Jane
+"311 8th st se,Minneapolis,MN",44.99055,-93.247502,3,Marcy Holmes,University,2,4,01/12/2017,04:00,Jane
+"310 8 ST SE,Minneapolis,MN",44.99009,-93.247693,3,Marcy Holmes,University,2,4,01/12/2017,04:05,Jane
+"1410 8th st se,Minneapolis,MN",44.984088,-93.23231899999999,3,Marcy Holmes,University,2,4,01/12/2017,04:20,Jane
+"310 8th st se,Minneapolis,MN",44.99009,-93.247693,3,Marcy Holmes,University,2,4,01/12/2017,04:22,Jane
+"201 8th st se,Minneapolis,MN",44.990764,-93.248553,3,Marcy Holmes,University,2,2,01/12/2017,04:23,Jane
+"310 8 ST SE,Minneapolis,MN",44.99009,-93.247693,3,Marcy Holmes,University,2,4,01/12/2017,04:24,Jane
+"619 8th Street Southeast,Minneapolis,MN",44.988794,-93.242888,3,Marcy Holmes,University,2,4,01/12/2017,04:30,Jane
+"210 8th Street Southeast,Minneapolis,MN",44.99094,-93.249065,3,Marcy Holmes,University,2,2,01/12/2017,04:41,Jane
+"311 8th st se,Minneapolis,MN",44.99055,-93.247502,3,Marcy Holmes,University,2,4,01/12/2017,04:46,Jane
+"119 8 ST SE,Minneapolis,MN",44.9908,-93.248642,3,Marcy Holmes,University,2,2,01/12/2017,04:47,Jane
+"110 8th st se,Minneapolis,MN",44.991495,-93.25045899999999,3,Marcy Holmes,University,2,2,01/12/2017,04:53,Jane
+"310 11th Ave se,Minneapolis,MN",44.981275,-93.24061999999999,3,Marcy Holmes,University,2,4,01/12/2017,04:58,Jane
+"310 11th Ave se,Minneapolis,MN",44.981275,-93.24061999999999,3,Marcy Holmes,University,2,4,01/12/2017,05:06,Jane
+"800 9th ave se,Minneapolis,MN",44.987625,-93.23892,3,Marcy Holmes,University,2,4,01/12/2017,05:22,Jane
+"1410 8th st se,Minneapolis,MN",44.984088,-93.23231899999999,3,Marcy Holmes,University,2,4,01/12/2017,05:33,Jane
+"310 11th Ave se,Minneapolis,MN",44.981275,-93.24061999999999,3,Marcy Holmes,University,2,4,01/12/2017,05:51,Jane
+"310 11th Ave se,Minneapolis,MN",44.981275,-93.24061999999999,3,Marcy Holmes,University,2,4,01/12/2017,05:55,Jane
+"424 2nd ave se,Minneapolis,MN",44.987444,-93.252489,3,Marcy Holmes,University,2,4,01/12/2017,08:32,Jane
+"428 2nd Ave Southeast,Minneapolis,MN",44.987482,-93.25245799999999,3,Marcy Holmes,University,2,4,01/12/2017,08:36,Jane
+"426 2nd Avenue Southeast ,Minneapolis,MN",44.987463,-93.25247399999999,3,Marcy Holmes,University,2,4,01/12/2017,08:37,Jane
+"416 2nd ave se,Minneapolis,MN",44.987367,-93.25255200000001,3,Marcy Holmes,University,2,4,01/12/2017,08:41,Jane
+"406 2nd Ave se,Minneapolis,MN",44.987271,-93.252629,3,Marcy Holmes,University,2,4,01/12/2017,08:42,Jane
+"500 3rd ave se,Minneapolis,MN",44.987639,-93.250491,3,Marcy Holmes,University,2,4,01/12/2017,08:48,Jane
+"600 4th Ave se,Minneapolis,MN",44.988087,-93.248302,3,Marcy Holmes,University,2,4,01/12/2017,08:50,Jane
+"504 3rd Ave se,Minneapolis,MN",44.987775,-93.250381,3,Marcy Holmes,University,2,4,01/12/2017,08:55,Jane
+"324 4th ave se,Minneapolis,MN",44.985696000000004,-93.25019499999999,3,Marcy Holmes,University,2,4,01/12/2017,09:11,Jane
+"624 4th Avenue Southeast ,Minneapolis,MN",44.988546,-93.2475,3,Marcy Holmes,University,2,4,01/12/2017,09:18,Jane
+"520 5th ave se,Minneapolis,MN",44.986936,-93.246787,3,Marcy Holmes,University,2,4,01/12/2017,09:24,Jane
+"304 5th Ave Southeast,Minneapolis,MN",44.984584999999996,-93.24894599999999,3,Marcy Holmes,University,2,4,01/12/2017,09:27,Jane
+"606 5th ave se,Minneapolis,MN",44.987504,-93.246661,3,Marcy Holmes,University,2,4,01/12/2017,09:31,Jane
+"300 5th Ave ae,Minneapolis,MN",44.984488,-93.249022,3,Marcy Holmes,University,2,4,01/12/2017,09:31,Jane
+"330 5th Ave se,Minneapolis,MN",44.985114,-93.248199,3,Marcy Holmes,University,2,4,01/12/2017,09:34,Jane
+"600 5th Ave se,Minneapolis,MN",44.987446000000006,-93.246709,3,Marcy Holmes,University,2,4,01/12/2017,09:38,Jane
+"716 5th ave se,Minneapolis,MN",44.988853000000006,-93.245251,3,Marcy Holmes,University,2,4,01/12/2017,09:41,Jane
+"720 6th Avenue Southeast ,Minneapolis,MN",44.988257,-93.243768,3,Marcy Holmes,University,2,4,01/12/2017,09:45,Jane
+"427 7th st se,Minneapolis,MN",44.988687,-93.246585,3,Marcy Holmes,University,2,4,01/12/2017,09:46,Jane
+"530 5th st se,Minneapolis,MN",44.985696000000004,-93.246599,3,Marcy Holmes,University,2,4,01/12/2017,09:52,Jane
+"722 5th ave se,Minneapolis,MN",44.989092,-93.24509499999999,3,Marcy Holmes,University,2,4,01/12/2017,09:53,Jane
+"618 6th ave se,Minneapolis,MN",44.986832,-93.24324,3,Marcy Holmes,University,2,4,01/12/2017,10:02,Jane
+"308 4th Ave Southeast,Minneapolis,MN",44.985486,-93.250078,3,Marcy Holmes,University,2,4,01/12/2017,10:03,Jane
+"812 5th ave se,Minneapolis,MN",44.989754,-93.244512,3,Marcy Holmes,University,2,4,01/12/2017,10:06,Jane
+"610 6th ave se,Minneapolis,MN",44.987225,-93.24467800000001,3,Marcy Holmes,University,2,4,01/12/2017,10:12,Jane
+"322 6th Ave se,Minneapolis,MN",44.984398,-93.24726700000001,3,Marcy Holmes,University,2,4,01/12/2017,10:13,Jane
+"826 6th ave se,Minneapolis,MN",44.989092,-93.24354100000001,3,Marcy Holmes,University,2,4,01/12/2017,10:15,Jane
+"326 7th Ave se,Minneapolis,MN",44.983631,-93.246054,3,Marcy Holmes,University,2,4,01/12/2017,10:15,Jane
+"816 6th Avenue Southeast ,Minneapolis,MN",44.988991,-93.243624,3,Marcy Holmes,University,2,4,01/12/2017,10:20,Jane
+"418 7th Avenue Southeast ,Minneapolis,MN",44.984819,-93.245103,3,Marcy Holmes,University,2,4,01/12/2017,10:40,Jane
+"824 6th ave se,Minneapolis,MN",44.989385999999996,-93.242885,3,Marcy Holmes,University,2,4,01/12/2017,10:40,Jane
+"408 7th Ave se,Minneapolis,MN",44.984607000000004,-93.245272,3,Marcy Holmes,University,2,4,01/12/2017,10:40,Jane
+"400 7th ave se,Minneapolis,MN",44.984359000000005,-93.24547,3,Marcy Holmes,University,2,4,01/12/2017,10:42,Jane
+"412 7th Ave se,Minneapolis,MN",44.984731,-93.245173,3,Marcy Holmes,University,2,4,01/12/2017,10:43,Jane
+"302 6th st se,Minneapolis,MN",44.988468,-93.24932,3,Marcy Holmes,University,2,4,01/12/2017,10:43,Jane
+"718 7th ave se,Minneapolis,MN",44.987825,-93.242733,3,Marcy Holmes,University,2,4,01/12/2017,10:48,Jane
+"708 7th ave se,Minneapolis,MN",44.987638000000004,-93.24288100000001,3,Marcy Holmes,University,2,4,01/12/2017,10:52,Jane
+"310 6th st se,Minneapolis,MN",44.988403999999996,-93.249161,3,Marcy Holmes,University,2,4,01/12/2017,10:54,Jane
+"326 7TH AVE SE,Minneapolis,MN",44.983631,-93.246054,3,Marcy Holmes,University,2,4,01/12/2017,10:59,Jane
+"212 7th Ave Southeast,Minneapolis,MN",44.982513,-93.246933,3,Marcy Holmes,University,2,4,01/12/2017,10:59,Jane
+"722 8th Avenue Southeast ,Minneapolis,MN",44.987475,-93.24118,3,Marcy Holmes,University,2,4,01/12/2017,11:07,Jane
+"724 7th ave se,Minneapolis,MN",44.987858,-93.242707,3,Marcy Holmes,University,2,4,01/12/2017,11:15,Jane
+"318 8th Ave Southeast,Minneapolis,MN",44.983251,-93.244087,3,Marcy Holmes,University,2,4,01/12/2017,11:19,Jane
+"328 8th Ave se,Minneapolis,MN",44.983421,-93.244385,3,Marcy Holmes,University,2,4,01/12/2017,11:26,Jane
+"324 8 th Ave se,Minneapolis,MN",44.9834,-93.244401,3,Marcy Holmes,University,2,4,01/12/2017,11:29,Jane
+"422 7th ave se,Minneapolis,MN",44.984844,-93.245083,3,Marcy Holmes,University,2,4,01/12/2017,11:30,Jane
+"420 8th Avenue Southeast ,Minneapolis,MN",44.984349,-93.243275,3,Marcy Holmes,University,2,4,01/12/2017,11:31,Jane
+"604 6th ave se,Minneapolis,MN",44.986925,-93.245284,3,Marcy Holmes,University,2,4,01/12/2017,11:33,Jane
+"312 7th st se,Minneapolis,MN",44.989513,-93.248796,3,Marcy Holmes,University,2,4,01/12/2017,11:33,Jane
+"720 7th ave se,Minneapolis,MN",44.987836,-93.242724,3,Marcy Holmes,University,2,4,01/12/2017,11:35,Jane
+"722 7th ave se,Minneapolis,MN",44.987846999999995,-93.242716,3,Marcy Holmes,University,2,4,01/12/2017,11:35,Jane
+"322 7th Ave se,Minneapolis,MN",44.983592,-93.246085,3,Marcy Holmes,University,2,4,01/12/2017,11:40,Jane
+"304 7TH AVE SE,Minneapolis,MN",44.983415,-93.246227,3,Marcy Holmes,University,2,4,01/12/2017,11:42,Jane
+"622 8th ave se,Minneapolis,MN",44.986502,-93.241955,3,Marcy Holmes,University,2,4,01/12/2017,11:44,Jane
+"208 8th ave se ,Minneapolis,MN",44.981938,-93.245548,3,Marcy Holmes,University,2,4,01/12/2017,11:46,Jane
+"612 8th Ave se ,Minneapolis,MN",44.986208000000005,-93.242187,3,Marcy Holmes,University,2,4,01/12/2017,11:47,Jane
+"324 7th st se,Minneapolis,MN",44.989468,-93.248664,3,Marcy Holmes,University,2,4,01/12/2017,11:48,Jane
+"314 8th Ave South East,Minneapolis,MN",44.983245000000004,-93.244519,3,Marcy Holmes,University,2,4,01/12/2017,11:51,Jane
+"226 8th Avenue Southeast ,Minneapolis,MN",44.98211,-93.245411,3,Marcy Holmes,University,2,4,01/12/2017,11:56,Jane
+"410 11th Ave SE,Minneapolis,MN",44.982376,-93.239339,3,Marcy Holmes,University,2,4,01/12/2017,12:00,Jane
+"604 8th ave se,Minneapolis,MN",44.985904999999995,-93.242129,3,Marcy Holmes,University,2,4,01/12/2017,12:02,Jane
+"304 8th Ave se,Minneapolis,MN",44.982939,-93.244753,3,Marcy Holmes,University,2,4,01/12/2017,12:07,Jane
+"700 8th ave se,Minneapolis,MN",44.986764,-93.241749,3,Marcy Holmes,University,2,4,01/12/2017,12:08,Jane
+"316 8th Ave se,Minneapolis,MN",44.983306,-93.244473,3,Marcy Holmes,University,2,4,01/12/2017,12:09,Jane
+"718 8th ave se,Minneapolis,MN",44.987266,-93.241075,3,Marcy Holmes,University,2,4,01/12/2017,12:13,Jane
+"418 8th ave se,Minneapolis,MN",44.984375,-93.243643,3,Marcy Holmes,University,2,4,01/12/2017,12:23,Jane
+"502 11thave se,Minneapolis,MN",44.983221,-93.239069,3,Marcy Holmes,University,2,4,01/12/2017,12:32,Jane
+"816 11TH AVE SE,Minneapolis,MN",44.98672,-93.236263,3,Marcy Holmes,University,2,4,01/12/2017,12:35,Jane
+"712 7th st ne,Minneapolis,MN",44.986834,-93.24271,3,Marcy Holmes,University,2,4,01/12/2017,12:40,Jane
+"818 7th st se,Minneapolis,MN",44.986219,-93.241141,3,Marcy Holmes,University,2,4,01/12/2017,12:42,Jane
+"800 7th st se,Minneapolis,MN",44.986457,-93.241663,3,Marcy Holmes,University,2,4,01/12/2017,12:46,Jane
+"522 12th ave se,Minneapolis,MN",44.983259000000004,-93.236932,3,Marcy Holmes,University,2,4,01/12/2017,12:47,Jane
+"518 12th ave se,Minneapolis,MN",44.983101,-93.23709000000001,3,Marcy Holmes,University,2,4,01/12/2017,12:53,Jane
+"700 13th Avenue Southeast ,Minneapolis,MN",44.983985,-93.234785,3,Marcy Holmes,University,2,4,01/12/2017,12:54,Jane
+"710 7th st se,Minneapolis,MN",44.987632,-93.242549,3,Marcy Holmes,University,2,4,01/12/2017,13:03,Jane
+"330 12th ave se,Minneapolis,MN",44.980918,-93.23908,3,Marcy Holmes,University,2,4,01/12/2017,13:06,Jane
+"808 13th ave se,Minneapolis,MN",44.985182,-93.233564,3,Marcy Holmes,University,2,4,01/12/2017,13:07,Jane
+"402 11th Ave Southeast,Minneapolis,MN",44.98222,-93.239852,3,Marcy Holmes,University,2,4,01/12/2017,13:08,Jane
+"516 12th Ave se ,Minneapolis,MN",44.983001,-93.237057,3,Marcy Holmes,University,2,4,01/12/2017,13:21,Jane
+"708 13th ave se,Minneapolis,MN",44.984246,-93.234347,3,Marcy Holmes,University,2,4,01/12/2017,13:23,Jane
+"916 6th Streets Southeast ,Minneapolis,MN",44.984749,-93.24059399999999,3,Marcy Holmes,University,2,4,01/12/2017,13:29,Jane
+"622 13th ave se,Minneapolis,MN",44.983518,-93.235156,3,Marcy Holmes,University,2,4,01/12/2017,13:30,Jane
+"328 12th Ave se,Minneapolis,MN",44.980897999999996,-93.23909499999999,3,Marcy Holmes,University,2,4,01/12/2017,13:33,Jane
+"722 13THAVE SE,Minneapolis,MN",44.984628,-93.233981,3,Marcy Holmes,University,2,4,01/12/2017,13:33,Jane
+"606 12th Ave se,Minneapolis,MN",44.983996000000005,-93.236609,3,Marcy Holmes,University,2,4,01/12/2017,13:35,Jane
+"306 12th ave se,Minneapolis,MN",44.980684000000004,-93.239263,3,Marcy Holmes,University,2,4,01/12/2017,13:40,Jane
+"928 5th st se,Minneapolis,MN",44.98355,-93.241084,3,Marcy Holmes,University,2,4,01/12/2017,13:48,Jane
+"1102 5th st se,Minneapolis,MN",44.982996,-93.238823,3,Marcy Holmes,University,2,4,01/12/2017,13:50,Jane
+"920 6th Street Southeast ,Minneapolis,MN",44.984888,-93.240377,3,Marcy Holmes,University,2,4,01/12/2017,13:56,Jane
+"1228 6th st se,Minneapolis,MN",44.983388,-93.236587,3,Marcy Holmes,University,2,4,01/12/2017,14:01,Jane
+"606 13th ave se,Minneapolis,MN",44.98324,-93.2351,3,Marcy Holmes,University,2,4,01/12/2017,14:08,Jane
+"1116 5th st se,Minneapolis,MN",44.982547,-93.23866899999999,3,Marcy Holmes,University,2,4,01/12/2017,14:09,Jane
+"924 6th st se ,Minneapolis,MN",44.984876,-93.240347,3,Marcy Holmes,University,2,4,01/12/2017,14:12,Jane
+"1318 7th St se,Minneapolis,MN",44.983301000000004,-93.234073,3,Marcy Holmes,University,2,4,01/12/2017,14:13,Jane
+"604 13th ave se,Minneapolis,MN",44.983216,-93.23539699999999,3,Marcy Holmes,University,2,4,01/12/2017,14:15,Jane
+"1120 7TH ST SE,Minneapolis,MN",44.984531,-93.236859,3,Marcy Holmes,University,2,4,01/12/2017,14:17,Jane
+"1206 6th st se ,Minneapolis,MN",44.983513,-93.236892,3,Marcy Holmes,University,2,4,01/12/2017,14:22,Jane
+"1426 7th St SE ,Minneapolis,MN",44.983039,-93.232479,3,Marcy Holmes,University,2,4,01/12/2017,14:24,Jane
+"1428 6TH ST SE,Minneapolis,MN",44.981809999999996,-93.233205,3,Marcy Holmes,University,2,4,01/12/2017,14:28,Jane
+"600 13th Ave se,Minneapolis,MN",44.982999,-93.235569,3,Marcy Holmes,University,2,4,01/12/2017,14:34,Jane
+"1204 6th st se,Minneapolis,MN",44.983525,-93.236919,3,Marcy Holmes,University,2,4,01/12/2017,14:48,Jane
+"1110 5th st se,Minneapolis,MN",44.982687,-93.238812,3,Marcy Holmes,University,2,4,01/12/2017,14:53,Jane
+"218 6th st se,Minneapolis,MN",44.989083,-93.250853,3,Marcy Holmes,University,2,4,01/12/2017,14:53,Jane
+"212 6th st se,Minneapolis,MN",44.989117,-93.250936,3,Marcy Holmes,University,2,4,01/12/2017,14:59,Jane
+"1214 7TH ST SE,Minneapolis,MN",44.984348,-93.235781,3,Marcy Holmes,University,2,4,01/12/2017,15:01,Jane
+"1302 7th st se,Minneapolis,MN",44.983601,-93.234815,3,Marcy Holmes,University,2,4,01/12/2017,15:04,Jane
+"1424 6th st se,Minneapolis,MN",44.981846999999995,-93.233334,3,Marcy Holmes,University,2,4,01/12/2017,15:05,Jane
+"1208 7th st se,Minneapolis,MN",44.984375,-93.235849,3,Marcy Holmes,University,2,4,01/12/2017,15:12,Jane
+"1310 7thst se,Minneapolis,MN",44.983769,-93.23431,3,Marcy Holmes,University,2,4,01/12/2017,15:17,Jane
+"1308 7th st SE,Minneapolis,MN",44.983592,-93.234622,3,Marcy Holmes,University,2,4,01/12/2017,15:24,Jane
+"1404 6th st SE ,Minneapolis,MN",44.982347,-93.233967,3,Marcy Holmes,University,2,4,01/12/2017,15:26,Jane
+"1402 6th st se,Minneapolis,MN",44.982394,-93.234092,3,Marcy Holmes,University,2,4,01/12/2017,15:27,Jane
+"1406 7th st se,Minneapolis,MN",44.983124,-93.233201,3,Marcy Holmes,University,2,4,01/12/2017,15:30,Jane
+"1126 5th st se,Minneapolis,MN",44.982465999999995,-93.238156,3,Marcy Holmes,University,2,4,01/12/2017,15:57,Jane
+"1320 7th st se,Minneapolis,MN",44.98335,-93.23384200000001,3,Marcy Holmes,University,2,4,01/12/2017,16:09,Jane
+"1318 7th st se,Minneapolis,MN",44.983301000000004,-93.234073,3,Marcy Holmes,University,2,4,01/12/2017,16:19,Jane
+"308 6th st se,Minneapolis,MN",44.984182000000004,-93.247215,3,Marcy Holmes,University,2,4,01/12/2017,16:34,Jane
+"607 2nd ave se,Minneapolis,MN",44.989259999999994,-93.251087,3,Marcy Holmes,University,3,4,01/13/2017,08:13,Jane
+"429 2nd Avenue Southeast ,Minneapolis,MN",44.988137,-93.252251,3,Marcy Holmes,University,3,4,01/13/2017,08:21,Jane
+"621 3rd ave se,Minneapolis,MN",44.989401,-93.24949699999999,3,Marcy Holmes,University,3,4,01/13/2017,08:25,Jane
+"421 2nd Ave se,Minneapolis,MN",44.987865,-93.252191,3,Marcy Holmes,University,3,4,01/13/2017,08:25,Jane
+"511 3rd st se ,Minneapolis,MN",44.988129,-93.250437,3,Marcy Holmes,University,3,4,01/13/2017,08:27,Jane
+"309 4th Ave se,Minneapolis,MN",44.985414,-93.250466,3,Marcy Holmes,University,3,4,01/13/2017,08:32,Jane
+"301 5thave se,Minneapolis,MN",44.984738,-93.24916400000001,3,Marcy Holmes,University,3,4,01/13/2017,08:36,Jane
+"725 5th ave se,Minneapolis,MN",44.98927,-93.245571,3,Marcy Holmes,University,3,4,01/13/2017,08:39,Jane
+"815 5th Avenue Southeast ,Minneapolis,MN",44.990021,-93.245012,3,Marcy Holmes,University,3,4,01/13/2017,08:56,Jane
+"825 6th Ave SE ,Minneapolis,MN",44.989086,-93.24359,3,Marcy Holmes,University,3,4,01/13/2017,09:03,Jane
+"425 6th ave se,Minneapolis,MN",44.985394,-93.24652900000001,3,Marcy Holmes,University,3,4,01/13/2017,09:06,Jane
+"425 6th ave se,Minneapolis,MN",44.985394,-93.24652900000001,3,Marcy Holmes,University,3,4,01/13/2017,09:11,Jane
+"315 6th Ave SE ,Minneapolis,MN",44.984421999999995,-93.247291,3,Marcy Holmes,University,3,4,01/13/2017,09:20,Jane
+"213 7th ave se,Minneapolis,MN",44.982526,-93.246965,3,Marcy Holmes,University,3,4,01/13/2017,09:22,Jane
+"715 6th Avenue Southeast,Minneapolis,MN",44.988504,-93.244355,3,Marcy Holmes,University,3,4,01/13/2017,09:22,Jane
+"705 6th Avenue Southeast,Minneapolis,MN",44.988076,-93.24441,3,Marcy Holmes,University,3,4,01/13/2017,09:26,Jane
+"503 7th Avenue Southeast ,Minneapolis,MN",44.985424,-93.244665,3,Marcy Holmes,University,3,4,01/13/2017,09:28,Jane
+"225 7th Ave se,Minneapolis,MN",44.98264,-93.246872,3,Marcy Holmes,University,3,4,01/13/2017,09:30,Jane
+"309 7th Ave se,Minneapolis,MN",44.983682,-93.24633100000001,3,Marcy Holmes,University,3,4,01/13/2017,09:34,Jane
+"323 7th Ave se,Minneapolis,MN",44.983954,-93.245838,3,Marcy Holmes,University,3,4,01/13/2017,09:36,Jane
+"427 8th Ave se,Minneapolis,MN",44.984698,-93.243662,3,Marcy Holmes,University,3,4,01/13/2017,09:46,Jane
+"509 8th ave se,Minneapolis,MN",44.985244,-93.243267,3,Marcy Holmes,University,3,4,01/13/2017,09:46,Jane
+"517 8TH AVE SE,Minneapolis,MN",44.985451,-93.2432,3,Marcy Holmes,University,3,4,01/13/2017,09:52,Jane
+"515 8th ave se,Minneapolis,MN",44.985298,-93.243133,3,Marcy Holmes,University,3,4,01/13/2017,09:52,Jane
+"315 8th Ave SE ,Minneapolis,MN",44.983266,-93.244546,3,Marcy Holmes,University,3,4,01/13/2017,09:53,Jane
+"221 8th Avenue Southeast ,Minneapolis,MN",44.982543,-93.245108,3,Marcy Holmes,University,3,4,01/13/2017,10:01,Jane
+"425 8th Ave se,Minneapolis,MN",44.984716,-93.24378,3,Marcy Holmes,University,3,4,01/13/2017,10:02,Jane
+"307 8th ave se,Minneapolis,MN",44.983016,-93.244737,3,Marcy Holmes,University,3,4,01/13/2017,10:06,Jane
+"325 8th st se,Minneapolis,MN",44.990208,-93.247212,3,Marcy Holmes,University,3,4,01/13/2017,10:06,Jane
+"327 8th ave se,Minneapolis,MN",44.983584,-93.244303,3,Marcy Holmes,University,3,4,01/13/2017,10:11,Jane
+"215 8th ave se,Minneapolis,MN",44.982448,-93.245184,3,Marcy Holmes,University,3,4,01/13/2017,10:11,Jane
+"503 8th Ave se,Minneapolis,MN",44.985019,-93.24317099999999,3,Marcy Holmes,University,3,4,01/13/2017,10:13,Jane
+"421 11th Ave se,Minneapolis,MN",44.982773,-93.239463,3,Marcy Holmes,University,3,4,01/13/2017,10:16,Jane
+"211 8th ave se,Minneapolis,MN",44.982284,-93.245315,3,Marcy Holmes,University,3,4,01/13/2017,10:22,Jane
+"311 8th Ave se,Minneapolis,MN",44.983140999999996,-93.244641,3,Marcy Holmes,University,3,4,01/13/2017,10:23,Jane
+"815 12th Ave se,Minneapolis,MN",44.986179,-93.235244,3,Marcy Holmes,University,3,4,01/13/2017,10:26,Jane
+"519 12th ave se,Minneapolis,MN",44.983151,-93.237332,3,Marcy Holmes,University,3,4,01/13/2017,10:27,Jane
+"521 12th Avenue Southeast ,Minneapolis,MN",44.983309000000006,-93.237509,3,Marcy Holmes,University,3,4,01/13/2017,10:28,Jane
+"701 8th Avenue Southeast,Minneapolis,MN",44.986777000000004,-93.241782,3,Marcy Holmes,University,3,4,01/13/2017,10:29,Jane
+"523 12th ave se,Minneapolis,MN",44.983221,-93.237275,3,Marcy Holmes,University,3,4,01/13/2017,10:31,Jane
+"317 - 12TH AVE SE,Minneapolis,MN",44.981165999999995,-93.238928,3,Marcy Holmes,University,3,4,01/13/2017,10:33,Jane
+"521 11th Avenue Southeast,Minneapolis,MN",44.983357,-93.239002,3,Marcy Holmes,University,3,4,01/13/2017,10:34,Jane
+"213 8th AVE SE,Minneapolis,MN",44.982366,-93.245249,3,Marcy Holmes,University,3,4,01/13/2017,10:37,Jane
+"429 8th ave se,Minneapolis,MN",44.984716,-93.24378,3,Marcy Holmes,University,3,4,01/13/2017,10:43,Jane
+"323 12th ave se,Minneapolis,MN",44.981332,-93.238798,3,Marcy Holmes,University,3,4,01/13/2017,10:48,Jane
+"229 8th Ave se,Minneapolis,MN",44.982571,-93.245086,3,Marcy Holmes,University,3,4,01/13/2017,10:48,Jane
+"805 12th Ave se,Minneapolis,MN",44.985695,-93.23530699999999,3,Marcy Holmes,University,3,4,01/13/2017,10:50,Jane
+"325 12th Avenue Southeast ,Minneapolis,MN",44.981462,-93.238948,3,Marcy Holmes,University,3,4,01/13/2017,10:58,Jane
+"803 13th Ave se,Minneapolis,MN",44.985054999999996,-93.23400500000001,3,Marcy Holmes,University,3,4,01/13/2017,11:00,Jane
+"809 13th ave se,Minneapolis,MN",44.98536,-93.23397800000001,3,Marcy Holmes,University,3,4,01/13/2017,11:09,Jane
+"815 13th ave se,Minneapolis,MN",44.985794,-93.234274,3,Marcy Holmes,University,3,4,01/13/2017,11:11,Jane
+"319 12th Ave se,Minneapolis,MN",44.981273,-93.23919699999999,3,Marcy Holmes,University,3,4,01/13/2017,11:13,Jane
+"1429 6th st,Minneapolis,MN",44.982164000000004,-93.23288199999999,3,Marcy Holmes,University,3,4,01/13/2017,11:15,Jane
+"1411 6th St se,Minneapolis,MN",44.98218,-93.23344300000001,3,Marcy Holmes,University,3,4,01/13/2017,11:15,Jane
+"337 13th Avenue Southeast ,Minneapolis,MN",44.980445,-93.237689,3,Marcy Holmes,University,3,4,01/13/2017,11:19,Jane
+"925 6th st se,Minneapolis,MN",44.985054999999996,-93.239936,3,Marcy Holmes,University,3,4,01/13/2017,11:20,Jane
+"1409 6th st se,Minneapolis,MN",44.982196,-93.233487,3,Marcy Holmes,University,3,4,01/13/2017,11:20,Jane
+"1403 6th st se,Minneapolis,MN",44.982246,-93.233618,3,Marcy Holmes,University,3,4,01/13/2017,11:21,Jane
+"1413 6th st se,Minneapolis,MN",44.982164000000004,-93.2334,3,Marcy Holmes,University,3,4,01/13/2017,11:25,Jane
+"1405 6th st se,Minneapolis,MN",44.982229,-93.233574,3,Marcy Holmes,University,3,4,01/13/2017,11:28,Jane
+"915 6th Street Southeast,Minneapolis,MN",44.985215999999994,-93.240224,3,Marcy Holmes,University,3,4,01/13/2017,11:45,Jane
+"1419 6th ST se,Minneapolis,MN",44.982114,-93.23326899999999,3,Marcy Holmes,University,3,4,01/13/2017,11:52,Jane
+"927 6th st se,Minneapolis,MN",44.984811,-93.24011,3,Marcy Holmes,University,3,4,01/13/2017,11:52,Jane
+"714 8th st se,Minneapolis,MN",44.98785,-93.241925,3,Marcy Holmes,University,3,4,01/13/2017,11:53,Jane
+"729 9th ave se,Minneapolis,MN",44.987102,-93.239692,3,Marcy Holmes,University,3,4,01/13/2017,12:02,Jane
+"1407 6th Ave se,Minneapolis,MN",44.989815,-93.242997,3,Marcy Holmes,University,3,4,01/13/2017,12:06,Jane
+"1409 7th st se,Minneapolis,MN",44.983463,-93.232619,3,Marcy Holmes,University,3,4,01/13/2017,12:16,Jane
+"825 7th st se,Minneapolis,MN",44.986484999999995,-93.240346,3,Marcy Holmes,University,3,4,01/13/2017,12:22,Jane
+"721 7th st se,Minneapolis,MN",44.987082,-93.242125,3,Marcy Holmes,University,3,4,01/13/2017,12:26,Jane
+"821 6th st se,Minneapolis,MN",44.985586,-93.241505,3,Marcy Holmes,University,3,4,01/13/2017,12:34,Jane
+"311 7th st se,Minneapolis,MN",44.989446,-93.24851,3,Marcy Holmes,University,3,4,01/13/2017,12:40,Jane
+"415 6th st se,Minneapolis,MN",44.988032000000004,-93.24746800000001,3,Marcy Holmes,University,3,4,01/13/2017,13:03,Jane
+"407 7th st se,Minneapolis,MN",44.989164,-93.247073,3,Marcy Holmes,University,3,4,01/13/2017,13:06,Jane
+"3000 BLock of grand,Minneapolis,MN",45.022409,-93.270628,1,Marshall Terrace,Northeast,2,2,01/12/2017,05:48,Jane
+"5 27th ave ne,Minneapolis,MN",45.016807,-93.272133,1,Marshall Terrace,Northeast,3,2,01/13/2017,14:16,Jane
+"3341 2nd st n,Minneapolis,MN",45.01616,-93.281488,4,McKinley,Camden,1,1,01/11/2017,21:27,Jane
+"3331 2nd st n,Minneapolis,MN",45.015974,-93.280968,4,McKinley,Camden,1,1,01/11/2017,21:32,Jane
+"3327 2nd ST N,Minneapolis,MN",45.01589,-93.28096,4,McKinley,Camden,1,1,01/11/2017,21:33,Jane
+"3442 4th st n ,Minneapolis,MN",45.017953000000006,-93.284655,4,McKinley,Camden,2,1,01/12/2017,09:35,Jane
+"3242 6th st n,Minneapolis,MN",45.014499,-93.286208,4,McKinley,Camden,2,1,01/12/2017,10:37,Jane
+"3510 6th st n,Minneapolis,MN",45.018867,-93.286245,4,McKinley,Camden,2,1,01/12/2017,10:41,Jane
+"3444 4th st n,Minneapolis,MN",45.017973,-93.284966,4,McKinley,Camden,2,1,01/12/2017,10:44,Jane
+"3642 6th St n ,Minneapolis,MN",45.021559,-93.28622800000001,4,McKinley,Camden,2,1,01/12/2017,11:15,Jane
+"3730 Aldrich Ave N. ,Minneapolis,MN",45.023046,-93.28905999999999,4,McKinley,Camden,2,1,01/12/2017,11:50,Jane
+"3620 Aldrich Ave N,Minneapolis,MN",45.020939,-93.289293,4,McKinley,Camden,2,1,01/12/2017,13:09,Jane
+"3330 Aldrich Ave N,Minneapolis,MN",45.015906,-93.28891,4,McKinley,Camden,2,1,01/12/2017,13:29,Jane
+"722 33rd ave n ,Minneapolis,MN",45.014926,-93.28831600000001,4,McKinley,Camden,2,1,01/12/2017,14:37,Jane
+"3342 Bryant Ave n ,Minneapolis,MN",45.016307,-93.290257,4,McKinley,Camden,2,1,01/12/2017,15:14,Jane
+"620 33rd ave n,Minneapolis,MN",45.014920000000004,-93.28715,4,McKinley,Camden,2,1,01/12/2017,15:18,Jane
+"3656 Bryant Ave n ,Minneapolis,MN",45.021934,-93.290561,4,McKinley,Camden,2,1,01/12/2017,15:54,Jane
+"3634 COLFAX ave n,Minneapolis,MN",45.021344,-93.291663,4,McKinley,Camden,2,1,01/12/2017,15:58,Jane
+"3533 3rd st n,Minneapolis,MN",45.019462,-93.28349,4,McKinley,Camden,3,1,01/13/2017,09:02,Jane
+"3433 4th st no,Minneapolis,MN",45.017655,-93.285002,4,McKinley,Camden,3,1,01/13/2017,09:23,Jane
+"3215 6th st n,Minneapolis,MN",45.013653999999995,-93.286922,4,McKinley,Camden,3,1,01/13/2017,10:51,Jane
+"3605 aldrich ave n ,Minneapolis,MN",45.020525,-93.289325,4,McKinley,Camden,3,1,01/13/2017,11:04,Jane
+"3611 Aldrich Ave. N. ,Minneapolis,MN",45.020669,-93.289651,4,McKinley,Camden,3,1,01/13/2017,11:27,Jane
+"3215 Bryant Ave n ,Minneapolis,MN",45.013690000000004,-93.290853,4,McKinley,Camden,3,1,01/13/2017,11:36,Jane
+"3213 Bryant Ave n ,Minneapolis,MN",45.013612,-93.29056899999999,4,McKinley,Camden,3,1,01/13/2017,11:41,Jane
+"3503 aldrich ave n ,Minneapolis,MN",45.018713,-93.289324,4,McKinley,Camden,3,1,01/13/2017,12:05,Jane
+"1208 Winter St ne,Minneapolis,MN",44.993299,-93.23326999999999,1,Mid - City Industrial,University,2,2,01/12/2017,09:01,Jane
+"2600 BLOOMINGTON AVE,Minneapolis,MN",44.955383000000005,-93.25263199999999,9,Midtown Phillips,Phillips,2,3,01/12/2017,00:55,Jane
+"2800 BLOOMINGTON AVE,Minneapolis,MN",44.951723,-93.252751,9,Midtown Phillips,Phillips,2,3,01/12/2017,00:58,Jane
+"2900 Bloomington Avenue South,Minneapolis,MN",44.949969,-93.252886,9,Midtown Phillips,Phillips,2,3,01/12/2017,01:36,Jane
+"5741 36th Avenue South,Minneapolis,MN",44.898765999999995,-93.22014,12,Morris Park,Nokomis,3,6,01/13/2017,14:23,Jane
+"631 2nd st N,Minneapolis,MN",44.988122,-93.275249,3,North Loop,Central,1,1,01/11/2017,22:08,Jane
+"38 4th Ave n ,Minneapolis,MN",44.988236,-93.26955799999999,3,North Loop,Central,1,1,01/11/2017,22:10,Jane
+"625 2nd st n,Minneapolis,MN",44.987825,-93.275251,3,North Loop,Central,1,1,01/11/2017,22:16,Jane
+"524 2nd st N,Minneapolis,MN",44.987238,-93.273965,3,North Loop,Central,1,1,01/11/2017,22:19,Jane
+"618 3rd st n,Minneapolis,MN",44.986573,-93.277113,3,North Loop,Central,1,1,01/11/2017,22:25,Jane
+"514 2ND ST N ,Minneapolis,MN",44.987145,-93.27383499999999,3,North Loop,Central,1,1,01/11/2017,22:33,Jane
+"728 3rd st n ,Minneapolis,MN",44.987009,-93.27838299999999,3,North Loop,Central,1,1,01/11/2017,22:50,Jane
+"832 3rd st n,Minneapolis,MN",44.988304,-93.280137,3,North Loop,Central,1,1,01/11/2017,22:57,Jane
+"258 10th ave n,Minneapolis,MN",44.989852,-93.28124100000001,5,North Loop,Central,1,1,01/11/2017,23:03,Jane
+"706 5th st n,Minneapolis,MN",44.986226,-93.281178,5,North Loop,Central,2,1,01/12/2017,00:05,Jane
+"702 4th st n,Minneapolis,MN",44.985841,-93.278992,3,North Loop,Central,2,1,01/12/2017,00:25,Jane
+"706 5th st n,Minneapolis,MN",44.986226,-93.281178,5,North Loop,Central,2,1,01/12/2017,00:32,Jane
+"1500 WASHINGTON ST NE,Minneapolis,MN",44.994935999999996,-93.281049,5,Near - North,Near North,2,1,01/12/2017,01:09,Jane
+"1200 WASHINGTON ST NE,Minneapolis,MN",44.991253,-93.280286,5,North Loop,Central,2,1,01/12/2017,01:12,Jane
+"730 4th st n,Minneapolis,MN",44.986943,-93.279921,3,North Loop,Central,2,1,01/12/2017,01:26,Jane
+"720 4th st n,Minneapolis,MN",44.986561,-93.279384,3,North Loop,Central,2,1,01/12/2017,01:49,Jane
+"708 4th st n,Minneapolis,MN",44.985972,-93.279177,3,North Loop,Central,2,1,01/12/2017,02:07,Jane
+"1212 Fremont Ave n,Minneapolis,MN",44.991984,-93.295631,5,Near - North,Near North,2,1,01/12/2017,08:35,Jane
+"1818 Bryant ave n ,Minneapolis,MN",44.998165,-93.290588,5,Near - North,Near North,2,1,01/12/2017,08:50,Jane
+"1112 humbold Ave n,Minneapolis,MN",44.989437,-93.29816600000001,5,Near - North,Near North,2,1,01/12/2017,09:02,Jane
+"1604 Girard ave n,Minneapolis,MN",44.995506,-93.297165,5,Near - North,Near North,2,1,01/12/2017,09:13,Jane
+"1516 GIRARD AV N,Minneapolis,MN",44.994837,-93.296862,5,Near - North,Near North,2,1,01/12/2017,09:15,Jane
+"1336 Irving Ave N,Minneapolis,MN",44.992915999999994,-93.299217,5,Near - North,Near North,2,1,01/12/2017,09:31,Jane
+"1124 IRVING AV N,Minneapolis,MN",44.989905,-93.299256,5,Near - North,Near North,2,1,01/12/2017,09:37,Jane
+"1226 James ave n,Minneapolis,MN",44.990843,-93.30068299999999,5,Near - North,Near North,2,1,01/12/2017,09:52,Jane
+"1204 MORGAN AV N,Minneapolis,MN",44.98986,-93.304113,5,Near - North,Near North,2,1,01/12/2017,10:03,Jane
+"1206 Morgan Ave n,Minneapolis,MN",44.990013,-93.304114,5,Near - North,Near North,2,1,01/12/2017,10:15,Jane
+"1320 James ave n,Minneapolis,MN",44.992264,-93.30041800000001,5,Near - North,Near North,2,1,01/12/2017,10:18,Jane
+"616 Morgan Ave N,Minneapolis,MN",44.984911,-93.30414300000001,5,Near - North,Near North,2,1,01/12/2017,10:22,Jane
+"1026 LOGAN AV N,Minneapolis,MN",44.988766999999996,-93.30285500000001,5,Near - North,Near North,2,1,01/12/2017,10:30,Jane
+"820 Logan Ave n ,Minneapolis,MN",44.986779999999996,-93.30280400000001,5,Near - North,Near North,2,1,01/12/2017,10:30,Jane
+"822 logan ave n,Minneapolis,MN",44.986793,-93.30269,5,Near - North,Near North,2,1,01/12/2017,10:36,Jane
+"1024 Knox Ave n,Minneapolis,MN",44.988369,-93.30194,5,Near - North,Near North,2,1,01/12/2017,10:47,Jane
+"1234 Knox ave n,Minneapolis,MN",44.990793,-93.301569,5,Near - North,Near North,2,1,01/12/2017,11:03,Jane
+"706 Oliver Ave N,Minneapolis,MN",44.985369,-93.306659,5,Near - North,Near North,2,1,01/12/2017,11:08,Jane
+"612 Oliver ave n,Minneapolis,MN",44.984809999999996,-93.306665,5,Near - North,Near North,2,1,01/12/2017,11:12,Jane
+"714 Oliver ave n ,Minneapolis,MN",44.9856,-93.306659,5,Near - North,Near North,2,1,01/12/2017,11:32,Jane
+"1710 Thomas PL,Minneapolis,MN",44.985085,-93.302639,5,Near - North,Near North,2,1,01/12/2017,12:38,Jane
+"1700 Thomas place,Minneapolis,MN",44.985428999999996,-93.302492,5,Near - North,Near North,2,1,01/12/2017,12:40,Jane
+"938 11th Ave n,Minneapolis,MN",44.989312,-93.292254,5,Near - North,Near North,2,1,01/12/2017,12:45,Jane
+"942 11th Ave. N.,Minneapolis,MN",44.989252,-93.292348,5,Near - North,Near North,2,1,01/12/2017,12:45,Jane
+"1608 Thomas pl,Minneapolis,MN",44.985727000000004,-93.301337,5,Near - North,Near North,2,1,01/12/2017,12:50,Jane
+"940 11th Ave n ,Minneapolis,MN",44.989282,-93.292301,5,Near - North,Near North,2,1,01/12/2017,13:10,Jane
+"1604 11th av no ,Minneapolis,MN",44.988987,-93.30075,5,Near - North,Near North,2,1,01/12/2017,13:13,Jane
+"1204 17th Ave n ,Minneapolis,MN",44.996342,-93.29572900000001,5,Near - North,Near North,2,1,01/12/2017,14:11,Jane
+"709 Bryant ave n,Minneapolis,MN",44.991409999999995,-93.29106999999999,5,Near - North,Near North,3,1,01/13/2017,08:31,Jane
+"719 Bryant Ave N,Minneapolis,MN",44.991409999999995,-93.29106999999999,5,Near - North,Near North,3,1,01/13/2017,08:35,Jane
+"1121 FREMONT AV N,Minneapolis,MN",44.989973,-93.294382,5,Near - North,Near North,3,1,01/13/2017,08:50,Jane
+"1203 Freemont ave n,Minneapolis,MN",44.989965000000005,-93.29418299999999,5,Near - North,Near North,3,1,01/13/2017,08:51,Jane
+"1205 Fremont Ave N,Minneapolis,MN",44.989722,-93.294379,5,Near - North,Near North,3,1,01/13/2017,08:54,Jane
+"1827 Bryant ave n,Minneapolis,MN",44.99827,-93.291455,5,Near - North,Near North,3,1,01/13/2017,09:03,Jane
+"1815 Bryant Ave N,Minneapolis,MN",44.997906,-93.291457,5,Near - North,Near North,3,1,01/13/2017,09:12,Jane
+"703 Humboldt Ave N,Minneapolis,MN",44.985784,-93.29819300000001,5,Near - North,Near North,3,1,01/13/2017,09:36,Jane
+"1323 Girard ave n,Minneapolis,MN",44.992839000000004,-93.297197,5,Near - North,Near North,3,1,01/13/2017,09:44,Jane
+"1605 Girard ave n,Minneapolis,MN",44.995526,-93.297554,5,Near - North,Near North,3,1,01/13/2017,09:49,Jane
+"831 Irving Ave n,Minneapolis,MN",44.987004,-93.29961,5,Near - North,Near North,3,1,01/13/2017,10:15,Jane
+"803 Irving Ave N,Minneapolis,MN",44.986596999999996,-93.299702,5,Near - North,Near North,3,1,01/13/2017,10:30,Jane
+"805 Irving Ave n,Minneapolis,MN",44.986669,-93.299688,5,Near - North,Near North,3,1,01/13/2017,10:33,Jane
+"825 Morgan ave n,Minneapolis,MN",44.986864000000004,-93.304508,5,Near - North,Near North,3,1,01/13/2017,11:02,Jane
+"1401 16th ST SE ,Minneapolis,MN",44.995020000000004,-93.298277,5,Near - North,Near North,3,1,01/13/2017,11:12,Jane
+"917 Oliver Ave N,Minneapolis,MN",44.987495,-93.307362,5,Near - North,Near North,3,1,01/13/2017,11:20,Jane
+"943 11th Ave N,Minneapolis,MN",44.989059999999995,-93.287408,5,North Loop,Central,3,1,01/13/2017,12:52,Jane
+"945 11th Ave N,Minneapolis,MN",44.989276000000004,-93.29190200000001,5,Near - North,Near North,3,1,01/13/2017,13:11,Jane
+"1 4TH ST SE,Minneapolis,MN",44.988476,-93.25495699999999,3,Nicollet Island - East Bank,University,1,2,01/11/2017,22:36,Jane
+"122 5th st ne,Minneapolis,MN",44.990655,-93.254688,3,Nicollet Island - East Bank,University,2,2,01/12/2017,12:54,Jane
+"115 5th st ne,Minneapolis,MN",44.990642,-93.25415699999999,3,Nicollet Island - East Bank,University,3,2,01/13/2017,10:31,Jane
+"1200 Block of 18th,Minneapolis,MN",45.00594,-93.24227900000001,1,Northeast Park,Northeast,2,2,01/12/2017,01:25,Jane
+"1200 18TH AVE NE,Minneapolis,MN",45.00594,-93.24227900000001,1,Northeast Park,Northeast,2,2,01/12/2017,01:44,Jane
+"1210 Buchanan St ne,Minneapolis,MN",45.000103,-93.23996600000001,1,Northeast Park,Northeast,2,2,01/12/2017,12:56,Jane
+"1618 Johnson st ne,Minneapolis,MN",45.004872999999996,-93.237474,1,Northeast Park,Northeast,2,2,01/12/2017,14:42,Jane
+"1614 Johnson st ne,Minneapolis,MN",45.004701000000004,-93.237566,1,Northeast Park,Northeast,2,2,01/12/2017,14:45,Jane
+"1804 Polk st ne ,Minneapolis,MN",45.005928000000004,-93.244857,1,Northeast Park,Northeast,2,2,01/12/2017,15:09,Jane
+"1616 Johnson st ne,Minneapolis,MN",45.00484,-93.237574,1,Northeast Park,Northeast,2,2,01/12/2017,15:14,Jane
+"1812 Polk st ne,Minneapolis,MN",45.005928000000004,-93.244857,1,Northeast Park,Northeast,2,2,01/12/2017,15:32,Jane
+"1431 12th ave ne,Minneapolis,MN",44.999764,-93.239007,1,Northeast Park,Northeast,3,2,01/13/2017,12:03,Jane
+"4344 14th ave,Minneapolis,MN",44.923643,-93.255206,11,Northrop,Nokomis,2,6,01/12/2017,09:10,Jane
+"4335 12th ave,Minneapolis,MN",44.924005,-93.257207,11,Northrop,Nokomis,3,6,01/13/2017,09:59,Jane
+"4337 12th ave,Minneapolis,MN",44.923919,-93.257202,11,Northrop,Nokomis,3,6,01/13/2017,10:01,Jane
+"24TH & CHICAGO AVE S,Minneapolis,MN",44.959115999999995,-93.262576,6,Phillips West,Phillips,2,3,01/12/2017,00:20,Jane
+"24th and chicago,Minneapolis,MN",44.959115999999995,-93.262576,6,Phillips West,Phillips,2,3,01/12/2017,00:46,Jane
+"24TH & CHICAGO AVE S ,Minneapolis,MN",44.959115999999995,-93.262576,6,Phillips West,Phillips,2,3,01/12/2017,01:17,Jane
+"24th St & Chicago Ave s ,Minneapolis,MN",44.959115999999995,-93.262576,6,Phillips West,Phillips,2,3,01/12/2017,01:24,Jane
+"3025 Chicago Avenue South,Minneapolis,MN",44.947507,-93.26231,9,Powderhorn Park,Powderhorn,1,6,01/11/2017,21:25,Jane
+"3537 Chicago Avenue South,Minneapolis,MN",44.938353,-93.262245,9,Powderhorn Park,Powderhorn,1,6,01/11/2017,22:19,Jane
+"3535 Chicago Ave so,Minneapolis,MN",44.938401,-93.262523,9,Powderhorn Park,Powderhorn,1,6,01/11/2017,22:21,Jane
+"1520 e 35th st,Minneapolis,MN",44.939566,-93.252691,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,02:10,Jane
+"1509 35th st e,Minneapolis,MN",44.939541,-93.253287,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,03:52,Jane
+"3548 14th ave s,Minneapolis,MN",44.937908,-93.255185,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,08:38,Jane
+"3528 14th Ave. S. ,Minneapolis,MN",44.938485,-93.25522600000001,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,08:43,Jane
+"3526 14th ave,Minneapolis,MN",44.938553000000006,-93.25530400000001,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,09:08,Jane
+"3524 13th ave s,Minneapolis,MN",44.938625,-93.25656500000001,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,09:43,Jane
+"3406 15th ave s,Minneapolis,MN",44.940529999999995,-93.253733,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,10:18,Jane
+"3040 16th Avenue South,Minneapolis,MN",44.947044,-93.251574,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,10:30,Jane
+"3032 15th Ave. S.,Minneapolis,MN",44.947363,-93.253788,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,10:30,Jane
+"3114 16th ave s,Minneapolis,MN",44.946018,-93.251233,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,10:31,Jane
+"3750 11th ave,Minneapolis,MN",44.934564,-93.258735,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,10:35,Jane
+"3608 13th ave,Minneapolis,MN",44.937326,-93.25656,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,10:38,Jane
+"3730 10th ave s,Minneapolis,MN",44.934996999999996,-93.259997,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,10:56,Jane
+"3644 Elliot ave,Minneapolis,MN",44.936238,-93.261496,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,11:14,Jane
+"3502 elliot ave,Minneapolis,MN",44.93947,-93.261314,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,11:18,Jane
+"820 37th St. E. ,Minneapolis,MN",44.935969,-93.261729,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,11:25,Jane
+"3510 16th Avenue South,Minneapolis,MN",44.93914,-93.25118,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,11:25,Jane
+"3504 elliot ave,Minneapolis,MN",44.939392,-93.261313,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,11:29,Jane
+"3732 10th ave,Minneapolis,MN",44.934942,-93.26035300000001,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,11:31,Jane
+"1318 32nd st e,Minneapolis,MN",44.944762,-93.255011,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,11:36,Jane
+"3250 15th Ave S,Minneapolis,MN",44.943232,-93.254104,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,11:38,Jane
+"3222 15th ave s,Minneapolis,MN",44.944023,-93.254116,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,11:44,Jane
+"1516 34th St E,Minneapolis,MN",44.941373999999996,-93.252884,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,11:44,Jane
+"3044 Elliot ave,Minneapolis,MN",44.946913,-93.26173299999999,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,11:51,Jane
+"1708 33rd st e,Minneapolis,MN",44.942952000000005,-93.24981700000001,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,11:59,Jane
+"3150 Elliott Ave.,Minneapolis,MN",44.945036,-93.26136899999999,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,12:01,Jane
+"3744 Elliot Avenue South,Minneapolis,MN",44.934706,-93.26101700000001,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,12:03,Jane
+"3018 10th Avenue South,Minneapolis,MN",44.947655,-93.26014599999999,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,12:06,Jane
+"3632 10th ave s,Minneapolis,MN",44.936642,-93.260253,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,12:06,Jane
+"3126 10th ave,Minneapolis,MN",44.94571,-93.26011899999999,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,12:28,Jane
+"3045 10th ave,Minneapolis,MN",44.946847,-93.25972900000001,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,12:30,Jane
+"3026 12th ave s,Minneapolis,MN",44.94735,-93.257593,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,12:36,Jane
+"3016 12th Avenue South,Minneapolis,MN",44.947666,-93.257918,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,12:51,Jane
+"3044 12th Ave. S.,Minneapolis,MN",44.946852,-93.257959,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,12:51,Jane
+"1214 E 32ND ST ,Minneapolis,MN",44.944762,-93.255011,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,12:55,Jane
+"1608 37th St E,Minneapolis,MN",44.935951,-93.251159,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,13:08,Jane
+"1220 Powderhorn terr,Minneapolis,MN",44.945906,-93.256528,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,13:13,Jane
+"3016 10th ave s,Minneapolis,MN",44.94766,-93.26014599999999,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,13:17,Jane
+"1308 powderhorn ter,Minneapolis,MN",44.945888000000004,-93.25580699999999,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,13:17,Jane
+"3112 12th ave,Minneapolis,MN",44.946103,-93.257576,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,13:19,Jane
+"3038 13th ave,Minneapolis,MN",44.947041,-93.256644,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,13:21,Jane
+"3048 14th Avenue South,Minneapolis,MN",44.946954,-93.255371,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,13:32,Jane
+"3020 13th Ave. S.,Minneapolis,MN",44.947493,-93.256333,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,13:32,Jane
+"3624 18th ave,Minneapolis,MN",44.936959,-93.24897800000001,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,14:14,Jane
+"3224 17th ave,Minneapolis,MN",44.943882,-93.250338,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,14:16,Jane
+"3208 18th ave,Minneapolis,MN",44.944353,-93.24869,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,14:57,Jane
+"3716 18th ave,Minneapolis,MN",44.935382000000004,-93.248866,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,16:09,Jane
+"3736 18th ave,Minneapolis,MN",44.93483,-93.248882,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,16:11,Jane
+"3746 17th Avenue South,Minneapolis,MN",44.934613,-93.250175,9,Powderhorn Park,Powderhorn,2,6,01/12/2017,16:49,Jane
+"3505 14th ave,Minneapolis,MN",44.93926,-93.25493900000001,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,08:46,Jane
+"3117 15th ave,Minneapolis,MN",44.945893,-93.253514,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,08:55,Jane
+"3525 13th Ave. S.,Minneapolis,MN",44.938635999999995,-93.25596999999999,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,09:27,Jane
+"3633 17th Avenue South,Minneapolis,MN",44.936738,-93.249501,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,09:31,Jane
+"3115 18th Avenue South,Minneapolis,MN",44.945966999999996,-93.248345,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,09:56,Jane
+"3143 18th Avenue South,Minneapolis,MN",44.945048,-93.24843800000001,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,09:59,Jane
+"3745 17th ave s,Minneapolis,MN",44.934589,-93.24986,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,10:04,Jane
+"3537 11th ave s,Minneapolis,MN",44.9383,-93.258473,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,10:11,Jane
+"3521 12th ave s,Minneapolis,MN",44.938772,-93.25715799999999,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,10:18,Jane
+"3755 15TH AVE S,Minneapolis,MN",44.934437,-93.253642,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,10:24,Jane
+"1705 34th st e,Minneapolis,MN",44.941338,-93.24967600000001,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,10:48,Jane
+"3633 elliot ave,Minneapolis,MN",44.936618,-93.260947,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,10:49,Jane
+"3637 elliot ave s,Minneapolis,MN",44.936481,-93.26094499999999,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,10:50,Jane
+"3445 18th ave s,Minneapolis,MN",44.939809000000004,-93.248284,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,10:53,Jane
+"3701 10th ave,Minneapolis,MN",44.93581,-93.259698,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,11:13,Jane
+"3651 11th ave s,Minneapolis,MN",44.936627,-93.25872,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,11:24,Jane
+"3649 18th Avenue South,Minneapolis,MN",44.936301,-93.24826800000001,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,11:53,Jane
+"1611 37th Street East,Minneapolis,MN",44.935815000000005,-93.250635,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,11:56,Jane
+"3445 17th ave s,Minneapolis,MN",44.939826000000004,-93.249562,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,12:03,Jane
+"1323 Powderhorn Terrace,Minneapolis,MN",44.945640000000004,-93.25513000000001,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,12:42,Jane
+"1217 Powderhorn Terrace,Minneapolis,MN",44.945638,-93.257339,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,12:53,Jane
+"3301 Elliot ,Minneapolis,MN",44.943059999999996,-93.260961,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,13:42,Jane
+"3315 Elliot Avenue South,Minneapolis,MN",44.94272,-93.26095699999999,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,13:45,Jane
+"3313 Elliot Avenue South,Minneapolis,MN",44.942776,-93.261328,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,14:39,Jane
+"3323 Elliot Avenue South,Minneapolis,MN",44.94239,-93.26095500000001,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,14:43,Jane
+"3031 12th Avenue South,Minneapolis,MN",44.947268,-93.257192,9,Powderhorn Park,Powderhorn,3,6,01/13/2017,16:14,Jane
+"627 oak st se,Minneapolis,MN",44.96921,-93.2268,2,Prospect Park - East River Road,University,1,4,01/11/2017,23:26,Jane
+"627 oak st se,Minneapolis,MN",44.96921,-93.2268,2,Prospect Park - East River Road,University,1,4,01/11/2017,23:28,Jane
+"4153 University Avenue Southeast,Minneapolis,MN",44.968108,-93.207708,2,Prospect Park,University,1,4,01/11/2017,23:59,Jane
+"300 Oak Street Southeast,Minneapolis,MN",44.973494,-93.227096,2,Prospect Park - East River Road,University,2,4,01/12/2017,00:04,Jane
+"313 oak st se,Minneapolis,MN",44.973059,-93.22691999999999,2,Prospect Park - East River Road,University,2,4,01/12/2017,00:13,Jane
+"2200 4TH ST SE,Minneapolis,MN",44.97503,-93.222149,2,Prospect Park - East River Road,University,2,4,01/12/2017,02:04,Jane
+"313 oak St s,Minneapolis,MN",44.973059,-93.22691999999999,2,Prospect Park - East River Road,University,3,4,01/13/2017,10:09,Jane
+"2635 4th st se,Minneapolis,MN",44.973754,-93.217954,2,Prospect Park - East River Road,University,3,4,01/13/2017,13:26,Jane
+"2600 4th ST SE - ,Minneapolis,MN",44.973858,-93.219207,2,Prospect Park - East River Road,University,3,4,01/13/2017,13:29,Jane
+"2607 4th st se,Minneapolis,MN",44.973879,-93.219186,2,Prospect Park - East River Road,University,3,4,01/13/2017,13:30,Jane
+"2637 4th St SE - ,Minneapolis,MN",44.97343,-93.218076,2,Prospect Park - East River Road,University,3,4,01/13/2017,13:32,Jane
+"2639 4th st se,Minneapolis,MN",44.973408,-93.218021,2,Prospect Park - East River Road,University,3,4,01/13/2017,13:36,Jane
+"2705 4th st se,Minneapolis,MN",44.973256,-93.21764300000001,2,Prospect Park - East River Road,University,3,4,01/13/2017,14:00,Jane
+"2703 4th St SE ,Minneapolis,MN",44.973269,-93.217674,2,Prospect Park - East River Road,University,3,4,01/13/2017,14:03,Jane
+"2719 4th st se,Minneapolis,MN",44.973175,-93.217438,2,Prospect Park - East River Road,University,3,4,01/13/2017,14:08,Jane

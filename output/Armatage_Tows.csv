@@ -1,0 +1,949 @@
+Location,Latitude,Longitude,Ward,Community,Neighborhood,Tow_Zone,Day,Emergency,Date,Time
+"2101 LYNDALE AVE N ,Minneapolis,MN",45.00025,-93.287993,5,Near North,Hawthorne,1,1,Armatage,02/24/2019,21:20
+"2101 LYNDALE AVE N ,Minneapolis,MN",45.00025,-93.287993,5,Near North,Hawthorne,1,1,Armatage,02/24/2019,21:23
+"2806 EMERSON AVE S,Minneapolis,MN",44.951599,-93.294638,10,Calhoun Isle,Lowry Hill East,3,1,Armatage,02/24/2019,21:25
+"2901 Lyndale Ave n ,Minneapolis,MN",45.009708,-93.288395,5,Near North,Hawthorne,1,1,Armatage,02/24/2019,21:35
+"2800 Emerson Avenue South,Minneapolis,MN",44.951578000000005,-93.294725,10,Calhoun Isle,Lowry Hill East,3,1,Armatage,02/24/2019,21:36
+"2939 Lyndale Ave n,Minneapolis,MN",45.010657,-93.288386,5,Near North,Hawthorne,1,1,Armatage,02/24/2019,21:37
+"2848 emerson Avenue S,Minneapolis,MN",44.950835,-93.29474300000001,10,Calhoun Isle,Lowry Hill East,3,1,Armatage,02/24/2019,21:39
+"2901 lyndale ave n ,Minneapolis,MN",45.009708,-93.288395,5,Near North,Hawthorne,1,1,Armatage,02/24/2019,21:43
+"2901 lyndale ave n,Minneapolis,MN",45.009708,-93.288395,5,Near North,Hawthorne,1,1,Armatage,02/24/2019,21:46
+"3100 block of Chicago ave s,Minneapolis,MN",44.946506,-93.262979,9,Powderhorn,Central,5,1,Armatage,02/24/2019,21:46
+"2848 EMERSON AVE S,Minneapolis,MN",44.950835,-93.29474300000001,10,Calhoun Isle,Lowry Hill East,3,1,Armatage,02/24/2019,21:48
+"3200 -3298 lyndale ave n ,Minneapolis,MN",45.013111,-93.288021,4,Camden,McKinley,1,1,Armatage,02/24/2019,21:51
+"3200 -3298 lyndale ave n ,Minneapolis,MN",45.013111,-93.288021,4,Camden,McKinley,1,1,Armatage,02/24/2019,21:54
+"3418 johnson st ne,Minneapolis,MN",45.030058000000004,-93.237424,1,Northeast,Waite Park,2,1,Armatage,02/24/2019,21:58
+"2848 Emerson Ave S,Minneapolis,MN",44.950835,-93.29474300000001,10,Calhoun Isle,Lowry Hill East,3,1,Armatage,02/24/2019,21:59
+"3414 johnson st ne,Minneapolis,MN",45.029948,-93.23745100000001,1,Northeast,Waite Park,2,1,Armatage,02/24/2019,22:02
+"3401 Lyndale Ave N,Minneapolis,MN",45.016858,-93.288387,4,Camden,McKinley,1,1,Armatage,02/24/2019,22:09
+"3600 block of Chicago ave,Minneapolis,MN",44.937618,-93.262861,8,Powderhorn,Central,5,1,Armatage,02/24/2019,22:10
+"3501 lyndale av no ,Minneapolis,MN",45.018646000000004,-93.28835500000001,4,Camden,McKinley,1,1,Armatage,02/24/2019,22:11
+"3142 JOHNSON ST NE,Minneapolis,MN",45.025317,-93.23736099999999,1,Northeast,Waite Park,2,1,Armatage,02/24/2019,22:13
+"3400 Chicago Ave,Minneapolis,MN",44.941224,-93.26294,9,Powderhorn,Central,5,1,Armatage,02/24/2019,22:14
+"3400 Chicago ave s,Minneapolis,MN",44.941224,-93.26294,9,Powderhorn,Central,5,1,Armatage,02/24/2019,22:16
+"3315 johnson st ne,Minneapolis,MN",45.028152,-93.236874,1,Northeast,Waite Park,2,1,Armatage,02/24/2019,22:17
+"2229 johnson st ne,Minneapolis,MN",45.010591999999995,-93.236919,1,Northeast,Windom Park,2,1,Armatage,02/24/2019,22:19
+"3300 Chicago ave s,Minneapolis,MN",44.942992,-93.26288100000001,9,Powderhorn,Central,5,1,Armatage,02/24/2019,22:19
+"2930 EMERSON AVE S,Minneapolis,MN",44.948923,-93.294702,10,Calhoun Isle,Lowry Hill East,3,1,Armatage,02/24/2019,22:24
+"3899 Lyndale Ave n,Minneapolis,MN",45.025721000000004,-93.288074,4,Camden,Webber - Camden,1,1,Armatage,02/24/2019,22:27
+"3225 Chicago Ave S,Minneapolis,MN",44.943974,-93.262311,9,Powderhorn,Powderhorn Park,6,1,Armatage,02/24/2019,22:28
+"3801 Lyndale Ave n,Minneapolis,MN",45.024082,-93.288347,4,Camden,Webber - Camden,1,1,Armatage,02/24/2019,22:30
+"3504 Chicago Ave S,Minneapolis,MN",44.939313,-93.262842,9,Powderhorn,Central,5,1,Armatage,02/24/2019,22:31
+"2833 johnson st ne,Minneapolis,MN",45.019663,-93.236906,1,Northeast,Audubon Park,2,1,Armatage,02/24/2019,22:33
+"3900-3998 lyndale ave n ,Minneapolis,MN",45.025889,-93.287685,4,Camden,Webber - Camden,1,1,Armatage,02/24/2019,22:34
+"2910 Emerson Avenue South,Minneapolis,MN",44.949688,-93.294799,10,Calhoun Isle,Lowry Hill East,3,1,Armatage,02/24/2019,22:37
+"3800-3899 lyndale ave n ,Minneapolis,MN",45.024097999999995,-93.287796,4,Camden,Webber - Camden,1,1,Armatage,02/24/2019,22:38
+"3900 Lyndale Ave N,Minneapolis,MN",45.025889,-93.287685,4,Camden,Webber - Camden,1,1,Armatage,02/24/2019,22:39
+"2823 johnson st ne,Minneapolis,MN",45.019396,-93.236814,1,Northeast,Audubon Park,2,1,Armatage,02/24/2019,22:41
+"440 15th st,Minneapolis,MN",44.968101000000004,-93.284828,7,Central,Loring Park,3,1,Armatage,02/24/2019,22:42
+"3600 block of Chicago ave,Minneapolis,MN",44.937618,-93.262861,8,Powderhorn,Central,5,1,Armatage,02/24/2019,22:43
+"1928 central ave ne,Minneapolis,MN",45.008786,-93.24761099999999,1,Northeast,Holland,2,1,Armatage,02/24/2019,22:44
+"1928 central ave ne,Minneapolis,MN",45.008786,-93.24761099999999,1,Northeast,Holland,2,1,Armatage,02/24/2019,22:46
+"3600 block of chicago,Minneapolis,MN",44.937618,-93.262861,8,Powderhorn,Central,5,1,Armatage,02/24/2019,22:52
+"3900 lyndale av no ,Minneapolis,MN",45.025889,-93.287685,4,Camden,Webber - Camden,1,1,Armatage,02/24/2019,22:52
+"2848 EMERSON AVE S,Minneapolis,MN",44.950835,-93.29474300000001,10,Calhoun Isle,Lowry Hill East,3,1,Armatage,02/24/2019,22:58
+"700 2nd st n,Minneapolis,MN",44.988836,-93.27623299999999,3,Central,North Loop,1,1,Armatage,02/24/2019,22:59
+"214 15th Street West,Minneapolis,MN",44.968032,-93.28165600000001,7,Central,Loring Park,3,1,Armatage,02/24/2019,22:59
+"500 2nd st n,Minneapolis,MN",44.987221999999996,-93.27335699999999,3,Central,North Loop,1,1,Armatage,02/24/2019,23:01
+"200 W 15TH ST,Minneapolis,MN",44.967895,-93.281325,7,Central,Loring Park,3,1,Armatage,02/24/2019,23:04
+"3900 lyndale ave n,Minneapolis,MN",45.025889,-93.287685,4,Camden,Webber - Camden,1,1,Armatage,02/24/2019,23:05
+"3900-3998 lyndale ave n ,Minneapolis,MN",45.025889,-93.287685,4,Camden,Webber - Camden,1,1,Armatage,02/24/2019,23:07
+"4449 Upton ave,Minneapolis,MN",44.92174,-93.314739,13,Southwest,Linden Hills,5,1,Armatage,02/24/2019,23:08
+"3900 lyndale ave n,Minneapolis,MN",45.025889,-93.287685,4,Camden,Webber - Camden,1,1,Armatage,02/24/2019,23:08
+"3901 Lyndale Ave N,Minneapolis,MN",45.025757,-93.288074,4,Camden,Webber - Camden,1,1,Armatage,02/24/2019,23:10
+"4000-4098 lyndale ave n ,Minneapolis,MN",45.027711,-93.28777600000001,4,Camden,Webber - Camden,1,1,Armatage,02/24/2019,23:15
+"117 15th st ,Minneapolis,MN",44.967605,-93.280236,7,Central,Loring Park,3,1,Armatage,02/24/2019,23:15
+"5300 Chicago Ave,Minneapolis,MN",44.906921000000004,-93.263019,11,Nokomis,Page,5,1,Armatage,02/24/2019,23:21
+"135 13th ave ne,Minneapolis,MN",45.000703,-93.268751,3,Northeast,Sheridan,2,1,Armatage,02/24/2019,23:22
+"1900 como ave se,Minneapolis,MN",44.987578000000006,-93.22536,2,University,Como,4,1,Armatage,02/24/2019,23:22
+"135 13th ave ne,Minneapolis,MN",45.000703,-93.268751,3,Northeast,Sheridan,2,1,Armatage,02/24/2019,23:23
+"76 13th ave ne,Minneapolis,MN",44.999517,-93.270475,3,Northeast,Sheridan,2,1,Armatage,02/24/2019,23:25
+"1808 UNIVERISTY AVE NE,Minneapolis,MN",45.00694,-93.263409,3,Northeast,Bottineau,2,1,Armatage,02/24/2019,23:27
+"2800 EMERSON AVE S,Minneapolis,MN",44.951578000000005,-93.294725,10,Calhoun Isle,Lowry Hill East,3,1,Armatage,02/24/2019,23:28
+"400 2ND ST N ,Minneapolis,MN",44.986174,-93.272446,3,Central,North Loop,3,1,Armatage,02/24/2019,23:31
+"400 2ND ST N ,Minneapolis,MN",44.986174,-93.272446,3,Central,North Loop,3,1,Armatage,02/24/2019,23:34
+"5300 Chicago ave s,Minneapolis,MN",44.906921000000004,-93.263019,11,Nokomis,Page,5,1,Armatage,02/24/2019,23:34
+"5400 block of Chicago ave,Minneapolis,MN",44.904984999999996,-93.263136,11,Nokomis,Page,5,1,Armatage,02/24/2019,23:34
+"19 15th Street West ,Minneapolis,MN",44.967532,-93.278758,7,Central,Loring Park,3,1,Armatage,02/24/2019,23:34
+"2800 DUPONT AVE S,Minneapolis,MN",44.951238000000004,-93.293671,10,Calhoun Isle,Lowry Hill East,3,1,Armatage,02/24/2019,23:35
+"3400 Chicago ave s,Minneapolis,MN",44.941224,-93.26294,9,Powderhorn,Central,5,1,Armatage,02/24/2019,23:38
+"4528 3RD AVE S,Minneapolis,MN",44.920524,-93.27311800000001,8,Nokomis,Regina,5,1,Armatage,02/24/2019,23:38
+"5341 CHICAGO AVE S,Minneapolis,MN",44.905758,-93.262252,11,Nokomis,Hale,6,1,Armatage,02/24/2019,23:39
+"2840 DUPONT AVE S,Minneapolis,MN",44.950444,-93.2932,10,Calhoun Isle,Lowry Hill East,3,1,Armatage,02/24/2019,23:41
+"3824 CHICAGO AVE S,Minneapolis,MN",44.933375,-93.26280200000001,8,Powderhorn,Bryant,5,1,Armatage,02/24/2019,23:42
+"101 15TH ST W,Minneapolis,MN",44.96772,-93.280101,7,Central,Loring Park,3,1,Armatage,02/24/2019,23:43
+"10 W 15TH ST ,Minneapolis,MN",44.968068,-93.278238,7,Central,Loring Park,3,1,Armatage,02/24/2019,23:44
+"20 W 15TH ST ,Minneapolis,MN",44.967978,-93.278769,7,Central,Loring Park,3,1,Armatage,02/24/2019,23:47
+"3900 LYNDALE AVE N ,Minneapolis,MN",45.025889,-93.287685,4,Camden,Webber - Camden,1,1,Armatage,02/24/2019,23:47
+"702 CENTRAL AVE NE,Minneapolis,MN",44.99173,-93.250978,3,University,Nicollet Island - East Bank,2,1,Armatage,02/24/2019,23:48
+"3902 LYNDALE AVE N ,Minneapolis,MN",45.025934,-93.28774399999999,4,Camden,Webber - Camden,1,1,Armatage,02/24/2019,23:50
+"513 CENTRAL AVE NE,Minneapolis,MN",44.991702000000004,-93.250915,3,University,Marcy Holmes,2,1,Armatage,02/24/2019,23:50
+"2023 UNIVERSITY AVE NE,Minneapolis,MN",45.009237,-93.262822,1,Northeast,Holland,2,1,Armatage,02/24/2019,23:58
+"1808 UNIVERSITY AVE NE,Minneapolis,MN",45.00694,-93.263409,3,Northeast,Bottineau,2,1,Armatage,02/25/2019,00:00
+"2820 DUPONT AVE S,Minneapolis,MN",44.951192,-93.29379899999999,10,Calhoun Isle,Lowry Hill East,3,1,Armatage,02/25/2019,00:00
+"1299 COMO AVE SE,Minneapolis,MN",44.988046999999995,-93.232646,2,University,Como,4,1,Armatage,02/25/2019,00:03
+"5200 BRYANT AVE N ,Minneapolis,MN",45.049456,-93.291165,4,Camden,Lind - Bohanon,1,1,Armatage,02/25/2019,00:03
+"4700 BRYANT AVE N ,Minneapolis,MN",45.040422,-93.291175,4,Camden,Lind - Bohanon,1,1,Armatage,02/25/2019,00:03
+"2142 COMO AVE SE,Minneapolis,MN",44.987689,-93.221694,2,University,Como,4,1,Armatage,02/25/2019,00:03
+"10 15TH ST E,Minneapolis,MN",44.968303999999996,-93.27717,7,Central,Loring Park,3,1,Armatage,02/25/2019,00:04
+"1808 university ave ne,Minneapolis,MN",45.00694,-93.263409,3,Northeast,Bottineau,2,1,Armatage,02/25/2019,00:08
+"1731 university ave ne,Minneapolis,MN",45.006209000000005,-93.26283199999999,1,Northeast,Holland,2,1,Armatage,02/25/2019,00:09
+"3600 Bloomington Ave,Minneapolis,MN",44.937615,-93.252725,9,Powderhorn,Powderhorn Park,6,1,Armatage,02/25/2019,00:09
+"10 15TH ST E,Minneapolis,MN",44.968303999999996,-93.27717,7,Central,Loring Park,3,1,Armatage,02/25/2019,00:11
+"45 UNIVERSITY AVE NE,Minneapolis,MN",44.988412,-93.25668,3,University,Nicollet Island - East Bank,2,1,Armatage,02/25/2019,00:11
+"1095 18th Ave SE,Minneapolis,MN",44.990664,-93.22725200000001,1,University,Como,4,1,Armatage,02/25/2019,00:13
+"500 East 15th Street,Minneapolis,MN",44.968301000000004,-93.268698,7,Central,Elliot Park,3,1,Armatage,02/25/2019,00:15
+"2300 2nd st n,Minneapolis,MN",45.003058,-93.27931600000001,5,Near North,Hawthorne,1,1,Armatage,02/25/2019,00:18
+"600 2nd st n,Minneapolis,MN",44.988062,-93.274558,3,Central,North Loop,1,1,Armatage,02/25/2019,00:19
+"3117 CENTRAL AVE NE,Minneapolis,MN",45.024591,-93.246895,1,Northeast,Audubon Park,2,1,Armatage,02/25/2019,00:19
+"500 15th Street East,Minneapolis,MN",44.968301000000004,-93.268698,7,Central,Elliot Park,3,1,Armatage,02/25/2019,00:21
+"2500 2ND ST N ,Minneapolis,MN",45.00496,-93.27964300000001,5,Near North,Hawthorne,1,1,Armatage,02/25/2019,00:21
+"1100 7th st no,Minneapolis,MN",44.97071,-93.256822,6,Central,Elliot Park,3,1,Armatage,02/25/2019,00:22
+"400 2nd st n,Minneapolis,MN",44.986174,-93.272446,3,Central,North Loop,3,1,Armatage,02/25/2019,00:24
+"3220 Bloomington Ave S,Minneapolis,MN",44.94401,-93.25274499999999,9,Powderhorn,Powderhorn Park,6,1,Armatage,02/25/2019,00:30
+"3541 Bloomington Ave S,Minneapolis,MN",44.938326,-93.252096,9,Powderhorn,Powderhorn Park,6,1,Armatage,02/25/2019,00:33
+"500 e 15th,Minneapolis,MN",44.968301000000004,-93.268698,7,Central,Elliot Park,3,1,Armatage,02/25/2019,00:34
+"2600 2nd St N,Minneapolis,MN",45.00627,-93.27951,5,Near North,Hawthorne,1,1,Armatage,02/25/2019,00:34
+"3000 4TH AVE S,Minneapolis,MN",44.948333,-93.270289,9,Powderhorn,Central,5,1,Armatage,02/25/2019,00:35
+"516 E 15TH ST,Minneapolis,MN",44.968302,-93.26843199999999,7,Central,Elliot Park,3,1,Armatage,02/25/2019,00:35
+"4300 BLOOMINGTON AVE S,Minneapolis,MN",44.925005,-93.252725,11,Nokomis,Northrop,6,1,Armatage,02/25/2019,00:35
+"361 W 15TH ST ,Minneapolis,MN",44.967755,-93.284042,7,Central,Loring Park,3,1,Armatage,02/25/2019,00:36
+"510 E 15TH ST,Minneapolis,MN",44.968302,-93.268487,7,Central,Elliot Park,3,1,Armatage,02/25/2019,00:38
+"600 EAST 15TH STREET,Minneapolis,MN",44.968057,-93.267635,6,Central,Elliot Park,3,1,Armatage,02/25/2019,00:39
+"122 3rd Ave.SE,Minneapolis,MN",44.984315,-93.25289699999999,3,University,Marcy Holmes,4,1,Armatage,02/25/2019,00:42
+"600 E 15TH ST ,Minneapolis,MN",44.968057,-93.267635,6,Central,Elliot Park,3,1,Armatage,02/25/2019,00:45
+"2400 block 2nd st n ,Minneapolis,MN",45.00393,-93.279416,5,Near North,Hawthorne,1,1,Armatage,02/25/2019,00:48
+"93 grant st,Minneapolis,MN",44.969819,-93.27770100000001,7,Central,Loring Park,3,1,Armatage,02/25/2019,00:50
+"2400 block 2nd st n ,Minneapolis,MN",45.00393,-93.279416,5,Near North,Hawthorne,1,1,Armatage,02/25/2019,00:50
+"4300 BLOOMINGTON AVE S,Minneapolis,MN",44.925005,-93.252725,11,Nokomis,Northrop,6,1,Armatage,02/25/2019,00:50
+"5100 BRYANT AVE N ,Minneapolis,MN",45.047684000000004,-93.291219,4,Camden,Lind - Bohanon,1,1,Armatage,02/25/2019,00:52
+"500 UNIVERSITY AVE SE,Minneapolis,MN",44.984477000000005,-93.249027,3,University,Marcy Holmes,4,1,Armatage,02/25/2019,00:52
+"4200 BLOOMINGTON AVE S,Minneapolis,MN",44.926606,-93.252843,8,Nokomis,Northrop,6,1,Armatage,02/25/2019,00:53
+"13TH & COMO AVE SE,Minneapolis,MN",44.985263,-93.23304399999999,3,University,Marcy Holmes,4,1,Armatage,02/25/2019,00:54
+"3300 2nd st n,Minneapolis,MN",45.014928999999995,-93.28085300000001,4,Camden,McKinley,1,1,Armatage,02/25/2019,01:03
+"3300 2nd st n,Minneapolis,MN",45.014928999999995,-93.28085300000001,4,Camden,McKinley,1,1,Armatage,02/25/2019,01:05
+"705 2nd st ne,Minneapolis,MN",44.995467,-93.26293000000001,3,Northeast,St. Anthony West,2,1,Armatage,02/25/2019,01:05
+"705 2nd st ne,Minneapolis,MN",44.995467,-93.26293000000001,3,Northeast,St. Anthony West,2,1,Armatage,02/25/2019,01:07
+"601 se main st,Minneapolis,MN",44.981962,-93.248136,3,University,Marcy Holmes,4,1,Armatage,02/25/2019,01:07
+"4400 Bloomington ave,Minneapolis,MN",44.923145,-93.252764,11,Nokomis,Northrop,6,1,Armatage,02/25/2019,01:08
+"705 2nd st ne,Minneapolis,MN",44.995467,-93.26293000000001,3,Northeast,St. Anthony West,2,1,Armatage,02/25/2019,01:08
+"3000 4th ave s,Minneapolis,MN",44.948333,-93.270289,9,Powderhorn,Central,5,1,Armatage,02/25/2019,01:09
+"1408 LASALLE AVE S,Minneapolis,MN",44.968692,-93.27933399999999,7,Central,Loring Park,3,1,Armatage,02/25/2019,01:12
+"1421 LaSalle Avenue s,Minneapolis,MN",44.968092,-93.27902399999999,7,Central,Loring Park,3,1,Armatage,02/25/2019,01:12
+"620 E 15TH ST,Minneapolis,MN",44.968323999999996,-93.266494,7,Central,Elliot Park,3,1,Armatage,02/25/2019,01:12
+"705 2nd st ne,Minneapolis,MN",44.995467,-93.26293000000001,3,Northeast,St. Anthony West,2,1,Armatage,02/25/2019,01:12
+"705 2nd st ne,Minneapolis,MN",44.995467,-93.26293000000001,3,Northeast,St. Anthony West,2,1,Armatage,02/25/2019,01:14
+"623 e 15th,Minneapolis,MN",44.967884999999995,-93.266412,6,Central,Elliot Park,3,1,Armatage,02/25/2019,01:15
+"3300 2ND ST N ,Minneapolis,MN",45.014928999999995,-93.28085300000001,4,Camden,McKinley,1,1,Armatage,02/25/2019,01:22
+"2500 blk hennp ave,Minneapolis,MN",44.957183,-93.295935,7,Calhoun Isle,East Isles,3,1,Armatage,02/25/2019,01:23
+"2600 PLYMOUTH AVE N ,Minneapolis,MN",44.991753,-93.31353,5,Near North,Willard - Hay,1,1,Armatage,02/25/2019,01:23
+"6000 Nicollet ave s,Minneapolis,MN",44.893754,-93.27810600000001,11,Southwest,Windom,5,1,Armatage,02/25/2019,01:23
+"2600 plymouth ave n ,Minneapolis,MN",44.991753,-93.31353,5,Near North,Willard - Hay,1,1,Armatage,02/25/2019,01:26
+"2400 HENNEPIN AVE ,Minneapolis,MN",44.958967,-93.29468100000001,7,Calhoun Isle,East Isles,3,1,Armatage,02/25/2019,01:27
+"401 UNIVERSITY AVE SE,Minneapolis,MN",44.985253,-93.25032399999999,3,University,Marcy Holmes,4,1,Armatage,02/25/2019,01:29
+"1408 LASALLE AVE ,Minneapolis,MN",44.968692,-93.27933399999999,7,Central,Loring Park,3,1,Armatage,02/25/2019,01:32
+"3515 BLOOMINGTON AVE S,Minneapolis,MN",44.939035,-93.252112,9,Powderhorn,Powderhorn Park,6,1,Armatage,02/25/2019,01:32
+"500 UNIVERSITY AVE SE,Minneapolis,MN",44.984477000000005,-93.249027,3,University,Marcy Holmes,4,1,Armatage,02/25/2019,01:32
+"3000 4TH AVE S,Minneapolis,MN",44.948333,-93.270289,9,Powderhorn,Central,5,1,Armatage,02/25/2019,01:34
+"5101 BRYANT AVE N ,Minneapolis,MN",45.047703000000006,-93.291815,4,Camden,Lind - Bohanon,1,1,Armatage,02/25/2019,01:36
+"601 UNIVERSITY AVE SE,Minneapolis,MN",44.984046,-93.247288,3,University,Marcy Holmes,4,1,Armatage,02/25/2019,01:36
+"705 2ND ST NE,Minneapolis,MN",44.995467,-93.26293000000001,3,Northeast,St. Anthony West,2,1,Armatage,02/25/2019,01:38
+"705 2ND ST NE,Minneapolis,MN",44.995467,-93.26293000000001,3,Northeast,St. Anthony West,2,1,Armatage,02/25/2019,01:40
+"1423 LASALLE AVE ,Minneapolis,MN",44.968036,-93.27902399999999,7,Central,Loring Park,3,1,Armatage,02/25/2019,01:42
+"1450 LASALLE AVE S,Minneapolis,MN",44.968242,-93.279335,7,Central,Loring Park,3,1,Armatage,02/25/2019,01:46
+"1505 LASALLE AVE,Minneapolis,MN",44.967331,-93.27898499999999,7,Central,Loring Park,3,1,Armatage,02/25/2019,01:49
+"3545 BLOOMINGTON AVE S,Minneapolis,MN",44.938216,-93.252096,9,Powderhorn,Powderhorn Park,6,1,Armatage,02/25/2019,01:50
+"3200 MINNEHAHA AVE S,Minneapolis,MN",44.944599,-93.23192900000001,9,Longfellow,Longfellow,6,1,Armatage,02/25/2019,01:51
+"600 4TH ST SE,Minneapolis,MN",44.984905,-93.246872,3,University,Marcy Holmes,4,1,Armatage,02/25/2019,01:53
+"3300 2ND ST N ,Minneapolis,MN",45.014928999999995,-93.28085300000001,4,Camden,McKinley,1,1,Armatage,02/25/2019,01:56
+"3100 4TH AVE S,Minneapolis,MN",44.946507000000004,-93.270646,9,Powderhorn,Central,5,1,Armatage,02/25/2019,01:58
+"3200 MINNEHAHA AVE S,Minneapolis,MN",44.944599,-93.23192900000001,9,Longfellow,Longfellow,6,1,Armatage,02/25/2019,02:03
+"2009 2ND ST NE,Minneapolis,MN",45.008921,-93.26592099999999,3,Northeast,Bottineau,2,1,Armatage,02/25/2019,02:05
+"3500 MINNEHAHA AVE S,Minneapolis,MN",44.939407,-93.228061,12,Longfellow,Howe,6,1,Armatage,02/25/2019,02:05
+"621 E 15TH ST ,Minneapolis,MN",44.967862,-93.266593,6,Central,Elliot Park,3,1,Armatage,02/25/2019,02:05
+"1420 LASALLE AVE S,Minneapolis,MN",44.968563,-93.279335,7,Central,Loring Park,3,1,Armatage,02/25/2019,02:06
+"1554 LASALLE AVE,Minneapolis,MN",44.966489,-93.27963299999999,7,Central,Loring Park,3,1,Armatage,02/25/2019,02:06
+"1420 LASALLE AVE ,Minneapolis,MN",44.968563,-93.279335,7,Central,Loring Park,3,1,Armatage,02/25/2019,02:07
+"3400 2ND ST N ,Minneapolis,MN",45.0167,-93.281018,4,Camden,McKinley,1,1,Armatage,02/25/2019,02:08
+"1205 2ND ST NE,Minneapolis,MN",44.999946,-93.265895,3,Northeast,Sheridan,2,1,Armatage,02/25/2019,02:08
+"5100 BRYANT AVE N ,Minneapolis,MN",45.047684000000004,-93.291219,4,Camden,Lind - Bohanon,1,1,Armatage,02/25/2019,02:10
+"700 UNIVERSITY AVE SE,Minneapolis,MN",44.98304,-93.246128,3,University,Marcy Holmes,4,1,Armatage,02/25/2019,02:13
+"20 2ND ST NE,Minneapolis,MN",44.987596999999994,-93.258916,3,University,Nicollet Island - East Bank,2,1,Armatage,02/25/2019,02:16
+"3400 MINNEHAHA AVE S,Minneapolis,MN",44.941144,-93.229407,12,Longfellow,Howe,6,1,Armatage,02/25/2019,02:17
+"201 UUNIVERSITY AVE SE,Minneapolis,MN",44.986224,-93.253434,3,University,Marcy Holmes,4,1,Armatage,02/25/2019,02:20
+"203 2ND ST NE,Minneapolis,MN",44.989962,-93.259147,3,Northeast,St. Anthony West,2,1,Armatage,02/25/2019,02:21
+"3700 PENN AVE N ,Minneapolis,MN",45.022425,-93.307887,4,Camden,Folwell,1,1,Armatage,02/25/2019,02:23
+"1524 LASALLE AVE ,Minneapolis,MN",44.966848999999996,-93.279706,7,Central,Loring Park,3,1,Armatage,02/25/2019,02:25
+"1502 LASALLE AVE,Minneapolis,MN",44.967407,-93.279635,7,Central,Loring Park,3,1,Armatage,02/25/2019,02:25
+"640 E 15TH ST ,Minneapolis,MN",44.968325,-93.26609,7,Central,Elliot Park,3,1,Armatage,02/25/2019,02:27
+"3000 MINNEHAHA AVE S,Minneapolis,MN",44.948122999999995,-93.234874,9,Longfellow,Longfellow,6,1,Armatage,02/25/2019,02:29
+"1101 VAN WHITE MEMORIAL ,Minneapolis,MN",44.989251,-93.29346899999999,5,Near North,Near - North,1,1,Armatage,02/25/2019,02:30
+"600 E 15TH ST ,Minneapolis,MN",44.968057,-93.267635,6,Central,Elliot Park,3,1,Armatage,02/25/2019,02:30
+"1827 LASALLE AVE ,Minneapolis,MN",44.964608,-93.279055,7,Central,Steven's Square - Loring Heights,3,1,Armatage,02/25/2019,02:31
+"601UNIVERSITY AVE SE,Minneapolis,MN",44.984046,-93.247288,3,University,Marcy Holmes,4,1,Armatage,02/25/2019,02:31
+"6000 NICOLLET AVE S,Minneapolis,MN",44.893754,-93.27810600000001,11,Southwest,Windom,5,1,Armatage,02/25/2019,02:33
+"601 UNIVERSITY AVE SE,Minneapolis,MN",44.984046,-93.247288,3,University,Marcy Holmes,4,1,Armatage,02/25/2019,02:35
+"1420 LASALLE AVE S,Minneapolis,MN",44.968563,-93.279335,7,Central,Loring Park,3,1,Armatage,02/25/2019,02:41
+"1423 LASALLE AVE,Minneapolis,MN",44.968036,-93.27902399999999,7,Central,Loring Park,3,1,Armatage,02/25/2019,02:50
+"1102 Van White Memorial blvd,Minneapolis,MN",44.982240999999995,-93.294516,5,Near North,Sumner - Glenwood,3,1,Armatage,02/25/2019,02:50
+"636 E 15TH ST ,Minneapolis,MN",44.968325,-93.26615699999999,7,Central,Elliot Park,3,1,Armatage,02/25/2019,02:51
+"600 UNIVERSITY AVE SE,Minneapolis,MN",44.983581,-93.24761,3,University,Marcy Holmes,4,1,Armatage,02/25/2019,02:52
+"3700 MINNEHAHA AVE S,Minneapolis,MN",44.935761,-93.225548,12,Longfellow,Howe,6,1,Armatage,02/25/2019,02:54
+"3700 MINNEHAHA AVE S,Minneapolis,MN",44.935761,-93.225548,12,Longfellow,Howe,6,1,Armatage,02/25/2019,02:58
+"3435 MINNEHAHA AVE S,Minneapolis,MN",44.940498999999996,-93.2281,12,Longfellow,Howe,6,1,Armatage,02/25/2019,02:58
+"2131 BLAISDELL AVE S,Minneapolis,MN",44.961065000000005,-93.279111,10,Powderhorn,Whittier,3,1,Armatage,02/25/2019,03:00
+"1100 van white memoral blvd,Minneapolis,MN",44.988817,-93.292063,5,Near North,Sumner - Glenwood,1,1,Armatage,02/25/2019,03:00
+"3724 MINNEHAHA AVE S,Minneapolis,MN",44.935190999999996,-93.225077,12,Longfellow,Howe,6,1,Armatage,02/25/2019,03:01
+"3000 SNELLING AVE S,Minneapolis,MN",44.948135,-93.236386,9,Longfellow,Longfellow,6,1,Armatage,02/25/2019,03:01
+"1100 VAN WHITE MEMORIAL ,Minneapolis,MN",44.988817,-93.292063,5,Near North,Sumner - Glenwood,1,1,Armatage,02/25/2019,03:02
+"3700 PENN AVE N ,Minneapolis,MN",45.022425,-93.307887,4,Camden,Folwell,1,1,Armatage,02/25/2019,03:03
+"1123 WASHINGTON ST NE,Minneapolis,MN",44.99944,-93.257244,1,Northeast,Logan Park,2,1,Armatage,02/25/2019,03:06
+"1103 Van White Memorial blvd,Minneapolis,MN",44.989346000000005,-93.293626,5,Near North,Near - North,1,1,Armatage,02/25/2019,03:10
+"1123 WASHINGTON ST NE,Minneapolis,MN",44.99944,-93.257244,1,Northeast,Logan Park,2,1,Armatage,02/25/2019,03:10
+"2115 BLAISDELL AVE S,Minneapolis,MN",44.961328,-93.279073,10,Powderhorn,Whittier,3,1,Armatage,02/25/2019,03:11
+"1925 LASALLE AVE S,Minneapolis,MN",44.963215000000005,-93.279333,7,Central,Steven's Square - Loring Heights,3,1,Armatage,02/25/2019,03:12
+"1213 WASHINGTON ST NE,Minneapolis,MN",45.000315,-93.257226,1,Northeast,Logan Park,2,1,Armatage,02/25/2019,03:14
+"2101 BLAISDELL AVE,Minneapolis,MN",44.961771999999996,-93.279116,10,Powderhorn,Whittier,3,1,Armatage,02/25/2019,03:16
+"3800 MINNEHAHA AVE S,Minneapolis,MN",44.933595000000004,-93.224154,12,Longfellow,Howe,6,1,Armatage,02/25/2019,03:20
+"2117 BLAISDELL AVE S,Minneapolis,MN",44.961209999999994,-93.279115,10,Powderhorn,Whittier,3,1,Armatage,02/25/2019,03:20
+"600 E 15TH ST ,Minneapolis,MN",44.968057,-93.267635,6,Central,Elliot Park,3,1,Armatage,02/25/2019,03:23
+"2329 9TH ST S,Minneapolis,MN",44.963916999999995,-93.237916,6,Longfellow,Seward,4,1,Armatage,02/25/2019,03:25
+"765 Van White Memorial Blvd,Minneapolis,MN",44.986263,-93.293038,5,Near North,Sumner - Glenwood,1,1,Armatage,02/25/2019,03:28
+"2101 BLAISDELL AVE S,Minneapolis,MN",44.961771999999996,-93.279116,10,Powderhorn,Whittier,3,1,Armatage,02/25/2019,03:31
+"2415 BLAISDELL AVE,Minneapolis,MN",44.958531,-93.279211,10,Powderhorn,Whittier,3,1,Armatage,02/25/2019,03:36
+"1300 DOWLING AVE N ,Minneapolis,MN",45.023984999999996,-93.29564,4,Camden,Folwell,1,1,Armatage,02/25/2019,03:38
+"2423 BLAISDELL AVE S,Minneapolis,MN",44.958339,-93.279125,10,Powderhorn,Whittier,3,1,Armatage,02/25/2019,03:38
+"2101 BLAISDELL AVE S,Minneapolis,MN",44.961771999999996,-93.279116,10,Powderhorn,Whittier,3,1,Armatage,02/25/2019,03:39
+"1521 WASHINGTON ST NE,Minneapolis,MN",45.003724,-93.257212,1,Northeast,Logan Park,2,1,Armatage,02/25/2019,03:42
+"3900 MINNEHAHA AVE S,Minneapolis,MN",44.932168,-93.223055,12,Longfellow,Howe,6,1,Armatage,02/25/2019,03:42
+"799 Van White Memorial Blvd,Minneapolis,MN",44.986315000000005,-93.292737,5,Near North,Sumner - Glenwood,1,1,Armatage,02/25/2019,03:46
+"1934 WASHINGTON ST NE,Minneapolis,MN",45.008241,-93.256974,1,Northeast,Holland,2,1,Armatage,02/25/2019,03:48
+"2515 Blaisdell Avenue South,Minneapolis,MN",44.956734999999995,-93.279178,10,Powderhorn,Whittier,3,1,Armatage,02/25/2019,03:51
+"2013 WASHINGTON ST NE,Minneapolis,MN",45.008832,-93.256636,1,Northeast,Holland,2,1,Armatage,02/25/2019,03:52
+"2423 BLAISDELL AVE,Minneapolis,MN",44.958339,-93.279125,10,Powderhorn,Whittier,3,1,Armatage,02/25/2019,03:55
+"6000 NICOLLET AVE S,Minneapolis,MN",44.893754,-93.27810600000001,11,Southwest,Windom,5,1,Armatage,02/25/2019,03:56
+"3945 MINNEHAHA AVE S,Minneapolis,MN",44.931203000000004,-93.22138199999999,12,Longfellow,Howe,6,1,Armatage,02/25/2019,03:56
+"2535 BLAISDELL AVE S,Minneapolis,MN",44.956133,-93.27928399999999,10,Powderhorn,Whittier,3,1,Armatage,02/25/2019,04:01
+"4100 MINNEHAHA AVE S,Minneapolis,MN",44.928618,-93.220326,12,Longfellow,Hiawatha,6,1,Armatage,02/25/2019,04:01
+"3742 MINNEHAHA AVE S,Minneapolis,MN",44.93483,-93.224738,12,Longfellow,Howe,6,1,Armatage,02/25/2019,04:02
+"2525 BLAISDELL AVE S,Minneapolis,MN",44.956367,-93.27929300000001,10,Powderhorn,Whittier,3,1,Armatage,02/25/2019,04:04
+"1934 WASHINGTON ST NE,Minneapolis,MN",45.008241,-93.256974,1,Northeast,Holland,2,1,Armatage,02/25/2019,04:09
+"911 22ND AVE S,Minneapolis,MN",44.963589,-93.240664,6,Longfellow,Seward,4,1,Armatage,02/25/2019,04:10
+"1621 WASHINGTON ST NE,Minneapolis,MN",45.004872,-93.257271,1,Northeast,Logan Park,2,1,Armatage,02/25/2019,04:11
+"2545 BLAISDELL AVE,Minneapolis,MN",44.955765,-93.279261,10,Powderhorn,Whittier,3,1,Armatage,02/25/2019,04:17
+"1198 VAN WHITE BLVD,Minneapolis,MN",44.990549,-93.294096,5,Near North,Near - North,1,1,Armatage,02/25/2019,04:18
+"1408 WASHINGTON ST NE,Minneapolis,MN",45.002268,-93.25780300000001,3,Northeast,Sheridan,2,1,Armatage,02/25/2019,04:19
+"3100 23RD AVE S,Minneapolis,MN",44.946433,-93.239233,9,Powderhorn,Corcoran,6,1,Armatage,02/25/2019,04:20
+"2649 BLAISDELL AVE S,Minneapolis,MN",44.953964,-93.279255,10,Powderhorn,Whittier,3,1,Armatage,02/25/2019,04:26
+"2427 BLAISDELL AVE S,Minneapolis,MN",44.958192,-93.279187,10,Powderhorn,Whittier,3,1,Armatage,02/25/2019,04:28
+"5900 NICOLLET AVE S,Minneapolis,MN",44.896203,-93.278476,11,Southwest,Windom,5,1,Armatage,02/25/2019,04:32
+"1515 WASHINGTON ST NE,Minneapolis,MN",45.003561,-93.2572,1,Northeast,Logan Park,2,1,Armatage,02/25/2019,04:37
+"629 15TH ST E,Minneapolis,MN",44.967821,-93.26609,6,Central,Elliot Park,3,1,Armatage,02/25/2019,04:40
+"2013 WASHINGTON ST NE,Minneapolis,MN",45.008832,-93.256636,1,Northeast,Holland,2,1,Armatage,02/25/2019,04:40
+"1500 EMERSON AVE N ,Minneapolis,MN",44.994310999999996,-93.29369200000001,5,Near North,Near - North,1,1,Armatage,02/25/2019,04:48
+"2211 9th st so,Minneapolis,MN",44.963688,-93.23990500000001,6,Longfellow,Seward,4,1,Armatage,02/25/2019,04:51
+"3107 23rd Ave S,Minneapolis,MN",44.946195,-93.23859,9,Powderhorn,Corcoran,6,1,Armatage,02/25/2019,04:53
+"3132 23RD AVE ,Minneapolis,MN",44.945577,-93.239213,9,Powderhorn,Corcoran,6,1,Armatage,02/25/2019,04:58
+"629 15TH ST E,Minneapolis,MN",44.967821,-93.26609,6,Central,Elliot Park,3,1,Armatage,02/25/2019,05:02
+"3200 block of 23rd ave s,Minneapolis,MN",44.944594,-93.239213,9,Powderhorn,Corcoran,6,1,Armatage,02/25/2019,05:08
+"3200 NICOLLET AVE S,Minneapolis,MN",44.944375,-93.278418,8,Powderhorn,Lyndale,5,1,Armatage,02/25/2019,05:14
+"1510 EMERSON AVE N ,Minneapolis,MN",44.994565,-93.29380400000001,5,Near North,Near - North,1,1,Armatage,02/25/2019,05:14
+"629 15TH ST E,Minneapolis,MN",44.967821,-93.26609,6,Central,Elliot Park,3,1,Armatage,02/25/2019,05:19
+"2211 9TH ST S,Minneapolis,MN",44.963688,-93.23990500000001,6,Longfellow,Seward,4,1,Armatage,02/25/2019,05:24
+"3030 Cedar Ave S,Minneapolis,MN",44.947219,-93.24781899999999,9,Powderhorn,Powderhorn Park,6,1,Armatage,02/25/2019,05:50
+"3032 Cedar Ave S,Minneapolis,MN",44.947121,-93.24774000000001,9,Powderhorn,Powderhorn Park,6,1,Armatage,02/25/2019,05:54
+"2320 3rd st n ,Minneapolis,MN",44.994181,-93.281878,5,Near North,Near - North,1,2,Armatage,02/25/2019,08:09
+"2726 3rd st n ,Minneapolis,MN",44.994181,-93.281878,5,Near North,Near - North,1,2,Armatage,02/25/2019,08:18
+"726 Aldrich Ave. N.,Minneapolis,MN",44.986065,-93.29010600000001,5,Near North,Sumner - Glenwood,1,2,Armatage,02/25/2019,08:30
+"508 2nd Ave SE,Minneapolis,MN",44.983213,-93.249868,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,08:32
+"3112 N 3rd st ,Minneapolis,MN",45.012108000000005,-93.283377,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,08:34
+"522 3rd ave se,Minneapolis,MN",44.988242,-93.249697,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,08:35
+"2422 3rd st n,Minneapolis,MN",44.994181,-93.281878,5,Near North,Near - North,1,2,Armatage,02/25/2019,08:36
+"1802 Bryant Avenue South,Minneapolis,MN",44.965309000000005,-93.290886,7,Calhoun Isle,Lowry Hill,3,2,Armatage,02/25/2019,08:41
+"3004 James ave,Minneapolis,MN",44.948065,-93.303658,10,Calhoun Isle,ECCO,5,2,Armatage,02/25/2019,08:41
+"414 2nd ave se,Minneapolis,MN",44.987421999999995,-93.252528,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,08:42
+"3010 James ave,Minneapolis,MN",44.94792,-93.303618,10,Calhoun Isle,ECCO,5,2,Armatage,02/25/2019,08:44
+"1506 spruce place ,Minneapolis,MN",44.96679,-93.280834,7,Central,Loring Park,3,2,Armatage,02/25/2019,08:46
+"1906 bryant ave so,Minneapolis,MN",44.963817,-93.28943000000001,10,Calhoun Isle,Lowry Hill East,3,2,Armatage,02/25/2019,08:49
+"226 3rd ave ne,Minneapolis,MN",44.990671,-93.25859399999999,3,Northeast,St. Anthony West,2,2,Armatage,02/25/2019,08:55
+"1032 Aldrich Avenue n,Minneapolis,MN",44.988359,-93.290778,5,Near North,Sumner - Glenwood,1,2,Armatage,02/25/2019,08:55
+"3124 N 3rd st ,Minneapolis,MN",45.012248,-93.283376,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,08:56
+"3120 N 3rd st ,Minneapolis,MN",45.012202,-93.283376,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,08:59
+"224 3rd ave ne,Minneapolis,MN",44.990664,-93.258686,3,Northeast,St. Anthony West,2,2,Armatage,02/25/2019,09:00
+"4032 14th ave,Minneapolis,MN",44.929507,-93.255259,8,Powderhorn,Bancroft,6,2,Armatage,02/25/2019,09:04
+"518 3rd ave se,Minneapolis,MN",44.98814,-93.24978399999999,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,09:04
+"2004 Clinton Avenue South,Minneapolis,MN",44.962533,-93.271801,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,09:06
+"1542 41st st,Minneapolis,MN",44.928709000000005,-93.253189,8,Powderhorn,Bancroft,6,2,Armatage,02/25/2019,09:07
+"4324 14TH AVE S,Minneapolis,MN",44.924276,-93.255279,11,Nokomis,Northrop,6,2,Armatage,02/25/2019,09:07
+"1040 aldrich ave n,Minneapolis,MN",44.988402,-93.290779,5,Near North,Sumner - Glenwood,1,2,Armatage,02/25/2019,09:08
+"3042 James Ave S,Minneapolis,MN",44.946886,-93.303697,10,Calhoun Isle,ECCO,5,2,Armatage,02/25/2019,09:09
+"724 aldrich ave n,Minneapolis,MN",44.986064,-93.290012,5,Near North,Sumner - Glenwood,1,2,Armatage,02/25/2019,09:11
+"4336 14th Ave S,Minneapolis,MN",44.923914,-93.2552,11,Nokomis,Northrop,6,2,Armatage,02/25/2019,09:12
+"112 14TH ST W,Minneapolis,MN",44.968905,-93.280001,7,Central,Loring Park,3,2,Armatage,02/25/2019,09:14
+"624 Bryant Avenue n,Minneapolis,MN",44.991409999999995,-93.291051,5,Near North,Near - North,1,2,Armatage,02/25/2019,09:16
+"1410 SPRUCE PL,Minneapolis,MN",44.968306,-93.281143,7,Central,Loring Park,3,2,Armatage,02/25/2019,09:17
+"806 3rd ave ne,Minneapolis,MN",44.993471,-93.251046,3,Northeast,St. Anthony East,2,2,Armatage,02/25/2019,09:20
+"1902 5th st se,Minneapolis,MN",44.978691999999995,-93.228015,2,University,University of Minnesota,4,2,Armatage,02/25/2019,09:21
+"3620 4th st n,Minneapolis,MN",45.020959000000005,-93.284679,4,Camden,McKinley,1,2,Armatage,02/25/2019,09:22
+"222 3rd ave ne,Minneapolis,MN",44.99064,-93.25875500000001,3,Northeast,St. Anthony West,2,2,Armatage,02/25/2019,09:24
+"324 5th ave se,Minneapolis,MN",44.984939000000004,-93.248236,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,09:24
+"1904 5th st se,Minneapolis,MN",44.978685,-93.22799599999999,2,University,University of Minnesota,4,2,Armatage,02/25/2019,09:24
+"2106 Clinton Ave S,Minneapolis,MN",44.961456,-93.271734,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,09:25
+"3434 4th st n,Minneapolis,MN",45.01773,-93.284693,4,Camden,McKinley,1,2,Armatage,02/25/2019,09:25
+"2216 CLINTON AVE S,Minneapolis,MN",44.960353000000005,-93.271764,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,09:26
+"302 5th ave se,Minneapolis,MN",44.984407,-93.248649,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,09:28
+"3458 4th st n ,Minneapolis,MN",45.018295,-93.284661,4,Camden,McKinley,1,2,Armatage,02/25/2019,09:29
+"706 Bryant Ave., N.,MN",44.991409999999995,-93.291051,5,Near North,Near - North,1,2,Armatage,02/25/2019,09:30
+"3516 4th st n ,Minneapolis,MN",45.019024,-93.284677,4,Camden,McKinley,1,2,Armatage,02/25/2019,09:33
+"2432 Clinton Ave South,Minneapolis,MN",44.957957,-93.271618,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,09:34
+"4704 15th Ave so,Minneapolis,MN",44.917657,-93.254053,11,Nokomis,Northrop,6,2,Armatage,02/25/2019,09:35
+"800 aldrich ave n,Minneapolis,MN",44.986451,-93.290699,5,Near North,Sumner - Glenwood,1,2,Armatage,02/25/2019,09:36
+"220 3rd ave ne,Minneapolis,MN",44.990596000000004,-93.258811,3,Northeast,St. Anthony West,2,2,Armatage,02/25/2019,09:46
+"3936 15th av s,Minneapolis,MN",44.931203000000004,-93.253943,8,Powderhorn,Bancroft,6,2,Armatage,02/25/2019,09:46
+"3514 14th av s,Minneapolis,MN",44.93899999999999,-93.255279,9,Powderhorn,Powderhorn Park,6,2,Armatage,02/25/2019,09:49
+"3532 Holmes ave,Minneapolis,MN",44.938435999999996,-93.300005,10,Calhoun Isle,ECCO,5,2,Armatage,02/25/2019,09:53
+"218 3rd ave ne,Minneapolis,MN",44.99057,-93.258889,3,Northeast,St. Anthony West,2,2,Armatage,02/25/2019,09:55
+"3400 4th st n,Minneapolis,MN",45.016874,-93.284654,4,Camden,McKinley,1,2,Armatage,02/25/2019,09:56
+"304 6th ave se,Minneapolis,MN",44.983926000000004,-93.24734699999999,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,09:59
+"3430 4th st n,Minneapolis,MN",45.017621000000005,-93.28468000000001,4,Camden,McKinley,1,2,Armatage,02/25/2019,09:59
+"1206 Fremont Ave. N.,Minneapolis,MN",44.991984,-93.29565,5,Near North,Near - North,1,2,Armatage,02/25/2019,10:01
+"1026 aldrich ave n,Minneapolis,MN",44.988326,-93.290777,5,Near North,Sumner - Glenwood,1,2,Armatage,02/25/2019,10:02
+"422 5th ave se,Minneapolis,MN",44.985954,-93.247488,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,10:02
+"2728 4th st n ,Minneapolis,MN",45.008163,-93.284603,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,10:03
+"418 6th ave se,Minneapolis,MN",44.985302000000004,-93.24658000000001,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,10:03
+"322 6th ave se,Minneapolis,MN",44.984311,-93.24704399999999,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,10:03
+"2310 Clinton Ave S,Minneapolis,MN",44.959703999999995,-93.27176800000001,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,10:05
+"2726 4th st n ,Minneapolis,MN",45.007496,-93.284933,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,10:05
+"802 52nd av no,Minneapolis,MN",45.049326,-93.290262,4,Camden,Lind - Bohanon,1,2,Armatage,02/25/2019,10:10
+"420 7th ave se,Minneapolis,MN",44.984721,-93.244817,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,10:13
+"3254 15th Ave S,Minneapolis,MN",44.9431,-93.254002,9,Powderhorn,Powderhorn Park,6,2,Armatage,02/25/2019,10:14
+"2502 clinton,Minneapolis,MN",44.957239,-93.271808,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,10:15
+"4010 15th Avenue South,Minneapolis,MN",44.929623,-93.2543,8,Powderhorn,Bancroft,6,2,Armatage,02/25/2019,10:18
+"1408 39th st,Minneapolis,MN",44.93255,-93.254442,8,Powderhorn,Bancroft,6,2,Armatage,02/25/2019,10:20
+"1336 grand st ne,Minneapolis,MN",45.001403,-93.26949499999999,3,Northeast,Sheridan,2,2,Armatage,02/25/2019,10:20
+"2014 Clinton ave s,Minneapolis,MN",44.962165,-93.2718,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,10:21
+"2332 grand st ne,Minneapolis,MN",45.012085,-93.270375,3,Northeast,Bottineau,2,2,Armatage,02/25/2019,10:22
+"3506 12th ave,Minneapolis,MN",44.939237,-93.257837,9,Powderhorn,Powderhorn Park,6,2,Armatage,02/25/2019,10:24
+"3120 Holmes ave,Minneapolis,MN",44.945813,-93.299849,10,Calhoun Isle,ECCO,5,2,Armatage,02/25/2019,10:28
+"1802 Bryant Ave N,Minneapolis,MN",44.997567,-93.290832,5,Near North,Near - North,1,2,Armatage,02/25/2019,10:28
+"506 8th ave se,Minneapolis,MN",44.985106,-93.242716,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,10:30
+"630 4th ave se,Minneapolis,MN",44.988763,-93.24740899999999,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,10:31
+"202 4th ave ne,Minneapolis,MN",44.991817,-93.259989,3,Northeast,St. Anthony West,2,2,Armatage,02/25/2019,10:33
+"208 5th stne,Minneapolis,MN",44.991327000000005,-93.25513000000001,3,Northeast,St. Anthony East,2,2,Armatage,02/25/2019,10:34
+"3414 Holmes ave,Minneapolis,MN",44.940765,-93.299944,10,Calhoun Isle,ECCO,5,2,Armatage,02/25/2019,10:34
+"214 5th st ne,Minneapolis,MN",44.991295,-93.25571,3,Northeast,St. Anthony West,2,2,Armatage,02/25/2019,10:36
+"2700 4th St N,Minneapolis,MN",45.007163,-93.284933,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,10:38
+"4538 15th Ave so,Minneapolis,MN",44.920195,-93.253943,11,Nokomis,Northrop,6,2,Armatage,02/25/2019,10:38
+"1912 EMERSON AVE S,Minneapolis,MN",44.963885,-93.29473399999999,7,Calhoun Isle,Lowry Hill,3,2,Armatage,02/25/2019,10:39
+"316 5th st ne,Minneapolis,MN",44.992468,-93.256214,3,Northeast,St. Anthony West,2,2,Armatage,02/25/2019,10:40
+"2630 4th st n ,Minneapolis,MN",45.006907,-93.284655,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,10:40
+"626 5th ave se,Minneapolis,MN",44.987507,-93.246032,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,10:41
+"1926 Emerson Ave South,Minneapolis,MN",44.963433,-93.294692,7,Calhoun Isle,Lowry Hill,3,2,Armatage,02/25/2019,10:41
+"1928 emerson,Minneapolis,MN",44.963356,-93.294771,7,Calhoun Isle,Lowry Hill,3,2,Armatage,02/25/2019,10:41
+"2214 clinton av s,Minneapolis,MN",44.960390999999994,-93.27176899999999,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,10:42
+"2106 6th st n,Minneapolis,MN",45.000538,-93.286118,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,10:43
+"404 5th ave se,Minneapolis,MN",44.985517,-93.24784,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,10:44
+"2524 Clinton Ave S,Minneapolis,MN",44.956418,-93.271787,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,10:44
+"2118 6th st n,Minneapolis,MN",45.000827,-93.286119,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,10:46
+"604 8th ave se,Minneapolis,MN",44.985904999999995,-93.242129,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,10:47
+"1810 Bryant Ave N,Minneapolis,MN",44.997825,-93.290743,5,Near North,Near - North,1,2,Armatage,02/25/2019,10:49
+"1810 52nd av no,Minneapolis,MN",45.049649,-93.303143,4,Camden,Shingle Creek,1,2,Armatage,02/25/2019,10:49
+"408 8th ave se,Minneapolis,MN",44.984088,-93.24368299999999,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,10:49
+"3108 15th ave s,Minneapolis,MN",44.946231,-93.25408,9,Powderhorn,Powderhorn Park,6,2,Armatage,02/25/2019,10:53
+"1210 fremont ave n ,Minneapolis,MN",44.991984,-93.29565,5,Near North,Near - North,1,2,Armatage,02/25/2019,10:54
+"2020 CLINTON AVE S,Minneapolis,MN",44.961944,-93.271799,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,10:54
+"1208 N fremont ave ,Minneapolis,MN",44.991984,-93.29565,5,Near North,Near - North,1,2,Armatage,02/25/2019,10:57
+"3106 15th ave s,Minneapolis,MN",44.946290000000005,-93.254021,9,Powderhorn,Powderhorn Park,6,2,Armatage,02/25/2019,10:59
+"2228 Girard Ave South,Minneapolis,MN",44.960131,-93.29728100000001,7,Calhoun Isle,East Isles,3,2,Armatage,02/25/2019,11:00
+"2204 Emerson ave s,Minneapolis,MN",44.960663000000004,-93.294619,7,Calhoun Isle,East Isles,3,2,Armatage,02/25/2019,11:02
+"2224 EMERSON AVE S,Minneapolis,MN",44.960003,-93.29478,7,Calhoun Isle,East Isles,3,2,Armatage,02/25/2019,11:02
+"4348 10th av s,Minneapolis,MN",44.923588,-93.260269,11,Nokomis,Northrop,6,2,Armatage,02/25/2019,11:03
+"806 main st ne,Minneapolis,MN",44.9959,-93.265664,3,Northeast,St. Anthony West,2,2,Armatage,02/25/2019,11:04
+"2402 6th st n ,Minneapolis,MN",45.003801,-93.28619499999999,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,11:05
+"1222 5th st ne,Minneapolis,MN",45.000439,-93.26055600000001,3,Northeast,Sheridan,2,2,Armatage,02/25/2019,11:05
+"528 7th ave se,Minneapolis,MN",44.985913000000004,-93.243821,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,11:06
+"3502 12th av s,Minneapolis,MN",44.939347,-93.257837,9,Powderhorn,Powderhorn Park,6,2,Armatage,02/25/2019,11:06
+"96 11th ave ne,Minneapolis,MN",44.998073,-93.268788,3,Northeast,St. Anthony West,2,2,Armatage,02/25/2019,11:07
+"502 7th Ave se,Minneapolis,MN",44.985287,-93.244315,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,11:08
+"2408 6th st n ,Minneapolis,MN",45.00407,-93.286199,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,11:08
+"1766 girard,Minneapolis,MN",44.966254,-93.29727199999999,7,Calhoun Isle,Lowry Hill,3,2,Armatage,02/25/2019,11:09
+"1802 EMERSON AVE S,Minneapolis,MN",44.965199,-93.294688,7,Calhoun Isle,Lowry Hill,3,2,Armatage,02/25/2019,11:09
+"The mall humboldt. Av s,Minneapolis,MN",44.949883,-93.300832,7,Calhoun Isle,East Isles,3,2,Armatage,02/25/2019,11:10
+"3112 Longfellow Ave S,Minneapolis,MN",44.946031,-93.24639599999999,9,Powderhorn,Corcoran,6,2,Armatage,02/25/2019,11:10
+"502 5th ave se,Minneapolis,MN",44.986411,-93.247127,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,11:10
+"1404 39th st,Minneapolis,MN",44.932552,-93.254677,8,Powderhorn,Bancroft,6,2,Armatage,02/25/2019,11:11
+"1210 6th st ne,Minneapolis,MN",45.000095,-93.259194,3,Northeast,Sheridan,2,2,Armatage,02/25/2019,11:11
+"3044 Longfellow Ave S,Minneapolis,MN",44.946616,-93.246112,9,Powderhorn,Corcoran,6,2,Armatage,02/25/2019,11:12
+"3744 12th ave,Minneapolis,MN",44.934611,-93.257773,9,Powderhorn,Powderhorn Park,6,2,Armatage,02/25/2019,11:13
+"3248 Holmes ave ,Minneapolis,MN",44.943199,-93.299859,10,Calhoun Isle,ECCO,5,2,Armatage,02/25/2019,11:13
+"702 5th ave se,Minneapolis,MN",44.98851,-93.245378,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,11:14
+"428 8th ave se,Minneapolis,MN",44.984384000000006,-93.24329399999999,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,11:15
+"1508 Dupont Ave N,Minneapolis,MN",44.994479,-93.292353,5,Near North,Near - North,1,2,Armatage,02/25/2019,11:15
+"318 8th ave se,Minneapolis,MN",44.983243,-93.2441,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,11:23
+"2422 Girard Ave S,Minneapolis,MN",44.958328,-93.29727,7,Calhoun Isle,East Isles,3,2,Armatage,02/25/2019,11:23
+"2438 6th ST N,Minneapolis,MN",45.004540000000006,-93.28620500000001,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,11:24
+"2438 Girard Ave South,Minneapolis,MN",44.957815999999994,-93.297335,7,Calhoun Isle,East Isles,3,2,Armatage,02/25/2019,11:28
+"3104 6th st n,Minneapolis,MN",45.01202,-93.28643199999999,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,11:28
+"3112 colfax ave s,Minneapolis,MN",44.946068,-93.292261,10,Calhoun Isle,South Uptown,5,2,Armatage,02/25/2019,11:33
+"3412 humboldt ave s,Minneapolis,MN",44.940814,-93.301259,10,Calhoun Isle,ECCO,5,2,Armatage,02/25/2019,11:33
+"3410 humboldt ave s,Minneapolis,MN",44.940946999999994,-93.301154,10,Calhoun Isle,ECCO,5,2,Armatage,02/25/2019,11:36
+"3500 6th st n ,Minneapolis,MN",45.018651,-93.286281,4,Camden,McKinley,1,2,Armatage,02/25/2019,11:38
+"3116 colfax ave s,Minneapolis,MN",44.945941999999995,-93.292202,10,Calhoun Isle,South Uptown,5,2,Armatage,02/25/2019,11:38
+"2308 HUMBOLDT AVE S,Minneapolis,MN",44.95973,-93.29855699999999,7,Calhoun Isle,East Isles,3,2,Armatage,02/25/2019,11:38
+"110 6th st ne,Minneapolis,MN",44.990859,-93.253535,3,University,Nicollet Island - East Bank,2,2,Armatage,02/25/2019,11:38
+"622 7th st se,Minneapolis,MN",44.986943,-93.243173,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,11:38
+"1516 3rd st ne,Minneapolis,MN",45.003705,-93.264955,3,Northeast,Sheridan,2,2,Armatage,02/25/2019,11:39
+"674 NE summers st,Minneapolis,MN",44.972078,-93.23294,2,University,University of Minnesota,4,2,Armatage,02/25/2019,11:41
+"728 7th ave se,Minneapolis,MN",44.987790000000004,-93.242465,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,11:41
+"3544 6th st n ,Minneapolis,MN",45.01982,-93.28624,4,Camden,McKinley,1,2,Armatage,02/25/2019,11:41
+"2524 humboldt av s,Minneapolis,MN",44.956381,-93.298486,7,Calhoun Isle,East Isles,3,2,Armatage,02/25/2019,11:41
+"232 clifton,Minneapolis,MN",44.965916,-93.28238,7,Central,Loring Park,3,2,Armatage,02/25/2019,11:42
+"1110 bryant ave n,Minneapolis,MN",44.991409999999995,-93.291051,5,Near North,Near - North,1,2,Armatage,02/25/2019,11:42
+"1220 main st ne,Minneapolis,MN",45.000571,-93.26809200000001,3,Northeast,Sheridan,2,2,Armatage,02/25/2019,11:44
+"702 8th ave se,Minneapolis,MN",44.986751,-93.241499,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,11:46
+"1122 Adams st ne,Minneapolis,MN",44.999495,-93.25658,1,Northeast,Logan Park,2,2,Armatage,02/25/2019,11:46
+"328 Clifton Avenue South,Minneapolis,MN",44.966586,-93.28447800000001,7,Central,Loring Park,3,2,Armatage,02/25/2019,11:48
+"240 Clifton ave ,Minneapolis,MN",44.965968,-93.282751,7,Central,Loring Park,3,2,Armatage,02/25/2019,11:48
+"1442 33rd st w,Minneapolis,MN",44.9431,-93.254086,9,Powderhorn,Powderhorn Park,6,2,Armatage,02/25/2019,11:49
+"418 7th ave se,Minneapolis,MN",44.984709,-93.244827,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,11:49
+"706 6th ave se,Minneapolis,MN",44.988059,-93.24440200000001,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,11:52
+"726 8th ave se,Minneapolis,MN",44.987471,-93.240923,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,11:52
+"300 Clifton Ave,Minneapolis,MN",44.966234,-93.283344,7,Central,Loring Park,3,2,Armatage,02/25/2019,11:52
+"1628 Adams st ne,Minneapolis,MN",45.004938,-93.25660699999999,1,Northeast,Logan Park,2,2,Armatage,02/25/2019,11:56
+"1628 adams st ne,Minneapolis,MN",45.004938,-93.25660699999999,1,Northeast,Logan Park,2,2,Armatage,02/25/2019,11:57
+"3744. Elliott ave,Minneapolis,MN",44.934632,-93.261525,9,Powderhorn,Powderhorn Park,6,2,Armatage,02/25/2019,11:59
+"416 CLIFTON AVE,Minneapolis,MN",44.967046999999994,-93.285529,7,Central,Loring Park,3,2,Armatage,02/25/2019,11:59
+"2622 Pleasent ave ,Minneapolis,MN",44.954771,-93.283292,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,11:59
+"2712 queen av no ,Minneapolis,MN",45.008282,-93.309136,5,Near North,Jordan,1,2,Armatage,02/25/2019,11:59
+"1708 jefferson st ne,Minneapolis,MN",45.005621999999995,-93.255264,1,Northeast,Logan Park,2,2,Armatage,02/25/2019,12:00
+"1300 vincent ave n ,Minneapolis,MN",44.991557,-93.31591999999999,5,Near North,Willard - Hay,1,2,Armatage,02/25/2019,12:00
+"326 clifton av ,Minneapolis,MN",44.96658,-93.284461,7,Central,Loring Park,3,2,Armatage,02/25/2019,12:00
+"3318 LONGFELLOW AVE S,Minneapolis,MN",44.942106,-93.246386,9,Powderhorn,Corcoran,6,2,Armatage,02/25/2019,12:01
+"1104 N Humboldt Ave ,Minneapolis,MN",44.989329,-93.29757,5,Near North,Near - North,1,2,Armatage,02/25/2019,12:02
+"1622 vincent ave n,Minneapolis,MN",44.995979,-93.31554100000001,5,Near North,Willard - Hay,1,2,Armatage,02/25/2019,12:03
+"2618 Pleasent ave ,Minneapolis,MN",44.954879,-93.283344,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,12:03
+"606 6th st se,Minneapolis,MN",44.986523999999996,-93.244922,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,12:04
+"3008 Aldrich ave s,Minneapolis,MN",44.948208,-93.289383,10,Calhoun Isle,South Uptown,5,2,Armatage,02/25/2019,12:05
+"3200 19th ave s,Minneapolis,MN",44.94473,-93.244862,9,Powderhorn,Corcoran,6,2,Armatage,02/25/2019,12:05
+"3038 Aldrich ave s,Minneapolis,MN",44.947278000000004,-93.289691,10,Calhoun Isle,South Uptown,5,2,Armatage,02/25/2019,12:09
+"702 6th ave se,Minneapolis,MN",44.987937,-93.244501,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,12:12
+"2438 Stevens Ave South,Minneapolis,MN",44.957839,-93.27561700000001,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,12:13
+"2424 PLEASANT AVE,Minneapolis,MN",44.958201,-93.28331,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,12:16
+"3922 Aldrich ave n ,Minneapolis,MN",45.02647,-93.289057,4,Camden,Webber - Camden,1,2,Armatage,02/25/2019,12:17
+"424 Logan av no,Minneapolis,MN",44.979836,-93.303325,5,Near North,Harrison,3,2,Armatage,02/25/2019,12:17
+"2316 Harriet Ave S,Minneapolis,MN",44.959462,-93.285875,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,12:18
+"1842 34th st,Minneapolis,MN",44.941328999999996,-93.30306800000001,10,Calhoun Isle,ECCO,5,2,Armatage,02/25/2019,12:19
+"2418 6th st n,Minneapolis,MN",45.004301,-93.28619300000001,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,12:21
+"1806 36th st,Minneapolis,MN",44.937739,-93.248261,9,Powderhorn,Powderhorn Park,6,2,Armatage,02/25/2019,12:21
+"2500 pillsbury. Av s,Minneapolis,MN",44.957161,-93.28174200000001,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,12:23
+"1602 madison st ne,Minneapolis,MN",45.004271,-93.253985,1,Northeast,Logan Park,2,2,Armatage,02/25/2019,12:25
+"1614 madison st ne,Minneapolis,MN",45.004638,-93.253967,1,Northeast,Logan Park,2,2,Armatage,02/25/2019,12:26
+"2408 pleasant ave ,Minneapolis,MN",44.958731,-93.283272,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,12:27
+"1720 in Girard Ave., North,MN",44.996595,-93.297149,5,Near North,Near - North,1,2,Armatage,02/25/2019,12:27
+"1326 madison st ne,Minneapolis,MN",45.00179,-93.254078,1,Northeast,Logan Park,2,2,Armatage,02/25/2019,12:27
+"3804 aldrich ave n,Minneapolis,MN",45.024161,-93.289052,4,Camden,Webber - Camden,1,2,Armatage,02/25/2019,12:29
+"2436 stevens,Minneapolis,MN",44.957910999999996,-93.275625,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,12:30
+"1440 33rd w,Minneapolis,MN",44.9431,-93.254099,9,Powderhorn,Powderhorn Park,6,2,Armatage,02/25/2019,12:32
+"408 6th st se,Minneapolis,MN",44.987644,-93.248068,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,12:32
+"338 quincy st ne,Minneapolis,MN",44.994756,-93.251423,3,Northeast,St. Anthony East,2,2,Armatage,02/25/2019,12:33
+"2412 Stevens Ave South,Minneapolis,MN",44.958692,-93.275654,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,12:35
+"3004 Aldrich ave s ,Minneapolis,MN",44.948284,-93.28938199999999,10,Calhoun Isle,South Uptown,5,2,Armatage,02/25/2019,12:35
+"720 5th st se,Minneapolis,MN",44.984829,-93.244371,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,12:36
+"726 32nd st w,Minneapolis,MN",44.944728000000005,-93.263878,9,Powderhorn,Central,5,2,Armatage,02/25/2019,12:39
+"4344 Elliott av s,Minneapolis,MN",44.923733,-93.261565,11,Nokomis,Northrop,6,2,Armatage,02/25/2019,12:40
+"3416 girard ave s,Minneapolis,MN",44.940692,-93.297392,10,Calhoun Isle,South Uptown,5,2,Armatage,02/25/2019,12:40
+"310 12th ave se,Minneapolis,MN",44.980729,-93.239249,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,12:40
+"3454 girard ave s,Minneapolis,MN",44.939668,-93.29742399999999,10,Calhoun Isle,South Uptown,5,2,Armatage,02/25/2019,12:42
+"3642 11th av 1,Minneapolis,MN",44.936307,-93.25904,9,Powderhorn,Powderhorn Park,6,2,Armatage,02/25/2019,12:43
+"416 7th st se,Minneapolis,MN",44.989841,-93.249431,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,12:44
+"2608 pillsbury av ,Minneapolis,MN",44.955125,-93.281587,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,12:44
+"1320 N Irvine Ave. ,Minneapolis,MN",44.992477,-93.299213,5,Near North,Near - North,1,2,Armatage,02/25/2019,12:45
+"2226 HARRIET AVE S,Minneapolis,MN",44.960073,-93.285788,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,12:46
+"920 Morgan av no,Minneapolis,MN",44.987564,-93.304214,5,Near North,Near - North,1,2,Armatage,02/25/2019,12:46
+"3946 Aldrich ave n ,Minneapolis,MN",45.027126,-93.28909200000001,4,Camden,Webber - Camden,1,2,Armatage,02/25/2019,12:48
+"804 3rd ave ne,Minneapolis,MN",44.993435999999996,-93.25112,3,Northeast,St. Anthony East,2,2,Armatage,02/25/2019,12:48
+"1412 33rd St. W.,Minneapolis,MN",44.943125,-93.297985,10,Calhoun Isle,South Uptown,5,2,Armatage,02/25/2019,12:49
+"1606 girard ave n,Minneapolis,MN",44.995563,-93.296891,5,Near North,Near - North,1,2,Armatage,02/25/2019,12:49
+"2220 EMERSON AVE S,Minneapolis,MN",44.960167999999996,-93.29474,7,Calhoun Isle,East Isles,3,2,Armatage,02/25/2019,12:50
+"414 7th st se,Minneapolis,MN",44.988481,-93.247061,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,12:50
+"1534 34th st e,Minneapolis,MN",44.941359000000006,-93.252289,9,Powderhorn,Powderhorn Park,6,2,Armatage,02/25/2019,12:50
+"3656 Aldrich ave n ,Minneapolis,MN",45.021929,-93.28904399999999,4,Camden,McKinley,1,2,Armatage,02/25/2019,12:50
+"1314 irving ave n,Minneapolis,MN",44.992464,-93.299312,5,Near North,Near - North,1,2,Armatage,02/25/2019,12:52
+"2446 Stevens ave s ,Minneapolis,MN",44.957578999999996,-93.275638,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,12:52
+"2448 STEVENS AVE S,Minneapolis,MN",44.957537,-93.275638,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,12:52
+"2212 Harriet Ave S,Minneapolis,MN",44.960405,-93.285829,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,12:53
+"2410 Stevens Ave South,Minneapolis,MN",44.958715000000005,-93.275654,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,12:57
+"3520 fremont,Minneapolis,MN",44.938813,-93.296192,10,Calhoun Isle,South Uptown,5,2,Armatage,02/25/2019,13:01
+"2546 stevens AVE S,Minneapolis,MN",44.955940000000005,-93.27564,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,13:01
+"344 quincy st ne,Minneapolis,MN",44.994763,-93.251435,3,Northeast,St. Anthony East,2,2,Armatage,02/25/2019,13:02
+"2228 Harriet ave s,Minneapolis,MN",44.960069,-93.285788,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,13:03
+"3310 Garfield ave s,Minneapolis,MN",44.942728,-93.286873,8,Powderhorn,Lyndale,5,2,Armatage,02/25/2019,13:04
+"624 van buren st ne,Minneapolis,MN",44.995884000000004,-93.248908,3,Northeast,St. Anthony East,2,2,Armatage,02/25/2019,13:04
+"2322 32nd st,Minneapolis,MN",44.959753000000006,-93.22574200000001,2,Longfellow,Seward,4,2,Armatage,02/25/2019,13:04
+"1502 E 33rd st ,Minneapolis,MN",44.942925,-93.253586,9,Powderhorn,Powderhorn Park,6,2,Armatage,02/25/2019,13:04
+"2308 32nd st,Minneapolis,MN",44.959874,-93.225751,2,Longfellow,Seward,4,2,Armatage,02/25/2019,13:06
+"3654 aldrich ave n,Minneapolis,MN",45.021873,-93.28904200000001,4,Camden,McKinley,1,2,Armatage,02/25/2019,13:06
+"3158 Aldrich ave s,Minneapolis,MN",44.945498,-93.28970600000001,10,Calhoun Isle,South Uptown,5,2,Armatage,02/25/2019,13:07
+"1534 33rd Street East,Minneapolis,MN",44.943164,-93.252338,9,Powderhorn,Powderhorn Park,6,2,Armatage,02/25/2019,13:07
+"722 5th st se,Minneapolis,MN",44.984821000000004,-93.244351,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,13:08
+"802 5th st se,Minneapolis,MN",44.984514000000004,-93.243169,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,13:10
+"2434 PLEASANT AVE,Minneapolis,MN",44.957873,-93.283312,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,13:11
+"700 morgan AVE N,Minneapolis,MN",44.985248,-93.30423499999999,5,Near North,Near - North,1,2,Armatage,02/25/2019,13:12
+"1110 6th st se,Minneapolis,MN",44.983726000000004,-93.237983,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,13:13
+"3220 girard ave s,Minneapolis,MN",44.944041999999996,-93.29746999999999,10,Calhoun Isle,South Uptown,5,2,Armatage,02/25/2019,13:13
+"634 van buren st ne,Minneapolis,MN",44.996105,-93.24885400000001,3,Northeast,St. Anthony East,2,2,Armatage,02/25/2019,13:16
+"710 11th ave se,Minneapolis,MN",44.985316999999995,-93.237138,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,13:17
+"3204 Aldrich ave n ,Minneapolis,MN",45.013382,-93.28899200000001,4,Camden,McKinley,1,2,Armatage,02/25/2019,13:17
+"2418 5th st ne,Minneapolis,MN",45.012801,-93.260622,1,Northeast,Holland,2,2,Armatage,02/25/2019,13:17
+"708 34th ave n,Minneapolis,MN",45.016690999999994,-93.288149,4,Camden,McKinley,1,2,Armatage,02/25/2019,13:18
+"2302 7th st ne,Minneapolis,MN",45.0113,-93.258239,1,Northeast,Holland,2,2,Armatage,02/25/2019,13:22
+"2100 Pleasant Ave S,Minneapolis,MN",44.961865,-93.283237,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,13:23
+"2630 2nd Ave South,Minneapolis,MN",44.95436,-93.274344,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,13:24
+"2118 5th st ne,Minneapolis,MN",45.009547999999995,-93.26039399999999,1,Northeast,Holland,2,2,Armatage,02/25/2019,13:25
+"928 18th ave se,Minneapolis,MN",44.987313,-93.226575,2,University,Como,4,2,Armatage,02/25/2019,13:26
+"1114 Irving Ave. N.,Minneapolis,MN",44.989521999999994,-93.299451,5,Near North,Near - North,1,2,Armatage,02/25/2019,13:26
+"802 12th ave se,Minneapolis,MN",44.985538,-93.235175,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,13:27
+"2938 Aldrich ave n ,Minneapolis,MN",45.010712,-93.289009,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,13:28
+"2548 PLEASANT AVE,Minneapolis,MN",44.955714,-93.283292,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,13:30
+"908 Logan av no,Minneapolis,MN",44.987206,-93.30289499999999,5,Near North,Near - North,1,2,Armatage,02/25/2019,13:32
+"3150 Garfield ave s,Minneapolis,MN",44.944984000000005,-93.287227,8,Powderhorn,Lyndale,5,2,Armatage,02/25/2019,13:39
+"2312 Pillsbury ave ,Minneapolis,MN",44.959703000000005,-93.281747,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,13:40
+"2338 STEVENS AVE S,Minneapolis,MN",44.95978,-93.27587700000001,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,13:41
+"1016 7th st se,Minneapolis,MN",44.985174,-93.238344,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,13:42
+"2430 Pillsbury ave,Minneapolis,MN",44.957972,-93.28176500000001,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,13:43
+"614 32nd st w,Minneapolis,MN",44.945263,-93.266767,9,Powderhorn,Central,5,2,Armatage,02/25/2019,13:43
+"1230 Logan Ave., North,MN",44.990677000000005,-93.302817,5,Near North,Near - North,1,2,Armatage,02/25/2019,13:46
+"1316 logan ave n,Minneapolis,MN",44.992205,-93.30276500000001,5,Near North,Willard - Hay,1,2,Armatage,02/25/2019,13:49
+"3014 30th av s,Minneapolis,MN",44.947705,-93.228801,2,Longfellow,Longfellow,6,2,Armatage,02/25/2019,13:50
+"3344 girard ave s,Minneapolis,MN",44.941588,-93.297439,10,Calhoun Isle,South Uptown,5,2,Armatage,02/25/2019,13:53
+"3032 30th av s,Minneapolis,MN",44.947255,-93.22884599999999,2,Longfellow,Longfellow,6,2,Armatage,02/25/2019,13:53
+"3528 colfax ave s,Minneapolis,MN",44.938559999999995,-93.292339,10,Calhoun Isle,South Uptown,5,2,Armatage,02/25/2019,13:55
+"2422 quincy st ne,Minneapolis,MN",45.012823,-93.251234,1,Northeast,Holland,2,2,Armatage,02/25/2019,13:56
+"722 13th ave se,Minneapolis,MN",44.98464,-93.234025,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,13:56
+"1836 32nd st,Minneapolis,MN",44.944913,-93.24658199999999,9,Powderhorn,Corcoran,6,2,Armatage,02/25/2019,13:57
+"2210 GARFIELD AVE S,Minneapolis,MN",44.960460999999995,-93.287079,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,13:58
+"2106 Garfield Avenue South,Minneapolis,MN",44.961608,-93.287072,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,13:59
+"1828 32nd st,Minneapolis,MN",44.944914000000004,-93.24707099999999,9,Powderhorn,Corcoran,6,2,Armatage,02/25/2019,13:59
+"51 16th ave ne,Minneapolis,MN",45.003896999999995,-93.270129,3,Northeast,Sheridan,2,2,Armatage,02/25/2019,13:59
+"70 16th ave ne,Minneapolis,MN",45.003896999999995,-93.269627,3,Northeast,Sheridan,2,2,Armatage,02/25/2019,14:02
+"1332 morgan ave n,Minneapolis,MN",44.992592,-93.3041,5,Near North,Willard - Hay,1,2,Armatage,02/25/2019,14:02
+"1006 35th ave n,Minneapolis,MN",45.018532,-93.29190200000001,4,Camden,McKinley,1,2,Armatage,02/25/2019,14:03
+"2642 Pleasant Ave S,Minneapolis,MN",44.954254999999996,-93.283361,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,14:03
+"640 ontario st se,Minneapolis,MN",44.968647999999995,-93.22599100000001,2,University,Prospect Park - East River Road,4,2,Armatage,02/25/2019,14:03
+"3234 girard ave s,Minneapolis,MN",44.943607,-93.29743,10,Calhoun Isle,South Uptown,5,2,Armatage,02/25/2019,14:03
+"2416 quincy st ne,Minneapolis,MN",45.012771,-93.251324,1,Northeast,Holland,2,2,Armatage,02/25/2019,14:04
+"1624 32nd st e,Minneapolis,MN",44.944924,-93.303044,10,Calhoun Isle,ECCO,5,2,Armatage,02/25/2019,14:05
+"414 5th st se,Minneapolis,MN",44.986561,-93.248559,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,14:05
+"2122 Pillsbury ave ,Minneapolis,MN",44.96118,-93.281695,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,14:06
+"608 Ontario St Se ,Minneapolis,MN",44.967884000000005,-93.225697,2,University,Prospect Park - East River Road,4,2,Armatage,02/25/2019,14:07
+"1842 quincy st ne,Minneapolis,MN",45.00745,-93.25124699999999,1,Northeast,Logan Park,2,2,Armatage,02/25/2019,14:07
+"1812 32nd st e,Minneapolis,MN",44.944745000000005,-93.24805699999999,9,Powderhorn,Powderhorn Park,6,2,Armatage,02/25/2019,14:09
+"1308 Logan Ave., North,MN",45.002537,-93.305279,5,Near North,Jordan,1,2,Armatage,02/25/2019,14:09
+"3120 Emerson ave s ,Minneapolis,MN",44.945808,-93.294791,10,Calhoun Isle,South Uptown,5,2,Armatage,02/25/2019,14:10
+"2958 Aldrich ave n ,Minneapolis,MN",45.011018,-93.289009,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,14:12
+"2716 Aldrich ave n ,Minneapolis,MN",45.008268,-93.28904200000001,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,14:14
+"2406 6th st ne,Minneapolis,MN",45.012468,-93.259478,1,Northeast,Holland,2,2,Armatage,02/25/2019,14:15
+"2406 Garfield Avenue South,Minneapolis,MN",44.958846,-93.287077,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,14:15
+"1028 newton,Minneapolis,MN",44.988762,-93.30538100000001,5,Near North,Near - North,1,2,Armatage,02/25/2019,14:17
+"3106 Harriet ave s,Minneapolis,MN",44.946236999999996,-93.285947,8,Powderhorn,Lyndale,5,2,Armatage,02/25/2019,14:17
+"2314 quincy st ne,Minneapolis,MN",45.011355,-93.251178,1,Northeast,Holland,2,2,Armatage,02/25/2019,14:19
+"2406 PILLSBURY AVE,Minneapolis,MN",44.958706,-93.28175300000001,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,14:19
+"630 17th ave ne,Minneapolis,MN",45.005103999999996,-93.256823,1,Northeast,Logan Park,2,2,Armatage,02/25/2019,14:21
+"1118 Newton Ave. N.,Minneapolis,MN",44.989509999999996,-93.305369,5,Near North,Near - North,1,2,Armatage,02/25/2019,14:25
+"1326 7th st se,Minneapolis,MN",44.983315000000005,-93.233828,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,14:28
+"2116 Grand Ave S,Minneapolis,MN",44.961315,-93.284589,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,14:28
+"814 12th ave se,Minneapolis,MN",44.98595,-93.23479300000001,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,14:28
+"620 13th ave se,Minneapolis,MN",44.983402000000005,-93.234989,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,14:29
+"306 W 22nd st ,Minneapolis,MN",44.961082,-93.283325,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,14:29
+"2218 aldrich ave n,Minneapolis,MN",45.002198,-93.28931,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,14:32
+"2432 Garfield ,Minneapolis,MN",44.958093,-93.28704300000001,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,14:32
+"2534 ALDrich ave n ,Minneapolis,MN",45.005731,-93.289234,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,14:34
+"302 22nd st w,Minneapolis,MN",44.961081,-93.283116,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,14:35
+"2004 STEVENS AVE S,Minneapolis,MN",44.962548,-93.27545400000001,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,14:37
+"138 27th st E,Minneapolis,MN",44.969744,-93.219893,2,University,Prospect Park - East River Road,4,2,Armatage,02/25/2019,14:38
+"2008 Pillsbury ave ,Minneapolis,MN",44.962329,-93.281653,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,14:38
+"2428 Garfield Ave South,Minneapolis,MN",44.9582,-93.28709599999999,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,14:38
+"312 14th ave ne,Minneapolis,MN",45.001801,-93.263948,3,Northeast,Sheridan,2,2,Armatage,02/25/2019,14:38
+"2448 GRAND AVE S,Minneapolis,MN",44.957505,-93.284534,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,14:39
+"674 15th ave ne,Minneapolis,MN",45.002905,-93.25361,1,Northeast,Logan Park,2,2,Armatage,02/25/2019,14:41
+"124 22ND ST E,Minneapolis,MN",44.96116,-93.280015,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,14:41
+"2104 Aldrich ave n ,Minneapolis,MN",45.00053,-93.289237,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,14:43
+"2100 Bryant ave n ,Minneapolis,MN",45.00025,-93.291048,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,14:47
+"216 12th ave ne,Minneapolis,MN",44.999818,-93.265403,3,Northeast,Sheridan,2,2,Armatage,02/25/2019,14:49
+"1306 7th st se,Minneapolis,MN",44.983643,-93.234658,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,14:49
+"3140 Harriet ave s,Minneapolis,MN",44.945176000000004,-93.285912,8,Powderhorn,Lyndale,5,2,Armatage,02/25/2019,14:50
+"350 16th Ave NE,Minneapolis,MN",45.004196,-93.26232900000001,3,Northeast,Sheridan,2,2,Armatage,02/25/2019,14:51
+"3110 Emerson Ave S,Minneapolis,MN",44.946165,-93.294738,10,Calhoun Isle,South Uptown,5,2,Armatage,02/25/2019,14:52
+"906 Newton Ave. N.,Minneapolis,MN",44.987157,-93.305433,5,Near North,Near - North,1,2,Armatage,02/25/2019,14:52
+"916 34th st w ,Minneapolis,MN",44.941463,-93.291474,10,Calhoun Isle,South Uptown,5,2,Armatage,02/25/2019,14:55
+"2014 Grand Ave S,Minneapolis,MN",44.962146000000004,-93.284539,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,14:56
+"3116 Emerson Ave S,Minneapolis,MN",44.945933000000004,-93.29485,10,Calhoun Isle,South Uptown,5,2,Armatage,02/25/2019,14:56
+"2910 36th st e,Minneapolis,MN",44.937734000000006,-93.229117,12,Longfellow,Howe,6,2,Armatage,02/25/2019,14:59
+"3250 Snelling Ave S,Minneapolis,MN",44.943397,-93.2328,9,Longfellow,Longfellow,6,2,Armatage,02/25/2019,15:03
+"2522 Garfield ,Minneapolis,MN",44.956581,-93.287061,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,15:04
+"3420 DuPont ave s,Minneapolis,MN",44.940490999999994,-93.293616,10,Calhoun Isle,South Uptown,5,2,Armatage,02/25/2019,15:04
+"3104 10th ave,Minneapolis,MN",44.946323,-93.260425,9,Powderhorn,Powderhorn Park,6,2,Armatage,02/25/2019,15:08
+"2900 36th st e,Minneapolis,MN",44.937733,-93.229213,12,Longfellow,Howe,6,2,Armatage,02/25/2019,15:08
+"2202 Bryant Ave n,Minneapolis,MN",45.001653000000005,-93.290788,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,15:08
+"3310 10th ave,Minneapolis,MN",44.94278,-93.26039300000001,9,Powderhorn,Powderhorn Park,6,2,Armatage,02/25/2019,15:10
+"3108 34th av s,Minneapolis,MN",44.946428999999995,-93.223232,2,Longfellow,Longfellow,6,2,Armatage,02/25/2019,15:12
+"900 15th st e ,Minneapolis,MN",44.967997,-93.261059,6,Central,Elliot Park,3,2,Armatage,02/25/2019,15:13
+"2614 Colfax ave n ,Minneapolis,MN",45.006445,-93.291537,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,15:15
+"726 Oliver ave . N. ,Minneapolis,MN",44.985954,-93.306676,5,Near North,Near - North,1,2,Armatage,02/25/2019,15:16
+"3006 40th av s,Minneapolis,MN",44.948032,-93.215276,2,Longfellow,Cooper,6,2,Armatage,02/25/2019,15:17
+"644 Ontario st se,Minneapolis,MN",44.968554,-93.22604799999999,2,University,Prospect Park - East River Road,4,2,Armatage,02/25/2019,15:17
+"2712 aldrich ave n,Minneapolis,MN",45.008140000000004,-93.289041,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,15:17
+"1020 7th st se,Minneapolis,MN",44.985071000000005,-93.238096,3,University,Marcy Holmes,4,2,Armatage,02/25/2019,15:17
+"3112 FREMONT AVE S ,Minneapolis,MN",44.946063,-93.296049,10,Calhoun Isle,South Uptown,5,2,Armatage,02/25/2019,15:18
+"904 15TH ST E,Minneapolis,MN",44.967996,-93.260897,6,Central,Elliot Park,3,2,Armatage,02/25/2019,15:27
+"2422 Pillsbury Ave S,Minneapolis,MN",44.958247,-93.28169799999999,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,15:29
+"3506 pleasant ave s,Minneapolis,MN",44.939182,-93.283376,8,Powderhorn,Lyndale,5,2,Armatage,02/25/2019,15:29
+"1422 34th st w,Minneapolis,MN",44.941509,-93.298478,10,Calhoun Isle,ECCO,5,2,Armatage,02/25/2019,15:30
+"3904 pleasant ave s,Minneapolis,MN",44.932038,-93.283416,8,Southwest,King Field,5,2,Armatage,02/25/2019,15:31
+"420 25th st w,Minneapolis,MN",44.957509,-93.284881,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,15:36
+"1204 spring st ne,Minneapolis,MN",44.994964,-93.24180600000001,3,Northeast,Beltrami,2,2,Armatage,02/25/2019,15:36
+"312 25th st w,Minneapolis,MN",44.957534,-93.28370699999999,10,Powderhorn,Whittier,3,2,Armatage,02/25/2019,15:39
+"742 buchanan st ne,Minneapolis,MN",44.998143,-93.23997,3,Northeast,Beltrami,2,2,Armatage,02/25/2019,15:40
+"2620 Colfax ave 3,Minneapolis,MN",44.954887,-93.29216,10,Calhoun Isle,Lowry Hill East,3,2,Armatage,02/25/2019,15:53
+"1 042 22nd Avenue Southeast,Minneapolis,MN",45.0015,-93.293235,5,Near North,Hawthorne,1,2,Armatage,02/25/2019,15:54
+"3808 Colfax ave n ,Minneapolis,MN",45.024281,-93.291578,4,Camden,Webber - Camden,1,2,Armatage,02/25/2019,15:55
+"4430 39th st e,Minneapolis,MN",44.932473,-93.209827,12,Longfellow,Howe,6,2,Armatage,02/25/2019,15:55
+"4122 Bryant Ave N,Minneapolis,MN",45.030118,-93.290346,4,Camden,Webber - Camden,1,2,Armatage,02/25/2019,16:00
+"3346 Bryant Ave n,Minneapolis,MN",45.016439,-93.290275,4,Camden,McKinley,1,2,Armatage,02/25/2019,16:04
+"3616 Snelling Ave S,Minneapolis,MN",44.937179,-93.228218,12,Longfellow,Howe,6,2,Armatage,02/25/2019,16:07
+"3830 Colfax Ave n,Minneapolis,MN",45.024864,-93.2916,4,Camden,Webber - Camden,1,2,Armatage,02/25/2019,16:08
+"804 37th ave n,Minneapolis,MN",45.022125,-93.28950400000001,4,Camden,McKinley,1,2,Armatage,02/25/2019,16:59
+"1108 37th ave n,Minneapolis,MN",45.022158000000005,-93.293526,4,Camden,Folwell,1,2,Armatage,02/25/2019,17:02
+"2511 3rd st n ,Minneapolis,MN",44.994181,-93.281878,5,Near North,Near - North,1,3,Armatage,02/26/2019,08:15
+"2607 3rd st n ,Minneapolis,MN",44.994181,-93.281878,5,Near North,Near - North,1,3,Armatage,02/26/2019,08:18
+"1613 Lynn Curve Ave. N.,Minneapolis,MN",44.996215,-93.28528,5,Near North,Near - North,1,3,Armatage,02/26/2019,08:20
+"201 14TH ST W,Minneapolis,MN",44.968703999999995,-93.281077,7,Central,Loring Park,3,3,Armatage,02/26/2019,08:20
+"2117 2nd av s ,Minneapolis,MN",44.961098,-93.273742,10,Powderhorn,Whittier,3,3,Armatage,02/26/2019,08:23
+"313 3rd ave se,Minneapolis,MN",44.985988,-93.251964,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,08:28
+"2807 3rd st n ,Minneapolis,MN",44.994181,-93.281878,5,Near North,Near - North,1,3,Armatage,02/26/2019,08:31
+"3005 N 3rd st ,Minneapolis,MN",45.01079,-93.283378,5,Near North,Hawthorne,1,3,Armatage,02/26/2019,08:34
+"203 14TH ST W,Minneapolis,MN",45.002182,-93.265927,3,Northeast,Sheridan,2,3,Armatage,02/26/2019,08:36
+"205 14TH ST W,Minneapolis,MN",44.968645,-93.281252,7,Central,Loring Park,3,3,Armatage,02/26/2019,08:38
+"1033 12th ave se,Minneapolis,MN",44.988820000000004,-93.234913,2,University,Como,4,3,Armatage,02/26/2019,08:40
+"943 Lyndale Place,Minneapolis,MN",44.98747,-93.289649,5,Near North,Sumner - Glenwood,1,3,Armatage,02/26/2019,08:41
+"109 14TH ST W,Minneapolis,MN",44.968789,-93.27938,7,Central,Loring Park,3,3,Armatage,02/26/2019,08:41
+"1035 12th ave se,Minneapolis,MN",44.988879,-93.234938,2,University,Como,4,3,Armatage,02/26/2019,08:44
+"813 32nd st w,Minneapolis,MN",44.944408,-93.26248000000001,9,Powderhorn,Powderhorn Park,6,3,Armatage,02/26/2019,08:46
+"111 14TH ST W,Minneapolis,MN",44.968789,-93.27939,7,Central,Loring Park,3,3,Armatage,02/26/2019,08:47
+"917 32nd st w,Minneapolis,MN",44.944607,-93.261156,9,Powderhorn,Powderhorn Park,6,3,Armatage,02/26/2019,08:52
+"1429 Grand st ne,Minneapolis,MN",45.002657,-93.26973199999999,3,Northeast,Sheridan,2,3,Armatage,02/26/2019,08:57
+"1319 32nd ,Minneapolis,MN",44.944733,-93.29603,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,08:59
+"317 5th ave se,Minneapolis,MN",44.985132,-93.24883100000001,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,09:00
+"3119 N 3rd st ,Minneapolis,MN",45.012178000000006,-93.283376,5,Near North,Hawthorne,1,3,Armatage,02/26/2019,09:01
+"105 14TH ST W,Minneapolis,MN",44.968915,-93.276786,7,Central,Loring Park,3,3,Armatage,02/26/2019,09:02
+"105 W 33nd st ,Minneapolis,MN",44.942653,-93.279925,8,Powderhorn,Lyndale,5,3,Armatage,02/26/2019,09:02
+"529 4th ave se,Minneapolis,MN",44.988052,-93.248689,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,09:03
+"5155 10th S,Minneapolis,MN",44.909075,-93.25976899999999,11,Nokomis,Hale,6,3,Armatage,02/26/2019,09:03
+"3535 4th st n ,Minneapolis,MN",45.019535,-93.285335,4,Camden,McKinley,1,3,Armatage,02/26/2019,09:04
+"3435 15th ave,Minneapolis,MN",44.940115000000006,-93.253349,9,Powderhorn,Powderhorn Park,6,3,Armatage,02/26/2019,09:05
+"4307 pillsbury ave s.,Minneapolis,MN",44.924693,-93.281529,8,Southwest,King Field,5,3,Armatage,02/26/2019,09:05
+"833 Aldrich Ave N,Minneapolis,MN",44.986624,-93.29096,5,Near North,Sumner - Glenwood,1,3,Armatage,02/26/2019,09:05
+"3749 14th ave,Minneapolis,MN",44.934422,-93.254613,9,Powderhorn,Powderhorn Park,6,3,Armatage,02/26/2019,09:06
+"3045 James ave s,Minneapolis,MN",44.946939,-93.303054,10,Calhoun Isle,ECCO,5,3,Armatage,02/26/2019,09:07
+"5219 10th Ave S,Minneapolis,MN",44.908215999999996,-93.25979699999999,11,Nokomis,Hale,6,3,Armatage,02/26/2019,09:07
+"317 4th ave se,Minneapolis,MN",44.985777,-93.25048199999999,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,09:08
+"3205 N 3rd st ,Minneapolis,MN",45.013178,-93.283388,4,Camden,McKinley,1,3,Armatage,02/26/2019,09:08
+"3041 humbolt ave s,Minneapolis,MN",44.946923999999996,-93.300478,10,Calhoun Isle,ECCO,5,3,Armatage,02/26/2019,09:11
+"325 RIDGEWOOD AVE S,Minneapolis,MN",44.963512,-93.283604,7,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,09:11
+"919 32nd st w,Minneapolis,MN",44.944578,-93.291723,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,09:12
+"3511 4th st n,Minneapolis,MN",45.018876,-93.28541700000001,4,Camden,McKinley,1,3,Armatage,02/26/2019,09:13
+"327 5th ave se,Minneapolis,MN",44.985188,-93.248805,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,09:13
+"611 ridgewood av s,Minneapolis,MN",44.963021999999995,-93.287371,7,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,09:13
+"1219 32nd st w,Minneapolis,MN",44.944579,-93.295407,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,09:16
+"109 32nd st w,Minneapolis,MN",44.944573999999996,-93.280187,8,Powderhorn,Lyndale,5,3,Armatage,02/26/2019,09:17
+"419 19th ave se,Minneapolis,MN",44.984308,-93.225608,2,University,Como,4,3,Armatage,02/26/2019,09:18
+"827 Aldrich Ave n,Minneapolis,MN",44.986568,-93.290975,5,Near North,Sumner - Glenwood,1,3,Armatage,02/26/2019,09:24
+"441 RIDGEWOOD AVE S,Minneapolis,MN",44.963259,-93.285449,7,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,09:24
+"3534 N 3rd st ,Minneapolis,MN",45.019089,-93.283467,4,Camden,McKinley,1,3,Armatage,02/26/2019,09:30
+"3215 4th st n ,Minneapolis,MN",45.013702,-93.285069,4,Camden,McKinley,1,3,Armatage,02/26/2019,09:33
+"1129 NE main st ,Minneapolis,MN",44.99966,-93.267415,3,Northeast,Sheridan,2,3,Armatage,02/26/2019,09:33
+"301 6th ave se,Minneapolis,MN",44.983934000000005,-93.247653,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,09:34
+"3725 15th ave so,Minneapolis,MN",44.934973,-93.253393,9,Powderhorn,Powderhorn Park,6,3,Armatage,02/26/2019,09:34
+"1511 NE Main st ,Minneapolis,MN",45.003489,-93.267418,3,Northeast,Sheridan,2,3,Armatage,02/26/2019,09:35
+"303 6th ave se,Minneapolis,MN",44.984120000000004,-93.247906,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,09:36
+"1125 Main st ne,Minneapolis,MN",44.999551000000004,-93.267403,3,Northeast,Sheridan,2,3,Armatage,02/26/2019,09:36
+"605 ridgewood. Av s,Minneapolis,MN",44.963316999999996,-93.287081,7,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,09:37
+"519 5th ave se,Minneapolis,MN",44.987013,-93.247508,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,09:39
+"1109 main st ne,Minneapolis,MN",44.999016999999995,-93.266997,3,Northeast,Sheridan,2,3,Armatage,02/26/2019,09:41
+"1405 32nd st w,Minneapolis,MN",44.944748,-93.25496,9,Powderhorn,Powderhorn Park,6,3,Armatage,02/26/2019,09:42
+"1401 32nd st w,Minneapolis,MN",44.944481,-93.297392,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,09:45
+"517 5th ave se,Minneapolis,MN",44.986944,-93.247561,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,09:45
+"209 RIDGEWOOD AVE S,Minneapolis,MN",44.963601000000004,-93.281503,7,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,09:46
+"1415 32 nd,Minneapolis,MN",44.944747,-93.254832,9,Powderhorn,Powderhorn Park,6,3,Armatage,02/26/2019,09:47
+"231 RIDGEWOOD AVE S,Minneapolis,MN",44.96373,-93.282298,7,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,09:49
+"227 OAK GROVE ST,Minneapolis,MN",44.966335,-93.282313,7,Central,Loring Park,3,3,Armatage,02/26/2019,09:50
+"4339 Wentworth ave s,Minneapolis,MN",44.923843,-93.280159,8,Southwest,King Field,5,3,Armatage,02/26/2019,09:51
+"3641 4th st n,Minneapolis,MN",45.021487,-93.285372,4,Camden,McKinley,1,3,Armatage,02/26/2019,09:51
+"2917 4th st n,Minneapolis,MN",45.010118,-93.285252,5,Near North,Hawthorne,1,3,Armatage,02/26/2019,09:54
+"121 33rd st w, minneapolis,MN",44.942658,-93.28074000000001,8,Powderhorn,Lyndale,5,3,Armatage,02/26/2019,09:57
+"307 oak grove st,Minneapolis,MN",44.966676,-93.283376,7,Central,Loring Park,3,3,Armatage,02/26/2019,09:57
+"305 oak grove ,Minneapolis,MN",44.966858,-93.282975,7,Central,Loring Park,3,3,Armatage,02/26/2019,09:58
+"415 32nd st w,Minneapolis,MN",44.944479,-93.285039,8,Powderhorn,Lyndale,5,3,Armatage,02/26/2019,09:59
+"1827 Bryant Ave N,Minneapolis,MN",44.998298999999996,-93.29137,5,Near North,Near - North,1,3,Armatage,02/26/2019,09:59
+"111 W 32nd st ,Minneapolis,MN",44.944575,-93.280307,8,Powderhorn,Lyndale,5,3,Armatage,02/26/2019,10:01
+"3217 hunboldt ave s,Minneapolis,MN",44.944117999999996,-93.30051800000001,10,Calhoun Isle,ECCO,5,3,Armatage,02/26/2019,10:04
+"1025 15th ave se,Minneapolis,MN",44.988642,-93.231066,1,University,Como,4,3,Armatage,02/26/2019,10:05
+"831 aldrich ave n,Minneapolis,MN",44.986605,-93.290965,5,Near North,Sumner - Glenwood,1,3,Armatage,02/26/2019,10:07
+"3421 15th ave,Minneapolis,MN",44.940583000000004,-93.25343199999999,9,Powderhorn,Powderhorn Park,6,3,Armatage,02/26/2019,10:09
+"305 6th ave se,Minneapolis,MN",44.984186,-93.247854,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,10:09
+"3307 Emerson ave s,Minneapolis,MN",44.942663,-93.294227,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,10:10
+"2503 4th st n ,Minneapolis,MN",45.004992,-93.285298,5,Near North,Hawthorne,1,3,Armatage,02/26/2019,10:11
+"3159 15th ave,Minneapolis,MN",44.94488,-93.253511,9,Powderhorn,Powderhorn Park,6,3,Armatage,02/26/2019,10:11
+"1809 3rd st ne,Minneapolis,MN",45.006668,-93.26436899999999,3,Northeast,Bottineau,2,3,Armatage,02/26/2019,10:12
+"307 OAK GROVE ST,Minneapolis,MN",44.966676,-93.283376,7,Central,Loring Park,3,3,Armatage,02/26/2019,10:13
+"2003 3rd st ne,Minneapolis,MN",45.008764,-93.264356,3,Northeast,Bottineau,2,3,Armatage,02/26/2019,10:13
+"1023 15th ave se,Minneapolis,MN",44.988575,-93.231105,1,University,Como,4,3,Armatage,02/26/2019,10:13
+"3409 Emerson ave s,Minneapolis,MN",44.940909000000005,-93.29426600000001,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,10:14
+"2309 4th st n ,Minneapolis,MN",45.002997,-93.28522199999999,5,Near North,Hawthorne,1,3,Armatage,02/26/2019,10:15
+"335 CLIFTON AVE ,Minneapolis,MN",44.965981,-93.28444499999999,7,Central,Loring Park,3,3,Armatage,02/26/2019,10:16
+"316 6th ave se,Minneapolis,MN",44.984182000000004,-93.24714499999999,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,10:17
+"515 8th ave se,Minneapolis,MN",44.985298,-93.243133,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,10:18
+"1117 Humboldt Ave N,Minneapolis,MN",44.989575,-93.29853299999999,5,Near North,Near - North,1,3,Armatage,02/26/2019,10:18
+"305 3rd ave ne,Minneapolis,MN",44.991073,-93.25814100000001,3,Northeast,St. Anthony West,2,3,Armatage,02/26/2019,10:21
+"1119 5th st ne,Minneapolis,MN",44.999326,-93.259955,3,Northeast,Sheridan,2,3,Armatage,02/26/2019,10:22
+"609 7th ave se,Minneapolis,MN",44.986722,-93.24395200000001,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,10:23
+"131 Clifton ,Minneapolis,MN",44.966116,-93.283959,7,Central,Loring Park,3,3,Armatage,02/26/2019,10:25
+"1309 5th st ne,Minneapolis,MN",45.001294,-93.259982,3,Northeast,Sheridan,2,3,Armatage,02/26/2019,10:25
+"315 6th ave,Minneapolis,MN",44.985955,-93.277176,3,Central,North Loop,1,3,Armatage,02/26/2019,10:29
+"315 clifton ave,Minneapolis,MN",44.965957,-93.28439399999999,7,Central,Loring Park,3,3,Armatage,02/26/2019,10:29
+"1815 COLFAX AVE S,Minneapolis,MN",44.964833,-93.291454,7,Calhoun Isle,Lowry Hill,3,3,Armatage,02/26/2019,10:30
+"2315 6th st,Minneapolis,MN",45.003073,-93.286702,5,Near North,Hawthorne,1,3,Armatage,02/26/2019,10:30
+"315 6th ave,Minneapolis,MN",44.985955,-93.277176,3,Central,North Loop,1,3,Armatage,02/26/2019,10:32
+"2309 6th st n,Minneapolis,MN",45.0029,-93.286704,5,Near North,Hawthorne,1,3,Armatage,02/26/2019,10:32
+"1927 colfax av s,Minneapolis,MN",44.963341,-93.291552,7,Calhoun Isle,Lowry Hill,3,3,Armatage,02/26/2019,10:34
+"1307 5th st ne,Minneapolis,MN",45.001184,-93.260009,3,Northeast,Sheridan,2,3,Armatage,02/26/2019,10:35
+"1411 5th st ne,Minneapolis,MN",45.002278999999994,-93.259976,3,Northeast,Sheridan,2,3,Armatage,02/26/2019,10:37
+"3403. 15th Ave so,Minneapolis,MN",44.941225,-93.253367,9,Powderhorn,Powderhorn Park,6,3,Armatage,02/26/2019,10:37
+"3207 Fremont ave s,Minneapolis,MN",44.944459,-93.295485,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,10:38
+"117 19TH ST E,Minneapolis,MN",44.963954,-93.275673,6,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,10:40
+"119 34th St.,Minneapolis,MN",44.941025,-93.280739,8,Powderhorn,Lyndale,5,3,Armatage,02/26/2019,10:40
+"3217 Holmes ave,Minneapolis,MN",44.944136,-93.299262,10,Calhoun Isle,ECCO,5,3,Armatage,02/26/2019,10:40
+"729 7th ave se,Minneapolis,MN",44.988101,-93.243061,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,10:41
+"3401 colfax ave s,Minneapolis,MN",44.940526,-93.29176899999999,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,10:42
+"1017 humboldt ave n,Minneapolis,MN",44.988817,-93.298435,5,Near North,Near - North,1,3,Armatage,02/26/2019,10:43
+"1723 Irving Ave N,Minneapolis,MN",44.997057,-93.299701,5,Near North,Near - North,1,3,Armatage,02/26/2019,10:46
+"2325 6th st n ,Minneapolis,MN",45.003374,-93.28671899999999,5,Near North,Hawthorne,1,3,Armatage,02/26/2019,10:46
+"3413 colfax ave s,Minneapolis,MN",44.940428000000004,-93.29171099999999,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,10:46
+"105 19TH ST E,Minneapolis,MN",44.963955,-93.276327,6,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,10:47
+"1509 SPRUCE PL,Minneapolis,MN",44.966678,-93.280833,7,Central,Loring Park,3,3,Armatage,02/26/2019,10:47
+"701 8TH AVE SE,Minneapolis,MN",44.986771000000005,-93.241765,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,10:48
+"1021 14th ave se,Minneapolis,MN",44.988523,-93.23204,1,University,Como,4,3,Armatage,02/26/2019,10:48
+"1701 dupont ave n,Minneapolis,MN",44.996512,-93.292935,5,Near North,Near - North,1,3,Armatage,02/26/2019,10:49
+"2227 6th st n ,Minneapolis,MN",45.002351000000004,-93.286799,5,Near North,Hawthorne,1,3,Armatage,02/26/2019,10:49
+"119 19TH ST E,Minneapolis,MN",44.963954,-93.275564,6,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,10:51
+"719 6th ave se,Minneapolis,MN",44.988616,-93.24421600000001,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,10:55
+"201 19th. St e,Minneapolis,MN",44.963955,-93.274022,6,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,10:55
+"2009 stevena ,Minneapolis,MN",44.961328,-93.275286,10,Powderhorn,Whittier,3,3,Armatage,02/26/2019,10:57
+"1115 6th st ne,Minneapolis,MN",44.999219000000004,-93.258601,3,Northeast,Sheridan,2,3,Armatage,02/26/2019,11:00
+"6117 11th Ave S,Minneapolis,MN",44.891776,-93.258873,11,Nokomis,Diamond Lake,6,3,Armatage,02/26/2019,11:02
+"31216th st n,Minneapolis,MN",44.978563,-93.275913,7,Central,Downtown West,3,3,Armatage,02/26/2019,11:05
+"1139 6th st ne,Minneapolis,MN",44.999874,-93.258636,3,Northeast,Sheridan,2,3,Armatage,02/26/2019,11:06
+"5051 30th Ave S,Minneapolis,MN",44.911046,-93.229435,12,Nokomis,Keewaydin,6,3,Armatage,02/26/2019,11:06
+"1825 2ND AVE S ,Minneapolis,MN",44.964267,-93.273754,6,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,11:07
+"3115 6th st n,Minneapolis,MN",45.012131,-93.286239,5,Near North,Hawthorne,1,3,Armatage,02/26/2019,11:07
+"1417 6th st ne,Minneapolis,MN",45.002464,-93.258615,3,Northeast,Sheridan,2,3,Armatage,02/26/2019,11:08
+"1225 James Ave N,Minneapolis,MN",44.990814,-93.30090899999999,5,Near North,Near - North,1,3,Armatage,02/26/2019,11:09
+"1113 6th st ne,Minneapolis,MN",44.999164,-93.258613,3,Northeast,Sheridan,2,3,Armatage,02/26/2019,11:09
+"911 24th ave s,Minneapolis,MN",44.963553000000005,-93.23739599999999,6,Longfellow,Seward,4,3,Armatage,02/26/2019,11:09
+"3537 11th ave,Minneapolis,MN",44.938308,-93.258481,9,Powderhorn,Powderhorn Park,6,3,Armatage,02/26/2019,11:12
+"4541 1st ave s,Minneapolis,MN",44.920175,-93.27638,8,Southwest,King Field,5,3,Armatage,02/26/2019,11:13
+"3505 10th ave,Minneapolis,MN",44.939274,-93.259757,9,Powderhorn,Powderhorn Park,6,3,Armatage,02/26/2019,11:14
+"1095 13th ave se,Minneapolis,MN",44.990701,-93.233684,2,University,Como,4,3,Armatage,02/26/2019,11:14
+"125 19TH ST E,Minneapolis,MN",44.963955,-93.274672,6,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,11:15
+"4035 Blaisdell ave s,Minneapolis,MN",44.929361,-93.27889499999999,8,Southwest,King Field,5,3,Armatage,02/26/2019,11:16
+"117 34 th st,Minneapolis,MN",44.941171000000004,-93.280723,8,Powderhorn,Lyndale,5,3,Armatage,02/26/2019,11:19
+"3215 Humboldt Avae S,Minneapolis,MN",44.94424,-93.300522,10,Calhoun Isle,ECCO,5,3,Armatage,02/26/2019,11:11
+"309 8th ave se,Minneapolis,MN",44.983182,-93.244958,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,11:21
+"3435 colfax ave s ,Minneapolis,MN",44.940248,-93.291788,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,11:23
+"3229 Aldrich ave s,Minneapolis,MN",44.943751,-93.289194,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,11:23
+"615 6th ave se,Minneapolis,MN",44.987448,-93.245172,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,11:24
+"2547 5th st ne,Minneapolis,MN",45.014316,-93.259491,1,Northeast,Holland,2,3,Armatage,02/26/2019,11:24
+"3319 HOLMES AV S,Minneapolis,MN",44.942261,-93.29921999999999,10,Calhoun Isle,ECCO,5,3,Armatage,02/26/2019,11:07
+"1103 33rd st w,Minneapolis,MN",44.942761,-93.29338100000001,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,11:25
+"303 7th ave se,Minneapolis,MN",44.983568,-93.246573,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,11:27
+"1223 James Ave N,Minneapolis,MN",44.990787,-93.300914,5,Near North,Near - North,1,3,Armatage,02/26/2019,11:27
+"923 6th st s,Minneapolis,MN",44.971976,-93.259068,6,Central,Elliot Park,3,3,Armatage,02/26/2019,11:27
+"729 8TH ave se,Minneapolis,MN",44.987691999999996,-93.241449,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,11:28
+"3823 6th st n ,Minneapolis,MN",45.024637,-93.28683000000001,4,Camden,Webber - Camden,1,3,Armatage,02/26/2019,11:28
+"3431 colfax ave s,Minneapolis,MN",44.940282,-93.291713,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,11:29
+"133 17th st E,Minneapolis,MN",44.966084,-93.27488000000001,6,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,11:29
+"3631 Longfellow ave so,Minneapolis,MN",44.936755,-93.245791,12,Powderhorn,Standish,6,3,Armatage,02/26/2019,11:30
+"623 quincy st ne,Minneapolis,MN",44.995791,-93.250909,3,Northeast,St. Anthony East,2,3,Armatage,02/26/2019,11:30
+"209 7th ave se ,Minneapolis,MN",44.982566,-93.24719,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,11:30
+"1831 STEVENS AVE S ,Minneapolis,MN",44.964399,-93.27529,6,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,11:32
+"609 39th ave n ,Minneapolis,MN",45.025616,-93.286988,4,Camden,Webber - Camden,1,3,Armatage,02/26/2019,11:32
+"1633 adams st ne,Minneapolis,MN",45.004988,-93.255967,1,Northeast,Logan Park,2,3,Armatage,02/26/2019,11:33
+"635 quincy st ne,Minneapolis,MN",44.996119,-93.250907,3,Northeast,St. Anthony East,2,3,Armatage,02/26/2019,11:35
+"4445 Clinton ave s,Minneapolis,MN",44.921963,-93.271231,8,Nokomis,Regina,5,3,Armatage,02/26/2019,11:35
+"4135 Aldrich ave n ,Minneapolis,MN",45.030394,-93.289626,4,Camden,Webber - Camden,1,3,Armatage,02/26/2019,11:36
+"111 18TH ST E,Minneapolis,MN",44.965088,-93.27583800000001,6,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,11:39
+"925 7th st se,Minneapolis,MN",44.985619,-93.238946,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,11:40
+"978 18th ave se,Minneapolis,MN",44.987377,-93.226934,2,University,Como,4,3,Armatage,02/26/2019,11:43
+"3803 N 6th ave ,Minneapolis,MN",45.024011,-93.286535,4,Camden,Webber - Camden,1,3,Armatage,02/26/2019,11:47
+"3245 girard ave s,Minneapolis,MN",44.943259999999995,-93.296763,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,11:48
+"3445 Emerson ave s,Minneapolis,MN",44.939888,-93.29430500000001,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,11:51
+"3605 colfax ave s,Minneapolis,MN",44.937459999999994,-93.291739,10,Southwest,East Harriet,5,3,Armatage,02/26/2019,11:55
+"3503 aldrich ave n,Minneapolis,MN",45.018698,-93.289618,4,Camden,McKinley,1,3,Armatage,02/26/2019,11:55
+"3041 17th Ave S,Minneapolis,MN",44.946953,-93.249645,9,Powderhorn,Powderhorn Park,6,3,Armatage,02/26/2019,11:56
+"1807 2ND AVE S ,Minneapolis,MN",44.964886,-93.273719,6,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,11:58
+"3637 colfax ave s,Minneapolis,MN",44.936499,-93.291789,10,Southwest,East Harriet,5,3,Armatage,02/26/2019,11:58
+"1905 2ND AVE S,Minneapolis,MN",44.963781,-93.273786,6,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,11:58
+"1923 Logan Ave N,Minneapolis,MN",44.999502,-93.303421,5,Near North,Willard - Hay,1,3,Armatage,02/26/2019,11:58
+"3013 17th Ave S,Minneapolis,MN",44.947811,-93.24963199999999,9,Powderhorn,Powderhorn Park,6,3,Armatage,02/26/2019,11:59
+"137 19TH ST E,Minneapolis,MN",44.963695,-93.274598,6,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,12:02
+"305 19TH ST E,Minneapolis,MN",44.963955,-93.272444,6,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,12:02
+"2109 talmage ave se,Minneapolis,MN",44.989831,-93.222497,1,University,Como,4,3,Armatage,02/26/2019,12:02
+"3213 Aldrich ave s,Minneapolis,MN",44.944226,-93.28915500000001,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,12:04
+"3215 Aldrich ave s,Minneapolis,MN",44.944124,-93.28966700000001,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,12:05
+"1311james ave n,Minneapolis,MN",44.992062,-93.300942,5,Near North,Near - North,1,3,Armatage,02/26/2019,12:06
+"506 6th st se,Minneapolis,MN",44.987054,-93.246489,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,12:08
+"3137 elliot,Minneapolis,MN",44.94543,-93.261093,9,Powderhorn,Powderhorn Park,6,3,Armatage,02/26/2019,12:08
+"3147 Aldrich ,Minneapolis,MN",44.945021999999994,-93.28923499999999,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,12:09
+"1611 girard ave n,Minneapolis,MN",44.995662,-93.29748599999999,5,Near North,Near - North,1,3,Armatage,02/26/2019,12:09
+"3949 29 th ave s,Minneapolis,MN",44.930881,-93.230574,12,Powderhorn,Standish,6,3,Armatage,02/26/2019,12:10
+"211 7th ave se,Minneapolis,MN",44.982585,-93.247174,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,12:10
+"3111 elliot,Minneapolis,MN",44.946159,-93.261089,9,Powderhorn,Powderhorn Park,6,3,Armatage,02/26/2019,12:10
+"3029 HUMBOLDT AVE S ,Minneapolis,MN",44.947309000000004,-93.30048199999999,10,Calhoun Isle,ECCO,5,3,Armatage,02/26/2019,12:01
+"2115 quincy st ne,Minneapolis,MN",45.009461,-93.25092099999999,1,Northeast,Holland,2,3,Armatage,02/26/2019,12:11
+"1607 madison st ne,Minneapolis,MN",45.004397999999995,-93.253427,1,Northeast,Logan Park,2,3,Armatage,02/26/2019,12:12
+"3035 HUMBOLDT AVE S ,Minneapolis,MN",44.947195,-93.300478,10,Calhoun Isle,ECCO,5,3,Armatage,02/26/2019,12:00
+"836 20th ave se,Minneapolis,MN",44.984633,-93.22393000000001,2,University,Como,4,3,Armatage,02/26/2019,12:14
+"3557 FREMONT AVE S ,Minneapolis,MN",44.937872999999996,-93.295586,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,11:59
+"721 12th ave se,Minneapolis,MN",44.985255,-93.235954,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,12:19
+"3449 Aldrich ave n ,Minneapolis,MN",45.01831,-93.28959,4,Camden,McKinley,1,3,Armatage,02/26/2019,12:20
+"719 pierce st ne,Minneapolis,MN",44.997514,-93.24068299999999,3,Northeast,Beltrami,2,3,Armatage,02/26/2019,12:20
+"3435 Aldrich ave n ,Minneapolis,MN",45.01788,-93.289611,4,Camden,McKinley,1,3,Armatage,02/26/2019,12:22
+"3549 25th ave so,Minneapolis,MN",44.938062,-93.235675,9,Powderhorn,Corcoran,6,3,Armatage,02/26/2019,12:23
+"1239 logan,Minneapolis,MN",44.990877000000005,-93.303472,5,Near North,Near - North,1,3,Armatage,02/26/2019,12:23
+"1611 Morgan Ave N,Minneapolis,MN",44.9956,-93.304709,5,Near North,Willard - Hay,1,3,Armatage,02/26/2019,12:23
+"1709 STEVENS AVE S ,Minneapolis,MN",44.965945,-93.27497199999999,6,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,12:24
+"1239 Sheridan Ave n,Minneapolis,MN",44.991276,-93.31236899999999,5,Near North,Willard - Hay,1,3,Armatage,02/26/2019,12:25
+"1341 Sheridan Ave n,Minneapolis,MN",44.992863,-93.312335,5,Near North,Willard - Hay,1,3,Armatage,02/26/2019,12:28
+"209 8th ave se ,Minneapolis,MN",44.982309,-93.24565600000001,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,12:31
+"749 pierce st ne,Minneapolis,MN",44.99834,-93.240742,3,Northeast,Beltrami,2,3,Armatage,02/26/2019,12:33
+"705 6th street ,Minneapolis,MN",44.986343,-93.243266,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,12:35
+"755 pierce st ne,Minneapolis,MN",44.998444,-93.240689,3,Northeast,Beltrami,2,3,Armatage,02/26/2019,12:35
+"1065 21st ave se,Minneapolis,MN",44.989903000000005,-93.22330799999999,1,University,Como,4,3,Armatage,02/26/2019,12:38
+"743 polk st ne,Minneapolis,MN",44.997288,-93.24395799999999,3,Northeast,Beltrami,2,3,Armatage,02/26/2019,12:39
+"517 91/2 ave se,Minneapolis,MN",44.988859999999995,-93.251739,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,12:40
+"3749 Harriet ave s,Minneapolis,MN",44.934394,-93.285365,8,Southwest,King Field,5,3,Armatage,02/26/2019,12:41
+"1807 quincy st ne,Minneapolis,MN",45.006190999999994,-93.25063,1,Northeast,Logan Park,2,3,Armatage,02/26/2019,12:41
+"713 11th ave se,Minneapolis,MN",44.985744,-93.23763100000001,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,12:43
+"1325 7th st se,Minneapolis,MN",44.983782,-93.233651,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,12:44
+"3647 harriet ave s,Minneapolis,MN",44.936287,-93.28537,8,Southwest,King Field,5,3,Armatage,02/26/2019,12:45
+"429 GIRARD TER,Minneapolis,MN",44.982553,-93.296894,5,Near North,Harrison,3,3,Armatage,02/26/2019,12:51
+"3935 29 th ave s,Minneapolis,MN",44.931264,-93.23058499999999,12,Powderhorn,Standish,6,3,Armatage,02/26/2019,12:53
+"4521 Clinton ave s,Minneapolis,MN",44.920833,-93.271231,8,Nokomis,Regina,5,3,Armatage,02/26/2019,12:54
+"1711 2ND AVE S ,Minneapolis,MN",44.965784,-93.27366500000001,6,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,12:54
+"819 Morgan Ave. n,Minneapolis,MN",44.986695000000005,-93.304716,5,Near North,Near - North,1,3,Armatage,02/26/2019,12:54
+"1119 34th st w,Minneapolis,MN",44.941165000000005,-93.293475,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,12:54
+"1214 34 th ,Minneapolis,MN",44.941492,-93.295197,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,12:56
+"1019 34 st w,Minneapolis,MN",44.941313,-93.292229,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,12:56
+"3017 18th Ave S,Minneapolis,MN",44.947758,-93.24840400000001,9,Powderhorn,Powderhorn Park,6,3,Armatage,02/26/2019,12:57
+"815 11th ave se,Minneapolis,MN",44.986719,-93.236547,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,12:57
+"713 Emerson Ave n,Minneapolis,MN",44.985843,-93.294108,5,Near North,Near - North,1,3,Armatage,02/26/2019,12:58
+"1213 spring st ne,Minneapolis,MN",44.995162,-93.241479,3,Northeast,Beltrami,2,3,Armatage,02/26/2019,12:58
+"705 Emerson Ave n,Minneapolis,MN",44.985742,-93.294108,5,Near North,Near - North,1,3,Armatage,02/26/2019,13:00
+"431 taylor st ne,Minneapolis,MN",44.994205,-93.243213,3,Northeast,Beltrami,2,3,Armatage,02/26/2019,13:00
+"3015 18th Ave S,Minneapolis,MN",44.947829999999996,-93.248413,9,Powderhorn,Powderhorn Park,6,3,Armatage,02/26/2019,13:03
+"2935 Aldrich ave n ,Minneapolis,MN",45.010549,-93.289598,5,Near North,Hawthorne,1,3,Armatage,02/26/2019,13:05
+"628 Ontario st se,Minneapolis,MN",44.969259,-93.225672,2,University,Prospect Park - East River Road,4,3,Armatage,02/26/2019,13:07
+"2937 Aldrich ave n ,Minneapolis,MN",45.010604,-93.289582,5,Near North,Hawthorne,1,3,Armatage,02/26/2019,13:07
+"3107 5th ave s.,Minneapolis,MN",44.946405,-93.268723,9,Powderhorn,Central,5,3,Armatage,02/26/2019,13:10
+"3149 22nd ave,Minneapolis,MN",44.945182,-93.240313,9,Powderhorn,Corcoran,6,3,Armatage,02/26/2019,13:10
+"407 girard ter,Minneapolis,MN",44.981897,-93.297382,5,Near North,Harrison,3,3,Armatage,02/26/2019,13:10
+"3443 5th ave s,Minneapolis,MN",44.940084000000006,-93.268649,9,Powderhorn,Central,5,3,Armatage,02/26/2019,13:11
+"3111 18th ave,Minneapolis,MN",44.946104999999996,-93.248341,9,Powderhorn,Powderhorn Park,6,3,Armatage,02/26/2019,13:13
+"1717 2ND AVE S,Minneapolis,MN",44.965645,-93.273815,6,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,13:15
+"803 Morgan Ave. N.,Minneapolis,MN",44.986264,-93.30476999999999,5,Near North,Near - North,1,3,Armatage,02/26/2019,13:17
+"1713 2ND AVE S,Minneapolis,MN",44.96575,-93.273768,6,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,13:18
+"1229 Logan av no ,Minneapolis,MN",44.990509,-93.303588,5,Near North,Near - North,1,3,Armatage,02/26/2019,13:21
+"3519 DUPONT AVE S ,Minneapolis,MN",44.938855,-93.292939,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,13:11
+"707 Emerson Ave n,Minneapolis,MN",44.992109,-93.29411800000001,5,Near North,Near - North,1,3,Armatage,02/26/2019,13:21
+"1077 21st ave se,Minneapolis,MN",44.990199,-93.223302,1,University,Como,4,3,Armatage,02/26/2019,13:21
+"3227 4th st se,Minneapolis,MN",44.969763,-93.209136,2,University,Prospect Park - East River Road,4,3,Armatage,02/26/2019,13:22
+"3201 pleasant ave,Minneapolis,MN",44.944558,-93.282669,8,Powderhorn,Lyndale,5,3,Armatage,02/26/2019,13:22
+"709 Emerson Ave n,Minneapolis,MN",44.985726,-93.294455,5,Near North,Near - North,1,3,Armatage,02/26/2019,13:23
+"211 18TH ST E,Minneapolis,MN",44.964819,-93.273473,6,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,13:23
+"639 pierce st ne,Minneapolis,MN",44.996228,-93.24065999999999,3,Northeast,Beltrami,2,3,Armatage,02/26/2019,13:24
+"1079 21st ave se,Minneapolis,MN",44.990248,-93.223301,1,University,Como,4,3,Armatage,02/26/2019,13:26
+"3021 pleasant ave ,Minneapolis,MN",44.947491,-93.282702,8,Powderhorn,Lyndale,5,3,Armatage,02/26/2019,13:28
+"305 Russell. Av n,Minneapolis,MN",44.980758,-93.311304,5,Near North,Harrison,3,3,Armatage,02/26/2019,13:31
+"1411 Morgan Ave N,Minneapolis,MN",44.993477,-93.304645,5,Near North,Willard - Hay,1,3,Armatage,02/26/2019,13:37
+"1808 3RD ST NE,Minneapolis,MN",45.006778999999995,-93.264892,3,Northeast,Bottineau,2,3,Armatage,02/26/2019,13:36
+"3735 Harriet ave ,Minneapolis,MN",44.934754,-93.285302,8,Southwest,King Field,5,3,Armatage,02/26/2019,13:42
+"1511 Brook ave se,Minneapolis,MN",44.986863,-93.229821,2,University,Como,4,3,Armatage,02/26/2019,13:44
+"509 RUSSELL AVE N,Minneapolis,MN",44.982995,-93.311421,5,Near North,Harrison,3,3,Armatage,02/26/2019,13:44
+"511 humboldt n,Minneapolis,MN",44.983244,-93.298324,5,Near North,Harrison,3,3,Armatage,02/26/2019,13:47
+"2007 33rd st e,Minneapolis,MN",44.942698,-93.243516,9,Powderhorn,Corcoran,6,3,Armatage,02/26/2019,13:49
+"229 18TH ST E,Minneapolis,MN",44.964818,-93.273255,6,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,13:49
+"3613 Harriet ave s,Minneapolis,MN",44.937228999999995,-93.285381,8,Southwest,King Field,5,3,Armatage,02/26/2019,13:49
+"417 37th st w,Minneapolis,MN",44.935562,-93.284572,8,Southwest,King Field,5,3,Armatage,02/26/2019,13:51
+"4219 Bryant ave n ,Minneapolis,MN",45.032251,-93.291026,4,Camden,Webber - Camden,1,3,Armatage,02/26/2019,13:52
+"4205 Bryant ave n ,Minneapolis,MN",45.031777000000005,-93.291011,4,Camden,Webber - Camden,1,3,Armatage,02/26/2019,13:55
+"703 Emerson Ave n,Minneapolis,MN",44.985704,-93.294107,5,Near North,Near - North,1,3,Armatage,02/26/2019,13:58
+"1011 Knox Ave N,Minneapolis,MN",44.988388,-93.302214,5,Near North,Near - North,1,3,Armatage,02/26/2019,13:59
+"2519 Delaware StSE,Minneapolis,MN",44.972525,-93.221406,2,University,Prospect Park - East River Road,4,3,Armatage,02/26/2019,13:59
+"715 Emerson Ave n,Minneapolis,MN",44.985853999999996,-93.29410899999999,5,Near North,Near - North,1,3,Armatage,02/26/2019,14:00
+"1523 logan ave n,Minneapolis,MN",44.99487,-93.303439,5,Near North,Willard - Hay,1,3,Armatage,02/26/2019,14:01
+"2403 taylor st ne,Minneapolis,MN",45.012289,-93.24345799999999,1,Northeast,Windom Park,2,3,Armatage,02/26/2019,14:02
+"929 20th ave se,Minneapolis,MN",44.987473,-93.224452,2,University,Como,4,3,Armatage,02/26/2019,14:05
+"525 humboldt Av n,Minneapolis,MN",44.983391999999995,-93.298872,5,Near North,Harrison,3,3,Armatage,02/26/2019,14:06
+"615 newton ave n,Minneapolis,MN",44.98489,-93.30599000000001,5,Near North,Near - North,1,3,Armatage,02/26/2019,14:06
+"3429 COLFAX AVE S ,Minneapolis,MN",44.940298,-93.291713,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,13:56
+"3037 FREMONT AVE S,Minneapolis,MN",44.947066,-93.295563,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,13:57
+"3523 DUPONT AVE S,Minneapolis,MN",44.938741,-93.29294200000001,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,13:58
+"427 LOGAN AVE N,Minneapolis,MN",44.982363,-93.303536,5,Near North,Harrison,3,3,Armatage,02/26/2019,14:16
+"223 18TH ST E,Minneapolis,MN",44.964818,-93.273296,6,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,14:16
+"225 18TH ST E,Minneapolis,MN",44.964818,-93.273282,6,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,14:19
+"1707 STEVENS AVE S ,Minneapolis,MN",44.966029,-93.274941,6,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,14:22
+"815 queen Ave n,Minneapolis,MN",44.986552,-93.309945,5,Near North,Willard - Hay,1,3,Armatage,02/26/2019,14:25
+"1405 Newton Ave N,Minneapolis,MN",44.993337,-93.306028,5,Near North,Willard - Hay,1,3,Armatage,02/26/2019,14:26
+"725 13th ave se,Minneapolis,MN",44.984891,-93.234533,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,14:26
+"2225 Polk st ne,Minneapolis,MN",45.010661,-93.245232,1,Northeast,Windom Park,2,3,Armatage,02/26/2019,14:28
+"1107 queen Ave n,Minneapolis,MN",44.988997999999995,-93.309833,5,Near North,Willard - Hay,1,3,Armatage,02/26/2019,14:29
+"3423 25TH AVE S,Minneapolis,MN",44.940575,-93.235718,9,Powderhorn,Corcoran,6,3,Armatage,02/26/2019,14:29
+"2005 33rd st E,Minneapolis,MN",44.942935,-93.243543,9,Powderhorn,Corcoran,6,3,Armatage,02/26/2019,14:32
+"709 11th ave se,Minneapolis,MN",44.985640000000004,-93.237713,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,14:32
+"1515 32nd st,Minneapolis,MN",44.944645,-93.252781,9,Powderhorn,Powderhorn Park,6,3,Armatage,02/26/2019,14:32
+"3125 13th ave,Minneapolis,MN",44.946065000000004,-93.25604399999999,9,Powderhorn,Powderhorn Park,6,3,Armatage,02/26/2019,14:34
+"3645 pillsbury ave,Minneapolis,MN",44.936369,-93.28105699999999,8,Southwest,King Field,5,3,Armatage,02/26/2019,14:36
+"931 18TH AVE SE,Minneapolis,MN",44.985561,-93.227228,2,University,Como,4,3,Armatage,02/26/2019,14:36
+"2615 Delaware st se,Minneapolis,MN",44.971761,-93.220308,2,University,Prospect Park - East River Road,4,3,Armatage,02/26/2019,14:38
+"821 22st w,Minneapolis,MN",44.960733000000005,-93.289548,10,Calhoun Isle,Lowry Hill East,3,3,Armatage,02/26/2019,14:39
+"2649 HUMBOLDT AVE N,Minneapolis,MN",45.007509000000006,-93.298464,5,Near North,Jordan,1,3,Armatage,02/26/2019,14:40
+"2513 Delaware st se,Minneapolis,MN",44.972372,-93.221954,2,University,Prospect Park - East River Road,4,3,Armatage,02/26/2019,14:42
+"2505 Delaware st se,Minneapolis,MN",44.972425,-93.22209000000001,2,University,Prospect Park - East River Road,4,3,Armatage,02/26/2019,14:42
+"1309 yale ave se,Minneapolis,MN",44.966248,-93.220442,2,University,Prospect Park - East River Road,4,3,Armatage,02/26/2019,14:44
+"3529 5th ave s,Minneapolis,MN",44.938772,-93.268606,9,Powderhorn,Central,5,3,Armatage,02/26/2019,14:45
+"1707 newton ave n ,Minneapolis,MN",44.996552,-93.30596700000001,5,Near North,Willard - Hay,1,3,Armatage,02/26/2019,14:46
+"1811 2ND AVE S,Minneapolis,MN",44.964686,-93.273715,6,Central,Steven's Square - Loring Heights,3,3,Armatage,02/26/2019,14:47
+"3801 pillsbury ave,Minneapolis,MN",44.933963,-93.28109599999999,8,Southwest,King Field,5,3,Armatage,02/26/2019,14:47
+"961 18th ave se,Minneapolis,MN",44.986435,-93.227248,2,University,Como,4,3,Armatage,02/26/2019,14:48
+"3137 35th ave so,Minneapolis,MN",44.945665000000005,-93.221402,2,Longfellow,Longfellow,6,3,Armatage,02/26/2019,14:51
+"3413 5th ave s,Minneapolis,MN",44.940878000000005,-93.268677,9,Powderhorn,Central,5,3,Armatage,02/26/2019,14:53
+"1907 Oliver Ave N,Minneapolis,MN",44.999065,-93.307203,5,Near North,Willard - Hay,1,3,Armatage,02/26/2019,14:57
+"4029 5th ave s ,Minneapolis,MN",44.929584000000006,-93.268559,8,Powderhorn,Bryant,5,3,Armatage,02/26/2019,14:57
+"2519 pierce st ne,Minneapolis,MN",45.01385,-93.240673,1,Northeast,Audubon Park,2,3,Armatage,02/26/2019,14:59
+"1017 27th st ne,Minneapolis,MN",45.016983,-93.244848,1,Northeast,Audubon Park,2,3,Armatage,02/26/2019,15:00
+"3443 DUPONT AVE S,Minneapolis,MN",44.939941999999995,-93.292936,10,Calhoun Isle,South Uptown,5,3,Armatage,02/26/2019,14:47
+"719 22nd st w,Minneapolis,MN",44.960914,-93.288255,10,Calhoun Isle,Lowry Hill East,3,3,Armatage,02/26/2019,15:06
+"2321 STEVENS AVE S,Minneapolis,MN",44.959872999999995,-93.275289,10,Powderhorn,Whittier,3,3,Armatage,02/26/2019,15:11
+"2615 pierce st ne,Minneapolis,MN",45.015574,-93.240661,1,Northeast,Audubon Park,2,3,Armatage,02/26/2019,15:14
+"2105 pillsbury. Av s,Minneapolis,MN",44.961484000000006,-93.280834,10,Powderhorn,Whittier,3,3,Armatage,02/26/2019,15:17
+"1005 Emerson Ave n,Minneapolis,MN",44.988118,-93.294097,5,Near North,Sumner - Glenwood,1,3,Armatage,02/26/2019,15:17
+"1025 8th ave n,Minneapolis,MN",44.986103,-93.29856,5,Near North,Near - North,1,3,Armatage,02/26/2019,15:19
+"3645 ALDRICH AVE S,Minneapolis,MN",44.936281,-93.289233,10,Southwest,East Harriet,5,3,Armatage,02/26/2019,15:10
+"21 williams ave se,Minneapolis,MN",44.970746999999996,-93.216812,2,University,Prospect Park - East River Road,4,3,Armatage,02/26/2019,15:29
+"3855 snelling,Minneapolis,MN",44.932697999999995,-93.224292,12,Longfellow,Howe,6,3,Armatage,02/26/2019,15:39
+"2013 33rd St E,Minneapolis,MN",44.942698,-93.243439,9,Powderhorn,Corcoran,6,3,Armatage,02/26/2019,15:49
+"4417 35th Ave S,Minneapolis,MN",44.922149,-93.221345,12,Nokomis,Ericsson,6,3,Armatage,02/26/2019,15:57
+"2103 14th av n ,Minneapolis,MN",44.993072999999995,-93.30699200000001,5,Near North,Willard - Hay,1,3,Armatage,02/26/2019,15:58
+"3019 5TH AVE S Minneapolis,MN",44.947749,-93.233581,2,Longfellow,Longfellow,6,3,Armatage,02/26/2019,15:56
+"611 6TH ST SE ,Minneapolis,MN",44.986892,-93.244613,3,University,Marcy Holmes,4,3,Armatage,02/26/2019,15:45
+"2515 DELAWARE ST SE ,Minneapolis,MN",44.972358,-93.22192,2,University,Prospect Park - East River Road,4,3,Armatage,02/26/2019,15:46

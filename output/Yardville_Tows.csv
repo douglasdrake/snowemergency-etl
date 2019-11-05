@@ -1,0 +1,729 @@
+Location,Latitude,Longitude,Emergency,Day,Ward,Neighborhood,Community,Tow_Zone,Date,Time
+"3820 CHICAGO AVE S,Minneapolis,MN",44.933471000000004,-93.26249,Yardville,1,8,Bancroft,Powderhorn,6,02/25/2018,22:51
+"2936 Johnson St NE,Minneapolis,MN",45.021521,-93.23740500000001,Yardville,1,1,Audubon Park,Northeast,2,02/25/2018,21:58
+"3526 Elliott Avenue,Minneapolis,MN",44.938653,-93.261285,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,13:03
+"119 13th Ave NE,Minneapolis,MN",45.000589,-93.26908399999999,Yardville,1,3,Sheridan,Northeast,2,02/25/2018,22:02
+"3148 18th ave so,Minneapolis,MN",44.94492,-93.248997,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,13:04
+"1815 Central Ave NE,Minneapolis,MN",45.006588,-93.246999,Yardville,1,1,Windom Park,Northeast,2,02/25/2018,22:27
+"3148 10th ave s,Minneapolis,MN",44.945102,-93.26044499999999,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,13:09
+"1804 Central Ave NE,Minneapolis,MN",45.006192999999996,-93.247791,Yardville,1,1,Logan Park,Northeast,2,02/25/2018,22:31
+"3720 15th av s,Minneapolis,MN",44.935138,-93.253982,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,13:16
+"1801 Central Ave NE,Minneapolis,MN",45.006141,-93.247128,Yardville,1,1,Windom Park,Northeast,2,02/25/2018,22:33
+"3700 ELLIOT AVE,Minneapolis,MN",44.935798,-93.261525,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,13:27
+"1815 Central Ave NE,Minneapolis,MN",45.006588,-93.246999,Yardville,1,1,Windom Park,Northeast,2,02/25/2018,22:35
+"5224 28th ave,Minneapolis,MN",44.908184999999996,-93.23261600000001,Yardville,1,11,Keewaydin,Nokomis,6,02/26/2018,01:28
+"130 13th Ave NE,Minneapolis,MN",45.000296999999996,-93.268566,Yardville,1,3,Sheridan,Northeast,2,02/25/2018,22:52
+"3734 ELLIOT AVE,Minneapolis,MN",44.934908,-93.261248,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,13:28
+"119 13th Ave NE,Minneapolis,MN",45.000589,-93.26908399999999,Yardville,1,3,Sheridan,Northeast,2,02/25/2018,23:10
+"3851 28th ave,Minneapolis,MN",44.932705,-93.231824,Yardville,1,12,Standish,Powderhorn,6,02/26/2018,01:31
+"2300 Central Ave NE,Minneapolis,MN",45.011,-93.247591,Yardville,1,1,Holland,Northeast,2,02/25/2018,23:14
+"2016 Central Ave NE,Minneapolis,MN",45.009541,-93.247636,Yardville,1,1,Holland,Northeast,2,02/25/2018,23:16
+"3200 BLOCK 23 ave s,Minneapolis,MN",44.944594,-93.238918,Yardville,1,9,Corcoran,Powderhorn,6,02/26/2018,01:31
+"1810 Central Ave NE,Minneapolis,MN",45.006338,-93.24771,Yardville,1,1,Logan Park,Northeast,2,02/25/2018,23:26
+"3858 38TH AVE S,Minneapolis,MN",44.932538,-93.217867,Yardville,1,12,Howe,Longfellow,6,02/26/2018,01:35
+"2625 Central Ave NE,Minneapolis,MN",45.015855,-93.246832,Yardville,1,1,Audubon Park,Northeast,2,02/25/2018,23:28
+"3207 35TH ST E,Minneapolis,MN",44.939565,-93.225594,Yardville,1,12,Howe,Longfellow,6,02/26/2018,01:36
+"119 13th Ave NE,Minneapolis,MN",45.000589,-93.26908399999999,Yardville,1,3,Sheridan,Northeast,2,02/25/2018,23:32
+"3036 19th ave so,Minneapolis,MN",44.947047999999995,-93.245183,Yardville,2,9,Corcoran,Powderhorn,6,02/26/2018,13:44
+"732 quincy st ne,Minneapolis,MN",44.997881,-93.251184,Yardville,2,3,St. Anthony East,Northeast,2,02/26/2018,13:06
+"3024 elliot AVE,Minneapolis,MN",44.947489000000004,-93.26174,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,13:45
+"2641 Marshall St NE,Minneapolis,MN",45.016324,-93.27206,Yardville,1,1,Marshall Terrace,Northeast,2,02/26/2018,01:11
+"3104 19th ave s,Minneapolis,MN",44.946265000000004,-93.24523,Yardville,2,9,Corcoran,Powderhorn,6,02/26/2018,13:46
+"3106 37th ave s,Minneapolis,MN",44.946472,-93.21910799999999,Yardville,2,2,Longfellow,Longfellow,6,02/26/2018,13:47
+"3014 13th ave,Minneapolis,MN",44.947602,-93.256639,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,13:47
+"3512 15th ave s,Minneapolis,MN",44.939037,-93.253982,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,13:48
+"3822 16th Ave South,Minneapolis,MN",44.933299,-93.251139,Yardville,2,8,Bancroft,Powderhorn,6,02/26/2018,13:51
+"3640 54th St E,Minneapolis,MN",44.905377,-93.219813,Yardville,1,12,Minnehaha,Nokomis,6,02/26/2018,02:00
+"5200 BLOCK BLOOMINGTON AVE ,Minneapolis,MN",44.908744,-93.252444,Yardville,1,11,Hale,Nokomis,6,02/26/2018,02:03
+"3250 35th St E,Minneapolis,MN",44.939572,-93.22500500000001,Yardville,1,12,Howe,Longfellow,6,02/26/2018,02:07
+"3300-3399 Minnehaha Avenue South,Minneapolis,MN",44.942687,-93.230692,Yardville,1,9,Longfellow,Longfellow,6,02/26/2018,02:09
+"2800 33st ST e,Minneapolis,MN",44.942952000000005,-93.232039,Yardville,1,9,Longfellow,Longfellow,6,02/26/2018,02:09
+"3008 11th av s,Minneapolis,MN",44.947943,-93.258863,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,14:11
+"3146 28TH AVE S,Minneapolis,MN",44.945766,-93.231585,Yardville,2,2,Longfellow,Longfellow,6,02/26/2018,14:16
+"3200 minnehaha AVE S,Minneapolis,MN",44.944599,-93.23192900000001,Yardville,1,9,Longfellow,Longfellow,6,02/26/2018,02:24
+"3320 MINNEHAHA AVE S,Minneapolis,MN",44.942357,-93.229869,Yardville,1,9,Longfellow,Longfellow,6,02/26/2018,02:26
+"3200 minnehaha AVE S,Minneapolis,MN",44.944599,-93.23192900000001,Yardville,1,9,Longfellow,Longfellow,6,02/26/2018,02:27
+"3530 ELLIOT AVE,Minneapolis,MN",44.93853,-93.261565,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,14:27
+"3620 MINNEHAHA AVE S,Minneapolis,MN",44.937064,-93.226443,Yardville,1,12,Howe,Longfellow,6,02/26/2018,02:28
+"5736 33rd ave s,Minneapolis,MN",44.899102,-93.224214,Yardville,2,11,Wenonah,Nokomis,6,02/26/2018,14:29
+"3426 21ST AVE S,Minneapolis,MN",44.940419,-93.2423,Yardville,2,9,Corcoran,Powderhorn,6,02/26/2018,14:30
+"3116 22ND AVE S,Minneapolis,MN",44.945965,-93.240981,Yardville,2,9,Corcoran,Powderhorn,6,02/26/2018,14:31
+"1820 41st st e,Minneapolis,MN",44.928641999999996,-93.247513,Yardville,2,8,Bancroft,Powderhorn,6,02/26/2018,14:38
+"3600-3699 Minnehaha Avenue,Minneapolis,MN",44.937605,-93.226764,Yardville,1,12,Howe,Longfellow,6,02/26/2018,02:47
+"1606 33rd st e,Minneapolis,MN",44.943153,-93.251103,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,14:52
+"3700 minnehaha ave,Minneapolis,MN",44.935761,-93.225548,Yardville,1,12,Howe,Longfellow,6,02/26/2018,02:53
+"2710 41st st e,Minneapolis,MN",44.928844,-93.233255,Yardville,2,12,Standish,Powderhorn,6,02/26/2018,14:54
+"3516 41st st,Minneapolis,MN",44.928925,-93.221112,Yardville,2,12,Hiawatha,Longfellow,6,02/26/2018,14:56
+"3228 24th ave,Minneapolis,MN",44.943767,-93.237525,Yardville,2,9,Corcoran,Powderhorn,6,02/26/2018,14:58
+"3317 MINNEHAHA AVE S,Minneapolis,MN",44.942567,-93.22971,Yardville,2,2,Longfellow,Longfellow,6,02/26/2018,03:14
+"3830 MINNEHAHA AVE S,Minneapolis,MN",44.933315,-93.22328,Yardville,1,12,Howe,Longfellow,6,02/26/2018,03:15
+"3600 Minnehaha Ave,Minneapolis,MN",44.937605,-93.226764,Yardville,1,12,Howe,Longfellow,6,02/26/2018,03:20
+"3701-3799 Minnehaha Avenue,Minneapolis,MN",44.935471,-93.224845,Yardville,1,12,Howe,Longfellow,6,02/26/2018,03:25
+"3698 Minnehaha Ave,Minneapolis,MN",44.935974,-93.225226,Yardville,1,12,Howe,Longfellow,6,02/26/2018,03:36
+"4329 MINNEHAHA AVE S,Minneapolis,MN",44.924326,-93.216774,Yardville,1,12,Hiawatha,Longfellow,6,02/26/2018,04:25
+"4320 MINNEHAHA AVE S,Minneapolis,MN",44.924496999999995,-93.217814,Yardville,1,12,Hiawatha,Longfellow,6,02/26/2018,04:26
+"3504 14th ave s ,Minneapolis,MN",44.939322,-93.25519,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,08:33
+"3538 14th ave S,Minneapolis,MN",44.938137,-93.25520999999999,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,08:53
+"3542 14th ave,Minneapolis,MN",44.938055,-93.2552,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,08:54
+"4040 14th av s,Minneapolis,MN",44.929309,-93.2552,Yardville,2,8,Bancroft,Powderhorn,6,02/26/2018,09:00
+"4318 13th ave s,Minneapolis,MN",44.924461,-93.256496,Yardville,2,11,Northrop,Nokomis,6,02/26/2018,09:21
+"4034 12th ave s ,Minneapolis,MN",44.929475,-93.257465,Yardville,2,8,Bancroft,Powderhorn,6,02/26/2018,09:34
+"1428 40th st E,Minneapolis,MN",44.930524,-93.25456199999999,Yardville,2,8,Bancroft,Powderhorn,6,02/26/2018,09:49
+"3736 14th ave,Minneapolis,MN",44.93452,-93.2552,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,09:51
+"4108 12th ave s,Minneapolis,MN",44.928398,-93.257754,Yardville,2,8,Bancroft,Powderhorn,6,02/26/2018,10:02
+"3708 12th av s,Minneapolis,MN",44.935577,-93.257754,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,10:07
+"4002 14TH AVE S ,Minneapolis,MN",44.930335,-93.25493399999999,Yardville,2,8,Bancroft,Powderhorn,6,02/26/2018,10:18
+"4002 12TH AVE S,Minneapolis,MN",44.930406,-93.257459,Yardville,2,8,Bancroft,Powderhorn,6,02/26/2018,10:21
+"3114 15th ave s,Minneapolis,MN",44.946069,-93.25376,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,10:21
+"3820 11th ave s,Minneapolis,MN",44.933429,-93.258972,Yardville,2,8,Bancroft,Powderhorn,6,02/26/2018,10:25
+"3106 15th ave s,Minneapolis,MN",44.946290999999995,-93.253762,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,10:27
+"3536 11th av s,Minneapolis,MN",44.938379,-93.258753,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,10:42
+"3444 11th ave,Minneapolis,MN",44.940044,-93.258773,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,10:42
+"4016 13th ave,Minneapolis,MN",44.929965,-93.256457,Yardville,2,8,Bancroft,Powderhorn,6,02/26/2018,10:44
+"3734 15th ave s,Minneapolis,MN",44.934634,-93.253662,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,10:57
+"3102 15TH AVE S,Minneapolis,MN",44.946409,-93.253925,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,11:01
+"3736 11th ave s,Minneapolis,MN",44.934813,-93.259011,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,11:06
+"3052 15TH AVE S,Minneapolis,MN",44.946785,-93.254129,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,11:06
+"3440 10th av s,Minneapolis,MN",44.940151,-93.260039,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,11:19
+"3512 16th Ave South,Minneapolis,MN",44.939091999999995,-93.251409,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,11:23
+"3748 17th Ave South,Minneapolis,MN",44.934497,-93.250263,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,11:26
+"4320 Elliott Avenue,Minneapolis,MN",44.9245,-93.261525,Yardville,2,11,Northrop,Nokomis,6,02/26/2018,11:35
+"2829 33RD ST E,Minneapolis,MN",44.942797999999996,-93.23121,Yardville,2,9,Longfellow,Longfellow,6,02/26/2018,11:44
+"1030 40th ST E,Minneapolis,MN",44.930547999999995,-93.259603,Yardville,2,8,Bancroft,Powderhorn,6,02/26/2018,11:46
+"3746 11th ave,Minneapolis,MN",44.934579,-93.258717,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,11:47
+"3748 Elliot ave s,Minneapolis,MN",44.934521999999994,-93.261525,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,11:49
+"3440 11TH AVE S,Minneapolis,MN",44.940205,-93.25905,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,11:51
+"3438 10TH AVE S,Minneapolis,MN",44.940204,-93.260347,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,11:52
+"3444 Elliot av s,Minneapolis,MN",44.940042,-93.261299,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,11:56
+"4225 BLOOMINGTON AVE S,Minneapolis,MN",44.925954,-93.252038,Yardville,1,8,Northrop,Nokomis,6,02/26/2018,00:00
+"4220 BLOOMINGTON AVE S,Minneapolis,MN",44.926183,-93.252385,Yardville,1,8,Northrop,Nokomis,6,02/26/2018,00:01
+"5165 Bloomington Ave S,Minneapolis,MN",44.908925,-93.249564,Yardville,1,11,Hale,Nokomis,6,02/26/2018,00:04
+"3806 Elliott Avenue,Minneapolis,MN",44.933849,-93.261238,Yardville,2,8,Bancroft,Powderhorn,6,02/26/2018,12:06
+"3746 10TH AVE S,Minneapolis,MN",44.934577000000004,-93.259977,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,12:06
+"3600 bloomington AVE S,Minneapolis,MN",44.937615,-93.252725,Yardville,1,9,Powderhorn Park,Powderhorn,6,02/26/2018,00:08
+"3699 Bloomington Ave S,Minneapolis,MN",44.935934,-93.252411,Yardville,1,9,Powderhorn Park,Powderhorn,6,02/26/2018,00:10
+"4400 Bloomington AVE S,Minneapolis,MN",44.923145,-93.252764,Yardville,1,11,Northrop,Nokomis,6,02/26/2018,00:14
+"4400 BLOCK Bloomington Avenue,Minneapolis,MN",44.923145,-93.25238900000001,Yardville,1,11,Northrop,Nokomis,6,02/26/2018,00:14
+"3536 10TH AVE S,Minneapolis,MN",44.938347,-93.260307,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,12:14
+"3504 Elliot Ave South,Minneapolis,MN",44.939399,-93.26129499999999,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,12:16
+"3538 Elliot Ave South,Minneapolis,MN",44.938275,-93.261565,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,12:20
+"1526 32nd st e,Minneapolis,MN",44.944733,-93.252476,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,12:23
+"3804 Elliot ave s,Minneapolis,MN",44.933903,-93.261525,Yardville,2,8,Bancroft,Powderhorn,6,02/26/2018,12:29
+"4200 BLOCK BLOOMINGTON AVE,Minneapolis,MN",44.926606,-93.252385,Yardville,1,8,Northrop,Nokomis,6,02/26/2018,00:31
+"3412 Elliot av s,Minneapolis,MN",44.940919,-93.26130400000001,Yardville,2,9,Powderhorn Park,Powderhorn,6,02/26/2018,12:31
+"3300 BLOCK BLOOMINGTON AVE ,Minneapolis,MN",44.94279,-93.25245699999999,Yardville,1,9,Powderhorn Park,Powderhorn,6,02/26/2018,00:37
+"1600 BLOCK 31 st e,Minneapolis,MN",44.946558,-93.251205,Yardville,1,9,Powderhorn Park,Powderhorn,6,02/26/2018,00:54
+"1600 BLOCK 31 st e,Minneapolis,MN",44.946558,-93.251205,Yardville,1,9,Powderhorn Park,Powderhorn,6,02/26/2018,00:54
+"5745 Bossen Terr,Minneapolis,MN",44.898881,-93.226294,Yardville,3,11,Wenonah,Nokomis,6,02/27/2018,13:00
+"4229 39th Ave S,Minneapolis,MN",44.92607,-93.21632199999999,Yardville,3,12,Hiawatha,Longfellow,6,02/27/2018,12:06
+"3019 35th Ave S,Minneapolis,MN",44.947648,-93.221347,Yardville,2,2,Longfellow,Longfellow,6,02/27/2018,12:08
+"2625 38th st e,Minneapolis,MN",44.934111,-93.23366700000001,Yardville,3,12,Standish,Powderhorn,6,02/27/2018,12:28
+"5723 Bossen Terr,Minneapolis,MN",44.899443,-93.22604399999999,Yardville,3,11,Wenonah,Nokomis,6,02/27/2018,12:59
+"4628 4TH AVE S,Minneapolis,MN",44.91881,-93.270563,Yardville,1,8,Field,Nokomis,5,02/25/2018,21:18
+"3200 BLOCK CHICAGO AVE S,Minneapolis,MN",44.944621000000005,-93.26288199999999,Yardville,1,9,Central,Powderhorn,5,02/25/2018,21:24
+"3100 BLOCK Chicago Avenue,Minneapolis,MN",44.946671,-93.262665,Yardville,1,9,Central,Powderhorn,5,02/25/2018,21:31
+"3100 Chicago ave ,Minneapolis,MN",44.946506,-93.262979,Yardville,1,9,Central,Powderhorn,5,02/25/2018,21:33
+"3925 4th Avenue South,Minneapolis,MN",44.931515999999995,-93.269817,Yardville,1,8,Bryant,Powderhorn,5,02/25/2018,21:38
+"4352 4th Ave S,Minneapolis,MN",44.923875,-93.270945,Yardville,1,8,Regina,Nokomis,5,02/25/2018,21:42
+"3400 Chicago ave ,Minneapolis,MN",44.941224,-93.26294,Yardville,1,9,Central,Powderhorn,5,02/25/2018,22:11
+"3600 BLOCK Chicago Avenue,Minneapolis,MN",44.93762,-93.262536,Yardville,1,8,Central,Powderhorn,5,02/25/2018,22:13
+"3650 Chicago Ave S,Minneapolis,MN",44.936206,-93.262519,Yardville,1,8,Central,Powderhorn,5,02/25/2018,22:22
+"3250 Chicago Ave S,Minneapolis,MN",44.943325,-93.26261,Yardville,1,9,Central,Powderhorn,5,02/25/2018,22:27
+"3845 4th Avenue South,Minneapolis,MN",44.932827,-93.269856,Yardville,1,8,Bryant,Powderhorn,5,02/25/2018,22:31
+"3220 4th Avenue South,Minneapolis,MN",44.944213,-93.270524,Yardville,1,9,Central,Powderhorn,5,02/25/2018,22:35
+"4100 BLOCK Chicago Avenue,Minneapolis,MN",44.928581,-93.262497,Yardville,1,8,Bryant,Powderhorn,5,02/25/2018,22:48
+"5400 BLOCK CHICAGO AVE S,Minneapolis,MN",44.905013000000004,-93.263013,Yardville,1,11,Page,Nokomis,5,02/25/2018,22:53
+"5600 BLOCK chicago AVE S,Minneapolis,MN",44.900465000000004,-93.264206,Yardville,1,11,Diamond Lake,Nokomis,5,02/25/2018,22:56
+"4100 BLOCK CHICAGO AVE,Minneapolis,MN",44.928581,-93.262497,Yardville,1,8,Bryant,Powderhorn,5,02/25/2018,22:56
+"3000 block 4th ave s,Minneapolis,MN",44.948333,-93.270289,Yardville,1,9,Central,Powderhorn,5,02/25/2018,22:59
+"3300 BLOCK CHICAGO ABE,Minneapolis,MN",44.943067,-93.262777,Yardville,1,9,Central,Powderhorn,5,02/25/2018,23:01
+"5600 BLOCK Chicago Avenue,Minneapolis,MN",44.900465000000004,-93.264206,Yardville,1,11,Diamond Lake,Nokomis,5,02/25/2018,23:21
+"3000 block 4th ave s,Minneapolis,MN",44.948333,-93.270289,Yardville,1,9,Central,Powderhorn,5,02/25/2018,23:31
+"3140 FREMONT AVE S,Minneapolis,MN",44.945171,-93.29603,Yardville,2,10,South Uptown,Calhoun Isle,5,02/26/2018,13:20
+"633 61st Street West,Minneapolis,MN",44.892078999999995,-93.288057,Yardville,1,11,Windom,Southwest,5,02/26/2018,01:26
+"595 61st Street West,Minneapolis,MN",44.892078000000005,-93.287807,Yardville,1,11,Windom,Southwest,5,02/26/2018,01:30
+"3114 Fremont Ave South,Minneapolis,MN",44.945979,-93.295775,Yardville,2,10,South Uptown,Calhoun Isle,5,02/26/2018,13:46
+"3120 freemont ave s,Minneapolis,MN",44.945808,-93.296049,Yardville,2,10,South Uptown,Calhoun Isle,5,02/26/2018,13:52
+"3326 freemont ave s,Minneapolis,MN",44.942109,-93.29581800000001,Yardville,2,10,South Uptown,Calhoun Isle,5,02/26/2018,13:57
+"3108 Fremont Avenue South,Minneapolis,MN",44.946219,-93.295772,Yardville,2,10,South Uptown,Calhoun Isle,5,02/26/2018,13:57
+"5320 Nicollet Av,Minneapolis,MN",44.905314000000004,-93.278463,Yardville,1,11,Tangletown,Southwest,5,02/26/2018,01:59
+"4707 Nicollet Ave,Minneapolis,MN",44.917518,-93.277569,Yardville,1,11,Tangletown,Southwest,5,02/26/2018,02:29
+"633 61st Street West,Minneapolis,MN",44.892078999999995,-93.288057,Yardville,1,11,Windom,Southwest,5,02/26/2018,02:33
+"3430 Emerson Avenue South,Minneapolis,MN",44.940217,-93.29454799999999,Yardville,2,10,South Uptown,Calhoun Isle,5,02/26/2018,14:33
+"633 61st Street West,Minneapolis,MN",44.892078999999995,-93.288057,Yardville,1,11,Windom,Southwest,5,02/26/2018,02:36
+"3416 Emerson Avenue South,Minneapolis,MN",44.940707,-93.294545,Yardville,2,10,South Uptown,Calhoun Isle,5,02/26/2018,14:36
+"3518 Oakland Ave South,Minneapolis,MN",44.939005,-93.266612,Yardville,2,9,Central,Powderhorn,5,02/26/2018,14:42
+"4534 Nicollet ave ,Minneapolis,MN",44.920306,-93.278188,Yardville,1,8,King Field,Southwest,5,02/26/2018,02:44
+"3518 Oakland Ave South,Minneapolis,MN",44.939005,-93.266612,Yardville,2,9,Central,Powderhorn,5,02/26/2018,14:46
+"3406 emerson ave s,Minneapolis,MN",44.940886,-93.294545,Yardville,2,10,South Uptown,Calhoun Isle,5,02/26/2018,15:02
+"3304 Emerson ave s ,Minneapolis,MN",44.942678,-93.29485600000001,Yardville,2,10,South Uptown,Calhoun Isle,5,02/26/2018,15:08
+"4450 NICOLLET AVE,Minneapolis,MN",44.921636,-93.278207,Yardville,1,8,King Field,Southwest,5,02/26/2018,03:22
+"28 61st st w ,Minneapolis,MN",44.89232,-93.2793,Yardville,1,11,Windom,Southwest,5,02/26/2018,03:25
+"4453 Nicollet ave S,Minneapolis,MN",44.921704999999996,-93.277677,Yardville,1,8,King Field,Southwest,5,02/26/2018,03:44
+"4414 Nicollet Ave,Minneapolis,MN",44.922672999999996,-93.278266,Yardville,1,8,King Field,Southwest,5,02/26/2018,03:54
+"4325 NICOLLET AVE,Minneapolis,MN",44.924225,-93.277519,Yardville,1,8,King Field,Southwest,5,02/26/2018,04:25
+"3521 Nicollet AVE S,Minneapolis,MN",44.938801,-93.277598,Yardville,1,8,Lyndale,Powderhorn,5,02/26/2018,04:43
+"4329 NICOLLET AVE S,Minneapolis,MN",44.924116,-93.277519,Yardville,1,8,King Field,Southwest,5,02/26/2018,04:53
+"3327 Nicollet ave,Minneapolis,MN",44.942203000000006,-93.277923,Yardville,1,8,Lyndale,Powderhorn,5,02/26/2018,05:05
+"3317 NICOLLET Ave,Minneapolis,MN",44.9425,-93.277579,Yardville,1,8,Lyndale,Powderhorn,5,02/26/2018,05:20
+"3325 Nicollet ave ,Minneapolis,MN",44.942336,-93.277559,Yardville,1,8,Lyndale,Powderhorn,5,02/26/2018,05:27
+"3006 James ave s,Minneapolis,MN",44.948004,-93.303395,Yardville,2,10,ECCO,Calhoun Isle,5,02/26/2018,09:08
+"4410 Beard Avenue South,Minneapolis,MN",44.922783,-93.324372,Yardville,2,13,Linden Hills,Southwest,5,02/26/2018,09:12
+"3000 James ave s,Minneapolis,MN",44.948172,-93.303586,Yardville,2,10,ECCO,Calhoun Isle,5,02/26/2018,09:12
+"4402 BEARD AVE S,Minneapolis,MN",44.92303,-93.324167,Yardville,2,13,Linden Hills,Southwest,5,02/26/2018,09:14
+"3012 James Ave South,Minneapolis,MN",44.947815999999996,-93.303664,Yardville,2,10,ECCO,Calhoun Isle,5,02/26/2018,09:15
+"3044 James ave s.,Minneapolis,MN",44.946832,-93.303664,Yardville,2,10,ECCO,Calhoun Isle,5,02/26/2018,10:03
+"3148 James Ave South,Minneapolis,MN",44.945116999999996,-93.30340600000001,Yardville,2,10,ECCO,Calhoun Isle,5,02/26/2018,10:08
+"3128 james ave s,Minneapolis,MN",44.945557,-93.303664,Yardville,2,10,ECCO,Calhoun Isle,5,02/26/2018,10:08
+"3100 CALHOUN BLVD W,Minneapolis,MN",44.946152000000005,-93.321396,Yardville,2,13,West Calhoun,Calhoun Isle,5,02/26/2018,10:08
+"3114 James Ave South,Minneapolis,MN",44.945983,-93.303399,Yardville,2,10,ECCO,Calhoun Isle,5,02/26/2018,10:11
+"3532 HUMBOLD AVE S,Minneapolis,MN",44.938551000000004,-93.30125799999999,Yardville,2,10,ECCO,Calhoun Isle,5,02/26/2018,10:51
+"3518 holmes ave s,Minneapolis,MN",44.938859,-93.299658,Yardville,2,10,ECCO,Calhoun Isle,5,02/26/2018,11:13
+"3338 humboldt ave s.,Minneapolis,MN",44.94195,-93.301147,Yardville,2,10,ECCO,Calhoun Isle,5,02/26/2018,11:17
+"3202 Humboldt Ave South,Minneapolis,MN",44.944514,-93.301133,Yardville,2,10,ECCO,Calhoun Isle,5,02/26/2018,11:33
+"3136 HOLMES AVE,Minneapolis,MN",44.945303,-93.299849,Yardville,2,10,ECCO,Calhoun Isle,5,02/26/2018,11:40
+"3858 Chicago AVE S,Minneapolis,MN",44.932491,-93.26249399999999,Yardville,1,8,Bryant,Powderhorn,5,02/26/2018,00:10
+"3653 4 ave s,Minneapolis,MN",44.93618,-93.269856,Yardville,1,8,Central,Powderhorn,5,02/26/2018,00:27
+"3132GIRARD AVE S,Minneapolis,MN",44.945426,-93.29746999999999,Yardville,2,10,South Uptown,Calhoun Isle,5,02/26/2018,12:30
+"500 BLOCK 61st W,Minneapolis,MN",44.89258,-93.285977,Yardville,1,11,Windom,Southwest,5,02/26/2018,00:38
+"3304 girard ave s. ,Minneapolis,MN",44.942693,-93.29706800000001,Yardville,2,10,South Uptown,Calhoun Isle,5,02/26/2018,12:39
+"3212 Fremont Avenue South,Minneapolis,MN",44.944294,-93.29610799999999,Yardville,2,10,South Uptown,Calhoun Isle,5,02/26/2018,12:39
+"3310 Fremont Avenue South,Minneapolis,MN",44.942493,-93.296262,Yardville,2,10,South Uptown,Calhoun Isle,5,02/26/2018,12:41
+"3340 girard ave s,Minneapolis,MN",44.94173,-93.297411,Yardville,2,10,South Uptown,Calhoun Isle,5,02/26/2018,12:42
+"3021 Knox Ave South,Minneapolis,MN",44.947579,-93.304293,Yardville,3,10,ECCO,Calhoun Isle,5,02/27/2018,08:45
+"3549 Pleasant Avenue South,Minneapolis,MN",44.938109000000004,-93.282669,Yardville,3,8,Lyndale,Powderhorn,5,02/27/2018,09:45
+"27 34th st w,Minneapolis,MN",44.941140999999995,-93.279229,Yardville,3,8,Lyndale,Powderhorn,5,02/27/2018,11:57
+"15 33rd st w,Minneapolis,MN",44.942927000000005,-93.278734,Yardville,3,8,Lyndale,Powderhorn,5,02/27/2018,12:02
+"21 34th Street West,Minneapolis,MN",44.941165000000005,-93.279013,Yardville,3,8,Lyndale,Powderhorn,5,02/27/2018,12:12
+"20 27TH AVE SE,Minneapolis,MN",44.965225,-93.220587,Yardville,2,2,Prospect Park - East River Road,University,4,02/25/2018,21:13
+"20 27TH AVE SE,Minneapolis,MN",44.965225,-93.220587,Yardville,2,2,Prospect Park - East River Road,University,4,02/25/2018,21:13
+"24 27TH AVE SE,Minneapolis,MN",44.965476,-93.220007,Yardville,2,2,Prospect Park - East River Road,University,4,02/25/2018,21:14
+"203 university ave se,Minneapolis,MN",44.986213,-93.25340600000001,Yardville,1,3,Marcy Holmes,University,4,02/25/2018,21:42
+"307 university ave se,Minneapolis,MN",44.9857,-93.251351,Yardville,1,3,Marcy Holmes,University,4,02/25/2018,21:48
+"613 university Ave se,Minneapolis,MN",44.984165999999995,-93.246658,Yardville,1,3,Marcy Holmes,University,4,02/25/2018,21:56
+"311 university ave se,Minneapolis,MN",44.983916,-93.24616,Yardville,1,3,Marcy Holmes,University,4,02/25/2018,22:33
+"1098 18TH AVE SE,Minneapolis,MN",44.990781,-93.226943,Yardville,1,1,Como,University,4,02/25/2018,22:33
+"1028 18TH AVE SE,Minneapolis,MN",44.988662,-93.22694200000001,Yardville,1,1,Como,University,4,02/25/2018,22:36
+"1016 18th ave se,Minneapolis,MN",44.988362,-93.22694200000001,Yardville,1,1,Como,University,4,02/25/2018,22:41
+"327 university ave SE ,Minneapolis,MN",44.985462,-93.250663,Yardville,1,3,Marcy Holmes,University,4,02/25/2018,22:43
+"607 oak st se,Minneapolis,MN",44.969981,-93.227115,Yardville,2,2,University of Minnesota,University,4,02/25/2018,22:46
+"1020 18th ave se,Minneapolis,MN",44.98847,-93.22694200000001,Yardville,1,1,Como,University,4,02/25/2018,22:46
+"900 20th Ave s ,Minneapolis,MN",44.963551,-93.24454899999999,Yardville,1,6,Seward,Longfellow,4,02/25/2018,23:00
+"900 BLOCK 20TH AVE S,Minneapolis,MN",44.963975,-93.244086,Yardville,1,6,Seward,Longfellow,4,02/25/2018,23:03
+"606 DELAWARE ST SE,Minneapolis,MN",44.972551,-93.22872,Yardville,2,2,University of Minnesota,University,4,02/25/2018,23:13
+"2199 9TH S,Minneapolis,MN",44.963997,-93.24092900000001,Yardville,1,6,Seward,Longfellow,4,02/25/2018,23:20
+"2604 BUTLER PL,Minneapolis,MN",44.964651,-93.23544,Yardville,2,2,Cedar Riverside,University,4,02/25/2018,23:43
+"205 BANK ST ,Minneapolis,MN",44.987009,-93.256715,Yardville,1,3,Nicollet Island - East Bank,University,4,02/26/2018,01:00
+"874 22nd ave se,Minneapolis,MN",44.985837,-93.22130600000001,Yardville,2,2,Como,University,4,02/26/2018,13:00
+"1822 6th st s,Minneapolis,MN",44.968115999999995,-93.24622,Yardville,2,6,Cedar Riverside,University,4,02/26/2018,13:01
+"414 6th st se,Minneapolis,MN",44.987517,-93.247755,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,13:03
+"520 11TH AVE SE,Minneapolis,MN",44.983813,-93.238615,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,13:05
+"325 16th Ave se,Minneapolis,MN",44.978761999999996,-93.233836,Yardville,2,2,University of Minnesota,University,4,02/26/2018,01:06
+"1046 20th Ave SE ,Minneapolis,MN",44.989262,-93.22420100000001,Yardville,2,1,Como,University,4,02/26/2018,13:07
+"710 12th ave se,Minneapolis,MN",44.985008,-93.23559200000001,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,13:08
+"508 11TH AVE SE,Minneapolis,MN",44.983337,-93.23849399999999,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,13:09
+"1002 22nd Ave SE ,Minneapolis,MN",44.988029,-93.22140999999999,Yardville,2,1,Como,University,4,02/26/2018,13:10
+"1062 15TH AVE SE,Minneapolis,MN",44.989888,-93.230776,Yardville,2,1,Como,University,4,02/26/2018,13:16
+"712 7th st se,Minneapolis,MN",44.986834,-93.24271,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,13:17
+"1110 5th st se,Minneapolis,MN",44.982718,-93.238815,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,13:20
+"1305 UNIVERSITY AVE SE,Minneapolis,MN",44.980098,-93.237251,Yardville,1,3,Marcy Holmes,University,4,02/26/2018,01:21
+"1116 5th st se,Minneapolis,MN",44.982595,-93.238663,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,13:28
+"1112 6th St se,Minneapolis,MN",44.983621,-93.237813,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,13:39
+"506 11TH AVE SE,Minneapolis,MN",44.983251,-93.238564,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,13:40
+"704 11TH AVE SE,Minneapolis,MN",44.98513,-93.237258,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,13:43
+"1034 17TH AVE SE,Minneapolis,MN",44.988857,-93.22795500000001,Yardville,2,1,Como,University,4,02/26/2018,13:47
+"98 emerald st se ,Minneapolis,MN",44.965810999999995,-93.20773299999999,Yardville,2,2,Prospect Park - East River Road,University,4,02/26/2018,13:49
+"1120 6th st se,Minneapolis,MN",44.983573,-93.23759100000001,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,13:59
+"1028 6th st SE ,Minneapolis,MN",44.9841,-93.239058,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,14:03
+"1026 6th st se,Minneapolis,MN",44.984128999999996,-93.239133,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,14:03
+"916 18th ave se,Minneapolis,MN",44.987071,-93.226649,Yardville,2,2,Como,University,4,02/26/2018,14:05
+"704 12th Ave SE ,Minneapolis,MN",44.984756,-93.236029,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,14:06
+"858 18th ave se,Minneapolis,MN",44.985137,-93.226673,Yardville,2,2,Como,University,4,02/26/2018,14:14
+"404 11TH AVE SE,Minneapolis,MN",44.982213,-93.239487,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,14:15
+"508 12TH AVE SE,Minneapolis,MN",44.982872,-93.237255,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,14:16
+"1106 6TH ST SE,Minneapolis,MN",44.983988000000004,-93.238049,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,14:18
+"320 2nd ave se,Minneapolis,MN",44.986641999999996,-93.25277,Yardville,1,3,Marcy Holmes,University,4,02/26/2018,02:24
+"142 emerald st se,Minneapolis,MN",44.96416,-93.208075,Yardville,2,2,Prospect Park - East River Road,University,4,02/26/2018,14:25
+"818 12TH AVE SE,Minneapolis,MN",44.985962,-93.23478399999999,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,14:31
+"320 2ND AVE SE,Minneapolis,MN",44.986641999999996,-93.25277,Yardville,1,3,Marcy Holmes,University,4,02/26/2018,02:32
+"1216 6TH ST SE,Minneapolis,MN",44.983468,-93.23674399999999,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,14:33
+"320 2ND AVE SE,Minneapolis,MN",44.986641999999996,-93.25277,Yardville,1,3,Marcy Holmes,University,4,02/26/2018,02:34
+"616 12th ave se,Minneapolis,MN",44.984015,-93.236166,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,14:44
+"1056 Talmage ave se,Minneapolis,MN",44.989539,-93.229185,Yardville,2,1,Como,University,4,02/26/2018,14:45
+"846 24TH AVE SE,Minneapolis,MN",44.985096999999996,-93.218769,Yardville,2,2,Como,University,4,02/26/2018,14:46
+"330 3rd ave se,Minneapolis,MN",44.986401,-93.251059,Yardville,1,3,Marcy Holmes,University,4,02/26/2018,02:50
+"606 12th Ave se ,Minneapolis,MN",44.984002000000004,-93.236625,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,14:50
+"262 21st Ave s,Minneapolis,MN",44.974071,-93.242496,Yardville,2,2,University of Minnesota,University,4,02/26/2018,02:59
+"200 UNIVERSITY AVE,Minneapolis,MN",44.985938,-93.253258,Yardville,1,3,Marcy Holmes,University,4,02/26/2018,03:06
+"608 12TH AVE SE,Minneapolis,MN",44.984053,-93.236584,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,15:14
+"222 2nd ave se,Minneapolis,MN",44.985909,-93.253712,Yardville,1,3,Marcy Holmes,University,4,02/26/2018,03:15
+"1210 7TH ST SE,Minneapolis,MN",44.984378,-93.235817,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,15:24
+"222 2nd ave se,Minneapolis,MN",44.985909,-93.253712,Yardville,1,3,Marcy Holmes,University,4,02/26/2018,03:45
+"428 2nd Ave SE,Minneapolis,MN",44.987485,-93.252478,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,08:15
+"528 3rd ave se,Minneapolis,MN",44.988265000000006,-93.249678,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,08:20
+"526 2nd Ave SE,Minneapolis,MN",44.988939,-93.251312,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,08:56
+"348 ulysses st ne,Minneapolis,MN",44.991532,-93.23588199999999,Yardville,2,1,Como,University,4,02/26/2018,09:04
+"600 3rd ave se,Minneapolis,MN",44.988659000000006,-93.249708,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,09:09
+"300 5TH AVE SE,Minneapolis,MN",44.984495,-93.249038,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,09:31
+"720 6th ave se,Minneapolis,MN",44.988357,-93.24373299999999,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,09:31
+"516 4th ave se,Minneapolis,MN",44.987586,-93.2484,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,09:44
+"614 4th ave se,Minneapolis,MN",44.988443,-93.247747,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,09:46
+"428 8th ave se,Minneapolis,MN",44.984494,-93.24356800000001,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,09:59
+"326 6th ave se,Minneapolis,MN",44.984607000000004,-93.24676,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,10:19
+"308 4TH AVE SE,Minneapolis,MN",44.985486,-93.250078,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,10:26
+"406 7th ave se,Minneapolis,MN",44.984435,-93.24504499999999,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,10:27
+"528 7TH AVE SE,Minneapolis,MN",44.985671999999994,-93.24403000000001,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,10:27
+"428 7th ave se,Minneapolis,MN",44.984772,-93.244776,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,10:29
+"502 7TH AVE SE,Minneapolis,MN",44.985293,-93.244328,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,10:30
+"724 7th ave se,Minneapolis,MN",44.987765,-93.242474,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,10:30
+"324 7th ave se,Minneapolis,MN",44.983493,-93.245774,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,10:36
+"506 8TH AVE SE,Minneapolis,MN",44.985215999999994,-93.242993,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,10:43
+"400 8TH AVE SE ,Minneapolis,MN",44.983825,-93.244097,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,10:44
+"412 7TH AVE SE,Minneapolis,MN",44.984621000000004,-93.244897,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,10:50
+"726 5th Ave se,Minneapolis,MN",44.989203,-93.24531800000001,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,10:54
+"520 7TH AVE SE,Minneapolis,MN",44.985613,-93.244076,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,10:55
+"716 7th ave se,Minneapolis,MN",44.987722,-93.242509,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,10:57
+"520 8TH AVE SE,Minneapolis,MN",44.985440000000004,-93.24281500000001,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,11:05
+"324 8TH AVE SE,Minneapolis,MN",44.983273,-93.24407,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,11:06
+"818 7TH AVE SE,Minneapolis,MN",44.988273,-93.242396,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,11:08
+"416 8th ave se,Minneapolis,MN",44.984229,-93.243403,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,11:09
+"624 5th st se,Minneapolis,MN",44.985461,-93.244991,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,11:09
+"724 7th st se,Minneapolis,MN",44.986945,-93.242238,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,11:13
+"526 8th st se,Minneapolis,MN",44.988951,-93.244054,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,11:24
+"704 5th st se,Minneapolis,MN",44.984962,-93.244709,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,11:27
+"528 5TH ST SE,Minneapolis,MN",44.985791,-93.246574,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,11:30
+"620 5TH ST SE,Minneapolis,MN",44.9853,-93.245632,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,11:31
+"224 8th ave se,Minneapolis,MN",44.982098,-93.24544200000001,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,11:38
+"1022 16TH AVE SE,Minneapolis,MN",44.988548,-93.229241,Yardville,2,1,Como,University,4,02/26/2018,11:41
+"412 5th st se,Minneapolis,MN",44.986826,-93.248447,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,11:43
+"1008 5TH ST SE,Minneapolis,MN",44.983171,-93.240215,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,11:44
+"520 5th st se,Minneapolis,MN",44.985884999999996,-93.246707,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,11:46
+"1010 5TH ST SE,Minneapolis,MN",44.983156,-93.240178,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,11:47
+"412 6th st se,Minneapolis,MN",44.987569,-93.247884,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,11:50
+"416 6th st se,Minneapolis,MN",44.987433,-93.247653,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,11:57
+"2760 UNIVERSITY AVE SE,Minneapolis,MN",44.971454,-93.217575,Yardville,2,2,Prospect Park - East River Road,University,4,02/26/2018,00:00
+"612 Delaware st se,Minneapolis,MN",44.972551,-93.228717,Yardville,2,2,University of Minnesota,University,4,02/26/2018,00:00
+"524 5th st se,Minneapolis,MN",44.985822999999996,-93.24665300000001,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,12:06
+"2500 BLOCK 9th st s,Minneapolis,MN",44.964186,-93.235391,Yardville,1,6,Seward,Longfellow,4,02/26/2018,00:07
+"418 11THE AVE SE,Minneapolis,MN",44.982735999999996,-93.239471,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,12:14
+"420 5TH ST SE,Minneapolis,MN",44.986426,-93.248189,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,12:14
+"728 6TH ST SE,Minneapolis,MN",44.985738,-93.24286500000001,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,12:15
+"218 6th st se ,Minneapolis,MN",44.989095,-93.250844,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,12:16
+"716 Deleware st se,Minneapolis,MN",44.972552,-93.228031,Yardville,2,2,University of Minnesota,University,4,02/26/2018,00:18
+"326 6th st se,Minneapolis,MN",44.988298,-93.248861,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,12:19
+"1016 16TH AVE SE,Minneapolis,MN",44.988366,-93.229499,Yardville,2,1,Como,University,4,02/26/2018,12:19
+"9th st 25th ave s,Minneapolis,MN",44.967538,-93.235821,Yardville,2,2,Cedar Riverside,University,4,02/26/2018,00:23
+"626 12th ave se,Minneapolis,MN",44.984196999999995,-93.236468,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,12:29
+"610 DELAWARE ST SE,Minneapolis,MN",44.972551,-93.228718,Yardville,2,2,University of Minnesota,University,4,02/26/2018,00:35
+"313 16th Ave se,Minneapolis,MN",44.978709,-93.233878,Yardville,2,2,University of Minnesota,University,4,02/26/2018,00:35
+"420 11TH AVE SE,Minneapolis,MN",44.982746,-93.239463,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,12:35
+"512 11th Ave se,Minneapolis,MN",44.983584,-93.238652,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,12:38
+"812 7th st se,Minneapolis,MN",44.986314,-93.241214,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,12:38
+"310 16th ave se,Minneapolis,MN",44.978519,-93.233715,Yardville,2,2,University of Minnesota,University,4,02/26/2018,00:44
+"1002 5TH ST SE,Minneapolis,MN",44.983216,-93.240328,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,12:58
+"928 5TH ST SE,Minneapolis,MN",44.98362,-93.241067,Yardville,2,3,Marcy Holmes,University,4,02/26/2018,12:59
+"859 weeks ave se,Minneapolis,MN",44.985764,-93.215971,Yardville,2,2,Como,University,4,02/27/2018,13:06
+"651 erie st se,Minneapolis,MN",44.968391,-93.22428599999999,Yardville,2,2,Prospect Park - East River Road,University,4,02/27/2018,13:46
+"631 Erie st se,Minneapolis,MN",44.969068,-93.224029,Yardville,2,2,Prospect Park - East River Road,University,4,02/27/2018,14:03
+"637 erie st se,Minneapolis,MN",44.968885,-93.224048,Yardville,2,2,Prospect Park - East River Road,University,4,02/27/2018,14:08
+"635 Ontario st se,Minneapolis,MN",44.968920000000004,-93.22527600000001,Yardville,2,2,Prospect Park - East River Road,University,4,02/27/2018,14:35
+"1207 12th ave se,Minneapolis,MN",44.991155,-93.23459,Yardville,2,2,Como,University,4,02/27/2018,08:40
+"707 13th ave se,Minneapolis,MN",44.984219,-93.234627,Yardville,3,3,Marcy Holmes,University,4,02/27/2018,09:03
+"709 13th ave se,Minneapolis,MN",44.984295,-93.234569,Yardville,3,3,Marcy Holmes,University,4,02/27/2018,09:05
+"1529 brook ave se,Minneapolis,MN",44.986794,-93.228863,Yardville,2,2,Como,University,4,02/27/2018,09:17
+"1061 26th ave se,Minneapolis,MN",44.990009,-93.216448,Yardville,3,1,Como,University,4,02/27/2018,09:38
+"1025 26TH AVE SE,Minneapolis,MN",44.988794,-93.21645799999999,Yardville,3,1,Como,University,4,02/27/2018,09:43
+"1045 26th ave se,Minneapolis,MN",44.989290999999994,-93.216776,Yardville,3,1,Como,University,4,02/27/2018,09:47
+"919 22ave se,Minneapolis,MN",44.987248,-93.221861,Yardville,2,2,Como,University,4,02/27/2018,09:52
+"1087 26TH AVE SE,Minneapolis,MN",44.99072,-93.216436,Yardville,3,1,Como,University,4,02/27/2018,10:14
+"1023 21st ave se,Minneapolis,MN",44.988553,-93.223228,Yardville,3,1,Como,University,4,02/27/2018,10:16
+"937 WEEKS AVE SE,Minneapolis,MN",44.987446000000006,-93.218326,Yardville,2,2,Como,University,4,02/27/2018,10:17
+"1045 26th ave se,Minneapolis,MN",44.989290999999994,-93.216776,Yardville,3,1,Como,University,4,02/27/2018,10:20
+"1065 25th ave se,Minneapolis,MN",44.99009,-93.218059,Yardville,3,1,Como,University,4,02/27/2018,10:31
+"1091 25th ave se,Minneapolis,MN",44.990809000000006,-93.217701,Yardville,3,1,Como,University,4,02/27/2018,10:33
+"1085 25 TH ST SE,Minneapolis,MN",44.990645,-93.218057,Yardville,3,1,Como,University,4,02/27/2018,10:35
+"925 weeks ave se,Minneapolis,MN",44.987127,-93.21821899999999,Yardville,2,2,Como,University,4,02/27/2018,10:37
+"941 25th ave se,Minneapolis,MN",44.987477,-93.217753,Yardville,2,2,Como,University,4,02/27/2018,10:42
+"2327 cole ave se,Minneapolis,MN",44.986406,-93.219202,Yardville,2,2,Como,University,4,02/27/2018,10:51
+"857 24th ave se,Minneapolis,MN",44.98534,-93.219367,Yardville,2,2,Como,University,4,02/27/2018,10:55
+"1529 brook ave se,Minneapolis,MN",44.986794,-93.228863,Yardville,2,2,Como,University,4,02/27/2018,10:56
+"837 24th ave se ,Minneapolis,MN",44.984761,-93.21937199999999,Yardville,2,2,Como,University,4,02/27/2018,11:02
+"851 25th ave se,Minneapolis,MN",44.9852,-93.218041,Yardville,2,2,Como,University,4,02/27/2018,11:07
+"923 21st ave so,Minneapolis,MN",44.963238,-93.24209,Yardville,3,6,Seward,Longfellow,4,02/27/2018,11:16
+"921 25th ave se,Minneapolis,MN",44.987396000000004,-93.217754,Yardville,2,2,Como,University,4,02/27/2018,11:16
+"645 ONTARIO ST SE,Minneapolis,MN",44.968753,-93.225311,Yardville,2,2,Prospect Park - East River Road,University,4,02/27/2018,11:25
+"855 weeks ave se,Minneapolis,MN",44.985873,-93.215631,Yardville,2,2,Como,University,4,02/27/2018,11:29
+"657 Ontario st se,Minneapolis,MN",44.968664000000004,-93.225311,Yardville,2,2,Prospect Park - East River Road,University,4,02/27/2018,11:30
+"879 27th ave se,Minneapolis,MN",44.986216999999996,-93.215554,Yardville,2,2,Como,University,4,02/27/2018,11:30
+"657 Ontario st se,Minneapolis,MN",44.968664000000004,-93.225311,Yardville,2,2,Prospect Park - East River Road,University,4,02/27/2018,11:33
+"871 23rd ave se,Minneapolis,MN",44.985748,-93.220586,Yardville,2,2,Como,University,4,02/27/2018,11:33
+"835 23rd ave s,Minneapolis,MN",44.965201,-93.238578,Yardville,2,2,Cedar Riverside,University,4,02/27/2018,11:42
+"303 19th st s,Minneapolis,MN",44.971069,-93.244396,Yardville,2,2,University of Minnesota,University,4,02/27/2018,11:46
+"647 ONTARIO ST SE,Minneapolis,MN",44.968738,-93.225311,Yardville,2,2,Prospect Park - East River Road,University,4,02/27/2018,11:54
+"621 erie st se,Minneapolis,MN",44.969423,-93.22402,Yardville,2,2,Prospect Park - East River Road,University,4,02/27/2018,12:03
+"601 Erie st se,Minneapolis,MN",44.970052,-93.22402199999999,Yardville,2,2,Prospect Park - East River Road,University,4,02/27/2018,12:09
+"901 weeks Ave SE ,Minneapolis,MN",44.986672999999996,-93.217497,Yardville,2,2,Como,University,4,02/27/2018,12:15
+"917 21st ave so,Minneapolis,MN",44.963446000000005,-93.242113,Yardville,3,6,Seward,Longfellow,4,02/27/2018,12:17
+"425 19th ave s,Minneapolis,MN",44.969529,-93.245642,Yardville,3,6,Cedar Riverside,University,4,02/27/2018,12:17
+"2121 22nd St E ,Minneapolis,MN",44.960778999999995,-93.241456,Yardville,3,6,Seward,Longfellow,4,02/27/2018,12:18
+"919 21st Ave S,Minneapolis,MN",44.963419,-93.242149,Yardville,3,6,Seward,Longfellow,4,02/27/2018,12:24
+"947 weeks ave se,Minneapolis,MN",44.987437,-93.218845,Yardville,2,2,Como,University,4,02/27/2018,12:28
+"605 Ontario St Se,Minneapolis,MN",44.969972999999996,-93.225307,Yardville,2,2,Prospect Park - East River Road,University,4,02/27/2018,12:30
+"419 19th ave s,Minneapolis,MN",44.969570000000004,-93.245642,Yardville,2,2,Cedar Riverside,University,4,02/27/2018,12:34
+"919 21st Ave S,Minneapolis,MN",44.963419,-93.242149,Yardville,3,6,Seward,Longfellow,4,02/27/2018,12:38
+"919 21st Av S,Minneapolis,MN",44.963419,-93.242149,Yardville,3,6,Seward,Longfellow,4,02/27/2018,12:39
+"651 Ontario st se,Minneapolis,MN",44.968708,-93.225311,Yardville,2,2,Prospect Park - East River Road,University,4,02/27/2018,12:40
+"623 Ontario st se,Minneapolis,MN",44.969321,-93.225397,Yardville,2,2,Prospect Park - East River Road,University,4,02/27/2018,12:44
+"2019 21st Ave S,Minneapolis,MN",44.96202,-93.242011,Yardville,3,6,Seward,Longfellow,4,02/27/2018,12:46
+"641 Erie st se,Minneapolis,MN",44.968707,-93.22391,Yardville,2,2,Prospect Park - East River Road,University,4,02/27/2018,12:46
+"655 Ontario st se,Minneapolis,MN",44.968678999999995,-93.225311,Yardville,2,2,Prospect Park - East River Road,University,4,02/27/2018,12:49
+"3000 BLOCK CHICAGO AVE S,Minneapolis,MN",44.948357,-93.262689,Yardville,1,6,Phillips West,Phillips,3,02/25/2018,21:25
+"333 15 th st w ,Minneapolis,MN",44.968409,-93.285917,Yardville,1,7,Loring Park,Central,3,02/25/2018,21:33
+"2806 emerson s,Minneapolis,MN",44.951577,-93.294785,Yardville,1,10,Lowry Hill East,Calhoun Isle,3,02/25/2018,21:35
+"3000 BLOCK CHICAGO AVE,Minneapolis,MN",44.948357,-93.262689,Yardville,1,6,Phillips West,Phillips,3,02/25/2018,21:43
+"3000 BLOCK CHICAGO AVE S,Minneapolis,MN",44.948357,-93.262689,Yardville,1,6,Phillips West,Phillips,3,02/25/2018,21:47
+"355 15th st w,Minneapolis,MN",44.968414,-93.285931,Yardville,1,7,Loring Park,Central,3,02/25/2018,21:54
+"2824 emerson s,Minneapolis,MN",44.951198,-93.294794,Yardville,1,10,Lowry Hill East,Calhoun Isle,3,02/25/2018,22:10
+"2806 EMERSON AVE S,Minneapolis,MN",44.951577,-93.294785,Yardville,1,10,Lowry Hill East,Calhoun Isle,3,02/25/2018,22:13
+"201 15th st w,Minneapolis,MN",44.967465999999995,-93.281039,Yardville,1,7,Loring Park,Central,3,02/25/2018,22:13
+"2814 EMERSON AVE S,Minneapolis,MN",44.951512,-93.294787,Yardville,1,10,Lowry Hill East,Calhoun Isle,3,02/25/2018,22:23
+"2900 EMERSON AVE S,Minneapolis,MN",44.950029,-93.29448199999999,Yardville,1,10,Lowry Hill East,Calhoun Isle,3,02/25/2018,22:27
+"504 1st Ave n,Minneapolis,MN",44.980367,-93.274253,Yardville,1,3,Downtown West,Central,3,02/25/2018,22:27
+"205 15th st w ,Minneapolis,MN",44.967459000000005,-93.281275,Yardville,1,7,Loring Park,Central,3,02/25/2018,22:28
+"2914 Emerson av s,Minneapolis,MN",44.949479,-93.294797,Yardville,1,10,Lowry Hill East,Calhoun Isle,3,02/25/2018,22:39
+"2916 EMERSON AVE S,Minneapolis,MN",44.949401,-93.294792,Yardville,1,10,Lowry Hill East,Calhoun Isle,3,02/25/2018,22:42
+"209 15th st w,Minneapolis,MN",44.967453000000006,-93.281511,Yardville,1,7,Loring Park,Central,3,02/25/2018,22:43
+"2920 emerson ave s,Minneapolis,MN",44.949286,-93.294798,Yardville,1,10,Lowry Hill East,Calhoun Isle,3,02/25/2018,22:44
+"601 1st Ave n,Minneapolis,MN",44.97891,-93.275052,Yardville,1,3,Downtown West,Central,3,02/25/2018,22:46
+"600 1st ave n,Minneapolis,MN",44.979455,-93.27619,Yardville,1,3,Downtown West,Central,3,02/25/2018,22:52
+"15th st & la Salle ave ,Minneapolis,MN",44.967717,-93.279336,Yardville,1,7,Loring Park,Central,3,02/25/2018,22:56
+"109 15th st W,Minneapolis,MN",44.967576,-93.280141,Yardville,1,7,Loring Park,Central,3,02/25/2018,23:04
+"214 15th st w,Minneapolis,MN",44.968032,-93.28165600000001,Yardville,1,7,Loring Park,Central,3,02/25/2018,23:06
+"206 15th St w ,Minneapolis,MN",44.967727000000004,-93.281469,Yardville,1,7,Loring Park,Central,3,02/25/2018,23:15
+"1700 BLOCK OF 3RD AVE S,Minneapolis,MN",44.966071,-93.273119,Yardville,1,6,Steven's Square - Loring Heights,Central,3,02/25/2018,23:29
+"512 15th st,Minneapolis,MN",44.968277,-93.268469,Yardville,1,7,Elliot Park,Central,3,02/25/2018,23:29
+"515 15TH ST W,Minneapolis,MN",44.968446,-93.286022,Yardville,1,7,Loring Park,Central,3,02/25/2018,23:31
+"712 15th st w,Minneapolis,MN",44.967746999999996,-93.282001,Yardville,1,7,Loring Park,Central,3,02/25/2018,23:34
+"304 15th st w,Minneapolis,MN",44.968403,-93.285899,Yardville,1,7,Loring Park,Central,3,02/25/2018,23:40
+"1800 3RD AVE S,Minneapolis,MN",44.965052,-93.27299000000001,Yardville,1,6,Steven's Square - Loring Heights,Central,3,02/25/2018,23:47
+"1805 3rd Ave s,Minneapolis,MN",44.964940000000006,-93.272544,Yardville,1,6,Steven's Square - Loring Heights,Central,3,02/25/2018,23:48
+"204 15TH ST W,Minneapolis,MN",44.967727000000004,-93.28142199999999,Yardville,1,7,Loring Park,Central,3,02/25/2018,23:51
+"1811 3rd av s,Minneapolis,MN",44.964736,-93.27244300000001,Yardville,1,6,Steven's Square - Loring Heights,Central,3,02/25/2018,23:54
+"1815 3rd ave s,Minneapolis,MN",44.964633,-93.27244300000001,Yardville,1,6,Steven's Square - Loring Heights,Central,3,02/25/2018,23:59
+"2019 3rd av s,Minneapolis,MN",44.961999999999996,-93.272752,Yardville,1,10,Whittier,Powderhorn,3,02/26/2018,01:04
+"2020 grand ave s ,Minneapolis,MN",44.961964,-93.284182,Yardville,2,10,Whittier,Powderhorn,3,02/26/2018,13:06
+"2114 3rd ave s,Minneapolis,MN",44.961329,-93.273113,Yardville,1,10,Whittier,Powderhorn,3,02/26/2018,01:13
+"2204 Grand ave s,Minneapolis,MN",44.960606,-93.284531,Yardville,2,10,Whittier,Powderhorn,3,02/26/2018,13:20
+"2200 3RD AVE S,Minneapolis,MN",44.96089,-93.27274799999999,Yardville,1,10,Whittier,Powderhorn,3,02/26/2018,01:22
+"2202 Grand ave s,Minneapolis,MN",44.960668,-93.284188,Yardville,2,10,Whittier,Powderhorn,3,02/26/2018,13:24
+"1824 2nd av s,Minneapolis,MN",44.964849,-93.274028,Yardville,2,6,Steven's Square - Loring Heights,Central,3,02/26/2018,13:24
+"2214 3rd Ave s ,Minneapolis,MN",44.960764000000005,-93.272749,Yardville,1,10,Whittier,Powderhorn,3,02/26/2018,01:27
+"211 3 AVE S,Minneapolis,MN",44.980708,-93.263253,Yardville,1,3,Downtown West,Central,3,02/26/2018,01:27
+"2210 3rd av s,Minneapolis,MN",44.9608,-93.272749,Yardville,1,10,Whittier,Powderhorn,3,02/26/2018,01:30
+"203 15TH ST W,Minneapolis,MN",44.967725,-93.281154,Yardville,1,7,Loring Park,Central,3,02/26/2018,01:31
+"1806 6th st s,Minneapolis,MN",44.970362,-93.253751,Yardville,2,6,Downtown East,Central,3,02/26/2018,13:32
+"629 15TH ST W,Minneapolis,MN",44.968446,-93.286022,Yardville,1,7,Loring Park,Central,3,02/26/2018,01:36
+"2302 5TH AVE S,Minneapolis,MN",44.960028,-93.268982,Yardville,2,6,Phillips West,Phillips,3,02/26/2018,13:36
+"516 25TH ST E,Minneapolis,MN",44.957573,-93.268289,Yardville,2,6,Phillips West,Phillips,3,02/26/2018,13:38
+"2500 BLOCK OF 3RD AVE S,Minneapolis,MN",44.956653,-93.273117,Yardville,1,10,Whittier,Powderhorn,3,02/26/2018,01:40
+"2208 grand ave s ,Minneapolis,MN",44.960498,-93.28451899999999,Yardville,2,10,Whittier,Powderhorn,3,02/26/2018,13:43
+"308 15TH ST W,Minneapolis,MN",44.968404,-93.28590200000001,Yardville,1,7,Loring Park,Central,3,02/26/2018,02:00
+"1904 Aldrich av s,Minneapolis,MN",44.963775,-93.289389,Yardville,2,10,Lowry Hill East,Calhoun Isle,3,02/26/2018,14:04
+"2500 block of 3rd Ave s,Minneapolis,MN",44.956653,-93.273117,Yardville,1,10,Whittier,Powderhorn,3,02/26/2018,02:08
+"2727 1st ave s,Minneapolis,MN",44.952698999999996,-93.276351,Yardville,1,10,Whittier,Powderhorn,3,02/26/2018,02:12
+"2814 1st ave s,Minneapolis,MN",44.951370000000004,-93.27691300000001,Yardville,1,10,Whittier,Powderhorn,3,02/26/2018,02:19
+"904 15th st e,Minneapolis,MN",44.967996,-93.260897,Yardville,2,6,Elliot Park,Central,3,02/26/2018,14:20
+"2814 1stsv s ,Minneapolis,MN",44.951370000000004,-93.27691300000001,Yardville,1,10,Whittier,Powderhorn,3,02/26/2018,02:21
+"2008 Aldrich av s ,Minneapolis,MN",44.962262,-93.289304,Yardville,2,10,Lowry Hill East,Calhoun Isle,3,02/26/2018,14:22
+"1410 5th ave s,Minneapolis,MN",44.96886,-93.268924,Yardville,2,7,Elliot Park,Central,3,02/26/2018,14:27
+"2822 1st av s,Minneapolis,MN",44.951099,-93.276891,Yardville,1,10,Whittier,Powderhorn,3,02/26/2018,02:29
+"1400 emerson AVE N,Minneapolis,MN",44.96698,-93.294348,Yardville,1,7,Lowry Hill,Calhoun Isle,3,02/26/2018,02:31
+"1504 10TH AVE S,Minneapolis,MN",44.96799,-93.25967800000001,Yardville,2,6,Elliot Park,Central,3,02/26/2018,14:32
+"2707 1ST AVE S,Minneapolis,MN",44.953375,-93.276481,Yardville,1,10,Whittier,Powderhorn,3,02/26/2018,02:35
+"1624 10TH AVE S,Minneapolis,MN",44.966966,-93.25999200000001,Yardville,2,6,Elliot Park,Central,3,02/26/2018,14:36
+"1508 Elliot ave ,Minneapolis,MN",44.967651000000004,-93.26133100000001,Yardville,2,6,Elliot Park,Central,3,02/26/2018,14:36
+"1512 elliot Ave ,Minneapolis,MN",44.967512,-93.261381,Yardville,2,6,Elliot Park,Central,3,02/26/2018,14:38
+"924 15th st e,Minneapolis,MN",44.968221,-93.260194,Yardville,2,6,Elliot Park,Central,3,02/26/2018,14:47
+"220 4th ave ne,Minneapolis,MN",44.978687,-93.265945,Yardville,2,3,Downtown West,Central,3,02/26/2018,09:00
+"The mall & Humboldt Ave n ,Minneapolis,MN",44.950057,-93.30082900000001,Yardville,2,7,East Isles,Calhoun Isle,3,02/26/2018,09:08
+"Mall/ Humboldt,Minneapolis,MN",44.949982,-93.300708,Yardville,2,7,East Isles,Calhoun Isle,3,02/26/2018,09:10
+"2118 10th av s,Minneapolis,MN",44.961368,-93.259656,Yardville,2,6,Ventura Village,Phillips,3,02/26/2018,09:25
+"The mall & Humboldt Ave n ,Minneapolis,MN",44.950057,-93.30082900000001,Yardville,2,7,East Isles,Calhoun Isle,3,02/26/2018,09:27
+"THE MALL & IRVING AVE S,Minneapolis,MN",44.949925,-93.302097,Yardville,2,7,East Isles,Calhoun Isle,3,02/26/2018,09:35
+"THE MALL @ HUMBOLDT AVE S,Minneapolis,MN",44.950057,-93.30082900000001,Yardville,2,7,East Isles,Calhoun Isle,3,02/26/2018,09:39
+"The mall & James ave s,Minneapolis,MN",44.950175,-93.303368,Yardville,2,7,East Isles,Calhoun Isle,3,02/26/2018,09:50
+"2116 10th av s,Minneapolis,MN",44.961379,-93.259656,Yardville,2,6,Ventura Village,Phillips,3,02/26/2018,09:54
+"1508 spruce place,Minneapolis,MN",44.966751,-93.280834,Yardville,2,7,Loring Park,Central,3,02/26/2018,09:56
+"The mall & Irving Ave s,Minneapolis,MN",44.949925,-93.302097,Yardville,2,7,East Isles,Calhoun Isle,3,02/26/2018,10:06
+"1518 spruce place,Minneapolis,MN",44.967007,-93.281164,Yardville,2,7,Loring Park,Central,3,02/26/2018,10:28
+"2214 10th av s,Minneapolis,MN",44.960341,-93.259988,Yardville,2,6,Ventura Village,Phillips,3,02/26/2018,10:31
+"2448 10TH AVE S,Minneapolis,MN",44.957678,-93.260048,Yardville,2,9,Midtown Phillips,Phillips,3,02/26/2018,10:49
+"2404 Elliot ave ,Minneapolis,MN",44.958638,-93.261589,Yardville,2,9,Midtown Phillips,Phillips,3,02/26/2018,10:50
+"2444 10TH AVE S,Minneapolis,MN",44.957705,-93.26035999999999,Yardville,2,9,Midtown Phillips,Phillips,3,02/26/2018,10:52
+"2444 10TH AVE S,Minneapolis,MN",44.957705,-93.26035999999999,Yardville,2,9,Midtown Phillips,Phillips,3,02/26/2018,10:52
+"2220 Emerson av s,Minneapolis,MN",44.960167999999996,-93.29474,Yardville,2,7,East Isles,Calhoun Isle,3,02/26/2018,11:00
+"2814 Columbus ave s ,Minneapolis,MN",44.951269,-93.264186,Yardville,2,6,Phillips West,Phillips,3,02/26/2018,11:16
+"1778 DuPont av s,Minneapolis,MN",44.965918,-93.29306,Yardville,2,7,Lowry Hill,Calhoun Isle,3,02/26/2018,11:17
+"2018 Girard av s ,Minneapolis,MN",44.962051,-93.296903,Yardville,2,7,Lowry Hill,Calhoun Isle,3,02/26/2018,11:46
+"2918 columbus,Minneapolis,MN",44.949422,-93.264197,Yardville,2,6,Phillips West,Phillips,3,02/26/2018,11:47
+"1830 3rd ave s,Minneapolis,MN",44.964343,-93.273028,Yardville,1,6,Steven's Square - Loring Heights,Central,3,02/26/2018,00:01
+"708 15th st w,Minneapolis,MN",44.967746999999996,-93.282001,Yardville,1,7,Loring Park,Central,3,02/26/2018,00:07
+"2904 COLUMBUS AVE S,Minneapolis,MN",44.949884000000004,-93.264134,Yardville,2,6,Phillips West,Phillips,3,02/26/2018,12:10
+"2852 Columbus ave s,Minneapolis,MN",44.950223,-93.263918,Yardville,2,6,Phillips West,Phillips,3,02/26/2018,12:13
+"1829 3rd av s,Minneapolis,MN",44.964389000000004,-93.272492,Yardville,1,6,Steven's Square - Loring Heights,Central,3,02/26/2018,00:14
+"2930 COLUMBUS AVE S,Minneapolis,MN",44.949106,-93.26415,Yardville,2,6,Phillips West,Phillips,3,02/26/2018,12:14
+"1902 DuPont AVE S,Minneapolis,MN",44.964228999999996,-93.293465,Yardville,2,7,Lowry Hill,Calhoun Isle,3,02/26/2018,12:21
+"2920 12th av s,Minneapolis,MN",44.949421,-93.257832,Yardville,2,9,Midtown Phillips,Phillips,3,02/26/2018,12:22
+"2816 Columbus ave s,Minneapolis,MN",44.951175,-93.264188,Yardville,2,6,Phillips West,Phillips,3,02/26/2018,12:25
+"1918 3rd av s,Minneapolis,MN",44.963176000000004,-93.272756,Yardville,1,6,Steven's Square - Loring Heights,Central,3,02/26/2018,00:26
+"202 15TH ST W,Minneapolis,MN",44.967726,-93.281374,Yardville,1,7,Loring Park,Central,3,02/26/2018,00:27
+"1906 3RD AVE S,Minneapolis,MN",44.963614,-93.273114,Yardville,1,6,Steven's Square - Loring Heights,Central,3,02/26/2018,00:30
+"2014 3rd av s,Minneapolis,MN",44.96201,-93.273077,Yardville,1,10,Whittier,Powderhorn,3,02/26/2018,00:36
+"1906 3rd Ave s,Minneapolis,MN",44.963614,-93.273114,Yardville,1,6,Steven's Square - Loring Heights,Central,3,02/26/2018,00:36
+"1900 3AVE S,Minneapolis,MN",44.963758,-93.273119,Yardville,1,6,Steven's Square - Loring Heights,Central,3,02/26/2018,00:37
+"400 clifton av,Minneapolis,MN",44.966768,-93.285062,Yardville,2,7,Loring Park,Central,3,02/26/2018,12:37
+"620 15th st w,Minneapolis,MN",44.967746999999996,-93.282001,Yardville,1,7,Loring Park,Central,3,02/26/2018,00:38
+"1800 3RD AVE S,Minneapolis,MN",44.965052,-93.27299000000001,Yardville,1,6,Steven's Square - Loring Heights,Central,3,02/26/2018,00:42
+"1900 3rd ave s,Minneapolis,MN",44.963758,-93.273119,Yardville,1,6,Steven's Square - Loring Heights,Central,3,02/26/2018,00:45
+"2014 3rd av s,Minneapolis,MN",44.96201,-93.273077,Yardville,1,10,Whittier,Powderhorn,3,02/26/2018,00:52
+"2332 grand av s,Minneapolis,MN",44.959257,-93.284207,Yardville,2,10,Whittier,Powderhorn,3,02/26/2018,12:57
+"103 14th st w,Minneapolis,MN",44.968789,-93.279349,Yardville,3,7,Loring Park,Central,3,02/27/2018,10:01
+"231 clifton Ave,Minneapolis,MN",44.966134000000004,-93.284017,Yardville,3,7,Loring Park,Central,3,02/27/2018,10:09
+"123 19th st e,Minneapolis,MN",44.963954,-93.275346,Yardville,3,6,Steven's Square - Loring Heights,Central,3,02/27/2018,10:14
+"143 19th st e,Minneapolis,MN",44.963726,-93.274307,Yardville,3,6,Steven's Square - Loring Heights,Central,3,02/27/2018,10:24
+"1825 stevens Ave S,Minneapolis,MN",44.964437,-93.27529,Yardville,3,6,Steven's Square - Loring Heights,Central,3,02/27/2018,10:39
+"1811 Stevens ave s ,Minneapolis,MN",44.964525,-93.27529100000001,Yardville,3,6,Steven's Square - Loring Heights,Central,3,02/27/2018,11:05
+"1913 stevens Ave S,Minneapolis,MN",44.963413,-93.274973,Yardville,3,6,Steven's Square - Loring Heights,Central,3,02/27/2018,11:11
+"301 RIDGEWOOD AVE S,Minneapolis,MN",44.963947,-93.282871,Yardville,3,7,Steven's Square - Loring Heights,Central,3,02/27/2018,11:24
+"109 19TH ST E,Minneapolis,MN",44.963955,-93.27610899999999,Yardville,3,6,Steven's Square - Loring Heights,Central,3,02/27/2018,11:26
+"1705 Stevens ave s,Minneapolis,MN",44.966029,-93.274941,Yardville,3,6,Steven's Square - Loring Heights,Central,3,02/27/2018,11:30
+"1905 2nd ave s,Minneapolis,MN",44.963782,-93.274029,Yardville,3,6,Steven's Square - Loring Heights,Central,3,02/27/2018,11:33
+"1823 Stevens ave s,Minneapolis,MN",44.964449,-93.27529,Yardville,3,6,Steven's Square - Loring Heights,Central,3,02/27/2018,11:36
+"213 18th st e ,Minneapolis,MN",44.964586,-93.27336600000001,Yardville,3,6,Steven's Square - Loring Heights,Central,3,02/27/2018,11:39
+"2121 4TH AVE N,Minneapolis,MN",44.981588,-93.307828,Yardville,3,5,Harrison,Near North,3,02/27/2018,11:58
+"321 18th st e,Minneapolis,MN",44.965219,-93.271618,Yardville,3,6,Steven's Square - Loring Heights,Central,3,02/27/2018,12:08
+"331 18th st e,Minneapolis,MN",44.965106,-93.27110400000001,Yardville,3,6,Steven's Square - Loring Heights,Central,3,02/27/2018,12:12
+"1901 2nd ave s,Minneapolis,MN",44.963943,-93.274028,Yardville,3,6,Steven's Square - Loring Heights,Central,3,02/27/2018,12:14
+"1900 Pillsbury ave s,Minneapolis,MN",44.964131,-93.281071,Yardville,3,7,Steven's Square - Loring Heights,Central,3,02/27/2018,12:32
+"1829 2nd Ave s ,Minneapolis,MN",44.96416,-93.274028,Yardville,3,6,Steven's Square - Loring Heights,Central,3,02/27/2018,12:33
+"1831 2ND AVE S,Minneapolis,MN",44.964107,-93.27373,Yardville,3,6,Steven's Square - Loring Heights,Central,3,02/27/2018,12:36
+"215 18TH ST E,Minneapolis,MN",44.964819,-93.27335,Yardville,3,6,Steven's Square - Loring Heights,Central,3,02/27/2018,12:39
+"223 Ridgewood ave s,Minneapolis,MN",44.963583,-93.281777,Yardville,3,7,Steven's Square - Loring Heights,Central,3,02/27/2018,12:41
+"331 19th st ,Minneapolis,MN",44.96382,-93.271116,Yardville,3,6,Steven's Square - Loring Heights,Central,3,02/27/2018,12:42
+"2721 3rd av s,Minneapolis,MN",44.953634,-93.272797,Yardville,3,10,Whittier,Powderhorn,3,02/27/2018,12:55
+"2711 3rd ave s ,Minneapolis,MN",44.953684,-93.272798,Yardville,3,10,Whittier,Powderhorn,3,02/27/2018,12:55
+"819 15th St e,Minneapolis,MN",44.967995,-93.261876,Yardville,3,6,Elliot Park,Central,3,02/27/2018,12:58
+"2936 JOHNSON ST NE,Minneapolis,MN",45.021521,-93.23740500000001,Yardville,1,1,Audubon Park,Northeast,2,02/25/2018,21:07
+"2641 Marshall St NE,Minneapolis,MN",45.016324,-93.27206,Yardville,1,1,Marshall Terrace,Northeast,2,02/26/2018,01:14
+"2111 Marshall St NE,Minneapolis,MN",45.009282,-93.271437,Yardville,1,3,Bottineau,Northeast,2,02/26/2018,01:17
+"1427 Marshall St NE,Minneapolis,MN",45.002316,-93.27081899999999,Yardville,1,3,Sheridan,Northeast,2,02/26/2018,01:24
+"1843 31st ave ,Minneapolis,MN",45.024237,-93.234021,Yardville,1,1,Waite Park,Northeast,2,02/26/2018,01:24
+"112 12th ave ne,Minneapolis,MN",44.999817,-93.267486,Yardville,2,3,Sheridan,Northeast,2,02/26/2018,13:45
+"1702 pierce st ne,Minneapolis,MN",45.005144,-93.241276,Yardville,2,1,Northeast Park,Northeast,2,02/26/2018,13:48
+"1700 Johnson st ne,Minneapolis,MN",45.005014,-93.237492,Yardville,2,1,Northeast Park,Northeast,2,02/26/2018,13:49
+"2214 jackson st ne,Minneapolis,MN",45.010191,-93.24939599999999,Yardville,2,1,Holland,Northeast,2,02/26/2018,13:52
+"2526 taylor st ne,Minneapolis,MN",45.014082,-93.244074,Yardville,2,1,Audubon Park,Northeast,2,02/26/2018,13:55
+"2418 filmore st ne,Minneapolis,MN",45.012805,-93.242499,Yardville,2,1,Windom Park,Northeast,2,02/26/2018,13:57
+"336 19th ave ne,Minneapolis,MN",45.007281,-93.262686,Yardville,2,1,Holland,Northeast,2,02/26/2018,13:58
+"1838 quincy st ne,Minneapolis,MN",45.007305,-93.251231,Yardville,2,1,Logan Park,Northeast,2,02/26/2018,14:00
+"906 23rd ave ne,Minneapolis,MN",45.010661999999996,-93.248612,Yardville,2,1,Holland,Northeast,2,02/26/2018,14:31
+"634 18th ave ne,Minneapolis,MN",45.006239,-93.25668,Yardville,2,1,Logan Park,Northeast,2,02/26/2018,14:33
+"2604 jackson st ne,Minneapolis,MN",45.015187,-93.24911800000001,Yardville,2,1,Holland,Northeast,2,02/26/2018,14:34
+"2510 howard st ne,Minneapolis,MN",45.013518,-93.25335799999999,Yardville,2,1,Holland,Northeast,2,02/26/2018,14:36
+"2630 California St ne,Minneapolis,MN",45.015884,-93.268928,Yardville,2,1,Marshall Terrace,Northeast,2,02/26/2018,14:48
+"2536 filmore st ne,Minneapolis,MN",45.014386,-93.242369,Yardville,2,1,Audubon Park,Northeast,2,02/26/2018,14:49
+"2720 polk st ne,Minneapolis,MN",45.017539,-93.246063,Yardville,2,1,Audubon Park,Northeast,2,02/26/2018,14:51
+"680 24th ave ne,Minneapolis,MN",45.011984000000005,-93.253687,Yardville,2,1,Holland,Northeast,2,02/26/2018,14:52
+"532 37th Ave NE,Minneapolis,MN",45.035301000000004,-93.258707,Yardville,1,1,Columbia Park,Northeast,2,02/26/2018,04:53
+"572 37th Ave NE,Minneapolis,MN",45.035271,-93.25724100000001,Yardville,1,1,Columbia Park,Northeast,2,02/26/2018,04:56
+"562 37th Ave NE,Minneapolis,MN",45.035555,-93.257521,Yardville,1,1,Columbia Park,Northeast,2,02/26/2018,05:36
+"582 37th Ave NE,Minneapolis,MN",45.035306,-93.256943,Yardville,1,1,Columbia Park,Northeast,2,02/26/2018,05:38
+"248 6th st ne,Minneapolis,MN",44.992024,-93.254165,Yardville,2,3,St. Anthony East,Northeast,2,02/26/2018,08:45
+"416 4th ave ne,Minneapolis,MN",44.993017,-93.25729100000001,Yardville,2,3,St. Anthony West,Northeast,2,02/26/2018,08:55
+"802 3rd ave ne,Minneapolis,MN",44.993396999999995,-93.251231,Yardville,2,3,St. Anthony East,Northeast,2,02/26/2018,08:57
+"306 6th ave ne,Minneapolis,MN",44.994564000000004,-93.26024,Yardville,2,3,St. Anthony West,Northeast,2,02/26/2018,09:01
+"674 summer st ne,Minneapolis,MN",44.996901,-93.254237,Yardville,2,3,St. Anthony East,Northeast,2,02/26/2018,09:09
+"1166 14th ave se,Minneapolis,MN",44.992833000000005,-93.231756,Yardville,2,1,Como,University,2,02/26/2018,09:14
+"1126 14th ave se,Minneapolis,MN",44.991731,-93.23204799999999,Yardville,2,1,Como,University,2,02/26/2018,09:15
+"688 Summer st ne,Minneapolis,MN",44.996748,-93.253149,Yardville,2,3,St. Anthony East,Northeast,2,02/26/2018,09:29
+"1176 14th ave SE,Minneapolis,MN",44.993161,-93.231753,Yardville,2,1,Como,University,2,02/26/2018,09:30
+"1124 14th ave Se,Minneapolis,MN",44.991681,-93.23204799999999,Yardville,2,1,Como,University,2,02/26/2018,09:32
+"402 7th ave ne,Minneapolis,MN",44.996106,-93.259573,Yardville,2,3,St. Anthony West,Northeast,2,02/26/2018,09:46
+"308 9th ave ne,Minneapolis,MN",44.997699,-93.262889,Yardville,2,3,St. Anthony West,Northeast,2,02/26/2018,09:52
+"124 9th ave ne,Minneapolis,MN",44.996348,-93.26678100000001,Yardville,2,3,St. Anthony West,Northeast,2,02/26/2018,09:54
+"1122 14th ave se,Minneapolis,MN",44.991631,-93.231738,Yardville,2,1,Como,University,2,02/26/2018,09:57
+"306 9th ave ne,Minneapolis,MN",44.997640000000004,-93.262556,Yardville,2,3,St. Anthony West,Northeast,2,02/26/2018,10:07
+"718 6th st ne,Minneapolis,MN",44.997702000000004,-93.258073,Yardville,2,3,St. Anthony West,Northeast,2,02/26/2018,10:15
+"2626 Ulysses st ne,Minneapolis,MN",45.015825,-93.23620799999999,Yardville,2,1,Audubon Park,Northeast,2,02/26/2018,10:53
+"344 26th ave ne,Minneapolis,MN",45.015119,-93.262827,Yardville,2,1,Holland,Northeast,2,02/26/2018,10:55
+"1400 Grand st ne,Minneapolis,MN",45.001746000000004,-93.269707,Yardville,2,3,Sheridan,Northeast,2,02/26/2018,11:03
+"1208 Main st ne,Minneapolis,MN",45.000094,-93.26800899999999,Yardville,2,3,Sheridan,Northeast,2,02/26/2018,11:04
+"2312 7th st ne,Minneapolis,MN",45.011593,-93.25819399999999,Yardville,2,1,Holland,Northeast,2,02/26/2018,11:06
+"2312 7th st ne,Minneapolis,MN",45.011593,-93.25819399999999,Yardville,2,1,Holland,Northeast,2,02/26/2018,11:09
+"2212 7th st ne,Minneapolis,MN",45.010462,-93.258223,Yardville,2,1,Holland,Northeast,2,02/26/2018,11:13
+"2324 3rd st ne,Minneapolis,MN",45.011977,-93.264628,Yardville,2,3,Bottineau,Northeast,2,02/26/2018,11:17
+"1630 adams st ne,Minneapolis,MN",45.004983,-93.256592,Yardville,2,1,Logan Park,Northeast,2,02/26/2018,11:44
+"1230 3rd st ne,Minneapolis,MN",45.000534,-93.264854,Yardville,2,3,Sheridan,Northeast,2,02/26/2018,11:46
+"634 adams st ne,Minneapolis,MN",44.996131,-93.256252,Yardville,2,3,St. Anthony East,Northeast,2,02/26/2018,11:47
+"3310 cleveland st ne,Minneapolis,MN",45.02812,-93.231043,Yardville,2,1,Waite Park,Northeast,2,02/26/2018,11:50
+"1310 adams st ne,Minneapolis,MN",45.001281,-93.256586,Yardville,2,1,Logan Park,Northeast,2,02/26/2018,11:51
+"738 jefferson st ne,Minneapolis,MN",44.998020000000004,-93.255247,Yardville,2,3,St. Anthony East,Northeast,2,02/26/2018,11:52
+"1406 jefferson st ne,Minneapolis,MN",45.002268,-93.255237,Yardville,2,1,Logan Park,Northeast,2,02/26/2018,11:54
+"1318 jefferson st ne,Minneapolis,MN",45.001509999999996,-93.255,Yardville,2,1,Logan Park,Northeast,2,02/26/2018,11:57
+"612 VanBuren st ne,Minneapolis,MN",44.995567,-93.24883,Yardville,2,3,St. Anthony East,Northeast,2,02/26/2018,12:05
+"718 VanBuren st ne,Minneapolis,MN",44.997544,-93.248879,Yardville,2,3,St. Anthony East,Northeast,2,02/26/2018,12:06
+"2625 Central Ave NE,Minneapolis,MN",45.015855,-93.246832,Yardville,1,1,Audubon Park,Northeast,2,02/26/2018,00:09
+"3300 Central Ave NE,Minneapolis,MN",45.027623,-93.247552,Yardville,1,1,Columbia Park,Northeast,2,02/26/2018,00:18
+"3048 Central Ave NE,Minneapolis,MN",45.023081,-93.24743199999999,Yardville,1,1,Columbia Park,Northeast,2,02/26/2018,00:20
+"1427 Marshall St NE,Minneapolis,MN",45.002316,-93.27081899999999,Yardville,1,3,Sheridan,Northeast,2,02/26/2018,00:31
+"749 spring st ne,Minneapolis,MN",44.995093,-93.25229399999999,Yardville,2,3,St. Anthony East,Northeast,2,02/26/2018,12:31
+"606 taylor st ne,Minneapolis,MN",44.995383000000004,-93.243812,Yardville,2,3,Beltrami,Northeast,2,02/26/2018,12:32
+"1306 spring st ne,Minneapolis,MN",44.994977,-93.240515,Yardville,2,3,Beltrami,Northeast,2,02/26/2018,12:43
+"638 adams st ne,Minneapolis,MN",44.996215,-93.256522,Yardville,2,3,St. Anthony East,Northeast,2,02/26/2018,12:45
+"648 17th ave ne,Minneapolis,MN",45.005099,-93.255717,Yardville,2,1,Logan Park,Northeast,2,02/26/2018,12:47
+"1330 jefferson st ne,Minneapolis,MN",45.001843,-93.255217,Yardville,2,1,Logan Park,Northeast,2,02/26/2018,12:48
+"1330 jefferson st ne,Minneapolis,MN",45.001843,-93.255217,Yardville,2,1,Logan Park,Northeast,2,02/26/2018,12:49
+"1140 Jefferson st ne,Minneapolis,MN",44.999899,-93.254997,Yardville,2,1,Logan Park,Northeast,2,02/26/2018,12:53
+"1427 Marshall St NE,Minneapolis,MN",45.002316,-93.27081899999999,Yardville,1,3,Sheridan,Northeast,2,02/26/2018,00:54
+"1348 Marshall St NE,Minneapolis,MN",45.001007,-93.271139,Yardville,1,3,Sheridan,Northeast,2,02/26/2018,00:56
+"604 15th ave ne,Minneapolis,MN",45.003288,-93.258563,Yardville,2,3,Sheridan,Northeast,2,02/26/2018,12:56
+"430 taylor st ne,Minneapolis,MN",44.994125,-93.243509,Yardville,2,3,Beltrami,Northeast,2,02/26/2018,12:59
+"803 1th st e,Minneapolis,MN",45.006923,-93.25083000000001,Yardville,3,1,Logan Park,Northeast,2,02/27/2018,12:41
+"404 1st st n ,Minneapolis,MN",44.987548,-93.27143199999999,Yardville,1,3,North Loop,Central,1,02/25/2018,22:02
+"900 2nd st N,Minneapolis,MN",44.990919,-93.27911800000001,Yardville,1,3,North Loop,Central,1,02/25/2018,22:13
+"2100 Lyndale ave n,Minneapolis,MN",45.00025,-93.287993,Yardville,1,5,Hawthorne,Near North,1,02/25/2018,22:46
+"2200 Lyndale Ave N,Minneapolis,MN",45.001645,-93.28769799999999,Yardville,1,5,Hawthorne,Near North,1,02/25/2018,22:49
+"500 BLOCK 2 st n,Minneapolis,MN",44.98723,-93.27334499999999,Yardville,1,3,North Loop,Central,1,02/25/2018,22:50
+"502 1st st n,Minneapolis,MN",44.988448,-93.273389,Yardville,1,3,North Loop,Central,1,02/25/2018,22:55
+"2700-2899 LYNDALE AVE N,Minneapolis,MN",45.007733,-93.28797800000001,Yardville,1,5,Hawthorne,Near North,1,02/25/2018,23:07
+"720 1st st n,Minneapolis,MN",44.99028,-93.274734,Yardville,1,3,North Loop,Central,1,02/25/2018,23:08
+"3200 Lyndale Ave N,Minneapolis,MN",45.013111,-93.288021,Yardville,1,4,McKinley,Camden,1,02/25/2018,23:14
+"3500 BLOCK LYNDALE AVE N,Minneapolis,MN",45.018628,-93.288048,Yardville,1,4,McKinley,Camden,1,02/25/2018,23:36
+"920 3rd st n,Minneapolis,MN",44.989492999999996,-93.28133100000001,Yardville,1,3,North Loop,Central,1,02/25/2018,23:37
+"3300 lyndale ave n,Minneapolis,MN",45.015031,-93.287841,Yardville,1,4,McKinley,Camden,1,02/25/2018,23:37
+"3300 Lyndale ave n,Minneapolis,MN",45.015031,-93.287841,Yardville,1,4,McKinley,Camden,1,02/25/2018,23:38
+"2900 lyndale n ,Minneapolis,MN",45.009759,-93.287623,Yardville,1,5,Hawthorne,Near North,1,02/25/2018,23:39
+"3500 Lyndale ave n,Minneapolis,MN",45.018627,-93.28775999999999,Yardville,1,4,McKinley,Camden,1,02/25/2018,23:40
+"3700 Lyndale Ave N,Minneapolis,MN",45.022311,-93.287788,Yardville,1,4,McKinley,Camden,1,02/25/2018,23:41
+"915 3rd st n,Minneapolis,MN",44.988842,-93.281524,Yardville,1,3,North Loop,Central,1,02/25/2018,23:52
+"1100 van white Blvd ,Minneapolis,MN",44.988817,-93.292063,Yardville,1,5,Sumner - Glenwood,Near North,1,02/26/2018,01:10
+"3500-3599 LYNDALE AVE N,Minneapolis,MN",45.018628,-93.288048,Yardville,1,4,McKinley,Camden,1,02/26/2018,01:10
+"1100 van white blvd,Minneapolis,MN",44.988817,-93.292063,Yardville,1,5,Sumner - Glenwood,Near North,1,02/26/2018,01:12
+"1340 QUEEN AVE N,Minneapolis,MN",44.992261,-93.309505,Yardville,2,5,Willard - Hay,Near North,1,02/26/2018,13:12
+"1918 Oliver Ave. N.,Minneapolis,MN",44.999446,-93.306818,Yardville,2,5,Willard - Hay,Near North,1,02/26/2018,13:12
+"821 4th st n,Minneapolis,MN",44.98713,-93.281492,Yardville,1,5,North Loop,Central,1,02/26/2018,01:18
+"600 Van White Memorial Blvd,Minneapolis,MN",44.984487,-93.293873,Yardville,1,5,Sumner - Glenwood,Near North,1,02/26/2018,01:26
+"1508 russell ave n,Minneapolis,MN",44.994448999999996,-93.310463,Yardville,2,5,Willard - Hay,Near North,1,02/26/2018,13:27
+"600-720 VAN WHITE MEMORIAL BLVD,Minneapolis,MN",44.985948,-93.291966,Yardville,1,5,Sumner - Glenwood,Near North,1,02/26/2018,01:29
+"1344 knox ave n,Minneapolis,MN",44.992917,-93.30163399999999,Yardville,2,5,Near - North,Near North,1,02/26/2018,13:30
+"3544 DuPont ave n,Minneapolis,MN",45.020015,-93.293061,Yardville,2,4,McKinley,Camden,1,02/26/2018,13:36
+"801 van white ,Minneapolis,MN",44.986582,-93.293103,Yardville,1,5,Sumner - Glenwood,Near North,1,02/26/2018,01:37
+"1210 11th Ave N,Minneapolis,MN",44.989214000000004,-93.294768,Yardville,2,5,Near - North,Near North,1,02/26/2018,13:37
+"3650 Colfax ave n,Minneapolis,MN",45.0218,-93.29160300000001,Yardville,2,4,McKinley,Camden,1,02/26/2018,13:38
+"701 4th st n,Minneapolis,MN",44.986503000000006,-93.27995200000001,Yardville,1,5,North Loop,Central,1,02/26/2018,01:39
+"801 van white ,Minneapolis,MN",44.986582,-93.293103,Yardville,1,5,Sumner - Glenwood,Near North,1,02/26/2018,01:40
+"3242 DuPont ave n,Minneapolis,MN",45.014542,-93.292792,Yardville,2,4,McKinley,Camden,1,02/26/2018,13:40
+"3418 DuPont ave n,Minneapolis,MN",45.017388000000004,-93.292795,Yardville,2,4,McKinley,Camden,1,02/26/2018,13:42
+"720 van whitee blvd,Minneapolis,MN",44.985948,-93.291966,Yardville,1,5,Sumner - Glenwood,Near North,1,02/26/2018,01:47
+"600 van white blvd,Minneapolis,MN",44.984487,-93.293873,Yardville,1,5,Sumner - Glenwood,Near North,1,02/26/2018,01:49
+"600 BLOCK VAN WHITE MEMORIAL BLVD,Minneapolis,MN",44.984487,-93.293873,Yardville,1,5,Sumner - Glenwood,Near North,1,02/26/2018,01:51
+"800 QUEEN AVE N,Minneapolis,MN",44.98624,-93.309395,Yardville,2,5,Willard - Hay,Near North,1,02/26/2018,13:56
+"741 3rd st n,Minneapolis,MN",44.987188,-93.278607,Yardville,1,3,North Loop,Central,1,02/26/2018,01:58
+"1202 7th Ave. N.,Minneapolis,MN",44.985603999999995,-93.295399,Yardville,2,5,Near - North,Near North,1,02/26/2018,14:08
+"1324 queen ave n,Minneapolis,MN",44.991977,-93.309503,Yardville,2,5,Willard - Hay,Near North,1,02/26/2018,14:11
+"1100-1198 VAN WHITE MEMORIAL BLVD,Minneapolis,MN",44.988817,-93.292063,Yardville,1,5,Sumner - Glenwood,Near North,1,02/26/2018,02:14
+"1420 RUSSELL AVE N,Minneapolis,MN",44.993939000000005,-93.31044399999999,Yardville,2,5,Willard - Hay,Near North,1,02/26/2018,14:20
+"1130 7th ave n,Minneapolis,MN",44.9856,-93.294391,Yardville,2,5,Near - North,Near North,1,02/26/2018,14:26
+"600 van white,Minneapolis,MN",44.984487,-93.293873,Yardville,1,5,Sumner - Glenwood,Near North,1,02/26/2018,02:29
+"1900 Emerson av n,Minneapolis,MN",44.998804,-93.293782,Yardville,1,5,Near - North,Near North,1,02/26/2018,02:30
+"1100 van white Blvd ,Minneapolis,MN",44.988817,-93.292063,Yardville,1,5,Sumner - Glenwood,Near North,1,02/26/2018,02:32
+"4600 Bryant Ave n,Minneapolis,MN",45.038633000000004,-93.291206,Yardville,1,4,Lind - Bohanon,Camden,1,02/26/2018,02:37
+"1204 7th ave n,Minneapolis,MN",44.985603999999995,-93.295427,Yardville,2,5,Near - North,Near North,1,02/26/2018,14:38
+"710 SHERIDAN AVE N,Minneapolis,MN",44.985512,-93.311879,Yardville,2,5,Willard - Hay,Near North,1,02/26/2018,14:46
+"1016 7th Ave. N.,Minneapolis,MN",44.985665000000004,-93.287564,Yardville,2,5,North Loop,Central,1,02/26/2018,14:48
+"3300-3399 FREEMONT AVE N,Minneapolis,MN",45.01522,-93.295591,Yardville,1,4,Folwell,Camden,1,02/26/2018,02:56
+"4100 Fremont Ave n,Minneapolis,MN",45.029726000000004,-93.295474,Yardville,1,4,Webber - Camden,Camden,1,02/26/2018,03:10
+"1900 Dowling ave n ,Minneapolis,MN",45.024065,-93.305448,Yardville,1,4,Folwell,Camden,1,02/26/2018,03:41
+"3400-3499 FREEMONT AVE N,Minneapolis,MN",45.016915000000004,-93.295603,Yardville,1,4,Folwell,Camden,1,02/26/2018,03:58
+"2400-2499 EMERSON AV N,Minneapolis,MN",45.003898,-93.29413199999999,Yardville,1,5,Jordan,Near North,1,02/26/2018,05:12
+"826 aldrich ave n,Minneapolis,MN",44.986773,-93.290697,Yardville,2,5,Sumner - Glenwood,Near North,1,02/26/2018,08:13
+"906 aldrich ave n,Minneapolis,MN",44.987249,-93.290868,Yardville,2,5,Sumner - Glenwood,Near North,1,02/26/2018,08:18
+"1028 ALDRICH AVE N,Minneapolis,MN",44.988278,-93.290773,Yardville,2,5,Sumner - Glenwood,Near North,1,02/26/2018,08:37
+"1202 Humboldt Ave. N.,Minneapolis,MN",44.990894,-93.29818399999999,Yardville,2,5,Near - North,Near North,1,02/26/2018,08:56
+"2206 irving ave n,Minneapolis,MN",45.001794,-93.298548,Yardville,2,5,Jordan,Near North,1,02/26/2018,09:25
+"1320 Irving Ave. N.,Minneapolis,MN",44.992477,-93.299213,Yardville,2,5,Near - North,Near North,1,02/26/2018,09:27
+"1906 irving ave n,Minneapolis,MN",44.999189,-93.299091,Yardville,2,5,Near - North,Near North,1,02/26/2018,09:28
+"1214 IRVING AVE N,Minneapolis,MN",44.990655,-93.299161,Yardville,2,5,Near - North,Near North,1,02/26/2018,09:29
+"2124 4th st n,Minneapolis,MN",45.000543,-93.28494,Yardville,2,5,Hawthorne,Near North,1,02/26/2018,09:44
+"2504 6th st n,Minneapolis,MN",45.004994,-93.286194,Yardville,2,5,Hawthorne,Near North,1,02/26/2018,09:48
+"1226 Irving Ave N,Minneapolis,MN",44.990849,-93.299442,Yardville,2,5,Near - North,Near North,1,02/26/2018,09:51
+"2410 4th st n ,Minneapolis,MN",45.004089,-93.28466800000001,Yardville,2,5,Hawthorne,Near North,1,02/26/2018,09:51
+"1224 JAMES ANE N,Minneapolis,MN",44.990815999999995,-93.300702,Yardville,2,5,Near - North,Near North,1,02/26/2018,09:53
+"2414 4th st n,Minneapolis,MN",45.00421,-93.28461300000001,Yardville,2,5,Hawthorne,Near North,1,02/26/2018,09:54
+"1222 james ave n,Minneapolis,MN",44.990788,-93.30032,Yardville,2,5,Near - North,Near North,1,02/26/2018,10:04
+"1322 Irving ave n ,Minneapolis,MN",44.992533,-93.299438,Yardville,2,5,Near - North,Near North,1,02/26/2018,10:09
+"1920 Logan Ave N,Minneapolis,MN",44.99895,-93.303178,Yardville,2,5,Willard - Hay,Near North,1,02/26/2018,10:16
+"1616 MORGAN AVE N,Minneapolis,MN",44.99541,-93.304467,Yardville,2,5,Willard - Hay,Near North,1,02/26/2018,10:18
+"3216 4th st n,Minneapolis,MN",45.013733,-93.284943,Yardville,2,4,McKinley,Camden,1,02/26/2018,10:36
+"916 LOGAN AVE N,Minneapolis,MN",44.987485,-93.303224,Yardville,2,5,Near - North,Near North,1,02/26/2018,10:39
+"3210 4th St n,Minneapolis,MN",45.013536,-93.284646,Yardville,2,4,McKinley,Camden,1,02/26/2018,10:41
+"1238 Morgan Ave N,Minneapolis,MN",44.99091,-93.30424599999999,Yardville,2,5,Near - North,Near North,1,02/26/2018,10:43
+"3302 6th st n,Minneapolis,MN",45.015005,-93.286489,Yardville,2,4,McKinley,Camden,1,02/26/2018,10:43
+"2918 6th st n,Minneapolis,MN",45.010175,-93.286117,Yardville,2,5,Hawthorne,Near North,1,02/26/2018,10:45
+"1220 morgan ave n,Minneapolis,MN",44.990493,-93.304139,Yardville,2,5,Near - North,Near North,1,02/26/2018,10:51
+"1402 morgan ave n,Minneapolis,MN",44.99315,-93.304172,Yardville,2,5,Willard - Hay,Near North,1,02/26/2018,10:55
+"1314 Logan Ave N,Minneapolis,MN",44.992057,-93.303205,Yardville,2,5,Willard - Hay,Near North,1,02/26/2018,11:00
+"1306 LOGAN AVE N,Minneapolis,MN",44.991788,-93.30320400000001,Yardville,2,5,Willard - Hay,Near North,1,02/26/2018,11:06
+"826 Elwood Ave N,Minneapolis,MN",44.987272999999995,-93.301417,Yardville,2,5,Near - North,Near North,1,02/26/2018,11:22
+"1030 KNOX AE N,Minneapolis,MN",44.988471999999994,-93.30155500000001,Yardville,2,5,Near - North,Near North,1,02/26/2018,11:27
+"3108 6TH ST N,Minneapolis,MN",45.012065,-93.28643199999999,Yardville,2,5,Hawthorne,Near North,1,02/26/2018,11:31
+"3124 6th st n,Minneapolis,MN",45.012245,-93.286429,Yardville,2,5,Hawthorne,Near North,1,02/26/2018,11:32
+"1206 logan ave n,Minneapolis,MN",44.989965000000005,-93.30287299999999,Yardville,2,5,Near - North,Near North,1,02/26/2018,11:34
+"3830 Aldrich av n,Minneapolis,MN",45.024864,-93.28907,Yardville,2,4,Webber - Camden,Camden,1,02/26/2018,11:34
+"3830 aldrich,Minneapolis,MN",45.024864,-93.28907,Yardville,2,4,Webber - Camden,Camden,1,02/26/2018,11:34
+"1312 knox ave n,Minneapolis,MN",44.992069,-93.301664,Yardville,2,5,Near - North,Near North,1,02/26/2018,11:37
+"1228 Knox Ave N,Minneapolis,MN",44.990633,-93.301953,Yardville,2,5,Near - North,Near North,1,02/26/2018,11:43
+"1234 KNOX AVE N,Minneapolis,MN",44.990803,-93.301627,Yardville,2,5,Near - North,Near North,1,02/26/2018,11:54
+"515 1st st n,Minneapolis,MN",44.987603,-93.272769,Yardville,1,3,North Loop,Central,1,02/26/2018,00:00
+"1332 Knox Ave N,Minneapolis,MN",44.992589,-93.301635,Yardville,2,5,Near - North,Near North,1,02/26/2018,12:00
+"716 1st st n,Minneapolis,MN",44.989832,-93.27499300000001,Yardville,1,3,North Loop,Central,1,02/26/2018,00:03
+"4000 Lyndale Ave N,Minneapolis,MN",45.027711,-93.28777600000001,Yardville,1,4,Webber - Camden,Camden,1,02/26/2018,00:06
+"3700 BLOCK LYNDALE AVE N,Minneapolis,MN",45.022309,-93.288049,Yardville,1,4,McKinley,Camden,1,02/26/2018,00:07
+"1009 5th st n,Minneapolis,MN",44.987974,-93.284305,Yardville,1,5,North Loop,Central,1,02/26/2018,00:08
+"921 3rd st n,Minneapolis,MN",44.98887,-93.281562,Yardville,1,3,North Loop,Central,1,02/26/2018,00:29
+"3438 DuPont ave n,Minneapolis,MN",45.018044,-93.292792,Yardville,2,4,McKinley,Camden,1,02/26/2018,12:29
+"3654 Aldrich ave n,Minneapolis,MN",45.021873,-93.28904200000001,Yardville,2,4,McKinley,Camden,1,02/26/2018,12:32
+"810 Oliver Ave N,Minneapolis,MN",44.986464,-93.306696,Yardville,2,5,Near - North,Near North,1,02/26/2018,12:33
+"3650 Aldrich ave n,Minneapolis,MN",45.021764000000005,-93.28903000000001,Yardville,2,4,McKinley,Camden,1,02/26/2018,12:33
+"3614 Bryant av n,Minneapolis,MN",45.020806,-93.290313,Yardville,2,4,McKinley,Camden,1,02/26/2018,12:35
+"1100 Van White Memorial blvd,Minneapolis,MN",44.988817,-93.292063,Yardville,1,5,Sumner - Glenwood,Near North,1,02/26/2018,00:39
+"1240 logan ave n,Minneapolis,MN",44.990953000000005,-93.303208,Yardville,2,5,Near - North,Near North,1,02/26/2018,12:44
+"1424 newton ave n,Minneapolis,MN",44.993845,-93.305706,Yardville,2,5,Willard - Hay,Near North,1,02/26/2018,12:47
+"1942 OLIVER AVE N,Minneapolis,MN",45.000139000000004,-93.306616,Yardville,2,5,Willard - Hay,Near North,1,02/26/2018,12:49
+"518 4th st n,Minneapolis,MN",44.985084,-93.277539,Yardville,1,3,North Loop,Central,1,02/26/2018,00:55
+"1100 van white Blvd ,Minneapolis,MN",44.988817,-93.292063,Yardville,1,5,Sumner - Glenwood,Near North,1,02/26/2018,00:56
+"1101 Van White Memorial blvd,Minneapolis,MN",44.989251,-93.29346899999999,Yardville,1,5,Near - North,Near North,1,02/26/2018,00:57
+"1101 van white ,Minneapolis,MN",44.989251,-93.29346899999999,Yardville,1,5,Near - North,Near North,1,02/26/2018,00:59
+"211 16th Ave N,Minneapolis,MN",44.995216,-93.280637,Yardville,3,5,Near - North,Near North,1,02/27/2018,13:11
+"3213 4th St n,Minneapolis,MN",45.013690000000004,-93.285325,Yardville,3,4,McKinley,Camden,1,02/27/2018,08:25
+"2133 4th st n ,Minneapolis,MN",45.001135,-93.285251,Yardville,3,5,Hawthorne,Near North,1,02/27/2018,08:33
+"3939 aldrich ave n ,Minneapolis,MN",45.02689,-93.289658,Yardville,3,4,Webber - Camden,Camden,1,02/27/2018,09:21
+"3815 Colfax Ave n ,Minneapolis,MN",45.024446999999995,-93.29214499999999,Yardville,3,4,Webber - Camden,Camden,1,02/27/2018,09:33
+"903 Newton Ave. N.,Minneapolis,MN",44.987068,-93.305975,Yardville,3,5,Near - North,Near North,1,02/27/2018,09:41
+"3007 dupont Ave n ,Minneapolis,MN",45.011601,-93.293363,Yardville,3,5,Hawthorne,Near North,1,02/27/2018,10:06
+"3215 Colfax Ave n ,Minneapolis,MN",45.013676000000004,-93.292149,Yardville,3,4,McKinley,Camden,1,02/27/2018,10:14
+"1125 Newton Ave N,Minneapolis,MN",44.989506,-93.305725,Yardville,3,5,Near - North,Near North,1,02/27/2018,10:20
+"1615 NEWTON AVE N,Minneapolis,MN",44.995745,-93.30599000000001,Yardville,3,5,Willard - Hay,Near North,1,02/27/2018,10:30
+"711 Oliver Ave N,Minneapolis,MN",44.985490999999996,-93.307311,Yardville,3,5,Near - North,Near North,1,02/27/2018,10:41
+"2403 aldrich ave n ,Minneapolis,MN",45.003912,-93.289534,Yardville,3,5,Hawthorne,Near North,1,02/27/2018,10:51
+"3311 Thomas Ave n,Minneapolis,MN",45.015436,-93.313644,Yardville,3,4,Cleveland,Camden,1,02/27/2018,10:57
+"3243 aldrich ave n ,Minneapolis,MN",45.014508,-93.289636,Yardville,3,4,McKinley,Camden,1,02/27/2018,11:02
+"715 OLIVER AVE N,Minneapolis,MN",44.985607,-93.307347,Yardville,3,5,Near - North,Near North,1,02/27/2018,11:05
+"2909 Bryant Ave n ,Minneapolis,MN",45.009895,-93.290787,Yardville,3,5,Hawthorne,Near North,1,02/27/2018,11:35
+"1703 12TH AVE N,Minneapolis,MN",44.989697,-93.301994,Yardville,3,5,Near - North,Near North,1,02/27/2018,11:38
+"2521 Oake Park Ave N,Minneapolis,MN",44.987912,-93.312366,Yardville,3,5,Willard - Hay,Near North,1,02/27/2018,11:43
+"3537 dupont Ave n ,Minneapolis,MN",45.019615,-93.293063,Yardville,3,4,McKinley,Camden,1,02/27/2018,11:57
+"2019 Upton Ave N,Minneapolis,MN",45.000264,-93.314891,Yardville,3,5,Willard - Hay,Near North,1,02/27/2018,12:26
+"1803 12TH AVE N,Minneapolis,MN",44.989695000000005,-93.303241,Yardville,3,5,Near - North,Near North,1,02/27/2018,12:34
+"3623 dupont Ave n ,Minneapolis,MN",45.021056,-93.293376,Yardville,3,4,Folwell,Camden,1,02/27/2018,12:47
+"1009 39th ave n ,Minneapolis,MN",45.025622999999996,-93.291988,Yardville,3,4,Webber - Camden,Camden,1,02/27/2018,12:49

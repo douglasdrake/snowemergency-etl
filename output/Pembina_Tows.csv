@@ -1,0 +1,963 @@
+Location,Latitude,Longitude,Day,Ward,Neighborhood,Community,Tow_Zone,Date,Time,Emergency
+"3235 2nd st n ,Minneapolis,MN",45.01432,-93.28110500000001,1,4,McKinley,Camden,1,01/22/2018,21:26,Pembina
+"4635 lyndale ave n,Minneapolis,MN",45.039590000000004,-93.287688,1,4,Lind - Bohanon,Camden,1,01/22/2018,21:30,Pembina
+"2430 2nd St n ,Minneapolis,MN",45.004469,-93.27950799999999,1,5,Hawthorne,Near North,1,01/22/2018,21:35,Pembina
+"4615 lyndale ave n,Minneapolis,MN",45.038999999999994,-93.287739,1,4,Lind - Bohanon,Camden,1,01/22/2018,21:38,Pembina
+"3520 Chicago ave s,Minneapolis,MN",44.938743,-93.262878,1,9,Central,Powderhorn,5,01/22/2018,21:43,Pembina
+"3618 Chicago Avenue South,Minneapolis,MN",44.937092,-93.26253,1,8,Central,Powderhorn,5,01/22/2018,21:47,Pembina
+"3037 HOLMES AVE,Minneapolis,MN",44.94706,-93.29919699999999,1,10,ECCO,Calhoun Isle,5,01/22/2018,21:48,Pembina
+"3000 Block of HOLMES AVE S,Minneapolis,MN",44.947815000000006,-93.299551,1,10,ECCO,Calhoun Isle,5,01/22/2018,21:58,Pembina
+"3235 Chicago Ave S,Minneapolis,MN",44.943678999999996,-93.262619,1,9,Central,Powderhorn,5,01/22/2018,21:59,Pembina
+"300 15TH ST W,Minneapolis,MN",44.967838,-93.282678,1,7,Loring Park,Central,3,01/22/2018,22:10,Pembina
+"116 13TH AVE NE,Minneapolis,MN",45.000322,-93.269359,1,3,Sheridan,Northeast,2,01/22/2018,22:10,Pembina
+"2428 2nd St n ,Minneapolis,MN",45.004427,-93.27950799999999,1,5,Hawthorne,Near North,1,01/22/2018,22:12,Pembina
+"2431 2nd St n ,Minneapolis,MN",45.004026,-93.280517,1,5,Hawthorne,Near North,1,01/22/2018,22:16,Pembina
+"200 university Ave sr,Minneapolis,MN",44.985938,-93.253258,1,3,Marcy Holmes,University,4,01/22/2018,22:19,Pembina
+"2819 Johnson St NE,Minneapolis,MN",45.019133000000004,-93.23675,1,1,Audubon Park,Northeast,2,01/22/2018,22:20,Pembina
+"2308 Johnson St NE,Minneapolis,MN",45.011841,-93.237439,1,1,Windom Park,Northeast,2,01/22/2018,22:21,Pembina
+"300 2nd Ave se,Minneapolis,MN",44.98623,-93.25345,1,3,Marcy Holmes,University,4,01/22/2018,22:23,Pembina
+"600 BLOCK UNIVERSITY AVE SE,Minneapolis,MN",44.983577000000004,-93.247612,1,3,Marcy Holmes,University,4,01/22/2018,22:25,Pembina
+"100 University ave,Minneapolis,MN",44.986312,-93.254708,1,3,Marcy Holmes,University,4,01/22/2018,22:26,Pembina
+"300 15st w,Minneapolis,MN",44.967838,-93.282678,1,7,Loring Park,Central,3,01/22/2018,22:28,Pembina
+"3823 lyndale ave n,Minneapolis,MN",45.024645,-93.288374,1,4,Webber - Camden,Camden,1,01/22/2018,22:31,Pembina
+"200 w15th,Minneapolis,MN",44.967869,-93.281234,1,7,Loring Park,Central,3,01/22/2018,22:33,Pembina
+"4709 Bryant Ave n,Minneapolis,MN",45.040605,-93.291454,1,4,Lind - Bohanon,Camden,1,01/22/2018,22:35,Pembina
+"3527 lyndale ave n ,Minneapolis,MN",45.019304,-93.28835,1,4,McKinley,Camden,1,01/22/2018,22:36,Pembina
+"300 15th street w,Minneapolis,MN",44.967838,-93.282678,1,7,Loring Park,Central,3,01/22/2018,22:37,Pembina
+"200 15TH ST W,Minneapolis,MN",44.967869,-93.281234,1,7,Loring Park,Central,3,01/22/2018,22:39,Pembina
+"300 2nd ave se ,Minneapolis,MN",44.98623,-93.25345,1,3,Marcy Holmes,University,4,01/22/2018,22:42,Pembina
+"1417 LaSalle Ave,Minneapolis,MN",44.968253999999995,-93.278945,1,7,Loring Park,Central,3,01/22/2018,22:58,Pembina
+"200 5th ave se,Minneapolis,MN",44.983599,-93.249239,1,3,Marcy Holmes,University,4,01/22/2018,23:01,Pembina
+"5128 Bryant Ave n ,Minneapolis,MN",45.048476,-93.291253,1,4,Lind - Bohanon,Camden,1,01/22/2018,23:04,Pembina
+"200 5th ave se,Minneapolis,MN",44.983599,-93.249239,1,3,Marcy Holmes,University,4,01/22/2018,23:04,Pembina
+"4144 Chicago Ave S,Minneapolis,MN",44.927345,-93.26281999999999,1,8,Bryant,Powderhorn,5,01/22/2018,23:04,Pembina
+"3113 Bloomington Ave S,Minneapolis,MN",44.946083,-93.252185,1,9,Powderhorn Park,Powderhorn,6,01/22/2018,23:04,Pembina
+"300 15 St W,Minneapolis,MN",44.967838,-93.282678,1,7,Loring Park,Central,3,01/22/2018,23:06,Pembina
+"3100 Central Ave NE,Minneapolis,MN",45.025578,-93.247427,1,1,Columbia Park,Northeast,2,01/22/2018,23:08,Pembina
+"3115 Bloomington ave,Minneapolis,MN",44.946011,-93.252482,1,9,Powderhorn Park,Powderhorn,6,01/22/2018,23:09,Pembina
+"3521 lyndale ave n ,Minneapolis,MN",45.019191,-93.288042,1,4,McKinley,Camden,1,01/22/2018,23:10,Pembina
+"1504 LASALLE AVE,Minneapolis,MN",44.967319,-93.279823,1,7,Loring Park,Central,3,01/22/2018,23:11,Pembina
+"4537 Bryant Ave n ,Minneapolis,MN",45.037765,-93.291411,1,4,Lind - Bohanon,Camden,1,01/22/2018,23:11,Pembina
+"4535 Bryant Ave n,Minneapolis,MN",45.037715999999996,-93.291638,1,4,Lind - Bohanon,Camden,1,01/22/2018,23:13,Pembina
+"1512 lasalle ave,Minneapolis,MN",44.967155,-93.279823,1,7,Loring Park,Central,3,01/22/2018,23:13,Pembina
+"400 university ave se ,Minneapolis,MN",44.984306,-93.25001400000001,1,3,Marcy Holmes,University,4,01/22/2018,23:13,Pembina
+"3211 lyndale ave n ,Minneapolis,MN",45.013593,-93.288326,1,4,McKinley,Camden,1,01/22/2018,23:14,Pembina
+"799 main st se,Minneapolis,MN",44.981425,-93.24796500000001,1,3,Marcy Holmes,University,4,01/22/2018,23:17,Pembina
+"3504 Bloomington Avenue South,Minneapolis,MN",44.939267,-93.252429,1,9,Powderhorn Park,Powderhorn,6,01/22/2018,23:17,Pembina
+"3021 Holmes ave e,Minneapolis,MN",44.947595,-93.299318,1,10,ECCO,Calhoun Isle,5,01/22/2018,23:19,Pembina
+"1353 LaSalle Ave,Minneapolis,MN",44.969361,-93.27933399999999,1,7,Loring Park,Central,3,01/22/2018,23:23,Pembina
+"4013 Bloomington Avenue South,Minneapolis,MN",44.929971,-93.25200799999999,1,8,Bancroft,Powderhorn,6,01/22/2018,23:28,Pembina
+"1819 LaSalle Ave,Minneapolis,MN",44.964773,-93.279336,1,7,Steven's Square - Loring Heights,Central,3,01/22/2018,23:30,Pembina
+"3433 Bloomington Avenue South,Minneapolis,MN",44.940328,-93.25210899999999,1,9,Powderhorn Park,Powderhorn,6,01/22/2018,23:32,Pembina
+"3128 4TH AVE S,Minneapolis,MN",44.945719,-93.270284,1,9,Central,Powderhorn,5,01/22/2018,23:33,Pembina
+"5th ave se & 2ND St se,Minneapolis,MN",44.983503000000006,-93.249839,1,3,Marcy Holmes,University,4,01/22/2018,23:34,Pembina
+"5500-5599 Penn ave ,Minneapolis,MN",44.903188,-93.309017,1,13,Armatage,Southwest,5,01/22/2018,23:37,Pembina
+"1820 LASALLE AVE,Minneapolis,MN",44.964715999999996,-93.279336,1,7,Steven's Square - Loring Heights,Central,3,01/22/2018,23:38,Pembina
+"700-799 university ave se,Minneapolis,MN",44.983246,-93.245964,1,3,Marcy Holmes,University,4,01/22/2018,23:39,Pembina
+"300 16th Ave we,Minneapolis,MN",44.978415999999996,-93.233797,1,2,University of Minnesota,University,4,01/22/2018,23:40,Pembina
+"5511 penn ave,Minneapolis,MN",44.90292,-93.308357,1,13,Armatage,Southwest,5,01/22/2018,23:40,Pembina
+"1824 LaSalle,Minneapolis,MN",44.964444,-93.279336,1,7,Steven's Square - Loring Heights,Central,3,01/22/2018,23:41,Pembina
+"700-799 university ave se,Minneapolis,MN",44.983246,-93.245964,1,3,Marcy Holmes,University,4,01/22/2018,23:42,Pembina
+"2111 lyndale ave n ,Minneapolis,MN",45.000686,-93.288314,1,5,Hawthorne,Near North,1,01/22/2018,23:42,Pembina
+"3940 Bloomington Ave,Minneapolis,MN",44.931090999999995,-93.252719,1,8,Bancroft,Powderhorn,6,01/22/2018,23:51,Pembina
+"3217 lyndale Ave n,Minneapolis,MN",45.013742,-93.288327,1,4,McKinley,Camden,1,01/22/2018,23:54,Pembina
+"2500 2nd st n ,Minneapolis,MN",45.00496,-93.27964300000001,1,5,Hawthorne,Near North,1,01/22/2018,23:54,Pembina
+"1905 lasalle av s,Minneapolis,MN",44.963649,-93.279337,1,7,Steven's Square - Loring Heights,Central,3,01/22/2018,23:56,Pembina
+"4529 4th ave a ,Minneapolis,MN",44.920618,-93.269968,1,8,Regina,Nokomis,5,01/22/2018,23:56,Pembina
+"1581 essex,Minneapolis,MN",44.971358,-93.222954,1,2,Prospect Park - East River Road,University,4,01/22/2018,23:57,Pembina
+"4200 block of 3rd ave s,Minneapolis,MN",44.926773,-93.272924,1,8,Regina,Nokomis,5,01/22/2018,23:58,Pembina
+"3909 4th ave s ,Minneapolis,MN",44.931967,-93.269772,1,8,Bryant,Powderhorn,5,01/22/2018,23:59,Pembina
+"2107 Blaisdell Ave S,Minneapolis,MN",44.961601,-93.279127,1,10,Whittier,Powderhorn,3,01/23/2018,00:01,Pembina
+"715 2nd st n ,Minneapolis,MN",44.988743,-93.2766,1,3,North Loop,Central,1,01/23/2018,00:04,Pembina
+"2199 Washington Ave NE,Minneapolis,MN",45.009996,-93.256801,1,1,Holland,Northeast,2,01/23/2018,00:09,Pembina
+"2117 Blaisdell Ave S,Minneapolis,MN",44.961318,-93.279117,1,10,Whittier,Powderhorn,3,01/23/2018,00:09,Pembina
+"399 8th Ave NE,Minneapolis,MN",44.997302000000005,-93.26050500000001,1,3,St. Anthony West,Northeast,2,01/23/2018,00:11,Pembina
+"200 27th ave se,Minneapolis,MN",44.971363000000004,-93.219368,1,2,Prospect Park - East River Road,University,4,01/23/2018,00:12,Pembina
+"1425 LaSalle Ave,Minneapolis,MN",44.96798,-93.279085,1,7,Loring Park,Central,3,01/23/2018,00:13,Pembina
+"1501 LaSalle Ave,Minneapolis,MN",44.967481,-93.279117,1,7,Loring Park,Central,3,01/23/2018,00:13,Pembina
+"2410 Emerson ave n,Minneapolis,MN",45.004125,-93.293836,1,5,Hawthorne,Near North,1,01/23/2018,00:14,Pembina
+"3100 BLOCK OF 3RD AV S,Minneapolis,MN",44.946542,-93.272829,1,9,Central,Powderhorn,5,01/23/2018,00:14,Pembina
+"3000 block of 3rd Avenue South,Minneapolis,MN",44.948332,-93.272829,1,9,Central,Powderhorn,5,01/23/2018,00:14,Pembina
+"900 20th Ave s,Minneapolis,MN",44.963577,-93.244662,1,6,Seward,Longfellow,4,01/23/2018,00:14,Pembina
+"2113 BLAISDELL AVE S ,Minneapolis,MN",44.961433,-93.27912099999999,1,10,Whittier,Powderhorn,3,01/23/2018,00:15,Pembina
+"999 20 Ave S,Minneapolis,MN",44.962790999999996,-93.244077,1,6,Seward,Longfellow,4,01/23/2018,00:15,Pembina
+"1299 2nd St NE,Minneapolis,MN",45.0009,-93.266172,1,3,Sheridan,Northeast,2,01/23/2018,00:17,Pembina
+"3100 block of 3rd Avenue South,Minneapolis,MN",44.946542,-93.272829,1,9,Central,Powderhorn,5,01/23/2018,00:17,Pembina
+"2199 Washington Ave ne,Minneapolis,MN",45.009996,-93.256801,1,1,Holland,Northeast,2,01/23/2018,00:19,Pembina
+"1700 Washington Ave NE,Minneapolis,MN",45.005401,-93.257829,1,1,Holland,Northeast,2,01/23/2018,00:21,Pembina
+"3300 3rd ave s,Minneapolis,MN",44.943032,-93.273129,1,9,Central,Powderhorn,5,01/23/2018,00:22,Pembina
+"3300 3rd ave s,Minneapolis,MN",44.943032,-93.273129,1,9,Central,Powderhorn,5,01/23/2018,00:25,Pembina
+"2525 blaisdell av s,Minneapolis,MN",44.956388000000004,-93.279256,1,10,Whittier,Powderhorn,3,01/23/2018,00:25,Pembina
+"2527 Blaisdell Ave S,Minneapolis,MN",44.956844,-93.279628,1,10,Whittier,Powderhorn,3,01/23/2018,00:27,Pembina
+"2111 blaisdell ave s,Minneapolis,MN",44.961533,-93.279611,1,10,Whittier,Powderhorn,3,01/23/2018,00:30,Pembina
+"2201 9TH ST S,Minneapolis,MN",44.963997,-93.240913,1,6,Seward,Longfellow,4,01/23/2018,00:30,Pembina
+"2200 BLOCK 9TH ST S,Minneapolis,MN",44.964431,-93.240065,1,2,Cedar Riverside,University,4,01/23/2018,00:30,Pembina
+"2100-2199 9 ST S,Minneapolis,MN",44.964017999999996,-93.242491,1,6,Seward,Longfellow,4,01/23/2018,00:31,Pembina
+"3107 Cedar Ave S,Minneapolis,MN",44.946298999999996,-93.247057,1,9,Corcoran,Powderhorn,6,01/23/2018,00:31,Pembina
+"2120 Clinton Ave S,Minneapolis,MN",44.961131,-93.27178599999999,1,10,Whittier,Powderhorn,3,01/23/2018,00:31,Pembina
+"1507 LaSalle Ave,Minneapolis,MN",44.967290000000006,-93.279005,1,7,Loring Park,Central,3,01/23/2018,00:35,Pembina
+"1902 LaSalle Ave,Minneapolis,MN",44.963662,-93.279776,1,7,Steven's Square - Loring Heights,Central,3,01/23/2018,00:35,Pembina
+"1127 van white ln ,Minneapolis,MN",44.993061,-93.288813,1,5,Near - North,Near North,1,01/23/2018,00:36,Pembina
+"300 block 27th Ave Southeast,Minneapolis,MN",44.972586,-93.218414,1,2,Prospect Park - East River Road,University,4,01/23/2018,00:39,Pembina
+"300 27th Ave se ,Minneapolis,MN",44.972586,-93.218414,1,2,Prospect Park - East River Road,University,4,01/23/2018,00:39,Pembina
+"9th st & 21st ave so,Minneapolis,MN",44.964017999999996,-93.24250699999999,1,6,Seward,Longfellow,4,01/23/2018,00:40,Pembina
+"901 20 Ave S,Minneapolis,MN",44.963975,-93.244086,1,6,Seward,Longfellow,4,01/23/2018,00:41,Pembina
+"900 20 Ave S,Minneapolis,MN",44.963577,-93.244662,1,6,Seward,Longfellow,4,01/23/2018,00:41,Pembina
+"3300 block of 3rd ave s,Minneapolis,MN",44.943048,-93.272803,1,9,Central,Powderhorn,5,01/23/2018,00:46,Pembina
+"2741 Blaisdell Ave S,Minneapolis,MN",44.952371,-93.279191,1,10,Whittier,Powderhorn,3,01/23/2018,00:47,Pembina
+"2217 blaisDELL AVE S,Minneapolis,MN",44.960189,-93.279601,1,10,Whittier,Powderhorn,3,01/23/2018,00:48,Pembina
+"2711 Blaisdell Ave S,Minneapolis,MN",44.953557,-93.279658,1,10,Whittier,Powderhorn,3,01/23/2018,00:50,Pembina
+"4211 Thomas Ave n ,Minneapolis,MN",45.031759,-93.3139,1,4,Victory,Camden,1,01/23/2018,00:51,Pembina
+"3912 Thomas Ave n ,Minneapolis,MN",45.026374,-93.313115,1,4,Victory,Camden,1,01/23/2018,00:54,Pembina
+"3519 42nd Street East,Minneapolis,MN",44.926741,-93.22094,1,12,Hiawatha,Longfellow,6,01/23/2018,00:57,Pembina
+"2200 9th st s,Minneapolis,MN",44.964431,-93.240065,1,2,Cedar Riverside,University,4,01/23/2018,00:59,Pembina
+"2299 9 St S,Minneapolis,MN",44.963981,-93.238853,1,6,Seward,Longfellow,4,01/23/2018,01:01,Pembina
+"2228 31st Street East,Minneapolis,MN",44.946717,-93.240135,1,9,Corcoran,Powderhorn,6,01/23/2018,01:02,Pembina
+"1119 van white memorial Blvd ,Minneapolis,MN",44.981657,-93.293603,1,5,Sumner - Glenwood,Near North,3,01/23/2018,01:02,Pembina
+"5414 34TH AVE S,Minneapolis,MN",44.904855,-93.22318100000001,1,11,Wenonah,Nokomis,6,01/23/2018,01:02,Pembina
+"5306 28TH AVE S,Minneapolis,MN",44.906855,-93.232281,1,11,Keewaydin,Nokomis,6,01/23/2018,01:02,Pembina
+"2739 blaisdell av s,Minneapolis,MN",44.953035,-93.279657,1,10,Whittier,Powderhorn,3,01/23/2018,01:04,Pembina
+"3300 BLOCK OF 3RD AV S,Minneapolis,MN",44.943048,-93.272803,1,9,Central,Powderhorn,5,01/23/2018,01:05,Pembina
+"2709 Blaisdell Ave S,Minneapolis,MN",44.953359000000006,-93.279214,1,10,Whittier,Powderhorn,3,01/23/2018,01:06,Pembina
+"5628 28th Ave s,Minneapolis,MN",44.900795,-93.232636,1,11,Wenonah,Nokomis,6,01/23/2018,01:09,Pembina
+"2507 BLAISDELL AVE S,Minneapolis,MN",44.95689,-93.279501,1,10,Whittier,Powderhorn,3,01/23/2018,01:10,Pembina
+"3000-3099 3rd ave s,Minneapolis,MN",44.948332,-93.272829,1,9,Central,Powderhorn,5,01/23/2018,01:11,Pembina
+"2821 BLAISDELL AVE S,Minneapolis,MN",44.951681,-93.279658,1,10,Whittier,Powderhorn,3,01/23/2018,01:11,Pembina
+"2819 blaisdell ave s,Minneapolis,MN",44.951706,-93.279658,1,10,Whittier,Powderhorn,3,01/23/2018,01:12,Pembina
+"2531 BLAISDELL AVE S,Minneapolis,MN",44.956804,-93.279628,1,10,Whittier,Powderhorn,3,01/23/2018,01:14,Pembina
+"3100-3199 3rd ave s,Minneapolis,MN",44.946542,-93.272829,1,9,Central,Powderhorn,5,01/23/2018,01:15,Pembina
+"2508 Emerson ave n ,Minneapolis,MN",45.005241,-93.293853,1,5,Hawthorne,Near North,1,01/23/2018,01:16,Pembina
+"1132 como ave se,Minneapolis,MN",44.987848,-93.23458000000001,1,2,Como,University,4,01/23/2018,01:19,Pembina
+"638 van white memorial Blvd ,Minneapolis,MN",44.98512,-93.293356,1,5,Sumner - Glenwood,Near North,1,01/23/2018,01:20,Pembina
+"2606 Emerson ave n ,Minneapolis,MN",45.006237,-93.294325,1,5,Jordan,Near North,1,01/23/2018,01:22,Pembina
+"200 27th Ave se ,Minneapolis,MN",44.971363000000004,-93.219368,1,2,Prospect Park - East River Road,University,4,01/23/2018,01:24,Pembina
+"200 block 27th av se,Minneapolis,MN",44.971363000000004,-93.219368,1,2,Prospect Park - East River Road,University,4,01/23/2018,01:24,Pembina
+"800 4th st se,Minneapolis,MN",44.983458,-93.24402099999999,1,3,Marcy Holmes,University,4,01/23/2018,01:27,Pembina
+"2500 9th st e,Minneapolis,MN",44.964186,-93.235391,1,6,Seward,Longfellow,4,01/23/2018,01:31,Pembina
+"999 20 Ave S,Minneapolis,MN",44.962790999999996,-93.244077,1,6,Seward,Longfellow,4,01/23/2018,01:34,Pembina
+"2535 BLAISDELL,Minneapolis,MN",44.956726,-93.27963000000001,1,10,Whittier,Powderhorn,3,01/23/2018,01:36,Pembina
+"3214 Emerson Ave n ,Minneapolis,MN",45.013686,-93.294078,1,4,Folwell,Camden,1,01/23/2018,01:37,Pembina
+"9th st & 21st ave so,Minneapolis,MN",44.964017999999996,-93.24250699999999,1,6,Seward,Longfellow,4,01/23/2018,01:38,Pembina
+"2200 9th st s,Minneapolis,MN",44.964431,-93.240065,1,2,Cedar Riverside,University,4,01/23/2018,01:41,Pembina
+"2619 blaisdell av s,Minneapolis,MN",44.954553999999995,-93.279647,1,10,Whittier,Powderhorn,3,01/23/2018,01:45,Pembina
+"2500 Washington Ave NE,Minneapolis,MN",45.013503,-93.25671899999999,1,1,Holland,Northeast,2,01/23/2018,01:45,Pembina
+"1017 18th Ave NE,Minneapolis,MN",45.00611,-93.244895,1,1,Windom Park,Northeast,2,01/23/2018,01:46,Pembina
+"2547 Blaisdell Ave S,Minneapolis,MN",44.955776,-93.279335,1,10,Whittier,Powderhorn,3,01/23/2018,01:46,Pembina
+"2500 Butler pl,Minneapolis,MN",44.964647,-93.236161,1,2,Cedar Riverside,University,4,01/23/2018,01:52,Pembina
+"4400 BLOCK OF 3RD AVE S,Minneapolis,MN",44.923146,-93.272777,1,8,Regina,Nokomis,5,01/23/2018,01:53,Pembina
+"2810 Plymouth Ave n,Minneapolis,MN",44.99154,-93.316061,1,5,Willard - Hay,Near North,1,01/23/2018,01:54,Pembina
+"3400 BLOCK FREMONT AVE N, North,MN",45.016915000000004,-93.295603,1,4,Folwell,Camden,1,01/23/2018,01:56,Pembina
+"300 27th Ave se ,Minneapolis,MN",44.972586,-93.218414,1,2,Prospect Park - East River Road,University,4,01/23/2018,01:59,Pembina
+"2648 Emerson ave n ,Minneapolis,MN",45.007405,-93.293945,1,5,Hawthorne,Near North,1,01/23/2018,02:00,Pembina
+"2699 9 St S,Minneapolis,MN",44.96399,-93.232986,1,6,Seward,Longfellow,4,01/23/2018,02:02,Pembina
+"200 block 27th av se,Minneapolis,MN",44.971363000000004,-93.219368,1,2,Prospect Park - East River Road,University,4,01/23/2018,02:03,Pembina
+"4600 BLOCK OF 3RD AV S,Minneapolis,MN",44.919538,-93.27282,1,8,Field,Nokomis,5,01/23/2018,02:04,Pembina
+"500 block of 8th st s,Minneapolis,MN",44.973033,-93.266251,1,7,Downtown West,Central,3,01/23/2018,02:10,Pembina
+"3600 block Fremont ave n ,Minneapolis,MN",45.020579999999995,-93.29562,1,4,Folwell,Camden,1,01/23/2018,02:15,Pembina
+"2423 Plymouth Ave n ,Minneapolis,MN",44.991341,-93.311704,1,5,Willard - Hay,Near North,1,01/23/2018,02:15,Pembina
+"2100 9th st s,Minneapolis,MN",44.964017999999996,-93.242491,1,6,Seward,Longfellow,4,01/23/2018,02:16,Pembina
+"2511 Aldrich Ave S,Minneapolis,MN",44.956903999999994,-93.289037,1,10,Lowry Hill East,Calhoun Isle,3,01/23/2018,02:17,Pembina
+"2311 Harriet Ave S,Minneapolis,MN",44.95969,-93.285459,1,10,Whittier,Powderhorn,3,01/23/2018,02:17,Pembina
+"2200 9th st s,Minneapolis,MN",44.964431,-93.240065,1,2,Cedar Riverside,University,4,01/23/2018,02:20,Pembina
+"4600 block of 3rd Avenue South,Minneapolis,MN",44.919538,-93.27282,1,8,Field,Nokomis,5,01/23/2018,02:21,Pembina
+"500 8 St S,Minneapolis,MN",44.972784999999995,-93.265664,1,7,Elliot Park,Central,3,01/23/2018,02:22,Pembina
+"4500 block of 3rd Avenue South,Minneapolis,MN",44.921353,-93.272798,1,8,Regina,Nokomis,5,01/23/2018,02:25,Pembina
+"1047 7th st n ,Minneapolis,MN",44.988640000000004,-93.290266,1,5,Sumner - Glenwood,Near North,1,01/23/2018,02:26,Pembina
+"624 3rd st n,Minneapolis,MN",44.986201,-93.27721600000001,1,3,North Loop,Central,1,01/23/2018,02:30,Pembina
+"2801 e 44th st,Minneapolis,MN",44.92328,-93.232141,1,12,Ericsson,Nokomis,6,01/23/2018,02:32,Pembina
+"400 22nd Ave s,Minneapolis,MN",44.969204,-93.240904,1,2,Cedar Riverside,University,4,01/23/2018,02:35,Pembina
+"2300 butler pl,Minneapolis,MN",44.964658,-93.23932099999999,1,2,Cedar Riverside,University,4,01/23/2018,02:35,Pembina
+"9th st & riverside,Minneapolis,MN",44.96402,-93.232639,1,2,Seward,Longfellow,4,01/23/2018,02:37,Pembina
+"2325 Blaisdell ave s,Minneapolis,MN",44.959877,-93.27960300000001,1,10,Whittier,Powderhorn,3,01/23/2018,02:38,Pembina
+"3406 Bloomington ave s,Minneapolis,MN",44.941036,-93.25244,1,9,Powderhorn Park,Powderhorn,6,01/23/2018,02:39,Pembina
+"3500 block of 3rd ave s,Minneapolis,MN",44.939440999999995,-93.272774,1,9,Central,Powderhorn,5,01/23/2018,02:45,Pembina
+"2100 9 St S,Minneapolis,MN",44.964017999999996,-93.242491,1,6,Seward,Longfellow,4,01/23/2018,02:45,Pembina
+"2299 9 St S,Minneapolis,MN",44.963981,-93.238853,1,6,Seward,Longfellow,4,01/23/2018,02:45,Pembina
+"500 block of 8th st s,Minneapolis,MN",44.973033,-93.266251,1,7,Downtown West,Central,3,01/23/2018,02:47,Pembina
+"200 5th ave se,Minneapolis,MN",44.983599,-93.249239,1,3,Marcy Holmes,University,4,01/23/2018,02:50,Pembina
+"4500 4599 3rd ave s,Minneapolis,MN",44.921353,-93.272798,1,8,Regina,Nokomis,5,01/23/2018,02:55,Pembina
+"3600 block 3rd ave s,Minneapolis,MN",44.937714,-93.272767,1,8,Central,Powderhorn,5,01/23/2018,02:58,Pembina
+"3099 Bloomington Ave S,Minneapolis,MN",44.946553,-93.252485,1,9,Powderhorn Park,Powderhorn,6,01/23/2018,02:59,Pembina
+"500 8TH ST S,Minneapolis,MN",44.972784999999995,-93.265664,1,7,Elliot Park,Central,3,01/23/2018,03:01,Pembina
+"3000 BLOCK OF GRAND AV S,Minneapolis,MN",44.948355,-93.284283,1,8,Lyndale,Powderhorn,5,01/23/2018,03:01,Pembina
+"635 4th st n ,Minneapolis,MN",44.986031,-93.279286,1,3,North Loop,Central,1,01/23/2018,03:02,Pembina
+"315 27th av se,Minneapolis,MN",44.972984000000004,-93.218588,1,2,Prospect Park - East River Road,University,4,01/23/2018,03:05,Pembina
+"618 3rd st n ,Minneapolis,MN",44.986573,-93.277113,1,3,North Loop,Central,1,01/23/2018,03:07,Pembina
+"315 27TH AVE SE,Minneapolis,MN",44.972984000000004,-93.218588,1,2,Prospect Park - East River Road,University,4,01/23/2018,03:07,Pembina
+"3341 44th St E,Minneapolis,MN",44.923111,-93.22372800000001,1,12,Ericsson,Nokomis,6,01/23/2018,03:13,Pembina
+"4021 Sheridan ave s,Minneapolis,MN",44.929681,-93.313201,1,13,Linden Hills,Southwest,5,01/23/2018,03:16,Pembina
+"3600 block Fremont ave n ,Minneapolis,MN",45.020579999999995,-93.29562,1,4,Folwell,Camden,1,01/23/2018,03:16,Pembina
+"14 Ave & Como Ave SE,Minneapolis,MN",44.987842,-93.232037,1,1,Como,University,4,01/23/2018,03:16,Pembina
+"Como Ave & 18 Ave SE,Minneapolis,MN",44.987829999999995,-93.226934,1,1,Como,University,4,01/23/2018,03:16,Pembina
+"3500 3rd ave s,Minneapolis,MN",44.939425,-93.273074,1,9,Central,Powderhorn,5,01/23/2018,03:19,Pembina
+"4300 block Fremont ave n ,Minneapolis,MN",45.033663,-93.295765,1,4,Webber - Camden,Camden,1,01/23/2018,03:27,Pembina
+"3000 BLOCK OF GRAND AV S,Minneapolis,MN",44.948355,-93.284283,1,8,Lyndale,Powderhorn,5,01/23/2018,03:27,Pembina
+"9th st & riverside,Minneapolis,MN",44.96402,-93.232639,1,2,Seward,Longfellow,4,01/23/2018,03:28,Pembina
+"618 3rd st n ,Minneapolis,MN",44.986573,-93.277113,1,3,North Loop,Central,1,01/23/2018,03:30,Pembina
+"730 4th St n ,Minneapolis,MN",44.986943,-93.279921,1,3,North Loop,Central,1,01/23/2018,03:37,Pembina
+"2500 9 St S,Minneapolis,MN",44.964186,-93.235391,1,6,Seward,Longfellow,4,01/23/2018,03:41,Pembina
+"2500 Butler Pl,Minneapolis,MN",44.964647,-93.236161,1,2,Cedar Riverside,University,4,01/23/2018,03:41,Pembina
+"2600 ESSEX ST SE,Minneapolis,MN",44.970683,-93.22093000000001,1,2,Prospect Park - East River Road,University,4,01/23/2018,03:44,Pembina
+"500 block of 8th st s,Minneapolis,MN",44.972464,-93.264903,1,7,Elliot Park,Central,3,01/23/2018,03:46,Pembina
+"2709 43rd st w,Minneapolis,MN",44.924088,-93.312999,1,13,Linden Hills,Southwest,5,01/23/2018,03:49,Pembina
+"2600 Essex Southeast,Minneapolis,MN",44.970683,-93.22093000000001,1,2,Prospect Park - East River Road,University,4,01/23/2018,03:50,Pembina
+"2600 ESSEX ST SE,Minneapolis,MN",44.970683,-93.22093000000001,1,2,Prospect Park - East River Road,University,4,01/23/2018,03:53,Pembina
+"3600 block Fremont ave n ,Minneapolis,MN",45.020579999999995,-93.29562,1,4,Folwell,Camden,1,01/23/2018,03:54,Pembina
+"3000 BLOCK OF GRAND AV S,Minneapolis,MN",44.948355,-93.284283,1,8,Lyndale,Powderhorn,5,01/23/2018,04:04,Pembina
+"3100 block Fremont ave n ,Minneapolis,MN",45.012351,-93.295602,1,5,Jordan,Near North,1,01/23/2018,04:04,Pembina
+"121 grant st w,Minneapolis,MN",44.969615999999995,-93.28041,1,7,Loring Park,Central,3,01/23/2018,04:07,Pembina
+"4343 34th Avenue South,Minneapolis,MN",44.923491,-93.222911,1,12,Ericsson,Nokomis,6,01/23/2018,04:11,Pembina
+"5705 34th Avenue South,Minneapolis,MN",44.899827,-93.222593,1,12,Morris Park,Nokomis,6,01/23/2018,04:15,Pembina
+"2600 Essex Southeast,Minneapolis,MN",44.970683,-93.22093000000001,1,2,Prospect Park - East River Road,University,4,01/23/2018,04:21,Pembina
+"500 7 St S,Minneapolis,MN",44.974121000000004,-93.264832,1,7,Elliot Park,Central,3,01/23/2018,04:32,Pembina
+"2715 43rd st w,Minneapolis,MN",44.924177,-93.313193,1,13,Linden Hills,Southwest,5,01/23/2018,04:39,Pembina
+"26 14th st e,Minneapolis,MN",44.968916,-93.277625,1,7,Loring Park,Central,3,01/23/2018,04:41,Pembina
+"2719 43rd st W,Minneapolis,MN",44.924181,-93.313572,1,13,Linden Hills,Southwest,5,01/23/2018,04:42,Pembina
+"Como Ave & 13 Ave SE,Minneapolis,MN",44.987845,-93.233306,1,2,Como,University,4,01/23/2018,04:49,Pembina
+"27 Ave & Essex St SE,Minneapolis,MN",44.970383,-93.22017199999999,1,2,Prospect Park - East River Road,University,4,01/23/2018,04:49,Pembina
+"2600 Essex Southeast,Minneapolis,MN",44.970683,-93.22093000000001,1,2,Prospect Park - East River Road,University,4,01/23/2018,04:52,Pembina
+"3700 block of Grand Avenue South,Minneapolis,MN",44.935733,-93.28435400000001,1,8,King Field,Southwest,5,01/23/2018,04:53,Pembina
+"900 Cedar Ave S,Minneapolis,MN",44.963440000000006,-93.24469599999999,1,6,Seward,Longfellow,4,01/23/2018,04:55,Pembina
+"900 19 Ave S,Minneapolis,MN",44.963219,-93.245593,1,6,Seward,Longfellow,4,01/23/2018,04:55,Pembina
+"3600 block of Grand Avenue South,Minneapolis,MN",44.937557,-93.284705,1,8,King Field,Southwest,5,01/23/2018,04:56,Pembina
+"2706 43RD ST W,Minneapolis,MN",44.924602,-93.31299399999999,1,13,Linden Hills,Southwest,5,01/23/2018,05:07,Pembina
+"3550 46th Street East,Minneapolis,MN",44.920198,-93.220336,1,12,Ericsson,Nokomis,6,01/23/2018,05:20,Pembina
+"3550 46th Street East,Minneapolis,MN",44.920198,-93.220336,1,12,Ericsson,Nokomis,6,01/23/2018,05:26,Pembina
+"500 lyn park cir n,Minneapolis,MN",44.997095,-93.286447,2,5,Near - North,Near North,1,01/23/2018,08:19,Pembina
+"2418 3rd st n ,Minneapolis,MN",45.012808,-93.26495600000001,2,3,Bottineau,Northeast,2,01/23/2018,08:19,Pembina
+"2416 3rd st n ,Minneapolis,MN",44.994181,-93.281878,2,5,Near - North,Near North,1,01/23/2018,08:22,Pembina
+"1712 Lyn Park Ave N,Minneapolis,MN",44.996975,-93.285921,2,5,Near - North,Near North,1,01/23/2018,08:31,Pembina
+"3004 KNOX AVE S ,Minneapolis,MN",44.948172,-93.30464599999999,2,10,ECCO,Calhoun Isle,5,01/23/2018,08:43,Pembina
+"732 Aldrich Ave N,Minneapolis,MN",44.986063,-93.289969,2,5,Sumner - Glenwood,Near North,1,01/23/2018,08:49,Pembina
+"736 Aldrich ave n ,Minneapolis,MN",44.985957,-93.29059699999999,2,5,Sumner - Glenwood,Near North,1,01/23/2018,08:49,Pembina
+"410 2nd Ave SE,Minneapolis,MN",44.987316,-93.252615,2,3,Marcy Holmes,University,4,01/23/2018,08:53,Pembina
+"3744 25th ave s,Minneapolis,MN",44.934343,-93.235923,2,12,Standish,Powderhorn,6,01/23/2018,08:53,Pembina
+"3528 14th Avenue South,Minneapolis,MN",44.938489000000004,-93.25523299999999,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,08:55,Pembina
+"2618 3rd St n,Minneapolis,MN",44.994181,-93.281878,2,5,Near - North,Near North,1,01/23/2018,08:56,Pembina
+"612 3rd ave se,Minneapolis,MN",44.988772999999995,-93.249615,2,3,Marcy Holmes,University,4,01/23/2018,09:01,Pembina
+"830 ALDRICH AVE N ,Minneapolis,MN",44.987076,-93.290585,2,5,Sumner - Glenwood,Near North,1,01/23/2018,09:02,Pembina
+"902 Aldrich Ave N,Minneapolis,MN",44.987217,-93.290869,2,5,Sumner - Glenwood,Near North,1,01/23/2018,09:06,Pembina
+"3616 4th St n,Minneapolis,MN",45.020828,-93.284998,2,4,McKinley,Camden,1,01/23/2018,09:07,Pembina
+"408 3rd ave ne,Minneapolis,MN",44.991538,-93.25617,2,3,St. Anthony West,Northeast,2,01/23/2018,09:13,Pembina
+"830 Aldrich ave n ,Minneapolis,MN",44.987076,-93.290585,2,5,Sumner - Glenwood,Near North,1,01/23/2018,09:15,Pembina
+"Mall st s and irving,Minneapolis,MN",44.949925,-93.302097,2,7,East Isles,Calhoun Isle,3,01/23/2018,09:18,Pembina
+"802 3rd ave ne,Minneapolis,MN",44.993396999999995,-93.251231,2,3,St. Anthony East,Northeast,2,01/23/2018,09:18,Pembina
+"1040 Aldrich ave n ,Minneapolis,MN",44.988347,-93.290777,2,5,Sumner - Glenwood,Near North,1,01/23/2018,09:19,Pembina
+"1028 ALDRICH AVE N,Minneapolis,MN",44.988278,-93.290773,2,5,Sumner - Glenwood,Near North,1,01/23/2018,09:20,Pembina
+"3524 14th Avenue South,Minneapolis,MN",44.938629,-93.255228,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,09:21,Pembina
+"410 3rd ave ne,Minneapolis,MN",44.991518,-93.256238,2,3,St. Anthony West,Northeast,2,01/23/2018,09:23,Pembina
+"3540 13th Avenue South,Minneapolis,MN",44.938056,-93.256217,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,09:25,Pembina
+"806 3RD AVE NE,Minneapolis,MN",44.993471,-93.251046,2,3,St. Anthony East,Northeast,2,01/23/2018,09:26,Pembina
+"524 4th ave se,Minneapolis,MN",44.987629,-93.24838100000001,2,3,Marcy Holmes,University,4,01/23/2018,09:28,Pembina
+"424 5th ave se,Minneapolis,MN",44.986121999999995,-93.247348,2,3,Marcy Holmes,University,4,01/23/2018,09:36,Pembina
+"624 Bryant Ave N,Minneapolis,MN",44.984741,-93.291015,2,5,Sumner - Glenwood,Near North,1,01/23/2018,09:37,Pembina
+"3100 W CALHOUN BLVD,Minneapolis,MN",44.946152000000005,-93.321396,2,13,West Calhoun,Calhoun Isle,5,01/23/2018,09:37,Pembina
+"710 Bryant ave ,Minneapolis,MN",44.985611999999996,-93.291577,2,5,Sumner - Glenwood,Near North,1,01/23/2018,09:38,Pembina
+"3538 13th ave so,Minneapolis,MN",44.938140000000004,-93.256518,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,09:40,Pembina
+"708 BRYANT AVE N,Minneapolis,MN",44.985623,-93.291797,2,5,Sumner - Glenwood,Near North,1,01/23/2018,09:42,Pembina
+"3542 3rd St n,Minneapolis,MN",45.019224,-93.283468,2,4,McKinley,Camden,1,01/23/2018,09:45,Pembina
+"206 7TH AVE NE,Minneapolis,MN",44.995217,-93.262991,2,3,St. Anthony West,Northeast,2,01/23/2018,09:46,Pembina
+"3900 13th Avenue South,Minneapolis,MN",44.932204,-93.256442,2,8,Bancroft,Powderhorn,6,01/23/2018,09:48,Pembina
+"3540 3rd St n ,Minneapolis,MN",45.01919,-93.283468,2,4,McKinley,Camden,1,01/23/2018,09:49,Pembina
+"310 7th Ave Ne,Minneapolis,MN",44.995929,-93.260927,2,3,St. Anthony West,Northeast,2,01/23/2018,09:50,Pembina
+"3840 13th ave s,Minneapolis,MN",44.93284,-93.256417,2,8,Bancroft,Powderhorn,6,01/23/2018,09:50,Pembina
+"720 6th ave se,Minneapolis,MN",44.988343,-93.24374499999999,2,3,Marcy Holmes,University,4,01/23/2018,09:50,Pembina
+"The mall & Humbolt Ave s,Minneapolis,MN",44.950057,-93.30082900000001,2,7,East Isles,Calhoun Isle,3,01/23/2018,09:51,Pembina
+"3100 W CALHOUN BLVD,Minneapolis,MN",44.946152000000005,-93.321396,2,13,West Calhoun,Calhoun Isle,5,01/23/2018,09:54,Pembina
+"2914 4th st n,Minneapolis,MN",45.010011999999996,-93.284626,2,5,Hawthorne,Near North,1,01/23/2018,09:54,Pembina
+"3044 40th st e,Minneapolis,MN",44.930506,-93.228296,2,12,Standish,Powderhorn,6,01/23/2018,09:55,Pembina
+"712 5 th ave se,Minneapolis,MN",44.988747,-93.245328,2,3,Marcy Holmes,University,4,01/23/2018,09:55,Pembina
+"3948 14TH AVE S,Minneapolis,MN",44.930888,-93.255213,2,8,Bancroft,Powderhorn,6,01/23/2018,09:57,Pembina
+"4036 14TH AVE S,Minneapolis,MN",44.929404999999996,-93.255228,2,8,Bancroft,Powderhorn,6,01/23/2018,09:58,Pembina
+"324 5 th ave se ,Minneapolis,MN",44.984947,-93.248257,2,3,Marcy Holmes,University,4,01/23/2018,09:59,Pembina
+"802 6TH AVE SE,Minneapolis,MN",44.988856,-93.24375500000001,2,3,Marcy Holmes,University,4,01/23/2018,10:00,Pembina
+"3100 w Calhoun BLVD,Minneapolis,MN",44.946152000000005,-93.321396,2,13,West Calhoun,Calhoun Isle,5,01/23/2018,10:03,Pembina
+"2900 dean pkwy,Minneapolis,MN",44.951226,-93.316788,2,7,Cedar - Isles - Dean,Calhoun Isle,3,01/23/2018,10:06,Pembina
+"816 39th st e,Minneapolis,MN",44.932567,-93.262281,2,8,Bancroft,Powderhorn,6,01/23/2018,10:08,Pembina
+"304 6th ave se,Minneapolis,MN",44.983905,-93.247294,2,3,Marcy Holmes,University,4,01/23/2018,10:13,Pembina
+"3100 block of calhoon blvd,Minneapolis,MN",44.946152000000005,-93.321396,2,13,West Calhoun,Calhoun Isle,5,01/23/2018,10:18,Pembina
+"3032 4th St n ,Minneapolis,MN",45.011603,-93.284901,2,5,Hawthorne,Near North,1,01/23/2018,10:18,Pembina
+"THE MALL & IRVING AVE S,Minneapolis,MN",44.949925,-93.302097,2,7,East Isles,Calhoun Isle,3,01/23/2018,10:18,Pembina
+"720 5th st ne,Minneapolis,MN",44.997232000000004,-93.259171,2,3,St. Anthony West,Northeast,2,01/23/2018,10:19,Pembina
+"400 6th Ave se,Minneapolis,MN",44.985039,-93.246409,2,3,Marcy Holmes,University,4,01/23/2018,10:20,Pembina
+"2114 6th st n,Minneapolis,MN",45.000718,-93.28619,2,5,Hawthorne,Near North,1,01/23/2018,10:20,Pembina
+"312 4TH AVE SE,Minneapolis,MN",44.98552,-93.250068,2,3,Marcy Holmes,University,4,01/23/2018,10:21,Pembina
+"1828 Dupont Ave N,Minneapolis,MN",44.998391999999996,-93.292132,2,5,Near - North,Near North,1,01/23/2018,10:22,Pembina
+"714 5th St NE,Minneapolis,MN",44.997116999999996,-93.25936899999999,2,3,St. Anthony West,Northeast,2,01/23/2018,10:23,Pembina
+"2906 4th st n ,Minneapolis,MN",45.0098,-93.284627,2,5,Hawthorne,Near North,1,01/23/2018,10:24,Pembina
+"320 7TH AVE SE,Minneapolis,MN",44.983453999999995,-93.245806,2,3,Marcy Holmes,University,4,01/23/2018,10:24,Pembina
+"248 6th st ne,Minneapolis,MN",44.992024,-93.254165,2,3,St. Anthony East,Northeast,2,01/23/2018,10:25,Pembina
+"1826 DuPont ave n ,Minneapolis,MN",44.998296,-93.29233599999999,2,5,Near - North,Near North,1,01/23/2018,10:27,Pembina
+"1714 colfax ave s ,Minneapolis,MN",44.966873,-93.29179599999999,2,7,Lowry Hill,Calhoun Isle,3,01/23/2018,10:28,Pembina
+"334 4th st ne,Minneapolis,MN",44.992497,-93.25806999999999,2,3,St. Anthony West,Northeast,2,01/23/2018,10:31,Pembina
+"2800 block of dean pkwy,Minneapolis,MN",44.951838,-93.31760799999999,2,7,Cedar - Isles - Dean,Calhoun Isle,3,01/23/2018,10:31,Pembina
+"406 9th st se,Minneapolis,MN",44.990531,-93.245518,2,3,Marcy Holmes,University,4,01/23/2018,10:37,Pembina
+"524 7th ave se,Minneapolis,MN",44.985642,-93.24405300000001,2,3,Marcy Holmes,University,4,01/23/2018,10:37,Pembina
+"518 7th ave se,Minneapolis,MN",44.985597999999996,-93.244088,2,3,Marcy Holmes,University,4,01/23/2018,10:41,Pembina
+"706 7th ave se,Minneapolis,MN",44.987464,-93.242712,2,3,Marcy Holmes,University,4,01/23/2018,10:42,Pembina
+"200 block of Kenwood PKWY,Minneapolis,MN",44.970578,-93.291263,2,7,Lowry Hill,Calhoun Isle,3,01/23/2018,10:43,Pembina
+"1000 kenwood pkwy,Minneapolis,MN",44.969079,-93.302188,2,7,Lowry Hill,Calhoun Isle,3,01/23/2018,10:45,Pembina
+"1110 HUMBOLDT AVE N,Minneapolis,MN",44.989412,-93.29757099999999,2,5,Near - North,Near North,1,01/23/2018,10:46,Pembina
+"414 6 th ave se,Minneapolis,MN",44.984728999999994,-93.244185,2,3,Marcy Holmes,University,4,01/23/2018,10:47,Pembina
+"1402 Girard ave n ,Minneapolis,MN",44.993281,-93.297053,2,5,Near - North,Near North,1,01/23/2018,10:47,Pembina
+"3808 11th Avenue South,Minneapolis,MN",44.93378,-93.25899,2,8,Bancroft,Powderhorn,6,01/23/2018,10:47,Pembina
+"308 4TH ST NE ,Minneapolis,MN",44.991859000000005,-93.257257,2,3,St. Anthony West,Northeast,2,01/23/2018,10:47,Pembina
+"316 4th st ne,Minneapolis,MN",44.992036,-93.257378,2,3,St. Anthony West,Northeast,2,01/23/2018,10:49,Pembina
+"424 7 th ave se ,Minneapolis,MN",44.984747,-93.244796,2,3,Marcy Holmes,University,4,01/23/2018,10:49,Pembina
+"3040 HUMBOLDT AVE S,Minneapolis,MN",44.946945,-93.30108299999999,2,10,ECCO,Calhoun Isle,5,01/23/2018,10:51,Pembina
+"4340 13th Avenue South,Minneapolis,MN",44.923787,-93.256478,2,11,Northrop,Nokomis,6,01/23/2018,10:52,Pembina
+"3736 15th ave s,Minneapolis,MN",44.934573,-93.253961,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,10:53,Pembina
+"3100 w Calhoun ,Minneapolis,MN",44.946152000000005,-93.321396,2,13,West Calhoun,Calhoun Isle,5,01/23/2018,10:55,Pembina
+"1770 colfax ave s,Minneapolis,MN",44.966136,-93.2918,2,7,Lowry Hill,Calhoun Isle,3,01/23/2018,10:55,Pembina
+"3028 4th St n ,Minneapolis,MN",45.011581,-93.284901,2,5,Hawthorne,Near North,1,01/23/2018,10:57,Pembina
+"602 6th st ne,Minneapolis,MN",44.974384,-93.263216,2,7,Elliot Park,Central,3,01/23/2018,10:59,Pembina
+"3036 humboldt ave s,Minneapolis,MN",44.947071,-93.301089,2,10,ECCO,Calhoun Isle,5,01/23/2018,10:59,Pembina
+"3708 11TH AVE S,Minneapolis,MN",44.935595,-93.259015,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,10:59,Pembina
+"3218 4th St n ,Minneapolis,MN",45.013796,-93.284628,2,4,McKinley,Camden,1,01/23/2018,11:00,Pembina
+"820 39th st e,Minneapolis,MN",44.932567,-93.262231,2,8,Bancroft,Powderhorn,6,01/23/2018,11:01,Pembina
+"1000 block of kenwood pkwy,Minneapolis,MN",44.969079,-93.302188,2,7,Lowry Hill,Calhoun Isle,3,01/23/2018,11:02,Pembina
+"1802 Irving Ave N,Minneapolis,MN",44.997615,-93.299435,2,5,Willard - Hay,Near North,1,01/23/2018,11:03,Pembina
+"310 4th st ne,Minneapolis,MN",44.991896999999994,-93.257283,2,3,St. Anthony West,Northeast,2,01/23/2018,11:06,Pembina
+"3608 13TH AVE S,Minneapolis,MN",44.93735,-93.256491,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,11:06,Pembina
+"212 7th ave se,Minneapolis,MN",44.982389000000005,-93.246628,2,3,Marcy Holmes,University,4,01/23/2018,11:11,Pembina
+"616 7th ave se,Minneapolis,MN",44.986792,-93.24319799999999,2,3,Marcy Holmes,University,4,01/23/2018,11:13,Pembina
+"524 8TH AVE SE,Minneapolis,MN",44.985383,-93.24252800000001,2,3,Marcy Holmes,University,4,01/23/2018,11:13,Pembina
+"420 8th ave se ,Minneapolis,MN",44.984355,-93.24329399999999,2,3,Marcy Holmes,University,4,01/23/2018,11:13,Pembina
+"3418 HUMBOLDT AVE S,Minneapolis,MN",44.940652,-93.300907,2,10,ECCO,Calhoun Isle,5,01/23/2018,11:14,Pembina
+"1800 IRVING AVE N,Minneapolis,MN",44.997568,-93.299121,2,5,Near - North,Near North,1,01/23/2018,11:14,Pembina
+"522 8th Ave se,Minneapolis,MN",44.985465000000005,-93.242795,2,3,Marcy Holmes,University,4,01/23/2018,11:16,Pembina
+"520 8TH AVE SE,Minneapolis,MN",44.985440000000004,-93.24281500000001,2,3,Marcy Holmes,University,4,01/23/2018,11:17,Pembina
+"3716 15th Avenue South,Minneapolis,MN",44.935263,-93.253964,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,11:17,Pembina
+"1834 40TH ST E,Minneapolis,MN",44.930525,-93.24663699999999,2,12,Standish,Powderhorn,6,01/23/2018,11:17,Pembina
+"3104 HUMBOLDT AVE S,Minneapolis,MN",44.946294,-93.301087,2,10,ECCO,Calhoun Isle,5,01/23/2018,11:18,Pembina
+"4000 15th av s,Minneapolis,MN",44.930503,-93.253653,2,8,Bancroft,Powderhorn,6,01/23/2018,11:19,Pembina
+"1724 Irving ave n ,Minneapolis,MN",44.997051,-93.299131,2,5,Near - North,Near North,1,01/23/2018,11:19,Pembina
+"504 8th ave se,Minneapolis,MN",44.985178999999995,-93.243022,2,3,Marcy Holmes,University,4,01/23/2018,11:19,Pembina
+"3954 14TH AVE S,Minneapolis,MN",44.930719,-93.254932,2,8,Bancroft,Powderhorn,6,01/23/2018,11:19,Pembina
+"1504 SPRUCE PL,Minneapolis,MN",44.966829,-93.280835,2,7,Loring Park,Central,3,01/23/2018,11:20,Pembina
+"3116 Girard Avenue S,Minneapolis,MN",44.94598,-93.297402,2,10,South Uptown,Calhoun Isle,5,01/23/2018,11:21,Pembina
+"1712 Irving ave n ,Minneapolis,MN",44.996762,-93.299428,2,5,Near - North,Near North,1,01/23/2018,11:21,Pembina
+"2126 6th st n,Minneapolis,MN",45.001025,-93.286041,2,5,Hawthorne,Near North,1,01/23/2018,11:22,Pembina
+"1702 COLFAX AVE S,Minneapolis,MN",44.967315,-93.291793,2,7,Lowry Hill,Calhoun Isle,3,01/23/2018,11:23,Pembina
+"632 Adams st ne,Minneapolis,MN",44.996101,-93.256473,2,3,St. Anthony East,Northeast,2,01/23/2018,11:25,Pembina
+"1522 Irving Ave N,Minneapolis,MN",44.994869,-93.29918599999999,2,5,Near - North,Near North,1,01/23/2018,11:26,Pembina
+"2122 6th st n ,Minneapolis,MN",45.000925,-93.28619300000001,2,5,Hawthorne,Near North,1,01/23/2018,11:28,Pembina
+"614 adams st ne,Minneapolis,MN",44.995571000000005,-93.256253,2,3,St. Anthony East,Northeast,2,01/23/2018,11:28,Pembina
+"3340 Girard ave s,Minneapolis,MN",44.941724,-93.29741899999999,2,10,South Uptown,Calhoun Isle,5,01/23/2018,11:29,Pembina
+"2206 6th St n ,Minneapolis,MN",45.001754,-93.286167,2,5,Hawthorne,Near North,1,01/23/2018,11:30,Pembina
+"324 7th ave se,Minneapolis,MN",44.983493,-93.245774,2,3,Marcy Holmes,University,4,01/23/2018,11:31,Pembina
+"420 6TH AVE SE,Minneapolis,MN",44.985316999999995,-93.24656800000001,2,3,Marcy Holmes,University,4,01/23/2018,11:34,Pembina
+"1504 IRVING AVE N,Minneapolis,MN",44.994415000000004,-93.299194,2,5,Near - North,Near North,1,01/23/2018,11:35,Pembina
+"1308 Grand St ne,Minneapolis,MN",45.000748,-93.269203,2,3,Sheridan,Northeast,2,01/23/2018,11:37,Pembina
+"1440 32ND ST W ,Minneapolis,MN",44.944891,-93.29914699999999,2,10,ECCO,Calhoun Isle,5,01/23/2018,11:37,Pembina
+"318 Clifton av ,Minneapolis,MN",44.966011,-93.282891,2,7,Loring Park,Central,3,01/23/2018,11:40,Pembina
+"3126 6th st n,Minneapolis,MN",45.012268,-93.286429,2,5,Hawthorne,Near North,1,01/23/2018,11:44,Pembina
+"120 9th ave ne,Minneapolis,MN",44.996319,-93.266868,2,3,St. Anthony West,Northeast,2,01/23/2018,11:45,Pembina
+"710 7th st se,Minneapolis,MN",44.987632,-93.242549,2,3,Marcy Holmes,University,4,01/23/2018,11:48,Pembina
+"106 19th st e,Minneapolis,MN",44.964177,-93.2761,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,11:48,Pembina
+"3912 13TH AVE S,Minneapolis,MN",44.93189,-93.25645,2,8,Bancroft,Powderhorn,6,01/23/2018,11:48,Pembina
+"3608 12TH AVE S,Minneapolis,MN",44.937369,-93.257775,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,11:50,Pembina
+"616 11TH AVE SE,Minneapolis,MN",44.9846,-93.237685,2,3,Marcy Holmes,University,4,01/23/2018,11:51,Pembina
+"1406 SPRUCE PL,Minneapolis,MN",44.9684,-93.280963,2,7,Loring Park,Central,3,01/23/2018,11:51,Pembina
+"408 7TH AVE SE,Minneapolis,MN",44.984497,-93.244996,2,3,Marcy Holmes,University,4,01/23/2018,11:52,Pembina
+"3038 15th Avenue South,Minneapolis,MN",44.947174,-93.25376800000001,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,11:54,Pembina
+"228 5th st ne,Minneapolis,MN",44.991624,-93.255825,2,3,St. Anthony West,Northeast,2,01/23/2018,11:55,Pembina
+"3022 15th ave so,Minneapolis,MN",44.947645,-93.254052,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,11:55,Pembina
+"2204 39th st e,Minneapolis,MN",44.932475,-93.240882,2,12,Standish,Powderhorn,6,01/23/2018,11:57,Pembina
+"816 12th Ave se,Minneapolis,MN",44.985956,-93.234789,2,3,Marcy Holmes,University,4,01/23/2018,11:57,Pembina
+"110 9th ave NE,Minneapolis,MN",44.996244,-93.267084,2,3,St. Anthony West,Northeast,2,01/23/2018,11:57,Pembina
+"804 12TH AVE SE,Minneapolis,MN",44.985646,-93.235084,2,3,Marcy Holmes,University,4,01/23/2018,11:58,Pembina
+"716 11th ave se ,Minneapolis,MN",44.985541999999995,-93.236979,2,3,Marcy Holmes,University,4,01/23/2018,11:58,Pembina
+"1704 Clifton ave,Minneapolis,MN",44.967089,-93.28583499999999,2,7,Loring Park,Central,3,01/23/2018,11:59,Pembina
+"713 8th ave se ,Minneapolis,MN",44.987251,-93.24159499999999,2,3,Marcy Holmes,University,4,01/23/2018,12:02,Pembina
+"3224 15th ave s,Minneapolis,MN",44.943973,-93.253741,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,12:02,Pembina
+"422 7th st se,Minneapolis,MN",44.988469,-93.246776,2,3,Marcy Holmes,University,4,01/23/2018,12:03,Pembina
+"1802 clinton av s,Minneapolis,MN",44.964942,-93.271489,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,12:03,Pembina
+"138 18th st e,Minneapolis,MN",44.965402000000005,-93.27476999999999,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,12:04,Pembina
+"2526 6th St n,Minneapolis,MN",45.005478000000004,-93.286466,2,5,Hawthorne,Near North,1,01/23/2018,12:08,Pembina
+"3530 Fremont ave s,Minneapolis,MN",44.938502,-93.29584799999999,2,10,South Uptown,Calhoun Isle,5,01/23/2018,12:09,Pembina
+"1314 Irving Ave N,Minneapolis,MN",44.992464,-93.299312,2,5,Near - North,Near North,1,01/23/2018,12:09,Pembina
+"3644 10TH AVE S,Minneapolis,MN",44.936234000000006,-93.26029799999999,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,12:09,Pembina
+"3536 GIRARD AVE S ,Minneapolis,MN",44.93843,-93.29749100000001,2,10,South Uptown,Calhoun Isle,5,01/23/2018,12:09,Pembina
+"122 oak grove st,Minneapolis,MN",44.966609000000005,-93.28025600000001,2,7,Loring Park,Central,3,01/23/2018,12:12,Pembina
+"218 7th st se,Minneapolis,MN",44.989447,-93.249533,2,3,Marcy Holmes,University,4,01/23/2018,12:13,Pembina
+"3720 10TH AVE S,Minneapolis,MN",44.935264000000004,-93.260239,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,12:14,Pembina
+"3222 6th st n,Minneapolis,MN",45.013903000000006,-93.286168,2,4,McKinley,Camden,1,01/23/2018,12:16,Pembina
+"710 13th Ave se,Minneapolis,MN",44.984358,-93.234236,2,3,Marcy Holmes,University,4,01/23/2018,12:17,Pembina
+"626 12th ave se,Minneapolis,MN",44.984196999999995,-93.236468,2,3,Marcy Holmes,University,4,01/23/2018,12:17,Pembina
+"2910 Bryant Ave n ,Minneapolis,MN",45.009896999999995,-93.290234,2,5,Hawthorne,Near North,1,01/23/2018,12:17,Pembina
+"1322 Irving ave n ,Minneapolis,MN",44.992533,-93.299438,2,5,Near - North,Near North,1,01/23/2018,12:18,Pembina
+"720 Summer st ne,Minneapolis,MN",44.996906,-93.252178,2,3,St. Anthony East,Northeast,2,01/23/2018,12:19,Pembina
+"144 18th st e,Minneapolis,MN",44.965403,-93.274742,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,12:19,Pembina
+"110 oak grove st,Minneapolis,MN",44.966514000000004,-93.280191,2,7,Loring Park,Central,3,01/23/2018,12:19,Pembina
+"1318 Irving ave n ,Minneapolis,MN",44.992473,-93.299439,2,5,Near - North,Near North,1,01/23/2018,12:20,Pembina
+"3154 14th ave s,Minneapolis,MN",44.945341,-93.255033,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,12:21,Pembina
+"614 12th ave se,Minneapolis,MN",44.984136,-93.236517,2,3,Marcy Holmes,University,4,01/23/2018,12:21,Pembina
+"1618 5th st ne,Minneapolis,MN",45.004759,-93.260488,2,3,Sheridan,Northeast,2,01/23/2018,12:21,Pembina
+"1814 clinton av s,Minneapolis,MN",44.964647,-93.271488,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,12:25,Pembina
+"1926 COLFAX AVE S,Minneapolis,MN",44.963464,-93.291812,2,7,Lowry Hill,Calhoun Isle,3,01/23/2018,12:25,Pembina
+"1720 Stevens Ave s,Minneapolis,MN",44.965902,-93.275643,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,12:29,Pembina
+"1158 adams st ne,Minneapolis,MN",44.999928999999995,-93.25627,2,1,Logan Park,Northeast,2,01/23/2018,12:31,Pembina
+"3412 colfax,Minneapolis,MN",44.940846,-93.292363,2,10,South Uptown,Calhoun Isle,5,01/23/2018,12:31,Pembina
+"1120 James Avenue North ,Minneapolis,MN",44.989644,-93.300699,2,5,Near - North,Near North,1,01/23/2018,12:31,Pembina
+"3020 Humboldt Avenue s,Minneapolis,MN",44.947722999999996,-93.300834,2,10,ECCO,Calhoun Isle,5,01/23/2018,12:34,Pembina
+"1328 Jefferson St Ne,Minneapolis,MN",45.001816,-93.255287,2,1,Logan Park,Northeast,2,01/23/2018,12:36,Pembina
+"1326 7TH ST SE,Minneapolis,MN",44.983527,-93.23366,2,3,Marcy Holmes,University,4,01/23/2018,12:38,Pembina
+"124 18th st e,Minneapolis,MN",44.965441,-93.274939,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,12:38,Pembina
+"1724 33rd st e,Minneapolis,MN",44.94308,-93.249613,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,12:40,Pembina
+"1308 7TH ST SE,Minneapolis,MN",44.983598,-93.234617,2,3,Marcy Holmes,University,4,01/23/2018,12:41,Pembina
+"1224 James ave n ,Minneapolis,MN",44.990815999999995,-93.300702,2,5,Near - North,Near North,1,01/23/2018,12:42,Pembina
+"3022 15TH AVE S,Minneapolis,MN",44.947645,-93.254052,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,12:42,Pembina
+"3408 Fremont ave s ,Minneapolis,MN",44.940934999999996,-93.296103,2,10,South Uptown,Calhoun Isle,5,01/23/2018,12:43,Pembina
+"106 18TH ST E,Minneapolis,MN",44.965469,-93.276004,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,12:43,Pembina
+"1100 JAMES AVE N,Minneapolis,MN",44.988974,-93.300691,2,5,Near - North,Near North,1,01/23/2018,12:44,Pembina
+"1008 37TH ST E,Minneapolis,MN",44.936081,-93.259686,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,12:44,Pembina
+"3712 11TH AVE S,Minneapolis,MN",44.935488,-93.25901800000001,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,12:45,Pembina
+"802 5th st se,Minneapolis,MN",44.984507,-93.243175,2,3,Marcy Holmes,University,4,01/23/2018,12:46,Pembina
+"406 CLIFTON AVE,Minneapolis,MN",44.96605,-93.283019,2,7,Loring Park,Central,3,01/23/2018,12:46,Pembina
+"1222 6th st se,Minneapolis,MN",44.983433000000005,-93.236661,2,3,Marcy Holmes,University,4,01/23/2018,12:47,Pembina
+"1526 34TH ST E,Minneapolis,MN",44.941359999999996,-93.252425,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,12:47,Pembina
+"1532 E 34TH ST,Minneapolis,MN",44.941359999999996,-93.252323,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,12:47,Pembina
+"2126 aldrich ave n ,Minneapolis,MN",45.00123,-93.289236,2,5,Hawthorne,Near North,1,01/23/2018,12:48,Pembina
+"1812 clinton av s,Minneapolis,MN",44.964658,-93.271794,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,12:49,Pembina
+"2102 aldrich ave n ,Minneapolis,MN",45.000391,-93.28951500000001,2,5,Hawthorne,Near North,1,01/23/2018,12:50,Pembina
+"520 quincy st ne,Minneapolis,MN",44.994989000000004,-93.251159,2,3,St. Anthony East,Northeast,2,01/23/2018,12:50,Pembina
+"1422 Madison St Ne,Minneapolis,MN",45.002744,-93.253739,2,1,Logan Park,Northeast,2,01/23/2018,12:52,Pembina
+"1528 8th st se,Minneapolis,MN",44.983465,-93.230306,2,2,University of Minnesota,University,4,01/23/2018,12:52,Pembina
+"1520 36th Street East,Minneapolis,MN",44.937902,-93.252656,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,12:53,Pembina
+"1336 James ave n,Minneapolis,MN",44.992733,-93.300398,2,5,Near - North,Near North,1,01/23/2018,12:53,Pembina
+"1018 6th st se,Minneapolis,MN",44.984235999999996,-93.23944300000001,2,3,Marcy Holmes,University,4,01/23/2018,12:53,Pembina
+"626 13th ave se ,Minneapolis,MN",44.983439000000004,-93.23495799999999,2,3,Marcy Holmes,University,4,01/23/2018,12:54,Pembina
+"814 12TH AVE SE ,Minneapolis,MN",44.98595,-93.23479300000001,2,3,Marcy Holmes,University,4,01/23/2018,12:54,Pembina
+"1334 James Ave N,Minneapolis,MN",44.992674,-93.300398,2,5,Near - North,Near North,1,01/23/2018,12:55,Pembina
+"3112 16th ave so,Minneapolis,MN",44.946085,-93.251474,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,12:55,Pembina
+"1538 16th st e,Minneapolis,MN",44.967159,-93.262559,2,6,Elliot Park,Central,3,01/23/2018,12:56,Pembina
+"1316 7th st se,Minneapolis,MN",44.983446,-93.234262,2,3,Marcy Holmes,University,4,01/23/2018,12:56,Pembina
+"3144 16th Avenue South,Minneapolis,MN",44.945159999999994,-93.25144499999999,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,12:57,Pembina
+"708 13th ave se ,Minneapolis,MN",44.984246,-93.234347,2,3,Marcy Holmes,University,4,01/23/2018,12:57,Pembina
+"1128 6th st se,Minneapolis,MN",44.983456,-93.23736,2,3,Marcy Holmes,University,4,01/23/2018,12:58,Pembina
+"3110 Emerson Avenue S,Minneapolis,MN",44.946165,-93.294738,2,10,South Uptown,Calhoun Isle,5,01/23/2018,12:59,Pembina
+"628 8TH AVE SE,Minneapolis,MN",44.986579,-93.241916,2,3,Marcy Holmes,University,4,01/23/2018,12:59,Pembina
+"3224 14th ave s,Minneapolis,MN",44.944294,-93.25501899999999,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,13:01,Pembina
+"804 12TH AVE SE,Minneapolis,MN",44.985646,-93.235084,2,3,Marcy Holmes,University,4,01/23/2018,13:01,Pembina
+"120 19TH ST E,Minneapolis,MN",44.964078,-93.27558,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,13:02,Pembina
+"THE MALL & HUMBOLDT AVE,Minneapolis,MN",44.950057,-93.30082900000001,2,7,East Isles,Calhoun Isle,3,01/23/2018,13:03,Pembina
+"1824 2nd Ave s,Minneapolis,MN",44.964849,-93.274028,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,13:05,Pembina
+"726 11TH AVE SE,Minneapolis,MN",44.985815,-93.236743,2,3,Marcy Holmes,University,4,01/23/2018,13:06,Pembina
+"3214 emerson ave 2,Minneapolis,MN",45.013686,-93.294078,2,4,Folwell,Camden,1,01/23/2018,13:07,Pembina
+"1820 DUPONT AVE S,Minneapolis,MN",44.964619,-93.293433,2,7,Lowry Hill,Calhoun Isle,3,01/23/2018,13:07,Pembina
+"10 18TH ST E,Minneapolis,MN",44.96522,-93.277709,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,13:08,Pembina
+"704 7TH AVE SE,Minneapolis,MN",44.987383,-93.242776,2,3,Marcy Holmes,University,4,01/23/2018,13:09,Pembina
+"1018 GTH ST SE,Minneapolis,MN",45.008435,-93.460853,2,3,Marcy Holmes,University,4,01/23/2018,13:10,Pembina
+"3320 FREMONT AVE S,Minneapolis,MN",44.942228,-93.296143,2,10,South Uptown,Calhoun Isle,5,01/23/2018,13:12,Pembina
+"4116 13TH AVE S,Minneapolis,MN",44.92807,-93.256473,2,8,Bancroft,Powderhorn,6,01/23/2018,13:12,Pembina
+"1026 5TH ST SE,Minneapolis,MN",44.983071,-93.239639,2,3,Marcy Holmes,University,4,01/23/2018,13:13,Pembina
+"1038 JAMES AVE N ,Minneapolis,MN",44.988386,-93.300696,2,5,Near - North,Near North,1,01/23/2018,13:14,Pembina
+"3232 Fremont ave s ,Minneapolis,MN",44.943672,-93.296042,2,10,South Uptown,Calhoun Isle,5,01/23/2018,13:15,Pembina
+"1902 clinton av s,Minneapolis,MN",44.963723,-93.271788,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,13:17,Pembina
+"524 12TH AVE SE,Minneapolis,MN",44.983342,-93.236875,2,3,Marcy Holmes,University,4,01/23/2018,13:17,Pembina
+"2106 Bryant Ave n ,Minneapolis,MN",45.000462,-93.291049,2,5,Hawthorne,Near North,1,01/23/2018,13:21,Pembina
+"2124 Bryant Ave n ,Minneapolis,MN",45.001106,-93.29078100000001,2,5,Hawthorne,Near North,1,01/23/2018,13:24,Pembina
+"140 19th st e,Minneapolis,MN",44.963955,-93.27454499999999,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,13:24,Pembina
+"320 18TH ST SE,Minneapolis,MN",44.9774,-93.230951,2,2,University of Minnesota,University,4,01/23/2018,13:26,Pembina
+"128 18TH ST E,Minneapolis,MN",44.965421,-93.274971,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,13:26,Pembina
+"1120 5th st se,Minneapolis,MN",44.982476,-93.238387,2,3,Marcy Holmes,University,4,01/23/2018,13:28,Pembina
+"2508 quincey st ne,Minneapolis,MN",45.013560999999996,-93.2509,2,1,Holland,Northeast,2,01/23/2018,13:28,Pembina
+"1326 Logan Ave N,Minneapolis,MN",44.992398,-93.302921,2,5,Willard - Hay,Near North,1,01/23/2018,13:28,Pembina
+"1106 6th st se,Minneapolis,MN",44.983988000000004,-93.238049,2,3,Marcy Holmes,University,4,01/23/2018,13:32,Pembina
+"1820 Stevens ave s,Minneapolis,MN",44.964494,-93.275679,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,13:33,Pembina
+"2230 32nd st e,Minneapolis,MN",44.944959000000004,-93.239672,2,9,Corcoran,Powderhorn,6,01/23/2018,13:34,Pembina
+"1424 7th st se,Minneapolis,MN",44.983076000000004,-93.232534,2,3,Marcy Holmes,University,4,01/23/2018,13:34,Pembina
+"1004 5th st se,Minneapolis,MN",44.983201,-93.240291,2,3,Marcy Holmes,University,4,01/23/2018,13:34,Pembina
+"3228 ELLIOT AVE,Minneapolis,MN",44.943853999999995,-93.261669,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,13:34,Pembina
+"1542 32ND ST E,Minneapolis,MN",44.944916,-93.251673,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,13:36,Pembina
+"1538 32ND ST E,Minneapolis,MN",44.944916,-93.251707,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,13:36,Pembina
+"1818 Stevens ave s,Minneapolis,MN",44.964596,-93.27563599999999,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,13:39,Pembina
+"1308 Logan ave n ,Minneapolis,MN",44.991884000000006,-93.303203,2,5,Willard - Hay,Near North,1,01/23/2018,13:39,Pembina
+"914 5TH ST SE,Minneapolis,MN",44.983723,-93.241373,2,3,Marcy Holmes,University,4,01/23/2018,13:39,Pembina
+"3116 10TH AVE S,Minneapolis,MN",44.945977,-93.260417,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,13:40,Pembina
+"1318 LOGAN AVE N,Minneapolis,MN",44.992252,-93.30320400000001,2,5,Willard - Hay,Near North,1,01/23/2018,13:41,Pembina
+"1118 7th st se,Minneapolis,MN",44.984539,-93.236838,2,3,Marcy Holmes,University,4,01/23/2018,13:42,Pembina
+"3144 FREMONT AVE S ,Minneapolis,MN",44.945052000000004,-93.296021,2,10,South Uptown,Calhoun Isle,5,01/23/2018,13:45,Pembina
+"1114 7TH ST SE,Minneapolis,MN",44.984813,-93.236898,2,3,Marcy Holmes,University,4,01/23/2018,13:47,Pembina
+"2418 dupont Ave n ,Minneapolis,MN",45.004426,-93.292307,2,5,Hawthorne,Near North,1,01/23/2018,13:48,Pembina
+"3112 22nd Avenue South,Minneapolis,MN",44.946119,-93.240978,2,9,Corcoran,Powderhorn,6,01/23/2018,13:48,Pembina
+"1332 Logan Ave N,Minneapolis,MN",44.992579,-93.30287,2,5,Willard - Hay,Near North,1,01/23/2018,13:49,Pembina
+"2026 33rd st e,Minneapolis,MN",44.943081,-93.24325999999999,2,9,Corcoran,Powderhorn,6,01/23/2018,13:49,Pembina
+"1426 6TH ST E,Minneapolis,MN",45.002713,-93.259165,2,3,Sheridan,Northeast,2,01/23/2018,13:49,Pembina
+"708 5th st se,Minneapolis,MN",44.984879,-93.24449399999999,2,3,Marcy Holmes,University,4,01/23/2018,13:52,Pembina
+"1002 5th st se,Minneapolis,MN",44.983216,-93.240328,2,3,Marcy Holmes,University,4,01/23/2018,13:53,Pembina
+"1920 clinton av s,Minneapolis,MN",44.963155,-93.271987,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,13:53,Pembina
+"3144 22nd Avenue South,Minneapolis,MN",44.945262,-93.240623,2,9,Corcoran,Powderhorn,6,01/23/2018,13:54,Pembina
+"2906 Bryant Ave n ,Minneapolis,MN",45.009791,-93.290256,2,5,Hawthorne,Near North,1,01/23/2018,13:54,Pembina
+"1900 jackson st ne,Minneapolis,MN",45.008074,-93.249416,2,1,Holland,Northeast,2,01/23/2018,13:55,Pembina
+"1120 6th st se ,Minneapolis,MN",44.983575,-93.23754699999999,2,3,Marcy Holmes,University,4,01/23/2018,13:55,Pembina
+"1852 jackson st ne,Minneapolis,MN",45.007719,-93.249491,2,1,Logan Park,Northeast,2,01/23/2018,13:57,Pembina
+"110 18TH ST E,Minneapolis,MN",44.965555,-93.275836,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,13:59,Pembina
+"1152 14th ave se,Minneapolis,MN",44.992461,-93.231746,2,1,Como,University,2,01/23/2018,14:00,Pembina
+"3230 18TH AVE S,Minneapolis,MN",44.943554999999996,-93.248666,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,14:00,Pembina
+"1120 pierce st ne,Minneapolis,MN",44.999739,-93.241548,2,1,Northeast Park,Northeast,2,01/23/2018,14:01,Pembina
+"1116 7TH ST SE,Minneapolis,MN",44.984621999999995,-93.236971,2,3,Marcy Holmes,University,4,01/23/2018,14:01,Pembina
+"3112 18TH AVE S,Minneapolis,MN",44.946121999999995,-93.248919,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,14:02,Pembina
+"1830 2nd ave south,Minneapolis,MN",44.964778,-93.274028,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,14:03,Pembina
+"1130 14th ave se,Minneapolis,MN",44.991833,-93.231765,2,1,Como,University,2,01/23/2018,14:05,Pembina
+"1614 33rd st e,Minneapolis,MN",44.943153,-93.25099499999999,2,9,Powderhorn Park,Powderhorn,6,01/23/2018,14:05,Pembina
+"1530 Morgan ave n ,Minneapolis,MN",44.995081,-93.30415500000001,2,5,Willard - Hay,Near North,1,01/23/2018,14:06,Pembina
+"1174 14th ave se,Minneapolis,MN",44.99306,-93.23174399999999,2,1,Como,University,2,01/23/2018,14:07,Pembina
+"1510 MORGAN AVE N,Minneapolis,MN",44.994527000000005,-93.304175,2,5,Willard - Hay,Near North,1,01/23/2018,14:07,Pembina
+"3306 EMERSON AVE S,Minneapolis,MN",44.942640000000004,-93.294535,2,10,South Uptown,Calhoun Isle,5,01/23/2018,14:07,Pembina
+"1924 2nd ave s,Minneapolis,MN",44.962959000000005,-93.274035,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,14:08,Pembina
+"1810 polk st ne,Minneapolis,MN",45.005928000000004,-93.244838,2,1,Northeast Park,Northeast,2,01/23/2018,14:09,Pembina
+"1914 jackson st ne,Minneapolis,MN",45.008421999999996,-93.249433,2,1,Holland,Northeast,2,01/23/2018,14:10,Pembina
+"1066 13th ave se,Minneapolis,MN",44.989943,-93.23331999999999,2,2,Como,University,4,01/23/2018,14:14,Pembina
+"3424 EMERSON AVE S,Minneapolis,MN",44.940475,-93.29499,2,10,South Uptown,Calhoun Isle,5,01/23/2018,14:14,Pembina
+"1004 Morgan Ave N,Minneapolis,MN",44.988203000000006,-93.304485,2,5,Near - North,Near North,1,01/23/2018,14:15,Pembina
+"3206 24th av s,Minneapolis,MN",44.944386,-93.237607,2,9,Corcoran,Powderhorn,6,01/23/2018,14:19,Pembina
+"724 5th st se,Minneapolis,MN",44.984813,-93.24433,2,3,Marcy Holmes,University,4,01/23/2018,14:20,Pembina
+"1110 6TH ST SE,Minneapolis,MN",44.983742,-93.237996,2,3,Marcy Holmes,University,4,01/23/2018,14:25,Pembina
+"1514 BROOK AVE SE,Minneapolis,MN",44.986416999999996,-93.229635,2,2,Como,University,4,01/23/2018,14:26,Pembina
+"2946 aldrich ave n ,Minneapolis,MN",45.010883,-93.289023,2,5,Hawthorne,Near North,1,01/23/2018,14:27,Pembina
+"2900 Colfax Ave n ,Minneapolis,MN",45.009686,-93.291517,2,5,Hawthorne,Near North,1,01/23/2018,14:29,Pembina
+"130 logan av n,Minneapolis,MN",44.977286,-93.302973,2,5,Harrison,Near North,3,01/23/2018,14:32,Pembina
+"1328 talmage ave se,Minneapolis,MN",44.989444,-93.23295999999999,2,2,Como,University,4,01/23/2018,14:34,Pembina
+"2210 33RD ST E,Minneapolis,MN",44.942935,-93.24042299999999,2,9,Corcoran,Powderhorn,6,01/23/2018,14:35,Pembina
+"2212 33RD ST E,Minneapolis,MN",44.942935,-93.24038900000001,2,9,Corcoran,Powderhorn,6,01/23/2018,14:35,Pembina
+"5644 35TH AVE S,Minneapolis,MN",44.900304,-93.221981,2,12,Morris Park,Nokomis,6,01/23/2018,14:38,Pembina
+"2010 QUEEN AVE N,Minneapolis,MN",44.999901,-93.309186,2,5,Willard - Hay,Near North,1,01/23/2018,14:39,Pembina
+"2104 32ND ST E,Minneapolis,MN",44.944994,-93.242068,2,9,Corcoran,Powderhorn,6,01/23/2018,14:41,Pembina
+"3218 DuPont ave s,Minneapolis,MN",44.944053000000004,-93.293231,2,10,South Uptown,Calhoun Isle,5,01/23/2018,14:43,Pembina
+"1110 talmage ave se,Minneapolis,MN",44.98953,-93.235683,2,2,Como,University,4,01/23/2018,14:47,Pembina
+"3508 EMERSON AVE S,Minneapolis,MN",44.939138,-93.294927,2,10,South Uptown,Calhoun Isle,5,01/23/2018,14:47,Pembina
+"1916 2ND AVE S,Minneapolis,MN",44.963376000000004,-93.27403199999999,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,14:47,Pembina
+"310 19TH ST E,Minneapolis,MN",44.963956,-93.27212800000001,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,14:47,Pembina
+"1918 2ND AVE S,Minneapolis,MN",44.963266,-93.274033,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,14:47,Pembina
+"1410 TALMAGE AVE SE,Minneapolis,MN",44.989492999999996,-93.231356,2,1,Como,University,4,01/23/2018,14:50,Pembina
+"3938 Aldrich Ave n,Minneapolis,MN",45.026893,-93.289074,2,4,Webber - Camden,Camden,1,01/23/2018,14:51,Pembina
+"2104 GIRARD AVE S,Minneapolis,MN",44.961782,-93.297291,2,7,Lowry Hill,Calhoun Isle,3,01/23/2018,14:53,Pembina
+"3142 COLFAX AVE S ,Minneapolis,MN",44.945152,-93.292253,2,10,South Uptown,Calhoun Isle,5,01/23/2018,14:55,Pembina
+"1078 25TH AVE SE,Minneapolis,MN",44.990503000000004,-93.217706,2,1,Como,University,4,01/23/2018,14:56,Pembina
+"3548 DuPont Avenue S,Minneapolis,MN",44.937987,-93.293683,2,10,South Uptown,Calhoun Isle,5,01/23/2018,14:57,Pembina
+"1022 25TH AVE SE,Minneapolis,MN",44.988681,-93.217731,2,1,Como,University,4,01/23/2018,14:57,Pembina
+"2954 aldrich ave n ,Minneapolis,MN",45.010993,-93.289268,2,5,Hawthorne,Near North,1,01/23/2018,14:58,Pembina
+"2900 33RD ST E,Minneapolis,MN",44.943169,-93.229996,2,2,Longfellow,Longfellow,6,01/23/2018,14:59,Pembina
+"2708 37th st e,Minneapolis,MN",44.936091999999995,-93.232905,2,12,Standish,Powderhorn,6,01/23/2018,15:00,Pembina
+"1500 BROOK AVE SE,Minneapolis,MN",44.986585,-93.229372,2,2,Como,University,4,01/23/2018,15:00,Pembina
+"3224 29TH AVE S,Minneapolis,MN",44.944151,-93.230296,2,2,Longfellow,Longfellow,6,01/23/2018,15:00,Pembina
+"838 21ST AVE SE,Minneapolis,MN",44.984766,-93.222627,2,2,Como,University,4,01/23/2018,15:00,Pembina
+"857 22ND AVE SE,Minneapolis,MN",44.985327000000005,-93.221587,2,2,Como,University,4,01/23/2018,15:00,Pembina
+"624 newton ave n ,Minneapolis,MN",44.985145,-93.305441,2,5,Near - North,Near North,1,01/23/2018,15:01,Pembina
+"2018 2nd av n,Minneapolis,MN",44.978953000000004,-93.306662,2,5,Harrison,Near North,3,01/23/2018,15:03,Pembina
+"2116 Bryant Ave s,Minneapolis,MN",44.961293,-93.29087700000001,2,10,Lowry Hill East,Calhoun Isle,3,01/23/2018,15:04,Pembina
+"2106 bryant ave s,Minneapolis,MN",44.961566,-93.29090699999999,2,10,Lowry Hill East,Calhoun Isle,3,01/23/2018,15:04,Pembina
+"2208 Bryant ave n,Minneapolis,MN",45.001849,-93.29105200000001,2,5,Hawthorne,Near North,1,01/23/2018,15:06,Pembina
+"2916 Colfax Ave n ,Minneapolis,MN",45.010073999999996,-93.291791,2,5,Hawthorne,Near North,1,01/23/2018,15:06,Pembina
+"1118 newton ave n ,Minneapolis,MN",44.989502,-93.30538299999999,2,5,Near - North,Near North,1,01/23/2018,15:07,Pembina
+"3112 DUPONT AVE,Minneapolis,MN",45.012848999999996,-93.292794,2,5,Hawthorne,Near North,1,01/23/2018,15:07,Pembina
+"3025 COLFAX ,Minneapolis,MN",44.947455,-93.291669,2,10,South Uptown,Calhoun Isle,5,01/23/2018,15:10,Pembina
+"3948 NOKOMIS av s,Minneapolis,MN",44.930884999999996,-93.22858199999999,2,12,Standish,Powderhorn,6,01/23/2018,15:14,Pembina
+"1026 7th st se ,Minneapolis,MN",44.985196,-93.237859,2,3,Marcy Holmes,University,4,01/23/2018,15:15,Pembina
+"1202 7th st se ,Minneapolis,MN",44.984234,-93.23605,2,3,Marcy Holmes,University,4,01/23/2018,15:20,Pembina
+"1622 43rd st e,Minneapolis,MN",44.925125,-93.25048100000001,2,11,Northrop,Nokomis,6,01/23/2018,15:21,Pembina
+"322 newton av n,Minneapolis,MN",44.980773,-93.305715,2,5,Harrison,Near North,3,01/23/2018,15:21,Pembina
+"2202 ALDRICH AVE S,Minneapolis,MN",44.960633,-93.289287,2,10,Lowry Hill East,Calhoun Isle,3,01/23/2018,15:23,Pembina
+"1024 27TH AVE SE,Minneapolis,MN",44.988956,-93.214795,2,1,Como,University,4,01/23/2018,15:23,Pembina
+"424 queen n,Minneapolis,MN",44.982265000000005,-93.309446,2,5,Harrison,Near North,3,01/23/2018,15:24,Pembina
+"1726 TALMAGE AVE SE,Minneapolis,MN",44.989437,-93.228008,2,1,Como,University,4,01/23/2018,15:25,Pembina
+"1076 14th ave se,Minneapolis,MN",44.990246,-93.23178399999999,2,1,Como,University,4,01/23/2018,15:25,Pembina
+"1158 4th Ave SE,Minneapolis,MN",44.989049,-93.247575,2,3,Marcy Holmes,University,4,01/23/2018,15:27,Pembina
+"1070 17TH AVE S,Minneapolis,MN",44.989981,-93.227992,2,1,Como,University,4,01/23/2018,15:28,Pembina
+"1174 14th Ave SE,Minneapolis,MN",44.99306,-93.23174399999999,2,1,Como,University,2,01/23/2018,15:29,Pembina
+"2428 bryant ave s,Minneapolis,MN",44.958096000000005,-93.290929,2,10,Lowry Hill East,Calhoun Isle,3,01/23/2018,15:30,Pembina
+"2500 Bryant Ave s,Minneapolis,MN",44.956971,-93.291229,2,10,Lowry Hill East,Calhoun Isle,3,01/23/2018,15:31,Pembina
+"1130 winter st ne,Minneapolis,MN",44.993147,-93.24279200000001,2,3,Beltrami,Northeast,2,01/23/2018,15:32,Pembina
+"1018 22ND AVE SE,Minneapolis,MN",44.98845,-93.221558,2,1,Como,University,4,01/23/2018,15:32,Pembina
+"804 Oliver ave n ,Minneapolis,MN",44.986343,-93.30665,2,5,Near - North,Near North,1,01/23/2018,15:33,Pembina
+"344 Ulysses ave ne,Minneapolis,MN",44.991525,-93.23588000000001,2,1,Como,University,4,01/23/2018,15:34,Pembina
+"1814 Newton Ave N,Minneapolis,MN",44.997912,-93.305418,2,5,Willard - Hay,Near North,1,01/23/2018,15:35,Pembina
+"914 RUSSELL AVE N,Minneapolis,MN",44.987388,-93.310731,2,5,Willard - Hay,Near North,1,01/23/2018,15:38,Pembina
+"1828 2nd ave s,Minneapolis,MN",44.964802,-93.274028,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,15:38,Pembina
+"2718 aldrich ave n ,Minneapolis,MN",45.008339,-93.289041,2,5,Hawthorne,Near North,1,01/23/2018,15:39,Pembina
+"3324 COLFAX AVE S,Minneapolis,MN",44.942147,-93.29228499999999,2,10,South Uptown,Calhoun Isle,5,01/23/2018,15:41,Pembina
+"1810 Newton ave n,Minneapolis,MN",44.997801,-93.305401,2,5,Willard - Hay,Near North,1,01/23/2018,15:41,Pembina
+"900 23rd ave ne,Minneapolis,MN",45.010665,-93.248882,2,1,Holland,Northeast,2,01/23/2018,15:42,Pembina
+"908 18th ave se,Minneapolis,MN",44.986856,-93.22664499999999,2,2,Como,University,4,01/23/2018,15:42,Pembina
+"336 18th st e,Minneapolis,MN",44.965365000000006,-93.271058,2,6,Steven's Square - Loring Heights,Central,3,01/23/2018,15:43,Pembina
+"350 ULYSSES ST NE,Minneapolis,MN",44.992956,-93.236135,2,1,Como,University,2,01/23/2018,15:44,Pembina
+"2932 Bryant Ave n ,Minneapolis,MN",45.010563,-93.29029399999999,2,5,Hawthorne,Near North,1,01/23/2018,15:45,Pembina
+"2324 32ND ST E,Minneapolis,MN",44.944944,-93.23788,2,9,Corcoran,Powderhorn,6,01/23/2018,15:46,Pembina
+"3152 28TH AVE S,Minneapolis,MN",44.94567,-93.231585,2,2,Longfellow,Longfellow,6,01/23/2018,15:46,Pembina
+"1904 pleasant ave s,Minneapolis,MN",44.963679,-93.282912,2,7,Steven's Square - Loring Heights,Central,3,01/23/2018,15:47,Pembina
+"330 ulysses st ne,Minneapolis,MN",44.991499,-93.235874,2,1,Como,University,4,01/23/2018,15:47,Pembina
+"2358 Mckinley st ne,Minneapolis,MN",45.013082,-93.228437,2,1,Windom Park,Northeast,2,01/23/2018,15:48,Pembina
+"1100 25TH AVE SE,Minneapolis,MN",44.9911,-93.217466,2,1,Como,University,4,01/23/2018,15:56,Pembina
+"2430 PILLSBURY AVE,Minneapolis,MN",44.957985,-93.281767,2,10,Whittier,Powderhorn,3,01/23/2018,15:57,Pembina
+"2750 PILLSBURY AVE ,Minneapolis,MN",44.952176,-93.281696,2,10,Whittier,Powderhorn,3,01/23/2018,15:57,Pembina
+"2418 TALMAGE AVE SE,Minneapolis,MN",44.989592,-93.218735,2,1,Como,University,4,01/23/2018,15:57,Pembina
+"2524 BRYANT AVE S,Minneapolis,MN",44.956497999999996,-93.290589,2,10,Lowry Hill East,Calhoun Isle,3,01/23/2018,16:03,Pembina
+"812 5th av n,Minneapolis,MN",44.982942,-93.290152,2,5,Sumner - Glenwood,Near North,3,01/23/2018,16:05,Pembina
+"3424 26TH AVE S,Minneapolis,MN",44.940506,-93.234674,2,9,Corcoran,Powderhorn,6,01/23/2018,16:07,Pembina
+"1104 17th ave se,Minneapolis,MN",44.990970000000004,-93.228217,2,1,Como,University,4,01/23/2018,16:08,Pembina
+"326 Ulysses st ne,Minneapolis,MN",44.991492,-93.235873,2,2,Como,University,4,01/23/2018,16:10,Pembina
+"3434 24TH AVE S,Minneapolis,MN",44.940020000000004,-93.237214,2,9,Corcoran,Powderhorn,6,01/23/2018,16:12,Pembina
+"1722 THOMAS AVE N ,Minneapolis,MN",44.997713,-93.312966,2,5,Willard - Hay,Near North,1,01/23/2018,16:14,Pembina
+"3322 ALDRICH AVE S ,Minneapolis,MN",44.942203000000006,-93.289447,2,10,South Uptown,Calhoun Isle,5,01/23/2018,16:15,Pembina
+"620 PIERCE ST NE,Minneapolis,MN",44.995753,-93.24096999999999,2,3,Beltrami,Northeast,2,01/23/2018,16:15,Pembina
+"1106 26th ave se,Minneapolis,MN",44.991265000000006,-93.21616999999999,2,1,Como,University,4,01/23/2018,16:17,Pembina
+"1910 LOGAN AVE N,Minneapolis,MN",44.998853000000004,-93.30318100000001,2,5,Willard - Hay,Near North,1,01/23/2018,16:19,Pembina
+"7TH ST & 5TH AVE S,Minneapolis,MN",44.974015,-93.265447,2,7,Downtown West,Central,3,01/23/2018,16:21,Pembina
+"1710 Oliver ave n ,Minneapolis,MN",44.996704,-93.306607,2,5,Willard - Hay,Near North,1,01/23/2018,16:22,Pembina
+"2008 BRYANT AVE S,Minneapolis,MN",44.962207,-93.290918,2,10,Lowry Hill East,Calhoun Isle,3,01/23/2018,16:22,Pembina
+"214 LOGAN AVE N,Minneapolis,MN",44.978279,-93.30291700000001,2,5,Harrison,Near North,3,01/23/2018,16:24,Pembina
+"3020 Colfax Ave n ,Minneapolis,MN",45.011638,-93.291448,2,5,Hawthorne,Near North,1,01/23/2018,16:25,Pembina
+"1024 15TH AVE SE,Minneapolis,MN",44.988655,-93.230447,2,1,Como,University,4,01/23/2018,16:27,Pembina
+"3014 Colfax Ave n ,Minneapolis,MN",45.011611,-93.291449,2,5,Hawthorne,Near North,1,01/23/2018,16:28,Pembina
+"1600 Oliver Ave N,Minneapolis,MN",44.995357,-93.306609,2,5,Willard - Hay,Near North,1,01/23/2018,16:30,Pembina
+"3436 24TH AVE S,Minneapolis,MN",44.939974,-93.237689,2,9,Corcoran,Powderhorn,6,01/23/2018,16:30,Pembina
+"500 Humboldt Avenue North,Minneapolis,MN",44.982832,-93.298148,2,5,Harrison,Near North,3,01/23/2018,16:32,Pembina
+"3706 43rd st e,Minneapolis,MN",44.925325,-93.21905799999999,2,12,Hiawatha,Longfellow,6,01/23/2018,16:32,Pembina
+"2310 ALDRICH AVE S,Minneapolis,MN",44.959687,-93.289562,2,10,Lowry Hill East,Calhoun Isle,3,01/23/2018,16:33,Pembina
+"2320 32ND ST E,Minneapolis,MN",44.944944,-93.237922,2,9,Corcoran,Powderhorn,6,01/23/2018,16:34,Pembina
+"1096 22ND AVE SE,Minneapolis,MN",44.990946,-93.221243,2,1,Como,University,4,01/23/2018,16:38,Pembina
+"3440 COLFAX AVE S,Minneapolis,MN",44.939997999999996,-93.292387,2,10,South Uptown,Calhoun Isle,5,01/23/2018,16:41,Pembina
+"2302 4th av n,Minneapolis,MN",44.981581,-93.30984699999999,2,5,Harrison,Near North,3,01/23/2018,16:44,Pembina
+"3146 ALDRICH AVE S,Minneapolis,MN",44.945721,-93.289411,2,10,South Uptown,Calhoun Isle,5,01/23/2018,16:44,Pembina
+"2720 15TH AVE N,Minneapolis,MN",44.95276,-93.254013,2,9,Midtown Phillips,Phillips,3,01/23/2018,16:46,Pembina
+"520 23rd ave ne,Minneapolis,MN",45.010746000000005,-93.259795,2,1,Holland,Northeast,2,01/23/2018,16:46,Pembina
+"706 15th ave ne,Minneapolis,MN",45.003082,-93.252392,2,1,Logan Park,Northeast,2,01/23/2018,16:48,Pembina
+"552 Humboldt av n,Minneapolis,MN",44.983121000000004,-93.29808299999999,2,5,Harrison,Near North,3,01/23/2018,16:49,Pembina
+"1902 NEWTON AVE N,Minneapolis,MN",44.998841999999996,-93.30569200000001,2,5,Willard - Hay,Near North,1,01/23/2018,16:52,Pembina
+"1324 Oliver Ave N,Minneapolis,MN",44.992377000000005,-93.306661,2,5,Willard - Hay,Near North,1,01/23/2018,16:54,Pembina
+"3528 41ST E,Minneapolis,MN",44.928746999999994,-93.220742,2,12,Hiawatha,Longfellow,6,01/23/2018,16:54,Pembina
+"696 23rd ave ne,Minneapolis,MN",45.011084999999994,-93.25265,2,1,Holland,Northeast,2,01/23/2018,16:55,Pembina
+"3728 SNELLING AVE S,Minneapolis,MN",44.935105,-93.226653,2,12,Howe,Longfellow,6,01/23/2018,16:55,Pembina
+"3014 45th ave so,Minneapolis,MN",44.947762,-93.209071,2,2,Cooper,Longfellow,6,01/23/2018,16:56,Pembina
+"3536 SNELLING AVE S,Minneapolis,MN",44.93851,-93.229168,2,12,Howe,Longfellow,6,01/23/2018,16:56,Pembina
+"926 24th ave ne,Minneapolis,MN",45.012165,-93.24722299999999,2,1,Windom Park,Northeast,2,01/23/2018,16:58,Pembina
+"3528 COLFAX AVE S,Minneapolis,MN",44.938573,-93.292365,2,10,South Uptown,Calhoun Isle,5,01/23/2018,17:00,Pembina
+"3534 COLFAX AVE S,Minneapolis,MN",44.938457,-93.292375,2,10,South Uptown,Calhoun Isle,5,01/23/2018,17:01,Pembina
+"714 34th ave n ,Minneapolis,MN",45.016690999999994,-93.288225,2,4,McKinley,Camden,1,01/23/2018,17:05,Pembina
+"4010 dupont Ave n ,Minneapolis,MN",45.028061,-93.292938,2,4,Webber - Camden,Camden,1,01/23/2018,17:14,Pembina
+"1508 Oliver Ave N,Minneapolis,MN",44.994538,-93.30664200000001,2,5,Willard - Hay,Near North,1,01/23/2018,17:17,Pembina
+"3002 31st Street East,Minneapolis,MN",44.947021,-93.228349,2,2,Longfellow,Longfellow,6,01/23/2018,17:22,Pembina
+"2208 PLEASANT AVE ,Minneapolis,MN",44.960612,-93.282926,2,10,Whittier,Powderhorn,3,01/23/2018,17:23,Pembina
+"2410 PILLSBURY AVE ,Minneapolis,MN",44.958614000000004,-93.281669,2,10,Whittier,Powderhorn,3,01/23/2018,17:24,Pembina
+"3708 31st Street East,Minneapolis,MN",44.946975,-93.218997,2,2,Longfellow,Longfellow,6,01/23/2018,17:25,Pembina
+"702 22ND ST W,Minneapolis,MN",44.961067,-93.288239,2,10,Lowry Hill East,Calhoun Isle,3,01/23/2018,17:28,Pembina
+"1802 NEWTON AVE N,Minneapolis,MN",44.997572999999996,-93.30542700000001,2,5,Willard - Hay,Near North,1,01/23/2018,18:23,Pembina
+"320 13TH AVE SE,Minneapolis,MN",44.980529,-93.237237,2,3,Marcy Holmes,University,4,01/23/2018,18:25,Pembina
+"828 19TH AVE SE,Minneapolis,MN",44.984388,-93.225278,2,2,Como,University,4,01/23/2018,18:29,Pembina
+"920 18TH AVE SE,Minneapolis,MN",44.987192,-93.226668,2,2,Como,University,4,01/23/2018,18:30,Pembina
+"2909 3rd st n ,Minneapolis,MN",45.009888000000004,-93.283795,3,5,Hawthorne,Near North,1,01/24/2018,08:17,Pembina
+"1715 Lyn Park Ave N,Minneapolis,MN",44.997053,-93.286165,3,5,Near - North,Near North,1,01/24/2018,08:25,Pembina
+"1715 lyn park n,Minneapolis,MN",44.997053,-93.286165,3,5,Near - North,Near North,1,01/24/2018,08:26,Pembina
+"3033 4th St n,Minneapolis,MN",45.011776,-93.285184,3,5,Hawthorne,Near North,1,01/24/2018,08:27,Pembina
+"619 4th ave se,Minneapolis,MN",44.988644,-93.24789,3,3,Marcy Holmes,University,4,01/24/2018,08:28,Pembina
+"1717 lyn park ave n ,Minneapolis,MN",44.99706,-93.286165,3,5,Near - North,Near North,1,01/24/2018,08:29,Pembina
+"3507 14th ave s,Minneapolis,MN",44.939231,-93.254674,3,9,Powderhorn Park,Powderhorn,6,01/24/2018,08:29,Pembina
+"3505 13th ave s ,Minneapolis,MN",44.939288,-93.255933,3,9,Powderhorn Park,Powderhorn,6,01/24/2018,08:34,Pembina
+"411 4th ave se,Minneapolis,MN",44.98663,-93.250126,3,3,Marcy Holmes,University,4,01/24/2018,08:35,Pembina
+"3009 JAMES AVE S,Minneapolis,MN",44.947956,-93.303087,3,10,ECCO,Calhoun Isle,5,01/24/2018,08:36,Pembina
+"2223 6th st n,Minneapolis,MN",45.002216,-93.28676899999999,3,5,Hawthorne,Near North,1,01/24/2018,08:44,Pembina
+"803 Lyndale Pl,Minneapolis,MN",44.987176,-93.289645,3,5,Sumner - Glenwood,Near North,1,01/24/2018,08:45,Pembina
+"736 Aldrich ave n ,Minneapolis,MN",44.985957,-93.29059699999999,3,5,Sumner - Glenwood,Near North,1,01/24/2018,08:48,Pembina
+"215 5th st ne,Minneapolis,MN",44.991583,-93.25484399999999,3,3,St. Anthony East,Northeast,2,01/24/2018,08:55,Pembina
+"1831 Bryant ave n ,Minneapolis,MN",44.998422,-93.291411,3,5,Near - North,Near North,1,01/24/2018,08:59,Pembina
+"3223 4th St n,Minneapolis,MN",45.013915999999995,-93.28523100000001,3,4,McKinley,Camden,1,01/24/2018,09:01,Pembina
+"3245 GIRARD AVE S,Minneapolis,MN",44.943272,-93.296798,3,10,South Uptown,Calhoun Isle,5,01/24/2018,09:05,Pembina
+"3115 6th st n ,Minneapolis,MN",45.012537,-93.286869,3,5,Hawthorne,Near North,1,01/24/2018,09:05,Pembina
+"113 7th ave ne,Minneapolis,MN",44.994402,-93.265365,3,3,St. Anthony West,Northeast,2,01/24/2018,09:06,Pembina
+"811 4th st ne,Minneapolis,MN",44.997667,-93.2609,3,3,St. Anthony West,Northeast,2,01/24/2018,09:08,Pembina
+"2207 6th st n,Minneapolis,MN",45.001774,-93.286751,3,5,Hawthorne,Near North,1,01/24/2018,09:09,Pembina
+"1201 Humboldt Ave N,Minneapolis,MN",44.990276,-93.29857700000001,3,5,Near - North,Near North,1,01/24/2018,09:12,Pembina
+"309 5th ave se,Minneapolis,MN",44.984955,-93.248991,3,3,Marcy Holmes,University,4,01/24/2018,09:14,Pembina
+"409 9th ave ne,Minneapolis,MN",44.998371,-93.260914,3,3,St. Anthony West,Northeast,2,01/24/2018,09:14,Pembina
+"3727 11TH AVE S,Minneapolis,MN",44.935084,-93.258431,3,9,Powderhorn Park,Powderhorn,6,01/24/2018,09:16,Pembina
+"1135 15th ave se,Minneapolis,MN",44.991956,-93.23102,3,1,Como,University,2,01/24/2018,09:18,Pembina
+"1509 32ND ST W,Minneapolis,MN",44.944728000000005,-93.30096400000001,3,10,ECCO,Calhoun Isle,5,01/24/2018,09:18,Pembina
+"3723 12th av s,Minneapolis,MN",44.935047999999995,-93.25745400000001,3,9,Powderhorn Park,Powderhorn,6,01/24/2018,09:18,Pembina
+"521 5th ave se,Minneapolis,MN",44.98723,-93.247179,3,3,Marcy Holmes,University,4,01/24/2018,09:19,Pembina
+"309 ridgewood av s,Minneapolis,MN",44.963761,-93.28328,3,7,Steven's Square - Loring Heights,Central,3,01/24/2018,09:20,Pembina
+"3343 freemont ave s,Minneapolis,MN",44.941657,-93.295819,3,10,South Uptown,Calhoun Isle,5,01/24/2018,09:20,Pembina
+"315 oak grove st,Minneapolis,MN",44.966718,-93.283521,3,7,Loring Park,Central,3,01/24/2018,09:21,Pembina
+"725 5th ave se,Minneapolis,MN",44.98927,-93.245571,3,3,Marcy Holmes,University,4,01/24/2018,09:25,Pembina
+"1523 spruce place ,Minneapolis,MN",44.967009999999995,-93.280449,3,7,Loring Park,Central,3,01/24/2018,09:25,Pembina
+"421 oak grove st,Minneapolis,MN",44.967709,-93.28573,3,7,Loring Park,Central,3,01/24/2018,09:27,Pembina
+"3405 HOLMES AVE S ,Minneapolis,MN",44.941014,-93.299324,3,10,ECCO,Calhoun Isle,5,01/24/2018,09:28,Pembina
+"625 5th ave se,Minneapolis,MN",44.988277000000004,-93.246426,3,3,Marcy Holmes,University,4,01/24/2018,09:29,Pembina
+"27 oak grove st,Minneapolis,MN",44.966374,-93.278834,3,7,Loring Park,Central,3,01/24/2018,09:30,Pembina
+"2309 6th st n,Minneapolis,MN",45.002918,-93.28670100000001,3,5,Hawthorne,Near North,1,01/24/2018,09:31,Pembina
+"1407 33RD ST W ,Minneapolis,MN",44.942777,-93.297513,3,10,South Uptown,Calhoun Isle,5,01/24/2018,09:31,Pembina
+"2211 6th St n,Minneapolis,MN",45.001878999999995,-93.286819,3,5,Hawthorne,Near North,1,01/24/2018,09:32,Pembina
+"1819 Irving ave n ,Minneapolis,MN",44.998001,-93.299687,3,5,Willard - Hay,Near North,1,01/24/2018,09:33,Pembina
+"3615 10th ave so,Minneapolis,MN",44.937182,-93.260002,3,9,Powderhorn Park,Powderhorn,6,01/24/2018,09:37,Pembina
+"611 adams st ne,Minneapolis,MN",44.995483,-93.256253,3,3,St. Anthony East,Northeast,2,01/24/2018,09:38,Pembina
+"1827 Irving Ave N,Minneapolis,MN",44.998225,-93.299686,3,5,Willard - Hay,Near North,1,01/24/2018,09:40,Pembina
+"3115 6th st n ,Minneapolis,MN",45.012537,-93.286869,3,5,Hawthorne,Near North,1,01/24/2018,09:40,Pembina
+"3225 17th ave s,Minneapolis,MN",44.943754999999996,-93.24959100000001,3,9,Powderhorn Park,Powderhorn,6,01/24/2018,09:42,Pembina
+"313 oak grove st,Minneapolis,MN",44.966704,-93.283487,3,7,Loring Park,Central,3,01/24/2018,09:43,Pembina
+"20 oak grove st,Minneapolis,MN",44.966457,-93.278759,3,7,Loring Park,Central,3,01/24/2018,09:50,Pembina
+"1325 Irving ave n ,Minneapolis,MN",44.992378,-93.29966800000001,3,5,Near - North,Near North,1,01/24/2018,09:51,Pembina
+"315 OAK GROVE ST,Minneapolis,MN",44.966718,-93.283521,3,7,Loring Park,Central,3,01/24/2018,09:51,Pembina
+"4241 ELLIOT AVE,Minneapolis,MN",44.925659,-93.260995,3,8,Northrop,Nokomis,6,01/24/2018,09:55,Pembina
+"221 w14th,Minneapolis,MN",44.968647999999995,-93.281352,3,7,Loring Park,Central,3,01/24/2018,09:56,Pembina
+"2119 Bryant Ave n,Minneapolis,MN",45.000999,-93.29105200000001,3,5,Hawthorne,Near North,1,01/24/2018,09:57,Pembina
+"1365 spruce place ,Minneapolis,MN",44.96934,-93.280673,3,7,Loring Park,Central,3,01/24/2018,09:57,Pembina
+"4033 14TH AVE S,Minneapolis,MN",44.929367,-93.254936,3,8,Bancroft,Powderhorn,6,01/24/2018,10:00,Pembina
+"303 7th ave se,Minneapolis,MN",44.983554,-93.246538,3,3,Marcy Holmes,University,4,01/24/2018,10:03,Pembina
+"331 ulysses st ne,Minneapolis,MN",44.992523999999996,-93.23550999999999,3,1,Como,University,2,01/24/2018,10:04,Pembina
+"813 7th st se,Minneapolis,MN",44.986796999999996,-93.240957,3,3,Marcy Holmes,University,4,01/24/2018,10:05,Pembina
+"351 Ulysses st ne,Minneapolis,MN",44.992934000000005,-93.235495,3,1,Como,University,2,01/24/2018,10:07,Pembina
+"1329 Morgan Ave N,Minneapolis,MN",44.992497,-93.30470600000001,3,5,Willard - Hay,Near North,1,01/24/2018,10:07,Pembina
+"327 8th ave se,Minneapolis,MN",44.983686999999996,-93.244571,3,3,Marcy Holmes,University,4,01/24/2018,10:08,Pembina
+"1827 37th st e,Minneapolis,MN",44.935741,-93.247159,3,12,Standish,Powderhorn,6,01/24/2018,10:11,Pembina
+"3115 22nd Avenue South,Minneapolis,MN",44.946081,-93.240627,3,9,Corcoran,Powderhorn,6,01/24/2018,10:13,Pembina
+"1109 Winter St Ne,Minneapolis,MN",44.993299,-93.235617,3,1,Mid - City Industrial,University,2,01/24/2018,10:13,Pembina
+"1215 morgan ave n ,Minneapolis,MN",44.990226,-93.30467800000001,3,5,Near - North,Near North,1,01/24/2018,10:13,Pembina
+"205 7th ave se ,Minneapolis,MN",44.982528,-93.247221,3,3,Marcy Holmes,University,4,01/24/2018,10:16,Pembina
+"3117 22nd Avenue South,Minneapolis,MN",44.946033,-93.240627,3,9,Corcoran,Powderhorn,6,01/24/2018,10:18,Pembina
+"1729 Clifton av s,Minneapolis,MN",44.966957,-93.285923,3,7,Loring Park,Central,3,01/24/2018,10:18,Pembina
+"223 4 th ave se ,Minneapolis,MN",44.985138,-93.250668,3,3,Marcy Holmes,University,4,01/24/2018,10:19,Pembina
+"2001 pillsbury ave,Minneapolis,MN",44.962688,-93.281267,3,10,Whittier,Powderhorn,3,01/24/2018,10:20,Pembina
+"1159 14th ave se,Minneapolis,MN",44.992943,-93.232281,3,1,Como,University,2,01/24/2018,10:20,Pembina
+"3147 18th av s,Minneapolis,MN",44.944931,-93.24835300000001,3,9,Powderhorn Park,Powderhorn,6,01/24/2018,10:22,Pembina
+"1021 Knox Ave N,Minneapolis,MN",44.988425,-93.302182,3,5,Near - North,Near North,1,01/24/2018,10:23,Pembina
+"627 taylor st ne,Minneapolis,MN",44.995933,-93.243524,3,3,Beltrami,Northeast,2,01/24/2018,10:24,Pembina
+"2119 PILLSBURY AVE S,Minneapolis,MN",44.961145,-93.280789,3,10,Whittier,Powderhorn,3,01/24/2018,10:24,Pembina
+"2815 Colfax Ave n ,Minneapolis,MN",45.009067,-93.29212700000001,3,5,Hawthorne,Near North,1,01/24/2018,10:26,Pembina
+"2009 harriet ave s,Minneapolis,MN",44.962329,-93.28513000000001,3,10,Whittier,Powderhorn,3,01/24/2018,10:26,Pembina
+"723 7th ave se,Minneapolis,MN",44.988059,-93.243053,3,3,Marcy Holmes,University,4,01/24/2018,10:27,Pembina
+"727 tyler st ne,Minneapolis,MN",44.997673,-93.24568199999999,3,3,Beltrami,Northeast,2,01/24/2018,10:28,Pembina
+"2201 pillsbury av,Minneapolis,MN",44.960667,-93.280835,3,10,Whittier,Powderhorn,3,01/24/2018,10:28,Pembina
+"317 8TH AVE SE,Minneapolis,MN",44.983431,-93.244766,3,3,Marcy Holmes,University,4,01/24/2018,10:28,Pembina
+"3253 GIRARD AVE S,Minneapolis,MN",44.943079,-93.296766,3,10,South Uptown,Calhoun Isle,5,01/24/2018,10:29,Pembina
+"13 OAK GROVE ST,Minneapolis,MN",44.966374,-93.278738,3,7,Loring Park,Central,3,01/24/2018,10:29,Pembina
+"3515 14TH AVE S,Minneapolis,MN",44.938965,-93.254592,3,9,Powderhorn Park,Powderhorn,6,01/24/2018,10:30,Pembina
+"2807 depont ave n ,Minneapolis,MN",44.95293,-93.320964,3,7,Cedar - Isles - Dean,Calhoun Isle,3,01/24/2018,10:31,Pembina
+"819 7th st se,Minneapolis,MN",44.986387,-93.240814,3,3,Marcy Holmes,University,4,01/24/2018,10:31,Pembina
+"317 6TH AVE SE,Minneapolis,MN",44.984558,-93.24745,3,3,Marcy Holmes,University,4,01/24/2018,10:32,Pembina
+"1405 newton ave n ,Minneapolis,MN",44.99333,-93.306031,3,5,Willard - Hay,Near North,1,01/24/2018,10:32,Pembina
+"315 OAK GROVE ST,Minneapolis,MN",44.966718,-93.283521,3,7,Loring Park,Central,3,01/24/2018,10:32,Pembina
+"1307 spruce place,Minneapolis,MN",44.96983,-93.280834,3,7,Loring Park,Central,3,01/24/2018,10:33,Pembina
+"4153 Longfellow ave s,Minneapolis,MN",44.927195000000005,-93.245937,3,12,Standish,Powderhorn,6,01/24/2018,10:33,Pembina
+"427 8TH AVE SE,Minneapolis,MN",44.984698,-93.243662,3,3,Marcy Holmes,University,4,01/24/2018,10:34,Pembina
+"3107 14TH AVE S ,Minneapolis,MN",44.946265999999994,-93.25471999999999,3,9,Powderhorn Park,Powderhorn,6,01/24/2018,10:34,Pembina
+"1307 E 39TH ST ,Minneapolis,MN",44.932112,-93.255873,3,8,Bancroft,Powderhorn,6,01/24/2018,10:34,Pembina
+"515 11TH AVE SE,Minneapolis,MN",44.983290999999994,-93.239034,3,3,Marcy Holmes,University,4,01/24/2018,10:35,Pembina
+"1509 32ND ST E,Minneapolis,MN",44.944613000000004,-93.25328499999999,3,9,Powderhorn Park,Powderhorn,6,01/24/2018,10:36,Pembina
+"3537 20th ave s ,Minneapolis,MN",44.938181,-93.24331,3,9,Corcoran,Powderhorn,6,01/24/2018,10:37,Pembina
+"3145 ELLIOT AVE ,Minneapolis,MN",44.945209999999996,-93.261071,3,9,Powderhorn Park,Powderhorn,6,01/24/2018,10:37,Pembina
+"721 tyler st ne,Minneapolis,MN",44.9974,-93.24573000000001,3,3,Beltrami,Northeast,2,01/24/2018,10:38,Pembina
+"521 11th ave se,Minneapolis,MN",44.98335,-93.238986,3,3,Marcy Holmes,University,4,01/24/2018,10:38,Pembina
+"2009 PLEASANT AVE,Minneapolis,MN",44.962323,-93.282922,3,10,Whittier,Powderhorn,3,01/24/2018,10:38,Pembina
+"3145 16TH AVE S,Minneapolis,MN",44.945153999999995,-93.250926,3,9,Powderhorn Park,Powderhorn,6,01/24/2018,10:38,Pembina
+"2101 pillsbury ave,Minneapolis,MN",44.961501,-93.28126800000001,3,10,Whittier,Powderhorn,3,01/24/2018,10:40,Pembina
+"2007 pleasant av s,Minneapolis,MN",44.962415,-93.282922,3,10,Whittier,Powderhorn,3,01/24/2018,10:40,Pembina
+"1807 STEVENS AVE S ,Minneapolis,MN",44.964551,-93.27529100000001,3,6,Steven's Square - Loring Heights,Central,3,01/24/2018,10:41,Pembina
+"1211 33RD ST W ,Minneapolis,MN",44.942915,-93.294674,3,10,South Uptown,Calhoun Isle,5,01/24/2018,10:42,Pembina
+"2413 harriet ave s,Minneapolis,MN",44.958634,-93.28546800000001,3,10,Whittier,Powderhorn,3,01/24/2018,10:44,Pembina
+"2207 Oliver Ave N,Minneapolis,MN",45.001601,-93.307233,3,5,Willard - Hay,Near North,1,01/24/2018,10:49,Pembina
+"1063 16TH AVE SE,Minneapolis,MN",44.989548,-93.22949799999999,3,1,Como,University,4,01/24/2018,10:50,Pembina
+"619 9 1/2 ave se,Minneapolis,MN",44.987245,-93.257116,3,3,Nicollet Island - East Bank,University,4,01/24/2018,10:50,Pembina
+"2304 PILLSBURY AVE S,Minneapolis,MN",44.95988,-93.281751,3,10,Whittier,Powderhorn,3,01/24/2018,10:50,Pembina
+"725 7TH AVE SE ,Minneapolis,MN",44.988069,-93.243045,3,3,Marcy Holmes,University,4,01/24/2018,10:52,Pembina
+"985 18th Ave SE,Minneapolis,MN",44.987277,-93.227273,3,2,Como,University,4,01/24/2018,10:53,Pembina
+"803 11TH AVE SE,Minneapolis,MN",44.986158,-93.23675,3,3,Marcy Holmes,University,4,01/24/2018,10:53,Pembina
+"525 11th ave se,Minneapolis,MN",44.983389,-93.238955,3,3,Marcy Holmes,University,4,01/24/2018,10:54,Pembina
+"1025 Knox ave n ,Minneapolis,MN",44.988603000000005,-93.30218,3,5,Near - North,Near North,1,01/24/2018,10:56,Pembina
+"2011 PLEASANT AVE S,Minneapolis,MN",44.96222,-93.28254,3,10,Whittier,Powderhorn,3,01/24/2018,10:57,Pembina
+"715 11th ave se,Minneapolis,MN",44.985762,-93.237639,3,3,Marcy Holmes,University,4,01/24/2018,10:58,Pembina
+"2301 Pillsbury av so,Minneapolis,MN",44.959964,-93.280865,3,10,Whittier,Powderhorn,3,01/24/2018,11:05,Pembina
+"2209 pillsbury ave ,Minneapolis,MN",44.96054,-93.28127099999999,3,10,Whittier,Powderhorn,3,01/24/2018,11:06,Pembina
+"403 6th st se,Minneapolis,MN",44.988211,-93.24789399999999,3,3,Marcy Holmes,University,4,01/24/2018,11:07,Pembina
+"705 11th ave se,Minneapolis,MN",44.985459999999996,-93.237876,3,3,Marcy Holmes,University,4,01/24/2018,11:07,Pembina
+"1821 queen ave n,Minneapolis,MN",44.998265,-93.30949100000001,3,5,Willard - Hay,Near North,1,01/24/2018,11:08,Pembina
+"717 11th ave se,Minneapolis,MN",44.985772999999995,-93.23763000000001,3,3,Marcy Holmes,University,4,01/24/2018,11:10,Pembina
+"2525 harriet ave s,Minneapolis,MN",44.95655,-93.285224,3,10,Whittier,Powderhorn,3,01/24/2018,11:10,Pembina
+"2919 Colfax Ave n ,Minneapolis,MN",45.010133,-93.292063,3,5,Hawthorne,Near North,1,01/24/2018,11:11,Pembina
+"1315 Oliver Ave N,Minneapolis,MN",44.992051000000004,-93.30726999999999,3,5,Willard - Hay,Near North,1,01/24/2018,11:11,Pembina
+"1369 spruce place ,Minneapolis,MN",44.96906,-93.280091,3,7,Loring Park,Central,3,01/24/2018,11:11,Pembina
+"707 tyler st ne,Minneapolis,MN",44.997292,-93.245737,3,3,Beltrami,Northeast,2,01/24/2018,11:15,Pembina
+"3227 Bossen Terrace,Minneapolis,MN",44.900665000000004,-93.22438000000001,3,11,Wenonah,Nokomis,6,01/24/2018,11:17,Pembina
+"511 9 1/2 ave se,Minneapolis,MN",44.987245,-93.257116,3,3,Nicollet Island - East Bank,University,4,01/24/2018,11:18,Pembina
+"3015 Colfax Ave n ,Minneapolis,MN",45.011862,-93.291871,3,5,Hawthorne,Near North,1,01/24/2018,11:18,Pembina
+"2327 PLEASANT AVE,Minneapolis,MN",44.959277,-93.282934,3,10,Whittier,Powderhorn,3,01/24/2018,11:19,Pembina
+"549 9 1/2 ave se,Minneapolis,MN",44.987245,-93.257116,3,3,Nicollet Island - East Bank,University,4,01/24/2018,11:20,Pembina
+"3209 36th st ,Minneapolis,MN",44.937765,-93.225219,3,12,Howe,Longfellow,6,01/24/2018,11:21,Pembina
+"3229 Bossen Terrace,Minneapolis,MN",44.900665000000004,-93.22438000000001,3,11,Wenonah,Nokomis,6,01/24/2018,11:21,Pembina
+"3335 41st st e,Minneapolis,MN",44.928725,-93.223948,3,12,Hiawatha,Longfellow,6,01/24/2018,11:23,Pembina
+"1409 23rd ave ne,Minneapolis,MN",45.011244,-93.239603,3,1,Windom Park,Northeast,2,01/24/2018,11:26,Pembina
+"701 13th ave se,Minneapolis,MN",44.983992,-93.234802,3,3,Marcy Holmes,University,4,01/24/2018,11:26,Pembina
+"821 12th ave se,Minneapolis,MN",44.986182,-93.235198,3,3,Marcy Holmes,University,4,01/24/2018,11:33,Pembina
+"2401 5th st ne,Minneapolis,MN",45.012325,-93.260059,3,1,Holland,Northeast,2,01/24/2018,11:33,Pembina
+"1819 Queen Ave N,Minneapolis,MN",44.998258,-93.309732,3,5,Willard - Hay,Near North,1,01/24/2018,11:34,Pembina
+"1909 2nd av s,Minneapolis,MN",44.963621,-93.27403000000001,3,6,Steven's Square - Loring Heights,Central,3,01/24/2018,11:34,Pembina
+"1111 pierce st ne,Minneapolis,MN",44.999199,-93.24072,3,1,Northeast Park,Northeast,2,01/24/2018,11:36,Pembina
+"2743 Garfield ave s,Minneapolis,MN",44.952206,-93.286624,3,10,Whittier,Powderhorn,3,01/24/2018,11:38,Pembina
+"2217 5th st ne,Minneapolis,MN",45.010645000000004,-93.260071,3,1,Holland,Northeast,2,01/24/2018,11:38,Pembina
+"405 6th Ave se,Minneapolis,MN",44.985302000000004,-93.246926,3,3,Marcy Holmes,University,4,01/24/2018,11:39,Pembina
+"1817 queen ave n ,Minneapolis,MN",44.998203000000004,-93.309492,3,5,Willard - Hay,Near North,1,01/24/2018,11:40,Pembina
+"2403 pillsbury ave ,Minneapolis,MN",44.958892,-93.281284,3,10,Whittier,Powderhorn,3,01/24/2018,11:42,Pembina
+"1021 7th st se,Minneapolis,MN",44.985382,-93.238336,3,3,Marcy Holmes,University,4,01/24/2018,11:42,Pembina
+"721 11th ave se,Minneapolis,MN",44.985795,-93.237612,3,3,Marcy Holmes,University,4,01/24/2018,11:42,Pembina
+"2633 PLEASANT AVE ,Minneapolis,MN",44.954387,-93.28256,3,10,Whittier,Powderhorn,3,01/24/2018,11:42,Pembina
+"719 11TH AVE SE,Minneapolis,MN",44.985784,-93.23762099999999,3,3,Marcy Holmes,University,4,01/24/2018,11:46,Pembina
+"813 11TH AVE SE,Minneapolis,MN",44.986504,-93.236463,3,3,Marcy Holmes,University,4,01/24/2018,11:47,Pembina
+"817 13th ave se,Minneapolis,MN",44.98531,-93.233775,3,3,Marcy Holmes,University,4,01/24/2018,11:48,Pembina
+"2435 garfield ave s ,Minneapolis,MN",44.95798,-93.286394,3,10,Whittier,Powderhorn,3,01/24/2018,11:49,Pembina
+"3707 aldrich ave n ,Minneapolis,MN",45.022386,-93.289612,3,4,McKinley,Camden,1,01/24/2018,11:49,Pembina
+"1055 13th Ave SE ,Minneapolis,MN",44.989407,-93.233317,3,2,Como,University,4,01/24/2018,11:49,Pembina
+"3561 snelling av s,Minneapolis,MN",44.93788,-93.228367,3,12,Howe,Longfellow,6,01/24/2018,11:49,Pembina
+"2435 Pillsbury Ave,Minneapolis,MN",44.958021,-93.280834,3,10,Whittier,Powderhorn,3,01/24/2018,11:51,Pembina
+"1113 russell ave n,Minneapolis,MN",44.989332,-93.31111,3,5,Willard - Hay,Near North,1,01/24/2018,11:52,Pembina
+"2731 PILLSBURY AVE,Minneapolis,MN",44.952712,-93.280857,3,10,Whittier,Powderhorn,3,01/24/2018,11:53,Pembina
+"817 12th ave se,Minneapolis,MN",44.986379,-93.235126,3,3,Marcy Holmes,University,4,01/24/2018,11:54,Pembina
+"1823 stevens,Minneapolis,MN",44.964449,-93.27529,3,6,Steven's Square - Loring Heights,Central,3,01/24/2018,11:54,Pembina
+"3307 aldrich ave n ,Minneapolis,MN",45.015184999999995,-93.289603,3,4,McKinley,Camden,1,01/24/2018,11:54,Pembina
+"1023 13th Ave SE,Minneapolis,MN",44.988589000000005,-93.233313,3,2,Como,University,4,01/24/2018,11:54,Pembina
+"1915 2nd av so,Minneapolis,MN",44.963399,-93.273673,3,6,Steven's Square - Loring Heights,Central,3,01/24/2018,11:56,Pembina
+"815 12th ave se,Minneapolis,MN",44.986175,-93.235238,3,3,Marcy Holmes,University,4,01/24/2018,11:56,Pembina
+"347 26th ave ne,Minneapolis,MN",45.014977,-93.263215,3,1,Marshall Terrace,Northeast,2,01/24/2018,11:57,Pembina
+"809 Thomas Ave N,Minneapolis,MN",44.986525,-93.31369699999999,3,5,Willard - Hay,Near North,1,01/24/2018,11:58,Pembina
+"5751 BOSSEN TERRACE,Minneapolis,MN",44.898609,-93.226632,3,11,Wenonah,Nokomis,6,01/24/2018,11:59,Pembina
+"5741 SANDER DR,Minneapolis,MN",44.898989,-93.225339,3,11,Wenonah,Nokomis,6,01/24/2018,12:00,Pembina
+"5745 sander drive,Minneapolis,MN",44.898819,-93.225039,3,11,Wenonah,Nokomis,6,01/24/2018,12:03,Pembina
+"125 19th st e,Minneapolis,MN",44.963954,-93.27529100000001,3,6,Steven's Square - Loring Heights,Central,3,01/24/2018,12:06,Pembina
+"3935 SNELLING AVE S,Minneapolis,MN",44.931396,-93.223347,3,12,Howe,Longfellow,6,01/24/2018,12:06,Pembina
+"3107 18TH AVE S,Minneapolis,MN",44.946239,-93.248407,3,9,Powderhorn Park,Powderhorn,6,01/24/2018,12:06,Pembina
+"1215 talmage ave s e,Minneapolis,MN",44.989829,-93.234241,3,2,Como,University,4,01/24/2018,12:10,Pembina
+"2703 PLEASANT AVE,Minneapolis,MN",44.953639,-93.282978,3,10,Whittier,Powderhorn,3,01/24/2018,12:10,Pembina
+"311 6th st se,Minneapolis,MN",44.988518,-93.249408,3,3,Marcy Holmes,University,4,01/24/2018,12:12,Pembina
+"2725 pillsbury ave,Minneapolis,MN",44.952951,-93.281319,3,10,Whittier,Powderhorn,3,01/24/2018,12:13,Pembina
+"3217 FREMONT AVE S,Minneapolis,MN",44.944109999999995,-93.295512,3,10,South Uptown,Calhoun Isle,5,01/24/2018,12:19,Pembina
+"5735 bossen Terrace,Minneapolis,MN",44.89921,-93.226616,3,11,Wenonah,Nokomis,6,01/24/2018,12:19,Pembina
+"2809 Garfield Avenue South,Minneapolis,MN",44.951563,-93.286514,3,10,Whittier,Powderhorn,3,01/24/2018,12:20,Pembina
+"5761 33rd Avenue South,Minneapolis,MN",44.898363,-93.223867,3,11,Wenonah,Nokomis,6,01/24/2018,12:22,Pembina
+"1825 Clinton ave s,Minneapolis,MN",44.964257,-93.271201,3,6,Steven's Square - Loring Heights,Central,3,01/24/2018,12:22,Pembina
+"1313 6th st e,Minneapolis,MN",44.983006,-93.234864,3,3,Marcy Holmes,University,4,01/24/2018,12:24,Pembina
+"1409 6th st se,Minneapolis,MN",44.982191,-93.233512,3,3,Marcy Holmes,University,4,01/24/2018,12:24,Pembina
+"3619 aldrich ave n ,Minneapolis,MN",45.020886,-93.289606,3,4,McKinley,Camden,1,01/24/2018,12:25,Pembina
+"1601 thomas ave n,Minneapolis,MN",44.995321999999994,-93.313665,3,5,Willard - Hay,Near North,1,01/24/2018,12:26,Pembina
+"1407 6th st se,Minneapolis,MN",44.982206,-93.233552,3,3,Marcy Holmes,University,4,01/24/2018,12:29,Pembina
+"3443 Bryant Ave n ,Minneapolis,MN",45.018141,-93.290847,3,4,McKinley,Camden,1,01/24/2018,12:30,Pembina
+"1805 15th av s,Minneapolis,MN",44.964462,-93.253674,3,6,Ventura Village,Phillips,3,01/24/2018,12:30,Pembina
+"723 13th ave se ,Minneapolis,MN",44.984815000000005,-93.234538,3,3,Marcy Holmes,University,4,01/24/2018,12:31,Pembina
+"227 19th st e,Minneapolis,MN",44.963684,-93.273493,3,6,Steven's Square - Loring Heights,Central,3,01/24/2018,12:31,Pembina
+"2451 clinton av s,Minneapolis,MN",44.957625,-93.271204,3,10,Whittier,Powderhorn,3,01/24/2018,12:32,Pembina
+"1023 7th st se,Minneapolis,MN",44.985374,-93.23831700000001,3,3,Marcy Holmes,University,4,01/24/2018,12:32,Pembina
+"2509 Oak Park Dr. N.,Minneapolis,MN",44.987911,-93.312212,3,5,Willard - Hay,Near North,1,01/24/2018,12:33,Pembina
+"2011 Garfield ave s,Minneapolis,MN",44.962268,-93.286709,3,10,Whittier,Powderhorn,3,01/24/2018,12:33,Pembina
+"727 13th ave se,Minneapolis,MN",44.984931,-93.234421,3,3,Marcy Holmes,University,4,01/24/2018,12:33,Pembina
+"2825 PILLSBURY AVE,Minneapolis,MN",44.951039,-93.281058,3,10,Whittier,Powderhorn,3,01/24/2018,12:33,Pembina
+"2733 upton ave n,Minneapolis,MN",45.008786,-93.31460200000001,3,4,Willard - Hay,Near North,1,01/24/2018,12:34,Pembina
+"2919 COLFAX AVE S,Minneapolis,MN",44.949289,-93.29164300000001,3,10,Lowry Hill East,Calhoun Isle,3,01/24/2018,12:39,Pembina
+"1823 37TH ST E,Minneapolis,MN",44.935927,-93.247405,3,9,Powderhorn Park,Powderhorn,6,01/24/2018,12:40,Pembina
+"2021 garfield ave s ,Minneapolis,MN",44.96198,-93.286463,3,10,Whittier,Powderhorn,3,01/24/2018,12:42,Pembina
+"1313 6th st se,Minneapolis,MN",44.983006,-93.234864,3,3,Marcy Holmes,University,4,01/24/2018,12:42,Pembina
+"2843 polk st ne,Minneapolis,MN",45.02001,-93.245214,3,1,Audubon Park,Northeast,2,01/24/2018,12:46,Pembina
+"1811 6th st s,Minneapolis,MN",44.967452,-93.24661400000001,3,6,Cedar Riverside,University,4,01/24/2018,12:46,Pembina
+"349 26th ave ne,Minneapolis,MN",45.014977,-93.263153,3,1,Marshall Terrace,Northeast,2,01/24/2018,12:49,Pembina
+"2745 COLFAX AVE S,Minneapolis,MN",44.952343,-93.291653,3,10,Lowry Hill East,Calhoun Isle,3,01/24/2018,12:49,Pembina
+"1009 20th ave se,Minneapolis,MN",44.988132,-93.224199,3,1,Como,University,4,01/24/2018,12:50,Pembina
+"1113 8th Ave N,Minneapolis,MN",44.986348,-93.299724,3,5,Near - North,Near North,1,01/24/2018,12:50,Pembina
+"1931 Aldrich AVE S,Minneapolis,MN",44.963190000000004,-93.289348,3,10,Lowry Hill East,Calhoun Isle,3,01/24/2018,12:51,Pembina
+"2631 taylor st ne,Minneapolis,MN",45.016028000000006,-93.243475,3,1,Audubon Park,Northeast,2,01/24/2018,12:54,Pembina
+"1107 15ave se,Minneapolis,MN",44.991039,-93.230774,3,1,Como,University,4,01/24/2018,12:54,Pembina
+"1869 44th st e,Minneapolis,MN",44.923313,-93.24553,3,12,Ericsson,Nokomis,6,01/24/2018,12:56,Pembina
+"2205 aldrich ave s,Minneapolis,MN",44.960604,-93.289011,3,10,Lowry Hill East,Calhoun Isle,3,01/24/2018,12:57,Pembina
+"2629 taylor st ne,Minneapolis,MN",45.015978999999994,-93.243788,3,1,Audubon Park,Northeast,2,01/24/2018,13:01,Pembina
+"1007 13th Ave SE,Minneapolis,MN",44.988105,-93.233621,3,2,Como,University,4,01/24/2018,13:05,Pembina
+"3755 Bryant Ave n ,Minneapolis,MN",45.023706,-93.29086600000001,3,4,McKinley,Camden,1,01/24/2018,13:06,Pembina
+"2415 bryant av s,Minneapolis,MN",44.95861,-93.290313,3,10,Lowry Hill East,Calhoun Isle,3,01/24/2018,13:07,Pembina
+"2535 ALDRICH AVE S,Minneapolis,MN",44.956225,-93.28897099999999,3,10,Lowry Hill East,Calhoun Isle,3,01/24/2018,13:08,Pembina
+"1107 8th ave n,Minneapolis,MN",44.986348,-93.299724,3,5,Near - North,Near North,1,01/24/2018,13:09,Pembina
+"1011 26th Ave SE ,Minneapolis,MN",44.988431,-93.216688,3,1,Como,University,4,01/24/2018,13:09,Pembina
+"5749 sander drive,Minneapolis,MN",44.898683,-93.225088,3,11,Wenonah,Nokomis,6,01/24/2018,13:10,Pembina
+"1105 8th ave n ,Minneapolis,MN",44.986348,-93.299724,3,5,Near - North,Near North,1,01/24/2018,13:10,Pembina
+"839 18TH AVE SE,Minneapolis,MN",44.984970000000004,-93.226928,3,2,Como,University,4,01/24/2018,13:10,Pembina
+"3305 Colfax Ave n ,Minneapolis,MN",45.01517,-93.29181700000001,3,4,McKinley,Camden,1,01/24/2018,13:11,Pembina
+"1205 12th Ave N,Minneapolis,MN",44.990289000000004,-93.297268,3,5,Near - North,Near North,1,01/24/2018,13:11,Pembina
+"1519 BROOKE AVE SE,Minneapolis,MN",44.986868,-93.229394,3,2,Como,University,4,01/24/2018,13:11,Pembina
+"3533 GIRARD AVE S,Minneapolis,MN",44.938452000000005,-93.296776,3,10,South Uptown,Calhoun Isle,5,01/24/2018,13:13,Pembina
+"2209 Bryant av s,Minneapolis,MN",44.960421000000004,-93.290236,3,10,Lowry Hill East,Calhoun Isle,3,01/24/2018,13:13,Pembina
+"2943 garfield ave s,Minneapolis,MN",44.949339,-93.286478,3,10,Whittier,Powderhorn,3,01/24/2018,13:16,Pembina
+"151 Girard ave n,Minneapolis,MN",44.978206,-93.297602,3,5,Harrison,Near North,3,01/24/2018,13:18,Pembina
+"2653 ALDRICH AVE S,Minneapolis,MN",44.954006,-93.289335,3,10,Lowry Hill East,Calhoun Isle,3,01/24/2018,13:18,Pembina
+"2009 6th st s,Minneapolis,MN",44.970363,-93.253752,3,6,Downtown East,Central,3,01/24/2018,13:22,Pembina
+"2519 pierce st ne,Minneapolis,MN",45.013857,-93.240675,3,1,Audubon Park,Northeast,2,01/24/2018,13:25,Pembina
+"311 gramercy av n,Minneapolis,MN",44.980365,-93.301705,3,5,Harrison,Near North,3,01/24/2018,13:29,Pembina
+"219 25th ave se,Minneapolis,MN",44.972623999999996,-93.222024,3,2,Prospect Park - East River Road,University,4,01/24/2018,13:29,Pembina
+"1917 oak park ave n,Minneapolis,MN",44.987758,-93.30470799999999,3,5,Near - North,Near North,1,01/24/2018,13:31,Pembina
+"5751 35TH AVE S,Minneapolis,MN",44.898531,-93.22136400000001,3,12,Morris Park,Nokomis,6,01/24/2018,13:34,Pembina
+"1105 14th ave SE,Minneapolis,MN",44.990999,-93.232414,3,2,Como,University,4,01/24/2018,13:35,Pembina
+"1703 Thomas Pl,Minneapolis,MN",44.984905,-93.302286,3,5,Near - North,Near North,1,01/24/2018,13:36,Pembina
+"1705 thomas pl,Minneapolis,MN",44.984879,-93.302338,3,5,Near - North,Near North,1,01/24/2018,13:36,Pembina
+"139 26th ave,Minneapolis,MN",45.005908000000005,-93.27922099999999,3,5,Hawthorne,Near North,1,01/24/2018,13:38,Pembina
+"2445 Stevens av s,Minneapolis,MN",44.958054,-93.27530300000001,3,10,Whittier,Powderhorn,3,01/24/2018,13:41,Pembina
+"2813 pillsbury ave,Minneapolis,MN",44.951408,-93.281002,3,10,Whittier,Powderhorn,3,01/24/2018,13:44,Pembina
+"859 21st ave se,Minneapolis,MN",44.985239,-93.223167,3,2,Como,University,4,01/24/2018,13:44,Pembina
+"1227 32ND ST W,Minneapolis,MN",44.944734999999994,-93.295527,3,10,South Uptown,Calhoun Isle,5,01/24/2018,13:47,Pembina
+"3847 Emerson Ave n ,Minneapolis,MN",45.025349,-93.294675,3,4,Webber - Camden,Camden,1,01/24/2018,13:49,Pembina
+"2221 22nd st w,Minneapolis,MN",44.960931,-93.301179,3,7,East Isles,Calhoun Isle,3,01/24/2018,13:52,Pembina
+"1707 Thomas Pl,Minneapolis,MN",44.984863,-93.302379,3,5,Near - North,Near North,1,01/24/2018,13:55,Pembina
+"2711 Delaware St SE,Minneapolis,MN",44.971340999999995,-93.21866800000001,3,2,Prospect Park - East River Road,University,4,01/24/2018,13:57,Pembina
+"1415 11th ave n ,Minneapolis,MN",44.988765,-93.299003,3,5,Near - North,Near North,1,01/24/2018,13:58,Pembina
+"2005 6th st s,Minneapolis,MN",44.970363,-93.253752,3,6,Downtown East,Central,3,01/24/2018,14:01,Pembina
+"1425 6th st se,Minneapolis,MN",44.982217,-93.233069,3,3,Marcy Holmes,University,4,01/24/2018,14:01,Pembina
+"1807 fairmont st se,Minneapolis,MN",44.986218,-93.226848,3,2,Como,University,4,01/24/2018,14:05,Pembina
+"3617 Snelling Avenue South,Minneapolis,MN",44.93724,-93.227549,3,12,Howe,Longfellow,6,01/24/2018,14:05,Pembina
+"4901 53rd Street East,Minneapolis,MN",44.907331,-93.204261,3,12,Minnehaha,Nokomis,6,01/24/2018,14:10,Pembina
+"2515 deleware st se,Minneapolis,MN",44.972358,-93.22192,3,2,Prospect Park - East River Road,University,4,01/24/2018,14:13,Pembina
+"2521 Oak Park Ave N,Minneapolis,MN",44.987912,-93.312366,3,5,Willard - Hay,Near North,1,01/24/2018,14:14,Pembina
+"3733 GRAFIELD AVE S,Minneapolis,MN",44.934714,-93.286651,3,8,King Field,Southwest,5,01/24/2018,14:15,Pembina
+"2213 oak park ave n ,Minneapolis,MN",44.987716,-93.309085,3,5,Willard - Hay,Near North,1,01/24/2018,14:18,Pembina
+"1609 17th st e,Minneapolis,MN",44.966487,-93.258199,3,6,Elliot Park,Central,3,01/24/2018,14:20,Pembina
+"1517 10TH AVE S,Minneapolis,MN",44.967786,-93.259215,3,6,Elliot Park,Central,3,01/24/2018,14:21,Pembina
+"2711 essex st se,Minneapolis,MN",44.97037,-93.22012099999999,3,2,Prospect Park - East River Road,University,4,01/24/2018,14:22,Pembina
+"33 22nd st e,Minneapolis,MN",44.960757,-93.27729000000001,3,10,Whittier,Powderhorn,3,01/24/2018,14:24,Pembina
+"19 e 22ndst,Minneapolis,MN",44.960757,-93.277314,3,10,Whittier,Powderhorn,3,01/24/2018,14:25,Pembina
+"5509 30th ave so,Minneapolis,MN",44.903124,-93.22940799999999,3,11,Wenonah,Nokomis,6,01/24/2018,14:25,Pembina
+"5633 41st ave s,Minneapolis,MN",44.900694,-93.21374,3,12,Morris Park,Nokomis,6,01/24/2018,14:32,Pembina
+"15 22nd st e,Minneapolis,MN",44.960768,-93.277321,3,10,Whittier,Powderhorn,3,01/24/2018,14:35,Pembina
+"3205 37TH ST E,Minneapolis,MN",44.935714000000004,-93.226389,3,12,Howe,Longfellow,6,01/24/2018,14:37,Pembina
+"511 25th st w,Minneapolis,MN",44.957169,-93.286225,3,10,Whittier,Powderhorn,3,01/24/2018,14:39,Pembina
+"5025 37TH AVE S,Minneapolis,MN",44.911769,-93.21873599999999,3,12,Minnehaha,Nokomis,6,01/24/2018,14:39,Pembina
+"1115 25th ave n ,Minneapolis,MN",45.00462,-93.295013,3,5,Jordan,Near North,1,01/24/2018,14:40,Pembina
+"6 22nd st w,Minneapolis,MN",44.960912,-93.27785899999999,3,10,Whittier,Powderhorn,3,01/24/2018,14:41,Pembina
+"25 e 22nd st,Minneapolis,MN",44.960757,-93.277304,3,10,Whittier,Powderhorn,3,01/24/2018,14:47,Pembina
+"1425 15th Ave N,Minneapolis,MN",44.994156,-93.298702,3,5,Near - North,Near North,1,01/24/2018,14:47,Pembina
+"2025 6th st s,Minneapolis,MN",44.970363,-93.253752,3,6,Downtown East,Central,3,01/24/2018,14:47,Pembina
+"3327 39TH ST E,Minneapolis,MN",44.932363,-93.22361,3,12,Howe,Longfellow,6,01/24/2018,14:48,Pembina
+"1115 22nd zave n,Minneapolis,MN",45.001360999999996,-93.295007,3,5,Jordan,Near North,1,01/24/2018,14:50,Pembina
+"925 17TH ST E,Minneapolis,MN",44.966378999999996,-93.26071400000001,3,6,Elliot Park,Central,3,01/24/2018,14:52,Pembina
+"23 22nd st e,Minneapolis,MN",44.960757,-93.277307,3,10,Whittier,Powderhorn,3,01/24/2018,14:56,Pembina
+"3133 GARFIELD AVE S ,Minneapolis,MN",44.94542,-93.286586,3,8,Lyndale,Powderhorn,5,01/24/2018,14:57,Pembina
+"329 37TH ST E ,Minneapolis,MN",44.935793,-93.271007,3,8,Central,Powderhorn,5,01/24/2018,14:59,Pembina
+"2615 deleware st se,Minneapolis,MN",44.971829,-93.220578,3,2,Prospect Park - East River Road,University,4,01/24/2018,15:03,Pembina
+"1415 15th ave n ,Minneapolis,MN",44.994156,-93.298682,3,5,Near - North,Near North,1,01/24/2018,15:07,Pembina
+"1417 15th ave n ,Minneapolis,MN",44.994156,-93.298686,3,5,Near - North,Near North,1,01/24/2018,15:10,Pembina
+"2611 ESSEX ST SE,Minneapolis,MN",44.970869,-93.221399,3,2,Prospect Park - East River Road,University,4,01/24/2018,15:14,Pembina
+"207 clifton av,Minneapolis,MN",44.96613,-93.284003,3,7,Loring Park,Central,3,01/24/2018,15:15,Pembina
+"4303 57TH ST E,Minneapolis,MN",44.899951,-93.211437,3,12,Morris Park,Nokomis,6,01/24/2018,15:17,Pembina
+"17 22ND ST E,Minneapolis,MN",44.960757,-93.27731700000001,3,10,Whittier,Powderhorn,3,01/24/2018,15:18,Pembina
+"1077 24TH AVE SE,Minneapolis,MN",44.990448,-93.218983,3,1,Como,University,4,01/24/2018,15:19,Pembina
+"2515 DELAWARE ST SE,Minneapolis,MN",44.972358,-93.22192,3,2,Prospect Park - East River Road,University,4,01/24/2018,15:21,Pembina
+"1504 elliot av s,Minneapolis,MN",44.96782,-93.261381,3,6,Elliot Park,Central,3,01/24/2018,15:22,Pembina
+"1107 14th Ave N,Minneapolis,MN",44.992908,-93.294224,3,5,Near - North,Near North,1,01/24/2018,15:22,Pembina
+"1205 23rd ave n,Minneapolis,MN",45.00261,-93.295679,3,5,Jordan,Near North,1,01/24/2018,15:27,Pembina
+"1605 ELLIOT AVE ,Minneapolis,MN",44.967090999999996,-93.260662,3,6,Elliot Park,Central,3,01/24/2018,15:27,Pembina
+"1105 24th ave n ,Minneapolis,MN",45.003705,-93.294208,3,5,Jordan,Near North,1,01/24/2018,15:34,Pembina
+"203 clifton ave ,Minneapolis,MN",44.966128999999995,-93.284001,3,7,Loring Park,Central,3,01/24/2018,15:34,Pembina
+"2521 DELAWARE ST SE,Minneapolis,MN",44.972208,-93.221538,3,2,Prospect Park - East River Road,University,4,01/24/2018,15:38,Pembina
+"1129 14th ave n,Minneapolis,MN",44.992909000000004,-93.294562,3,5,Near - North,Near North,1,01/24/2018,15:39,Pembina
+"2613 ESSEX ST SE,Minneapolis,MN",44.970858,-93.22137099999999,3,2,Prospect Park - East River Road,University,4,01/24/2018,15:39,Pembina
+"3 orlin ave se,Minneapolis,MN",44.969234,-93.21514499999999,3,2,Prospect Park - East River Road,University,4,01/24/2018,15:41,Pembina
+"915 17th ave n,Minneapolis,MN",44.996320000000004,-93.292594,3,5,Near - North,Near North,1,01/24/2018,15:46,Pembina
+"2709 ESSEX ST SE,Minneapolis,MN",44.970509,-93.21933299999999,3,2,Prospect Park - East River Road,University,4,01/24/2018,15:50,Pembina
+"2129 17th Ave N,Minneapolis,MN",44.996159000000006,-93.307343,3,5,Willard - Hay,Near North,1,01/24/2018,15:58,Pembina
+"617 17TH ST E,Minneapolis,MN",44.966268,-93.26723,3,6,Elliot Park,Central,3,01/24/2018,16:00,Pembina
+"1001 17th st e,Minneapolis,MN",44.966374,-93.259663,3,6,Elliot Park,Central,3,01/24/2018,16:01,Pembina
+"13 22nd Street East,Minneapolis,MN",44.960758,-93.277387,3,10,Whittier,Powderhorn,3,01/24/2018,16:05,Pembina
+"2841 deleware st se,Minneapolis,MN",44.969795,-93.217577,3,2,Prospect Park - East River Road,University,4,01/24/2018,16:05,Pembina
+"2013 6th st s,Minneapolis,MN",44.970363,-93.253752,3,6,Downtown East,Central,3,01/24/2018,16:10,Pembina
+"2713 2nd av s,Minneapolis,MN",44.953175,-93.274074,3,10,Whittier,Powderhorn,3,01/24/2018,16:11,Pembina
+"923 24TH AVE S,Minneapolis,MN",44.963215000000005,-93.237307,3,6,Seward,Longfellow,4,01/24/2018,16:39,Pembina

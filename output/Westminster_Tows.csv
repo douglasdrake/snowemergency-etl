@@ -1,0 +1,981 @@
+Location,Latitude,Longitude,Ward,Community,Neighborhood,Tow_Zone,Day,Emergency,Date,Time
+"3201-3299 lyndale ave n ,Minneapolis,MN",45.013111,-93.288021,4,Camden,McKinley,1,1,Westminster,02/12/2019,21:18
+"3398 Chicago ave s,Minneapolis,MN",44.941390000000006,-93.262588,9,Powderhorn,Central,5,1,Westminster,02/12/2019,21:19
+"3301 Chicago Avenue South,Minneapolis,MN",44.943159,-93.262606,9,Powderhorn,Central,5,1,Westminster,02/12/2019,21:19
+"3400-3498 lyndale ave n ,Minneapolis,MN",45.016708,-93.288036,4,Camden,McKinley,1,1,Westminster,02/12/2019,21:26
+"3498 Lyndale Ave n,Minneapolis,MN",45.01849,-93.288049,4,Camden,McKinley,1,1,Westminster,02/12/2019,21:34
+"1 E 19TH ST,Minneapolis,MN",44.963797,-93.277559,6,Central,Steven's Square - Loring Heights,3,1,Westminster,02/12/2019,21:38
+"3400 Lyndale Ave n ,Minneapolis,MN",45.016708,-93.288036,4,Camden,McKinley,1,1,Westminster,02/12/2019,21:40
+"16 EAST / 19TH ST,Minneapolis,MN",44.964115,-93.276939,6,Central,Steven's Square - Loring Heights,3,1,Westminster,02/12/2019,21:45
+"16 19th st e,Minneapolis,MN",44.964115,-93.276939,6,Central,Steven's Square - Loring Heights,3,1,Westminster,02/12/2019,21:47
+"3458 Chicago Ave,Minneapolis,MN",44.939686,-93.262901,9,Powderhorn,Central,5,1,Westminster,02/12/2019,22:04
+"1116 Como Ave se,Minneapolis,MN",44.987678,-93.235311,2,University,Como,4,1,Westminster,02/12/2019,22:08
+"3000 Blaisdell ,Minneapolis,MN",44.948359,-93.279701,10,Powderhorn,Whittier,3,1,Westminster,02/12/2019,22:10
+"4100 lyndale ave n,Minneapolis,MN",45.029786,-93.288113,4,Camden,Webber - Camden,1,1,Westminster,02/12/2019,22:11
+"1203 como ave se,Minneapolis,MN",44.988003000000006,-93.234368,2,University,Como,4,1,Westminster,02/12/2019,22:14
+"4100 Lyndale Ave N,Minneapolis,MN",45.029786,-93.288113,4,Camden,Webber - Camden,1,1,Westminster,02/12/2019,22:14
+"4100 lyndale ave n,Minneapolis,MN",45.029786,-93.288113,4,Camden,Webber - Camden,1,1,Westminster,02/12/2019,22:14
+"5580 Chicago Avenue South,Minneapolis,MN",44.901657,-93.26271,11,Nokomis,Diamond Lake,5,1,Westminster,02/12/2019,22:18
+"4600-4698 lyndale ave n ,Minneapolis,MN",45.038466,-93.28622299999999,4,Camden,Camden Industrial,1,1,Westminster,02/12/2019,22:19
+"4816 Lyndale Ave n,Minneapolis,MN",45.043116,-93.284856,4,Camden,Lind - Bohanon,1,1,Westminster,02/12/2019,22:21
+"2914 emerson,Minneapolis,MN",45.010084,-93.29414200000001,5,Near North,Hawthorne,1,1,Westminster,02/12/2019,22:23
+"300 Block of central,Minneapolis,MN",44.980257,-93.270034,3,Central,Downtown West,3,1,Westminster,02/12/2019,22:23
+"4500-4598 Bryant ave n ,Minneapolis,MN",45.036846999999995,-93.291119,4,Camden,Lind - Bohanon,1,1,Westminster,02/12/2019,22:24
+"4340 Chicago Avenue South,Minneapolis,MN",44.923878,-93.262861,8,Nokomis,Regina,5,1,Westminster,02/12/2019,22:25
+"4020 Chicago Avenue South,Minneapolis,MN",44.929857,-93.262822,8,Powderhorn,Bryant,5,1,Westminster,02/12/2019,22:28
+"3419 Johnson st ne,Minneapolis,MN",45.030075,-93.23683299999999,1,Northeast,Waite Park,2,1,Westminster,02/12/2019,22:29
+"3194 Central Ave NE,Minneapolis,MN",45.02568,-93.24743000000001,1,Northeast,Columbia Park,2,1,Westminster,02/12/2019,22:31
+"4800 Chicago ave s,Minneapolis,MN",44.916003,-93.262901,8,Nokomis,Field,5,1,Westminster,02/12/2019,22:33
+"503 unniversity ave se,Minneapolis,MN",44.984691999999995,-93.248712,3,University,Marcy Holmes,4,1,Westminster,02/12/2019,22:35
+"3000 Chicago ave s,Minneapolis,MN",44.948357,-93.262689,6,Phillips,Phillips West,3,1,Westminster,02/12/2019,22:35
+"2935 Johnson st NE,Minneapolis,MN",45.021465,-93.236807,1,Northeast,Audubon Park,2,1,Westminster,02/12/2019,22:36
+"3100 block of Blaisdell Avenue so,Minneapolis,MN",44.946574,-93.279706,8,Powderhorn,Lyndale,5,1,Westminster,02/12/2019,22:37
+"4299 Thomas Ave n ,Minneapolis,MN",45.033374,-93.313643,4,Camden,Victory,1,1,Westminster,02/12/2019,22:38
+"3200 block of Blaisdell Avenue so,Minneapolis,MN",44.944558,-93.280114,8,Powderhorn,Lyndale,5,1,Westminster,02/12/2019,22:41
+"21st Ave and 9th st s,Minneapolis,MN",44.964017999999996,-93.24250699999999,6,Longfellow,Seward,4,1,Westminster,02/12/2019,22:41
+"523 university ave se,Minneapolis,MN",44.984395,-93.247964,3,University,Marcy Holmes,4,1,Westminster,02/12/2019,22:44
+"1998 Central ave ne,Minneapolis,MN",45.008882,-93.24736800000001,1,Northeast,Holland,2,1,Westminster,02/12/2019,22:46
+"3400 Block of central ave Ne,Minneapolis,MN",45.029434,-93.247412,1,Northeast,Columbia Park,2,1,Westminster,02/12/2019,22:49
+"717 university ave se,Minneapolis,MN",44.983287,-93.245131,3,University,Marcy Holmes,4,1,Westminster,02/12/2019,22:53
+"3200 Blaisdell ave south,Minneapolis,MN",44.944558,-93.280114,8,Powderhorn,Lyndale,5,1,Westminster,02/12/2019,22:54
+"507 UNIVERSITY AVE SE,Minneapolis,MN",44.984603,-93.248486,3,University,Marcy Holmes,4,1,Westminster,02/12/2019,22:54
+"1049 7th st n,Minneapolis,MN",44.988667,-93.290328,5,Near North,Sumner - Glenwood,1,1,Westminster,02/12/2019,22:57
+"3598 Bloomington ave s,Minneapolis,MN",44.937765,-93.25241199999999,9,Powderhorn,Powderhorn Park,6,1,Westminster,02/12/2019,22:58
+"803 UNIVERSITY AVE SE,Minneapolis,MN",44.982960999999996,-93.244366,3,University,Marcy Holmes,4,1,Westminster,02/12/2019,22:59
+"5100 Bloomington,Minneapolis,MN",44.910536,-93.252835,11,Nokomis,Hale,6,1,Westminster,02/12/2019,23:00
+"3400 chicago,Minneapolis,MN",44.941224,-93.26294,9,Powderhorn,Central,5,1,Westminster,02/12/2019,23:02
+"687 13th ave NE,Minneapolis,MN",45.001205999999996,-93.253233,1,Northeast,Logan Park,2,1,Westminster,02/12/2019,23:03
+"625 2nd st N,Minneapolis,MN",44.987823999999996,-93.27524100000001,3,Central,North Loop,1,1,Westminster,02/12/2019,23:04
+"619 2nd st n ,Minneapolis,MN",44.987801,-93.275235,3,Central,North Loop,1,1,Westminster,02/12/2019,23:04
+"1899 University ave ne,Minneapolis,MN",45.007453000000005,-93.263092,1,Northeast,Holland,2,1,Westminster,02/12/2019,23:06
+"414 13th ave NE,Minneapolis,MN",45.00074,-93.26098499999999,3,Northeast,Sheridan,2,1,Westminster,02/12/2019,23:10
+"3100 blaisdell ave so,Minneapolis,MN",44.946574,-93.279706,8,Powderhorn,Lyndale,5,1,Westminster,02/12/2019,23:11
+"509 13th ave ne,Minneapolis,MN",45.000913,-93.260148,3,Northeast,Sheridan,2,1,Westminster,02/12/2019,23:12
+"3100 blaisdell ave so,Minneapolis,MN",44.946574,-93.279706,8,Powderhorn,Lyndale,5,1,Westminster,02/12/2019,23:13
+"2737 Irving ave s ,Minneapolis,MN",44.952824,-93.30069,7,Calhoun Isle,East Isles,3,1,Westminster,02/12/2019,23:19
+"3699 bloomington ave,Minneapolis,MN",44.935934,-93.252411,9,Powderhorn,Powderhorn Park,6,1,Westminster,02/12/2019,23:21
+"2871 IRVING AVE S ,Minneapolis,MN",44.949748,-93.30171700000001,7,Calhoun Isle,East Isles,3,1,Westminster,02/12/2019,23:21
+"98 4th ave n,Minneapolis,MN",44.987426,-93.270668,3,Central,North Loop,3,1,Westminster,02/12/2019,23:22
+"2724 Irving Ave S,Minneapolis,MN",44.953351,-93.301214,7,Calhoun Isle,East Isles,3,1,Westminster,02/12/2019,23:24
+"4101 THOMAS AVE N ,Minneapolis,MN",45.029676,-93.313889,4,Camden,Victory,1,1,Westminster,02/12/2019,23:24
+"177 27th ave se,Minneapolis,MN",44.970796,-93.219833,2,University,Prospect Park - East River Road,4,1,Westminster,02/12/2019,23:25
+"2513 IRVING AVE S,Minneapolis,MN",44.956818,-93.299396,7,Calhoun Isle,East Isles,3,1,Westminster,02/12/2019,23:26
+"101 4th ave n,Minneapolis,MN",44.988078,-93.26948399999999,3,Central,North Loop,3,1,Westminster,02/12/2019,23:26
+"2841 Irving Ave s,Minneapolis,MN",44.951186,-93.301776,7,Calhoun Isle,East Isles,3,1,Westminster,02/12/2019,23:27
+"4199 thomas ave n,Minneapolis,MN",45.031304,-93.313603,4,Camden,Victory,1,1,Westminster,02/12/2019,23:29
+"2101 EMERSON AVE N ,Minneapolis,MN",45.000415999999994,-93.294478,5,Near North,Jordan,1,1,Westminster,02/12/2019,23:32
+"2832 Irving Ave s,Minneapolis,MN",44.951622,-93.302348,7,Calhoun Isle,East Isles,3,1,Westminster,02/12/2019,23:32
+"2242 9TH ST S,Minneapolis,MN",44.963982,-93.239049,6,Longfellow,Seward,4,1,Westminster,02/12/2019,23:33
+"5642 34 ave s,Minneapolis,MN",44.900518,-93.223326,11,Nokomis,Wenonah,6,1,Westminster,02/12/2019,23:36
+"120 13th ave,Minneapolis,MN",45.00028,-93.268821,3,Northeast,Sheridan,2,1,Westminster,02/12/2019,23:36
+"600 4th st n,Minneapolis,MN",44.98543,-93.278261,3,Central,North Loop,1,1,Westminster,02/12/2019,23:37
+"1901 Emerson ave n ,Minneapolis,MN",44.998861,-93.294416,5,Near North,Near - North,1,1,Westminster,02/12/2019,23:38
+"1313 como ave se,Minneapolis,MN",44.988021,-93.232415,2,University,Como,4,1,Westminster,02/12/2019,23:39
+"2211 9th st s,Minneapolis,MN",44.963688,-93.23990500000001,6,Longfellow,Seward,4,1,Westminster,02/12/2019,23:40
+"2724 IRVING AVE S,Minneapolis,MN",44.953351,-93.301214,7,Calhoun Isle,East Isles,3,1,Westminster,02/12/2019,23:43
+"2857 Irving ave s ,Minneapolis,MN",44.950621000000005,-93.301796,7,Calhoun Isle,East Isles,3,1,Westminster,02/12/2019,23:43
+"3800 blaisdell ave so,Minneapolis,MN",44.934104999999995,-93.279744,8,Southwest,King Field,5,1,Westminster,02/12/2019,23:44
+"2217 9TH ST S,Minneapolis,MN",44.963689,-93.239958,6,Longfellow,Seward,4,1,Westminster,02/12/2019,23:44
+"1512 como ave se,Minneapolis,MN",44.987685,-93.229763,2,University,Como,4,1,Westminster,02/12/2019,23:45
+"143 13th ave ne,Minneapolis,MN",45.001252,-93.267222,3,Northeast,Sheridan,2,1,Westminster,02/12/2019,23:46
+"609 oak st se,Minneapolis,MN",44.969891,-93.226506,2,University,Prospect Park - East River Road,4,1,Westminster,02/12/2019,23:48
+"171 13th ave,Minneapolis,MN",45.001098999999996,-93.266674,3,Northeast,Sheridan,2,1,Westminster,02/12/2019,23:50
+"2857 IRVING AVE S ,Minneapolis,MN",44.950621000000005,-93.301796,7,Calhoun Isle,East Isles,3,1,Westminster,02/12/2019,23:51
+"901 3rd st n,Minneapolis,MN",44.988633,-93.281374,3,Central,North Loop,1,1,Westminster,02/12/2019,23:51
+"3300 block of Blaisdell Avenue so,Minneapolis,MN",44.942774,-93.280074,8,Powderhorn,Lyndale,5,1,Westminster,02/12/2019,23:52
+"600 4th st n,Minneapolis,MN",44.98543,-93.278261,3,Central,North Loop,1,1,Westminster,02/12/2019,23:52
+"24TH AVE S & 9TH ST ,Minneapolis,MN",44.967234000000005,-93.23817199999999,2,University,Cedar Riverside,4,1,Westminster,02/12/2019,23:55
+"3300 block of Blaisdell Avenue so,Minneapolis,MN",44.942774,-93.280074,8,Powderhorn,Lyndale,5,1,Westminster,02/12/2019,23:56
+"2841 Irving av s ,Minneapolis,MN",44.951186,-93.301776,7,Calhoun Isle,East Isles,3,1,Westminster,02/12/2019,23:56
+"2643 IRVING AVE S,Minneapolis,MN",44.954522999999995,-93.30000600000001,7,Calhoun Isle,East Isles,3,1,Westminster,02/12/2019,23:57
+"4342 Chicago Avenue South,Minneapolis,MN",44.923811,-93.26288199999999,8,Nokomis,Regina,5,1,Westminster,02/12/2019,23:58
+"998 4th st n,Minneapolis,MN",44.988683,-93.282878,5,Central,North Loop,1,1,Westminster,02/12/2019,23:58
+"24TH AVE S & 9TH ST ,Minneapolis,MN",44.967234000000005,-93.23817199999999,2,University,Cedar Riverside,4,1,Westminster,02/13/2019,00:00
+"2500 Monroe st ne,Minneapolis,MN",45.013465000000004,-93.252641,1,Northeast,Holland,2,1,Westminster,02/13/2019,00:01
+"2845 Irving Ave S,Minneapolis,MN",44.95106,-93.30171700000001,7,Calhoun Isle,East Isles,3,1,Westminster,02/13/2019,00:03
+"1720 Lowery ave ne,Minneapolis,MN",45.012673,-93.23561099999999,1,Northeast,Windom Park,2,1,Westminster,02/13/2019,00:05
+"3432 31st Avenue South,Minneapolis,MN",44.940287,-93.227338,12,Longfellow,Howe,6,1,Westminster,02/13/2019,00:05
+"2425 Hennepin Ave South,Minneapolis,MN",44.958399,-93.294206,10,Calhoun Isle,Lowry Hill East,3,1,Westminster,02/13/2019,00:07
+"201-299 27th av se,Minneapolis,MN",44.971363000000004,-93.219368,2,University,Prospect Park - East River Road,4,1,Westminster,02/13/2019,00:08
+"3201 Bloomington Ave S ,Minneapolis,MN",44.944554,-93.252175,9,Powderhorn,Powderhorn Park,6,1,Westminster,02/13/2019,00:10
+"99-1 University ave Ne,Minneapolis,MN",44.989004,-93.257071,3,University,Nicollet Island - East Bank,2,1,Westminster,02/13/2019,00:11
+"1-99 38th St E,Minneapolis,MN",44.934118,-93.275327,8,Southwest,King Field,5,1,Westminster,02/13/2019,00:11
+"3298 Emerson ave n ,Minneapolis,MN",45.014927,-93.29404699999999,4,Camden,Folwell,1,1,Westminster,02/13/2019,00:11
+"1200 franklin,Minneapolis,MN",44.962897999999996,-93.294726,7,Calhoun Isle,Lowry Hill,3,1,Westminster,02/13/2019,00:12
+"600 4th st n,Minneapolis,MN",44.98543,-93.278261,3,Central,North Loop,1,1,Westminster,02/13/2019,00:12
+"2 - 98 Lourdes pl,Minneapolis,MN",44.987179,-93.258657,3,University,Nicollet Island - East Bank,4,1,Westminster,02/13/2019,00:13
+"3000 31st av s,Minneapolis,MN",44.948377,-93.227082,2,Longfellow,Longfellow,4,1,Westminster,02/13/2019,00:14
+"700 4st n,Minneapolis,MN",44.983952,-93.245455,3,University,Marcy Holmes,4,1,Westminster,02/13/2019,00:14
+"3400-3498 Fremont ave n ,Minneapolis,MN",45.016914,-93.29531,4,Camden,Folwell,1,1,Westminster,02/13/2019,00:14
+"2730 hennepin ,Minneapolis,MN",44.952833,-93.298375,7,Calhoun Isle,East Isles,3,1,Westminster,02/13/2019,00:15
+"98 Lourdes Pl Ne,Minneapolis,MN",44.986553,-93.257863,3,University,Nicollet Island - East Bank,4,1,Westminster,02/13/2019,00:15
+"3600 42nd st,Minneapolis,MN",44.926932,-93.220409,12,Longfellow,Hiawatha,6,1,Westminster,02/13/2019,00:16
+"700 4th st n ,Minneapolis,MN",44.985788,-93.278943,3,Central,North Loop,1,1,Westminster,02/13/2019,00:16
+"4300 Chicago ave s,Minneapolis,MN",44.924991999999996,-93.26280200000001,8,Nokomis,Regina,5,1,Westminster,02/13/2019,00:17
+"300 15TH ST W,Minneapolis,MN",44.967838,-93.282678,7,Central,Loring Park,3,1,Westminster,02/13/2019,00:19
+"2188 MINNEHAHA AVE S,Minneapolis,MN",44.960982,-93.243184,6,Longfellow,Seward,4,1,Westminster,02/13/2019,00:20
+"2736 HENNEPIN AVE ,Minneapolis,MN",44.952607,-93.29858399999999,7,Calhoun Isle,East Isles,3,1,Westminster,02/13/2019,00:20
+"3100 31st ave s,Minneapolis,MN",44.946834,-93.22709,2,Longfellow,Longfellow,6,1,Westminster,02/13/2019,00:21
+"300 15TH ST W,Minneapolis,MN",44.967838,-93.282678,7,Central,Loring Park,3,1,Westminster,02/13/2019,00:23
+"401 6th avenue North,Minneapolis,MN",44.984097999999996,-93.290992,5,Near North,Sumner - Glenwood,3,1,Westminster,02/13/2019,00:24
+"1500 BLOCK 38TH ST E,Minneapolis,MN",44.934315000000005,-93.25343199999999,9,Powderhorn,Powderhorn Park,6,1,Westminster,02/13/2019,00:27
+"1611 31st st e,Minneapolis,MN",44.946418,-93.250682,9,Powderhorn,Powderhorn Park,6,1,Westminster,02/13/2019,00:27
+"300 498 15th Street West,Minneapolis,MN",44.968446,-93.286022,7,Central,Loring Park,3,1,Westminster,02/13/2019,00:29
+"3898 Fremont Ave n,Minneapolis,MN",45.025781,-93.295666,4,Camden,Webber - Camden,1,1,Westminster,02/13/2019,00:35
+"2830 4th st se,Minneapolis,MN",44.972643,-93.216134,2,University,Prospect Park - East River Road,4,1,Westminster,02/13/2019,00:36
+"4100 Freemont Ave N,Minneapolis,MN",45.029726000000004,-93.295474,4,Camden,Webber - Camden,1,1,Westminster,02/13/2019,00:36
+"3425 2ND AVE S,Minneapolis,MN",44.940513,-93.273786,9,Powderhorn,Central,5,1,Westminster,02/13/2019,00:38
+"2861 Irving Ave s,Minneapolis,MN",44.950525,-93.301753,7,Calhoun Isle,East Isles,3,1,Westminster,02/13/2019,00:38
+"2217 S 9 St,Minneapolis,MN",44.963689,-93.239958,6,Longfellow,Seward,4,1,Westminster,02/12/2019,23:42
+"2296 MINNEHAHA AVE,Minneapolis,MN",44.960177,-93.243107,6,Longfellow,Seward,4,1,Westminster,02/13/2019,00:39
+"1398 Dowling Ave n,Minneapolis,MN",45.023996000000004,-93.296901,4,Camden,Folwell,1,1,Westminster,02/13/2019,00:41
+"500 15TH ST W,Minneapolis,MN",44.968301000000004,-93.268698,7,Central,Elliot Park,3,1,Westminster,02/13/2019,00:41
+"2339 hennepin ave ,Minneapolis,MN",44.959254,-93.293699,10,Calhoun Isle,Lowry Hill East,3,1,Westminster,02/13/2019,00:41
+"430 OAK GROVE ,Minneapolis,MN",44.968219,-93.285815,7,Central,Loring Park,3,1,Westminster,02/13/2019,00:41
+"208 Van white memorial blvd ,Minneapolis,MN",44.981893,-93.293173,5,Near North,Sumner - Glenwood,3,1,Westminster,02/13/2019,00:42
+"3500 4th ave s,Minneapolis,MN",44.939551,-93.270207,9,Powderhorn,Central,5,1,Westminster,02/13/2019,00:42
+"201 15 st w ,Minneapolis,MN",44.967465999999995,-93.281039,7,Central,Loring Park,3,1,Westminster,02/13/2019,00:42
+"Franklin Ave at Dupont Ave s,Minneapolis,MN",44.962703999999995,-93.293072,7,Calhoun Isle,Lowry Hill,3,1,Westminster,02/13/2019,00:45
+"100 15TH ST W,Minneapolis,MN",44.967717,-93.279336,7,Central,Loring Park,3,1,Westminster,02/13/2019,00:45
+"214 15TH ST E,Minneapolis,MN",44.968032,-93.28165600000001,7,Central,Loring Park,3,1,Westminster,02/13/2019,00:45
+"19 15th Street West,Minneapolis,MN",44.967532,-93.278758,7,Central,Loring Park,3,1,Westminster,02/13/2019,00:52
+"908 Fulton st se,Minneapolis,MN",44.970031,-93.225121,2,University,Prospect Park - East River Road,4,1,Westminster,02/13/2019,00:54
+"1306 5TH ST SE,Minneapolis,MN",44.981685999999996,-93.23611700000001,3,University,Marcy Holmes,4,1,Westminster,02/13/2019,00:54
+"3436 31st ave s,Minneapolis,MN",44.940164,-93.227339,12,Longfellow,Howe,6,1,Westminster,02/13/2019,00:55
+"4TH & LAKE ST ,Minneapolis,MN",44.948402,-93.26969100000001,6,Phillips,Phillips West,3,1,Westminster,02/13/2019,00:55
+"700 block 2nd st ne,Minneapolis,MN",44.995243,-93.26379200000001,3,Northeast,St. Anthony West,2,1,Westminster,02/13/2019,00:55
+"3901Fremont ave n ,Minneapolis,MN",45.026003,-93.29599499999999,4,Camden,Webber - Camden,1,1,Westminster,02/13/2019,00:56
+"500 block 2nd st ne,Minneapolis,MN",44.993140999999994,-93.26205300000001,3,Northeast,St. Anthony West,2,1,Westminster,02/13/2019,00:58
+"3438 31st ave s,Minneapolis,MN",44.940101,-93.22734,12,Longfellow,Howe,6,1,Westminster,02/13/2019,00:58
+"3500 FREMONT AVE N ,Minneapolis,MN",45.018638,-93.29549399999999,4,Camden,Folwell,1,1,Westminster,02/13/2019,01:00
+"3000 31st ave so,Minneapolis,MN",44.948377,-93.227082,2,Longfellow,Longfellow,4,1,Westminster,02/13/2019,01:02
+"1108 Como Avenue se,Minneapolis,MN",44.987684,-93.235375,2,University,Como,4,1,Westminster,02/13/2019,01:03
+"3700 block of 1st Ave so ,Minneapolis,MN",44.935795,-93.27693000000001,8,Southwest,King Field,5,1,Westminster,02/13/2019,01:03
+"100 BLOCK OF 15TH ST W,Minneapolis,MN",44.967717,-93.279336,7,Central,Loring Park,3,1,Westminster,02/13/2019,01:04
+"1396 lasalle av,Minneapolis,MN",44.968799,-93.27933399999999,7,Central,Loring Park,3,1,Westminster,02/13/2019,01:04
+"1598 Marshall st ne,Minneapolis,MN",45.003857,-93.27136,3,Northeast,Sheridan,2,1,Westminster,02/13/2019,01:05
+"3700 block of 1st Ave so ,Minneapolis,MN",44.935795,-93.27693000000001,8,Southwest,King Field,5,1,Westminster,02/13/2019,01:06
+"3200 Fremont Ave,Minneapolis,MN",44.944583,-93.296187,10,Calhoun Isle,South Uptown,5,1,Westminster,02/13/2019,01:06
+"2199 MINNEHAHA AVE ,Minneapolis,MN",44.96094,-93.243156,6,Longfellow,Seward,4,1,Westminster,02/13/2019,01:07
+"2630 Mashall st ne,Minneapolis,MN",45.01611,-93.27288100000001,1,Northeast,Marshall Terrace,2,1,Westminster,02/13/2019,01:08
+"2221 1 9 ST S,Minneapolis,MN",44.97569,-93.275862,7,Central,Downtown West,3,1,Westminster,02/13/2019,01:10
+"2500 Mckinley st ne,Minneapolis,MN",45.013346999999996,-93.22846899999999,1,Northeast,Audubon Park,2,1,Westminster,02/13/2019,01:11
+"2435 BLAISDELL AVE S,Minneapolis,MN",44.95786,-93.279494,10,Powderhorn,Whittier,3,1,Westminster,02/13/2019,01:11
+"3298 fremont ave n,Minneapolis,MN",45.014955,-93.295589,4,Camden,Folwell,1,1,Westminster,02/13/2019,01:12
+"2600 block of Fremont avenue North,Minneapolis,MN",45.006139000000005,-93.29519599999999,5,Near North,Jordan,1,1,Westminster,02/13/2019,01:13
+"2109 blaisdell Ave s ,Minneapolis,MN",44.961544,-93.279177,10,Powderhorn,Whittier,3,1,Westminster,02/13/2019,01:14
+"1151 Lowry ave ne,Minneapolis,MN",45.01332,-93.24252299999999,1,Northeast,Audubon Park,2,1,Westminster,02/13/2019,01:14
+"3000 31st av s,Minneapolis,MN",44.948377,-93.227082,2,Longfellow,Longfellow,4,1,Westminster,02/13/2019,01:16
+"1106 west Broadway ,Minneapolis,MN",44.999274,-93.294511,5,Near North,Jordan,1,1,Westminster,02/13/2019,01:17
+"2210 lowry ave ne,Minneapolis,MN",45.013089,-93.22908699999999,1,Northeast,Windom Park,2,1,Westminster,02/13/2019,01:17
+"2201 blaisdell ,Minneapolis,MN",44.960592999999996,-93.27930400000001,10,Powderhorn,Whittier,3,1,Westminster,02/13/2019,01:18
+"2427 Blaisdell Ave ,Minneapolis,MN",44.958192,-93.279187,10,Powderhorn,Whittier,3,1,Westminster,02/13/2019,01:18
+"2435 BLAISDELL AVE ,Minneapolis,MN",44.95786,-93.279494,10,Powderhorn,Whittier,3,1,Westminster,02/13/2019,01:19
+"3000 31st av s,Minneapolis,MN",44.948377,-93.227082,2,Longfellow,Longfellow,4,1,Westminster,02/13/2019,01:19
+"3000 31st ave,Minneapolis,MN",44.948377,-93.227082,2,Longfellow,Longfellow,4,1,Westminster,02/13/2019,01:19
+"2700 Mckinley st ne,Minneapolis,MN",45.017014,-93.228429,1,Northeast,Audubon Park,2,1,Westminster,02/13/2019,01:20
+"3600 42nd st,Minneapolis,MN",44.926932,-93.220409,12,Longfellow,Hiawatha,6,1,Westminster,02/13/2019,01:22
+"3600 1st st south,Minneapolis,MN",44.937564,-93.276871,8,Southwest,King Field,5,1,Westminster,02/13/2019,01:22
+"18 W 15TH ,Minneapolis,MN",44.967978,-93.278765,7,Central,Loring Park,3,1,Westminster,02/13/2019,01:28
+"610 Delaware st se,Minneapolis,MN",44.972551,-93.228718,2,University,University of Minnesota,4,1,Westminster,02/13/2019,01:29
+"2451 Blaisdell,Minneapolis,MN",44.957628,-93.279275,10,Powderhorn,Whittier,3,1,Westminster,02/13/2019,01:32
+"18 15 St W,Minneapolis,MN",44.967978,-93.278765,7,Central,Loring Park,3,1,Westminster,02/13/2019,01:33
+"1700 Penn Ave n,Minneapolis,MN",44.996584999999996,-93.307845,5,Near North,Willard - Hay,1,1,Westminster,02/13/2019,01:33
+"1701 marshall st ne,Minneapolis,MN",45.005189,-93.27122,3,Northeast,Sheridan,2,1,Westminster,02/13/2019,01:35
+"620 20TH AVE S,Minneapolis,MN",44.966969,-93.244376,6,University,Cedar Riverside,4,1,Westminster,02/13/2019,01:36
+"2531 BLAIDELL AVE,Minneapolis,MN",44.95626,-93.279629,10,Powderhorn,Whittier,3,1,Westminster,02/13/2019,01:39
+"1435 marshall avenue ne,Minneapolis,MN",45.00248,-93.270818,3,Northeast,Sheridan,2,1,Westminster,02/13/2019,01:39
+"1416 5th st se,Minneapolis,MN",44.980883,-93.234829,3,University,Marcy Holmes,4,1,Westminster,02/13/2019,01:40
+"620 penn ave n ,Minneapolis,MN",44.985040999999995,-93.30799300000001,5,Near North,Near - North,1,1,Westminster,02/13/2019,01:41
+"2922 Penn Ave N,Minneapolis,MN",45.010386,-93.307919,5,Near North,Jordan,1,1,Westminster,02/13/2019,01:42
+"626 20th ave s,Minneapolis,MN",44.966813,-93.244366,6,University,Cedar Riverside,4,1,Westminster,02/13/2019,01:46
+"3200 1st ave so ,Minneapolis,MN",44.944807,-93.277027,8,Powderhorn,Lyndale,5,1,Westminster,02/13/2019,01:47
+"2537 BLAISDELL AVE S,Minneapolis,MN",44.956094,-93.279282,10,Powderhorn,Whittier,3,1,Westminster,02/13/2019,01:47
+"2922 penn ave n ,Minneapolis,MN",45.010386,-93.307919,5,Near North,Jordan,1,1,Westminster,02/13/2019,01:48
+"1500 block 29th avenue ne,Minneapolis,MN",45.020436,-93.23775400000001,1,Northeast,Audubon Park,2,1,Westminster,02/13/2019,01:49
+"2938 Penn Ave n,Minneapolis,MN",45.010822999999995,-93.30793,5,Near North,Jordan,1,1,Westminster,02/13/2019,01:51
+"629 15 st e,Minneapolis,MN",44.967821,-93.26609,6,Central,Elliot Park,3,1,Westminster,02/13/2019,01:52
+"2427 BLAISDELL AVE ,Minneapolis,MN",44.958192,-93.279187,10,Powderhorn,Whittier,3,1,Westminster,02/13/2019,01:53
+"1600 block of 29th avenue ne,Minneapolis,MN",45.020447,-93.236486,1,Northeast,Audubon Park,2,1,Westminster,02/13/2019,01:53
+"3398 1ST AVE S,Minneapolis,MN",44.941358,-93.276605,8,Powderhorn,Lyndale,5,1,Westminster,02/13/2019,01:53
+"2423 BLAISDELL AVE S,Minneapolis,MN",44.958339,-93.279125,10,Powderhorn,Whittier,3,1,Westminster,02/13/2019,01:54
+"3322 Penn Ave n ,Minneapolis,MN",45.015721,-93.307887,4,Camden,Folwell,1,1,Westminster,02/13/2019,01:56
+"3200 BLOCK 1ST AVE S,Minneapolis,MN",44.944807,-93.277027,8,Powderhorn,Lyndale,5,1,Westminster,02/13/2019,01:57
+"3200 1ST AVE S,Minneapolis,MN",44.944807,-93.277027,8,Powderhorn,Lyndale,5,1,Westminster,02/13/2019,02:00
+"3100 BLOCK 1ST AVE N,Minneapolis,MN",44.946668,-93.276673,8,Powderhorn,Lyndale,5,1,Westminster,02/13/2019,02:00
+"1000 block of Essex st se,Minneapolis,MN",44.97118,-93.22407,2,University,Prospect Park - East River Road,4,1,Westminster,02/13/2019,02:01
+"3200 1st ave s,Minneapolis,MN",44.944807,-93.277027,8,Powderhorn,Lyndale,5,1,Westminster,02/13/2019,02:01
+"3337 minnehaha ave,Minneapolis,MN",44.941987,-93.229268,2,Longfellow,Longfellow,6,1,Westminster,02/13/2019,02:01
+"2705 BLAISDELL AVE,Minneapolis,MN",44.95345,-93.279288,10,Powderhorn,Whittier,3,1,Westminster,02/13/2019,02:03
+"2609 Blaisdell Ave,Minneapolis,MN",44.954879999999996,-93.279083,10,Powderhorn,Whittier,3,1,Westminster,02/13/2019,02:04
+"3333 Penn Ave n,Minneapolis,MN",45.015994,-93.308864,4,Camden,Cleveland,1,1,Westminster,02/13/2019,02:04
+"9 St & Hennepin Ave,Minneapolis,MN",44.97643,-93.276975,7,Central,Downtown West,3,1,Westminster,02/13/2019,02:08
+"1500 block 29th avenue ne,Minneapolis,MN",45.020436,-93.23775400000001,1,Northeast,Audubon Park,2,1,Westminster,02/13/2019,02:09
+"3210 minnehaha,Minneapolis,MN",44.944209,-93.23167099999999,9,Longfellow,Longfellow,6,1,Westminster,02/13/2019,02:09
+"2500 2nd street ne,Minneapolis,MN",45.013183000000005,-93.266165,1,Northeast,Marshall Terrace,2,1,Westminster,02/13/2019,02:11
+"3347 minnehaha,Minneapolis,MN",44.941783,-93.22908199999999,2,Longfellow,Longfellow,6,1,Westminster,02/13/2019,02:12
+"3415 Penn Ave N,Minneapolis,MN",45.017371999999995,-93.30852900000001,4,Camden,Cleveland,1,1,Westminster,02/13/2019,02:14
+"3721 minnehaha av s,Minneapolis,MN",44.935162,-93.224365,12,Longfellow,Howe,6,1,Westminster,02/13/2019,02:16
+"3442 31st Avenue South,Minneapolis,MN",44.939972999999995,-93.22734100000001,12,Longfellow,Howe,6,1,Westminster,02/13/2019,02:16
+"2600 essex st se,Minneapolis,MN",44.970348,-93.221195,2,University,Prospect Park - East River Road,4,1,Westminster,02/13/2019,02:17
+"2717 BLAISDELL AVE S,Minneapolis,MN",44.953233000000004,-93.279329,10,Powderhorn,Whittier,3,1,Westminster,02/13/2019,02:19
+"3552 minnehaha av s,Minneapolis,MN",44.938119,-93.227197,12,Longfellow,Howe,6,1,Westminster,02/13/2019,02:19
+"720 20TH AVE S,Minneapolis,MN",44.965825,-93.244324,6,University,Cedar Riverside,4,1,Westminster,02/13/2019,02:21
+"2743 BLAISDELL AVE S,Minneapolis,MN",44.952638,-93.279286,10,Powderhorn,Whittier,3,1,Westminster,02/13/2019,02:22
+"301 3RD ST S,Minneapolis,MN",44.978991,-93.264843,3,Central,Downtown West,3,1,Westminster,02/13/2019,02:22
+"2231 31st st e,Minneapolis,MN",44.946239,-93.239487,9,Powderhorn,Corcoran,6,1,Westminster,02/13/2019,02:23
+"100 block of 15 st s,Minneapolis,MN",44.975971,-93.284184,5,Central,North Loop,3,1,Westminster,02/13/2019,02:23
+"3628 penn ave n ,Minneapolis,MN",45.021386,-93.307978,4,Camden,Folwell,1,1,Westminster,02/13/2019,02:25
+"3534 PENN AVE N ,Minneapolis,MN",45.01965,-93.307962,4,Camden,Folwell,1,1,Westminster,02/13/2019,02:27
+"1700 HENNEPIN AVE ,Minneapolis,MN",44.971736,-93.287293,7,Central,Loring Park,3,1,Westminster,02/13/2019,02:28
+"3454 PENN AVE N ,Minneapolis,MN",45.018409999999996,-93.307937,4,Camden,Folwell,1,1,Westminster,02/13/2019,02:29
+"1-99 2nd st ne,Minneapolis,MN",44.989703999999996,-93.259321,3,Northeast,St. Anthony West,2,1,Westminster,02/13/2019,02:30
+"3100 1st. Ave s,Minneapolis,MN",44.946668,-93.276673,8,Powderhorn,Lyndale,5,1,Westminster,02/13/2019,02:32
+"728 e33rd st,Minneapolis,MN",44.943326,-93.26333299999999,9,Powderhorn,Central,5,1,Westminster,02/13/2019,02:33
+"1-99 2nd st ne,Minneapolis,MN",44.989703999999996,-93.259321,3,Northeast,St. Anthony West,2,1,Westminster,02/13/2019,02:33
+"2200 4th street ne,Minneapolis,MN",45.010139,-93.261859,1,Northeast,Holland,2,1,Westminster,02/13/2019,02:36
+"2725 BLAISDELL AVE ,Minneapolis,MN",44.952870000000004,-93.279308,10,Powderhorn,Whittier,3,1,Westminster,02/13/2019,02:37
+"708 20th ave s,Minneapolis,MN",44.966241,-93.244232,6,University,Cedar Riverside,4,1,Westminster,02/13/2019,02:37
+"2201 4th street ne,Minneapolis,MN",45.010022,-93.261593,1,Northeast,Holland,2,1,Westminster,02/13/2019,02:39
+"4059 penn ave n ,Minneapolis,MN",45.029313,-93.30878299999999,4,Camden,Victory,1,1,Westminster,02/13/2019,02:40
+"1815 4th ave n ,Minneapolis,MN",44.981415999999996,-93.303435,5,Near North,Harrison,3,1,Westminster,02/13/2019,02:43
+"3198-3100 1 Av s,Minneapolis,MN",44.944962,-93.276657,8,Powderhorn,Lyndale,5,1,Westminster,02/13/2019,02:43
+"1501 washington street ne,Minneapolis,MN",44.994361,-93.281853,5,Near North,Near - North,1,1,Westminster,02/13/2019,02:44
+"2423 Golden Valley Road,Minneapolis,MN",44.99857,-93.311691,5,Near North,Willard - Hay,1,1,Westminster,02/13/2019,02:46
+"3100 1ST AVE S,Minneapolis,MN",44.946668,-93.276673,8,Powderhorn,Lyndale,5,1,Westminster,02/13/2019,02:46
+"2989-2800 BLOCK OF PARK AVE,Minneapolis,MN",44.948394,-93.26520699999999,6,Phillips,Phillips West,3,1,Westminster,02/13/2019,02:47
+"1501 washington St Ne,Minneapolis,MN",44.994361,-93.281853,5,Near North,Near - North,1,1,Westminster,02/13/2019,02:48
+"3725 minnehaha ave,Minneapolis,MN",44.935132,-93.22408,12,Longfellow,Howe,6,1,Westminster,02/13/2019,02:49
+"2598 4 th sdtreet ne,Minneapolis,MN",45.014902,-93.261534,1,Northeast,Holland,2,1,Westminster,02/13/2019,02:51
+"1401 Portland av s ,Minneapolis,MN",44.968786,-93.267331,7,Central,Elliot Park,3,1,Westminster,02/13/2019,02:53
+"2598 4th street ne,Minneapolis,MN",45.014902,-93.261534,1,Northeast,Holland,2,1,Westminster,02/13/2019,02:53
+"2900 Park Ave s,Minneapolis,MN",44.949939,-93.26561600000001,6,Phillips,Phillips West,3,1,Westminster,02/13/2019,02:55
+"2423 Golden valley road,Minneapolis,MN",44.99857,-93.311691,5,Near North,Willard - Hay,1,1,Westminster,02/13/2019,02:56
+"1814 park s,Minneapolis,MN",44.964577,-93.265541,6,Phillips,Ventura Village,3,1,Westminster,02/13/2019,02:57
+"2001 4th street ne,Minneapolis,MN",45.008561,-93.261584,1,Northeast,Holland,2,1,Westminster,02/13/2019,03:02
+"2200 4th street ne,Minneapolis,MN",45.010139,-93.261859,1,Northeast,Holland,2,1,Westminster,02/13/2019,03:05
+"49th and Grand ave ,Minneapolis,MN",44.914159000000005,-93.28442199999999,11,Southwest,Tangletown,5,1,Westminster,02/13/2019,03:09
+"1421 44th ave n ,Minneapolis,MN",45.035242,-93.298074,4,Camden,Webber - Camden,1,1,Westminster,02/13/2019,03:10
+"1415 44th ave n ,Minneapolis,MN",45.035251,-93.297759,4,Camden,Webber - Camden,1,1,Westminster,02/13/2019,03:13
+"712 20th ave s,Minneapolis,MN",44.966131,-93.24454200000001,6,University,Cedar Riverside,4,1,Westminster,02/13/2019,03:15
+"4027 Minnehaha Avenue South,Minneapolis,MN",44.929428,-93.220052,12,Longfellow,Hiawatha,6,1,Westminster,02/13/2019,03:16
+"3819 Minnehaha Avenue South,Minneapolis,MN",44.933640999999994,-93.223153,12,Longfellow,Howe,6,1,Westminster,02/13/2019,03:18
+"2998-2900 PARK AVE ,Minneapolis,MN",44.948377,-93.26520699999999,6,Phillips,Phillips West,3,1,Westminster,02/13/2019,03:19
+"2518 Golden Valley Road,Minneapolis,MN",44.998961,-93.312885,5,Near North,Willard - Hay,1,1,Westminster,02/13/2019,03:19
+"E 31 ST & 1st Ave S. ,Minneapolis,MN",44.946668,-93.276673,8,Powderhorn,Lyndale,5,1,Westminster,02/13/2019,03:20
+"2711 Golden valley road,Minneapolis,MN",44.99863,-93.315275,5,Near North,Willard - Hay,1,1,Westminster,02/13/2019,03:21
+"2600 block of Portland Ave s,Minneapolis,MN",44.9553,-93.268013,6,Phillips,Phillips West,3,1,Westminster,02/13/2019,03:23
+"1840 3RD AVE ,Minneapolis,MN",44.980034,-93.304339,5,Near North,Harrison,3,1,Westminster,02/13/2019,03:25
+"2900 Park Ave S,Minneapolis,MN",44.949939,-93.26561600000001,6,Phillips,Phillips West,3,1,Westminster,02/13/2019,03:25
+"2598 2nd st n,Minneapolis,MN",45.005896,-93.280254,5,Near North,Hawthorne,1,1,Westminster,02/13/2019,03:26
+"37 ST & GRAND AVE,Minneapolis,MN",44.93589,-93.284352,8,Southwest,King Field,5,1,Westminster,02/13/2019,03:26
+"2700 block of Portland Ave s,Minneapolis,MN",44.953722,-93.267703,6,Phillips,Phillips West,3,1,Westminster,02/13/2019,03:26
+"1830 3 ave s,Minneapolis,MN",44.964343,-93.273028,6,Central,Steven's Square - Loring Heights,3,1,Westminster,02/13/2019,03:28
+"36 ST & GRAND AVE S,Minneapolis,MN",44.937686,-93.284336,8,Southwest,King Field,5,1,Westminster,02/13/2019,03:29
+"720 20th ave s,Minneapolis,MN",44.965825,-93.244324,6,University,Cedar Riverside,4,1,Westminster,02/13/2019,03:31
+"2998 Park av ,Minneapolis,MN",44.948377,-93.26520699999999,6,Phillips,Phillips West,3,1,Westminster,02/13/2019,03:33
+"4247 webber pkwy,Minneapolis,MN",45.032373,-93.289665,4,Camden,Webber - Camden,1,1,Westminster,02/13/2019,03:33
+"3101-3199 Grand AV S,Minneapolis,MN",44.94658,-93.284293,8,Powderhorn,Lyndale,5,1,Westminster,02/13/2019,03:33
+"300 1st ave ne,Minneapolis,MN",44.989009,-93.25705699999999,3,University,Nicollet Island - East Bank,2,1,Westminster,02/13/2019,03:34
+"220 1 avenue ne,Minneapolis,MN",44.98876,-93.257796,3,University,Nicollet Island - East Bank,2,1,Westminster,02/13/2019,03:37
+"720 20th ave s,Minneapolis,MN",44.965825,-93.244324,6,University,Cedar Riverside,4,1,Westminster,02/13/2019,03:38
+"2818 Golden valley road,Minneapolis,MN",44.999098,-93.31675200000001,5,Near North,Willard - Hay,1,1,Westminster,02/13/2019,03:44
+"4247 Webber parkway ,Minneapolis,MN",45.032373,-93.289665,4,Camden,Webber - Camden,1,1,Westminster,02/13/2019,03:44
+"49th and grand ,Minneapolis,MN",45.044422999999995,-93.286973,4,Camden,Lind - Bohanon,1,1,Westminster,02/13/2019,03:44
+"3599 grand ,Minneapolis,MN",44.933824,-93.28465600000001,8,Southwest,King Field,5,1,Westminster,02/13/2019,03:46
+"4330 Webber parkway ,Minneapolis,MN",45.03478,-93.29300500000001,4,Camden,Webber - Camden,1,1,Westminster,02/13/2019,03:47
+"1905 3RD AVE S,Minneapolis,MN",44.963776,-93.27249,6,Central,Steven's Square - Loring Heights,3,1,Westminster,02/13/2019,03:53
+"1 2nd street ne,Minneapolis,MN",44.98715,-93.256575,3,University,Nicollet Island - East Bank,4,1,Westminster,02/13/2019,03:54
+"2500 block 4th street ne,Minneapolis,MN",45.013294,-93.261883,1,Northeast,Holland,2,1,Westminster,02/13/2019,03:57
+"2115 3RD AVE S,Minneapolis,MN",44.961445,-93.27246,10,Powderhorn,Whittier,3,1,Westminster,02/13/2019,03:59
+"2200 block of washington street ne,Minneapolis,MN",45.010399,-93.25701600000001,1,Northeast,Holland,2,1,Westminster,02/13/2019,04:00
+"2101 3rd ave s,Minneapolis,MN",44.961611,-93.27238100000001,10,Powderhorn,Whittier,3,1,Westminster,02/13/2019,04:01
+"2900 Golden valley road,Minneapolis,MN",44.999133,-93.317448,5,Near North,Willard - Hay,1,1,Westminster,02/13/2019,04:04
+"2806 riverside ave,Minneapolis,MN",44.963994,-93.23110600000001,2,Longfellow,Seward,4,1,Westminster,02/13/2019,04:09
+"1350 Nicollet Ave,Minneapolis,MN",44.969516,-93.278459,7,Central,Loring Park,3,1,Westminster,02/13/2019,04:18
+"1386 NICOLLET MALL,Minneapolis,MN",44.969865999999996,-93.27781,7,Central,Loring Park,3,1,Westminster,02/13/2019,04:21
+"2200 MONROE ST NE,Minneapolis,MN",45.010135999999996,-93.252668,1,Northeast,Holland,2,1,Westminster,02/13/2019,04:22
+"42ND & MINNEHAHA AVE S,Minneapolis,MN",44.926955,-93.21866999999999,12,Longfellow,Hiawatha,6,1,Westminster,02/13/2019,04:23
+"1699 WASHINGTON ST NE,Minneapolis,MN",45.00523,-93.257553,1,Northeast,Sheridan,2,1,Westminster,02/13/2019,04:24
+"2315 GOLDEN VALLEY RD,Minneapolis,MN",44.998616,-93.31011600000001,5,Near North,Willard - Hay,1,1,Westminster,02/13/2019,04:25
+"4190 E 34TH ST ,Minneapolis,MN",44.941478000000004,-93.21285300000001,2,Longfellow,Cooper,6,1,Westminster,02/13/2019,04:27
+"4500 GRAND AVE S,Minneapolis,MN",44.921246999999994,-93.284752,8,Southwest,King Field,5,1,Westminster,02/13/2019,04:36
+"700 block of 31st street East,Minneapolis,MN",44.946599,-93.288134,10,Calhoun Isle,South Uptown,5,1,Westminster,02/13/2019,04:39
+"3798 GRAND AVE S,Minneapolis,MN",44.934118,-93.284374,8,Southwest,King Field,5,1,Westminster,02/13/2019,04:39
+"1350 NICOLLET AVE S,Minneapolis,MN",44.969651,-93.278627,7,Central,Loring Park,3,1,Westminster,02/13/2019,04:44
+"1350 NICOLLET AVE S,Minneapolis,MN",44.969651,-93.278627,7,Central,Loring Park,3,1,Westminster,02/13/2019,04:51
+"3122 N 3rd St ,Minneapolis,MN",45.012225,-93.283376,5,Near North,Hawthorne,1,2,Westminster,02/13/2019,08:13
+"1786 Bryant ave s ,Minneapolis,MN",44.965678000000004,-93.290887,7,Calhoun Isle,Lowry Hill,3,2,Westminster,02/13/2019,08:17
+"3514 14th ave s,Minneapolis,MN",44.93899999999999,-93.255279,9,Powderhorn,Powderhorn Park,6,2,Westminster,02/13/2019,08:25
+"3222 4th st n,Minneapolis,MN",45.013901000000004,-93.284648,4,Camden,McKinley,1,2,Westminster,02/13/2019,08:26
+"3220 4th st n ,Minneapolis,MN",45.013846,-93.284665,4,Camden,McKinley,1,2,Westminster,02/13/2019,08:26
+"3524 14th Avenue South,Minneapolis,MN",44.938637,-93.255239,9,Powderhorn,Powderhorn Park,6,2,Westminster,02/13/2019,08:30
+"3010 Knox ave, Minneapolis,MN",45.011772,-93.30159599999999,5,Near North,Jordan,1,2,Westminster,02/13/2019,08:30
+"2732 4th st n ,Minneapolis,MN",45.008272999999996,-93.284631,5,Near North,Hawthorne,1,2,Westminster,02/13/2019,08:36
+"120 14TH ST W,Minneapolis,MN",44.968938,-93.280491,7,Central,Loring Park,3,2,Westminster,02/13/2019,08:37
+"416 2nd Ave SE,Minneapolis,MN",44.983353,-93.250248,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,08:40
+"412 2nd Ave SE,Minneapolis,MN",44.987421000000005,-93.25253000000001,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,08:43
+"2734 4th St. N. ,Minneapolis,MN",45.007599,-93.284933,5,Near North,Hawthorne,1,2,Westminster,02/13/2019,08:44
+"720 Aldrich avenue North,Minneapolis,MN",44.985597,-93.289854,5,Near North,Sumner - Glenwood,1,2,Westminster,02/13/2019,08:44
+"1804 Bryant ave s,Minneapolis,MN",44.965203,-93.29088399999999,7,Calhoun Isle,Lowry Hill,3,2,Westminster,02/13/2019,08:48
+"106 3rd ave ne,Minneapolis,MN",44.989942,-93.260565,3,Northeast,St. Anthony West,2,2,Westminster,02/13/2019,08:55
+"112 14TH ST W,Minneapolis,MN",44.968798,-93.28064300000001,7,Central,Loring Park,3,2,Westminster,02/13/2019,08:58
+"708 3rd ave ne,Minneapolis,MN",44.993075,-93.252077,3,Northeast,St. Anthony East,2,2,Westminster,02/13/2019,08:58
+"723 Aldrich avenue North,Minneapolis,MN",44.985444,-93.28988199999999,5,Near North,Sumner - Glenwood,1,2,Westminster,02/13/2019,08:59
+"110 14TH ST W,Minneapolis,MN",44.968798,-93.28063900000001,7,Central,Loring Park,3,2,Westminster,02/13/2019,09:01
+"424 2nd ave se,Minneapolis,MN",44.983242,-93.250139,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,09:02
+"2520 4th St n,Minneapolis,MN",45.005555,-93.284616,5,Near North,Hawthorne,1,2,Westminster,02/13/2019,09:08
+"2208 6th st n ,Minneapolis,MN",45.001824,-93.286182,5,Near North,Hawthorne,1,2,Westminster,02/13/2019,09:09
+"4332 14th ave so,Minneapolis,MN",44.923997,-93.25519,11,Nokomis,Northrop,6,2,Westminster,02/13/2019,09:10
+"3024 James ave s,Minneapolis,MN",44.947433000000004,-93.30368299999999,10,Calhoun Isle,ECCO,5,2,Westminster,02/13/2019,09:10
+"3018 James ave s,Minneapolis,MN",44.947642,-93.303697,10,Calhoun Isle,ECCO,5,2,Westminster,02/13/2019,09:13
+"1910 Colfax Ave s ,Minneapolis,MN",44.963978000000004,-93.29212,7,Calhoun Isle,Lowry Hill,3,2,Westminster,02/13/2019,09:13
+"3114 6th st n,Minneapolis,MN",45.012572999999996,-93.285976,5,Near North,Hawthorne,1,2,Westminster,02/13/2019,09:15
+"730 Aldrich avenue North,Minneapolis,MN",44.985603999999995,-93.290295,5,Near North,Sumner - Glenwood,1,2,Westminster,02/13/2019,09:17
+"3724 6th st n ,Minneapolis,MN",45.023012,-93.286227,4,Camden,McKinley,1,2,Westminster,02/13/2019,09:19
+"816 5th Ave SE ,Minneapolis,MN",44.98985,-93.244435,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,09:27
+"1000 aldrich ave n,Minneapolis,MN",44.988181,-93.290759,5,Near North,Sumner - Glenwood,1,2,Westminster,02/13/2019,09:31
+"1916 Colfax Ave s ,Minneapolis,MN",44.96372,-93.292209,7,Calhoun Isle,Lowry Hill,3,2,Westminster,02/13/2019,09:31
+"3542 longfellow,Minneapolis,MN",44.937979999999996,-93.24633299999999,9,Powderhorn,Corcoran,6,2,Westminster,02/13/2019,09:31
+"James ave s and W 32nd St. ,Minneapolis,MN",44.944734999999994,-93.30340799999999,10,Calhoun Isle,ECCO,5,2,Westminster,02/13/2019,09:33
+"3700 longfellow,Minneapolis,MN",44.935793,-93.246315,12,Powderhorn,Standish,6,2,Westminster,02/13/2019,09:33
+"316 4th ave se,Minneapolis,MN",44.985665000000004,-93.25009200000001,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,09:33
+"1028 aldrich ave n,Minneapolis,MN",44.988337,-93.290777,5,Near North,Sumner - Glenwood,1,2,Westminster,02/13/2019,09:33
+"3708 14th av s,Minneapolis,MN",44.935507,-93.25529399999999,9,Powderhorn,Powderhorn Park,6,2,Westminster,02/13/2019,09:34
+"326 4th ave ne,Minneapolis,MN",44.992441,-93.258346,3,Northeast,St. Anthony West,2,2,Westminster,02/13/2019,09:34
+"728 Aldrich avenue North,Minneapolis,MN",44.986067,-93.290194,5,Near North,Sumner - Glenwood,1,2,Westminster,02/13/2019,09:35
+"326 4th ave ne,Minneapolis,MN",44.992441,-93.258346,3,Northeast,St. Anthony West,2,2,Westminster,02/13/2019,09:36
+"3538 14th av s,Minneapolis,MN",44.938137,-93.25520999999999,9,Powderhorn,Powderhorn Park,6,2,Westminster,02/13/2019,09:37
+"3136 16 th ave s,Minneapolis,MN",44.945376,-93.251468,9,Powderhorn,Powderhorn Park,6,2,Westminster,02/13/2019,09:38
+"520 5th ave se,Minneapolis,MN",44.986903999999996,-93.24674399999999,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,09:38
+"3250 15th ave s,Minneapolis,MN",44.943232,-93.254104,9,Powderhorn,Powderhorn Park,6,2,Westminster,02/13/2019,09:38
+"1308 spruce pl,Minneapolis,MN",44.968506,-93.28114000000001,7,Central,Loring Park,3,2,Westminster,02/13/2019,09:40
+"1078 12th ave se,Minneapolis,MN",44.990245,-93.234342,2,University,Como,4,2,Westminster,02/13/2019,09:48
+"950 Aldrich avenue North,Minneapolis,MN",44.987953999999995,-93.290758,5,Near North,Sumner - Glenwood,1,2,Westminster,02/13/2019,09:50
+"1950 Emerson Ave S,Minneapolis,MN",44.963019,-93.294697,7,Calhoun Isle,Lowry Hill,3,2,Westminster,02/13/2019,09:50
+"3800 6th st n ,Minneapolis,MN",45.024075,-93.286239,4,Camden,Webber - Camden,1,2,Westminster,02/13/2019,09:50
+"3706 6th st n,Minneapolis,MN",45.022391999999996,-93.28621600000001,4,Camden,McKinley,1,2,Westminster,02/13/2019,09:52
+"1026 12th ave se,Minneapolis,MN",44.988640999999994,-93.234319,2,University,Como,4,2,Westminster,02/13/2019,09:52
+"THE MALL / IRVING AVE S ,Minneapolis,MN",44.950096,-93.30209,7,Calhoun Isle,East Isles,3,2,Westminster,02/13/2019,09:53
+"4050 Aldrich ave n ,Minneapolis,MN",45.029133,-93.289086,4,Camden,Webber - Camden,1,2,Westminster,02/13/2019,09:54
+"3722 6th st n ,Minneapolis,MN",45.022939,-93.286239,4,Camden,McKinley,1,2,Westminster,02/13/2019,09:54
+"3102 James Ave S, Minneapolis,MN",44.946377000000005,-93.303708,10,Calhoun Isle,ECCO,5,2,Westminster,02/13/2019,09:56
+"1126 14th ave se,Minneapolis,MN",44.991731,-93.23172,1,University,Como,2,2,Westminster,02/13/2019,09:57
+"804 5th ave se,Minneapolis,MN",44.989444,-93.244733,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,10:01
+"3826 14th Avenue South,Minneapolis,MN",44.933652,-93.25550799999999,8,Powderhorn,Bancroft,6,2,Westminster,02/13/2019,10:01
+"1200 winter st ne,Minneapolis,MN",44.993286,-93.233322,1,University,Como,2,2,Westminster,02/13/2019,10:01
+"3128 James ave s,Minneapolis,MN",44.945557,-93.303664,10,Calhoun Isle,ECCO,5,2,Westminster,02/13/2019,10:02
+"3542 14th Avenue South,Minneapolis,MN",44.938055,-93.2552,9,Powderhorn,Powderhorn Park,6,2,Westminster,02/13/2019,10:04
+"804 6th ave se,Minneapolis,MN",44.988971,-93.243662,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,10:05
+"1202 winter st ne,Minneapolis,MN",44.993286,-93.23330899999999,1,University,Como,2,2,Westminster,02/13/2019,10:06
+"706 Bryant avenue North,Minneapolis,MN",44.991409999999995,-93.291051,5,Near North,Near - North,1,2,Westminster,02/13/2019,10:06
+"402 5th ave se,Minneapolis,MN",44.985438,-93.247904,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,10:06
+"1906 Emerson ave s ,Minneapolis,MN",44.964086,-93.294698,7,Calhoun Isle,Lowry Hill,3,2,Westminster,02/13/2019,10:07
+"2104 EMERSON AVE S,Minneapolis,MN",44.9617,-93.29468,7,Calhoun Isle,Lowry Hill,3,2,Westminster,02/13/2019,10:08
+"428 5TH AVE SE,Minneapolis,MN",44.985984,-93.24746400000001,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,10:10
+"2012 Emerson Ave s,Minneapolis,MN",44.962282,-93.29470699999999,7,Calhoun Isle,Lowry Hill,3,2,Westminster,02/13/2019,10:14
+"722 bryant ave n,Minneapolis,MN",44.991409999999995,-93.291051,5,Near North,Near - North,1,2,Westminster,02/13/2019,10:19
+"716 Bryant avenue North,Minneapolis,MN",44.991409999999995,-93.291051,5,Near North,Near - North,1,2,Westminster,02/13/2019,10:20
+"1038 aldrich abr n ,Minneapolis,MN",44.988392,-93.290779,5,Near North,Sumner - Glenwood,1,2,Westminster,02/13/2019,10:22
+"3850 Aldrich ave n ,Minneapolis,MN",45.025412,-93.28905300000001,4,Camden,Webber - Camden,1,2,Westminster,02/13/2019,10:22
+"314 6th ave se,Minneapolis,MN",44.984140000000004,-93.247178,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,10:22
+"722 5th st ne,Minneapolis,MN",44.997156,-93.259434,3,Northeast,St. Anthony West,2,2,Westminster,02/13/2019,10:24
+"3806 6th st n,Minneapolis,MN",45.02418,-93.286224,4,Camden,Webber - Camden,1,2,Westminster,02/13/2019,10:25
+"2208 Emerson Ave S,Minneapolis,MN",44.960535,-93.294664,7,Calhoun Isle,East Isles,3,2,Westminster,02/13/2019,10:25
+"1940 Emerson ave s,Minneapolis,MN",44.963083000000005,-93.294721,7,Calhoun Isle,Lowry Hill,3,2,Westminster,02/13/2019,10:27
+"646 summer st ne,Minneapolis,MN",44.996743,-93.255911,3,Northeast,St. Anthony East,2,2,Westminster,02/13/2019,10:28
+"4144 aldrich ave n,Minneapolis,MN",45.030701,-93.289108,4,Camden,Webber - Camden,1,2,Westminster,02/13/2019,10:28
+"2700 lake of the isles,Minneapolis,MN",44.954046000000005,-93.312352,7,Calhoun Isle,Cedar - Isles - Dean,3,2,Westminster,02/13/2019,10:30
+"3722 Aldrich ave n ,Minneapolis,MN",45.022821,-93.28907199999999,4,Camden,McKinley,1,2,Westminster,02/13/2019,10:30
+"3024 humboldt ave s ,Minneapolis,MN",44.947435,-93.30108800000001,10,Calhoun Isle,ECCO,5,2,Westminster,02/13/2019,10:32
+"688 summer st ne,Minneapolis,MN",44.996748,-93.253149,3,Northeast,St. Anthony East,2,2,Westminster,02/13/2019,10:32
+"702 8th ave se,Minneapolis,MN",44.986751,-93.241499,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,10:33
+"706 summer st ne,Minneapolis,MN",44.996736999999996,-93.252111,3,Northeast,St. Anthony East,2,2,Westminster,02/13/2019,10:34
+"3044 Longfellow ave s,Minneapolis,MN",44.946616,-93.246112,9,Powderhorn,Corcoran,6,2,Westminster,02/13/2019,10:34
+"2216 Emerson ave s,Minneapolis,MN",44.960283000000004,-93.294761,7,Calhoun Isle,East Isles,3,2,Westminster,02/13/2019,10:35
+"708 Bryant avenue North,Minneapolis,MN",44.991409999999995,-93.291051,5,Near North,Near - North,1,2,Westminster,02/13/2019,10:35
+"322 5th st ne,Minneapolis,MN",44.99263,-93.25637900000001,3,Northeast,St. Anthony West,2,2,Westminster,02/13/2019,10:37
+"3210 longfellow,Minneapolis,MN",44.944318,-93.24637299999999,9,Powderhorn,Corcoran,6,2,Westminster,02/13/2019,10:38
+"416 5th st ne,Minneapolis,MN",44.993719,-93.25710699999999,3,Northeast,St. Anthony West,2,2,Westminster,02/13/2019,10:39
+"2428 humboldt Ave s,Minneapolis,MN",44.958021,-93.29858399999999,7,Calhoun Isle,East Isles,3,2,Westminster,02/13/2019,10:39
+"412 7th ave se,Minneapolis,MN",44.984621000000004,-93.244897,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,10:39
+"3200 Longfellow,Minneapolis,MN",44.94461,-93.246374,9,Powderhorn,Corcoran,6,2,Westminster,02/13/2019,10:40
+"1924 Emerson ave s,Minneapolis,MN",44.963503,-93.29471,7,Calhoun Isle,Lowry Hill,3,2,Westminster,02/13/2019,10:40
+"3218 21 ave s,Minneapolis,MN",44.943969,-93.242641,9,Powderhorn,Corcoran,6,2,Westminster,02/13/2019,10:42
+"3216 15th ave so,Minneapolis,MN",44.94419,-93.25408,9,Powderhorn,Powderhorn Park,6,2,Westminster,02/13/2019,10:44
+"2228 EMERSON AVE S,Minneapolis,MN",44.959996999999994,-93.294763,7,Calhoun Isle,East Isles,3,2,Westminster,02/13/2019,10:47
+"712 5th ave se,Minneapolis,MN",44.988766999999996,-93.245338,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,10:47
+"214 5th st ne,Minneapolis,MN",44.991295,-93.25571,3,Northeast,St. Anthony West,2,2,Westminster,02/13/2019,10:52
+"718 Aldrich avenue North,Minneapolis,MN",44.985792,-93.289486,5,Near North,Sumner - Glenwood,1,2,Westminster,02/13/2019,10:52
+"514 7th ave se ,Minneapolis,MN",44.985756,-93.243945,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,10:53
+"3518 Aldrich ave n ,Minneapolis,MN",45.019101,-93.28904,4,Camden,McKinley,1,2,Westminster,02/13/2019,10:57
+"3400 aldrich ave n ,Minneapolis,MN",45.016866,-93.28905,4,Camden,McKinley,1,2,Westminster,02/13/2019,11:05
+"1924 EMERSON EVE S,Minneapolis,MN",44.963503,-93.29471,7,Calhoun Isle,Lowry Hill,3,2,Westminster,02/13/2019,11:07
+"3410 aldrich ave n ,Minneapolis,MN",45.017058,-93.28904200000001,4,Camden,McKinley,1,2,Westminster,02/13/2019,11:07
+"3208 21st av s,Minneapolis,MN",44.944316,-93.242591,9,Powderhorn,Corcoran,6,2,Westminster,02/13/2019,11:08
+"3148 homes ave,Minneapolis,MN",44.944903000000004,-93.29981,10,Calhoun Isle,ECCO,5,2,Westminster,02/13/2019,11:09
+"1408 SPRUCE PLACE,Minneapolis,MN",44.968365000000006,-93.28107800000001,7,Central,Loring Park,3,2,Westminster,02/13/2019,11:09
+"1122 Humboldt avenue North,Minneapolis,MN",44.98958,-93.297573,5,Near North,Near - North,1,2,Westminster,02/13/2019,11:10
+"2434 FREMONT AVE S,Minneapolis,MN",44.958449,-93.29594499999999,7,Calhoun Isle,East Isles,3,2,Westminster,02/13/2019,11:10
+"3228 19th Avenue South,Minneapolis,MN",44.943644,-93.245124,9,Powderhorn,Corcoran,6,2,Westminster,02/13/2019,11:11
+"2524 humboldt Ave s,Minneapolis,MN",44.956381,-93.298486,7,Calhoun Isle,East Isles,3,2,Westminster,02/13/2019,11:11
+"2024 pleasant ave ,Minneapolis,MN",44.962493,-93.28324,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,11:12
+"428. 8th ave se,Minneapolis,MN",44.984384000000006,-93.24329399999999,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,11:12
+"4030 14th av s,Minneapolis,MN",44.929572,-93.255228,8,Powderhorn,Bancroft,6,2,Westminster,02/13/2019,11:12
+"502 8th ave se,Minneapolis,MN",44.985031,-93.242775,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,11:13
+"3238 Aldrich ave n ,Minneapolis,MN",45.014425,-93.289008,4,Camden,McKinley,1,2,Westminster,02/13/2019,11:13
+"3030 humboldt,Minneapolis,MN",44.947272,-93.301109,10,Calhoun Isle,ECCO,5,2,Westminster,02/13/2019,11:13
+"3328 Longfellow,Minneapolis,MN",44.941777,-93.246383,9,Powderhorn,Corcoran,6,2,Westminster,02/13/2019,11:14
+"700 Bryant ave n,Minneapolis,MN",44.991409999999995,-93.291051,5,Near North,Near - North,1,2,Westminster,02/13/2019,11:14
+"1314 5th st ne,Minneapolis,MN",45.00139,-93.260467,3,Northeast,Sheridan,2,2,Westminster,02/13/2019,11:15
+"3208 21st ave s,Minneapolis,MN",44.944316,-93.242591,9,Powderhorn,Corcoran,6,2,Westminster,02/13/2019,11:16
+"1208 humboldt ave n,Minneapolis,MN",44.991023,-93.298183,5,Near North,Near - North,1,2,Westminster,02/13/2019,11:16
+"320 7th ave se,Minneapolis,MN",44.983453999999995,-93.245806,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,11:17
+"128 18TH ST E,Minneapolis,MN",44.965454,-93.27497,6,Central,Steven's Square - Loring Heights,3,2,Westminster,02/13/2019,11:18
+"528 7th ave se,Minneapolis,MN",44.985913000000004,-93.243821,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,11:18
+"1328 6th st ne,Minneapolis,MN",45.001828,-93.259174,3,Northeast,Sheridan,2,2,Westminster,02/13/2019,11:19
+"1220 main st ne,Minneapolis,MN",45.000571,-93.26809200000001,3,Northeast,Sheridan,2,2,Westminster,02/13/2019,11:21
+"1112 5th st ne,Minneapolis,MN",44.999274,-93.260502,3,Northeast,Sheridan,2,2,Westminster,02/13/2019,11:24
+"220 8th ave se,Minneapolis,MN",44.982059,-93.245473,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,11:24
+"134 18th av e,Minneapolis,MN",44.965322,-93.274787,6,Central,Steven's Square - Loring Heights,3,2,Westminster,02/13/2019,11:26
+"304 7TH AVE SE,Minneapolis,MN",44.983422,-93.24624399999999,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,11:26
+"108 18TH ST E,Minneapolis,MN",44.965468,-93.275827,6,Central,Steven's Square - Loring Heights,3,2,Westminster,02/13/2019,11:27
+"1234 jefferson st ne,Minneapolis,MN",45.000746,-93.255317,1,Northeast,Logan Park,2,2,Westminster,02/13/2019,11:28
+"226 8th ave se,Minneapolis,MN",44.982116999999995,-93.245427,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,11:28
+"3200 21st ave,Minneapolis,MN",44.94457,-93.24263,9,Powderhorn,Corcoran,6,2,Westminster,02/13/2019,11:29
+"234 Clifton ,Minneapolis,MN",44.96593,-93.282538,7,Central,Loring Park,3,2,Westminster,02/13/2019,11:29
+"3200 21st ave,Minneapolis,MN",44.94457,-93.24263,9,Powderhorn,Corcoran,6,2,Westminster,02/13/2019,11:30
+"3548 17 ave a,Minneapolis,MN",44.978334999999994,-93.23133,2,University,University of Minnesota,4,2,Westminster,02/13/2019,11:31
+"1738 adams st ne,Minneapolis,MN",45.005805,-93.256275,1,Northeast,Logan Park,2,2,Westminster,02/13/2019,11:32
+"1332 spruce pl,Minneapolis,MN",44.968506,-93.28114000000001,7,Central,Loring Park,3,2,Westminster,02/13/2019,11:32
+"526 11th ave se,Minneapolis,MN",44.983773,-93.23824499999999,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,11:32
+"1918 6th st ne,Minneapolis,MN",45.008072999999996,-93.258859,1,Northeast,Holland,2,2,Westminster,02/13/2019,11:36
+"3434 Fremont ave s,Minneapolis,MN",44.940181,-93.296175,10,Calhoun Isle,South Uptown,5,2,Westminster,02/13/2019,11:37
+"312 7TH AVE SE,Minneapolis,MN",44.983375,-93.245869,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,11:38
+"814 11th ave se,Minneapolis,MN",44.986533,-93.23603299999999,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,11:38
+"3534 Gerard ave s,Minneapolis,MN",44.938536,-93.297443,10,Calhoun Isle,South Uptown,5,2,Westminster,02/13/2019,11:38
+"514 Humboldt Ave N,Minneapolis,MN",44.983107000000004,-93.297944,5,Near North,Harrison,3,2,Westminster,02/13/2019,11:40
+"136 Clifton ave,Minneapolis,MN",44.965203,-93.28353,7,Central,Loring Park,3,2,Westminster,02/13/2019,11:40
+"2322 pleasant ave ,Minneapolis,MN",44.959395,-93.283287,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,11:40
+"3236 Aldrich ave n ,Minneapolis,MN",45.014346,-93.28899799999999,4,Camden,McKinley,1,2,Westminster,02/13/2019,11:41
+"1836 jefferson st ne,Minneapolis,MN",45.0073,-93.255517,1,Northeast,Logan Park,2,2,Westminster,02/13/2019,11:41
+"3110 Holmes ave ,Minneapolis,MN",44.946124,-93.299838,10,Calhoun Isle,ECCO,5,2,Westminster,02/13/2019,11:41
+"24 OAK GROVE ST,Minneapolis,MN",44.966374,-93.278649,7,Central,Loring Park,3,2,Westminster,02/13/2019,11:43
+"3246 Girard ave s,Minneapolis,MN",44.94324,-93.29746999999999,10,Calhoun Isle,South Uptown,5,2,Westminster,02/13/2019,11:44
+"706 12th ave se,Minneapolis,MN",44.984768,-93.2357,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,11:44
+"118 18TH ST E,Minneapolis,MN",44.965466,-93.27535400000001,6,Central,Steven's Square - Loring Heights,3,2,Westminster,02/13/2019,11:44
+"314 8th ave se,Minneapolis,MN",44.983118,-93.244188,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,11:44
+"422 8th street se,Minneapolis,MN",44.989458,-93.245954,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,11:45
+"2110 5th st ne,Minneapolis,MN",45.009528,-93.26038299999999,1,Northeast,Holland,2,2,Westminster,02/13/2019,11:45
+"116 19th st e,Minneapolis,MN",44.964078,-93.27584,6,Central,Steven's Square - Loring Heights,3,2,Westminster,02/13/2019,11:48
+"412 6th st ,Minneapolis,MN",44.975475,-93.265821,7,Central,Downtown West,3,2,Westminster,02/13/2019,11:48
+"3618 aldrich ave n ,Minneapolis,MN",45.020888,-93.289047,4,Camden,McKinley,1,2,Westminster,02/13/2019,11:48
+"2112 5th st ne,Minneapolis,MN",45.009535,-93.260388,1,Northeast,Holland,2,2,Westminster,02/13/2019,11:48
+"2814 aldrich ave n,Minneapolis,MN",45.009034,-93.289029,5,Near North,Hawthorne,1,2,Westminster,02/13/2019,11:51
+"3024 13th ave s,Minneapolis,MN",44.947417,-93.256635,9,Powderhorn,Powderhorn Park,6,2,Westminster,02/13/2019,11:52
+"2124 Bryant ave n ,Minneapolis,MN",45.001106,-93.29076500000001,5,Near North,Hawthorne,1,2,Westminster,02/13/2019,11:53
+"820 Aldrich ave n,Minneapolis,MN",44.986765999999996,-93.290213,5,Near North,Sumner - Glenwood,1,2,Westminster,02/13/2019,11:54
+"3330 17th Avenue South,Minneapolis,MN",44.941984999999995,-93.250252,9,Powderhorn,Powderhorn Park,6,2,Westminster,02/13/2019,11:56
+"1700 STEVENS AVE S ,Minneapolis,MN",44.966164,-93.275603,6,Central,Steven's Square - Loring Heights,3,2,Westminster,02/13/2019,12:00
+"524 7th ave se,Minneapolis,MN",44.985898,-93.243833,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,12:00
+"2324 5th St NE,Minneapolis,MN",45.011962,-93.260605,1,Northeast,Holland,2,2,Westminster,02/13/2019,12:00
+"1206 6th st ne,Minneapolis,MN",45.000004,-93.259203,3,Northeast,Sheridan,2,2,Westminster,02/13/2019,12:01
+"1208 6th st se,Minneapolis,MN",44.983513,-93.236855,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,12:01
+"1834 36th Street East,Minneapolis,MN",44.937913,-93.246658,9,Powderhorn,Corcoran,6,2,Westminster,02/13/2019,12:01
+"604 6th st se,Minneapolis,MN",44.986534999999996,-93.244949,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,12:02
+"514 11th ave se,Minneapolis,MN",44.983606,-93.238364,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,12:03
+"24 DELL PL,Minneapolis,MN",44.965488,-93.286427,7,Central,Loring Park,3,2,Westminster,02/13/2019,12:03
+"1410 Madison st NE,Minneapolis,MN",45.002340999999994,-93.253943,1,Northeast,Logan Park,2,2,Westminster,02/13/2019,12:03
+"1802 stevens,Minneapolis,MN",44.965005,-93.27563599999999,6,Central,Steven's Square - Loring Heights,3,2,Westminster,02/13/2019,12:06
+"1102 Irving ave n,Minneapolis,MN",44.989177000000005,-93.299773,5,Near North,Near - North,1,2,Westminster,02/13/2019,12:09
+"2612 PILLSBURY AV S,Minneapolis,MN",44.954978000000004,-93.281649,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,12:11
+"2204 4TH AVE N,Minneapolis,MN",44.981589,-93.308525,5,Near North,Harrison,3,2,Westminster,02/13/2019,12:11
+"1832 36th st e,Minneapolis,MN",44.937913,-93.246787,9,Powderhorn,Corcoran,6,2,Westminster,02/13/2019,12:11
+"1918 2ND AVE S,Minneapolis,MN",44.963267,-93.274345,6,Central,Steven's Square - Loring Heights,3,2,Westminster,02/13/2019,12:12
+"2420 pleasant ave ,Minneapolis,MN",44.958348,-93.283287,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,12:13
+"1802 Bryant avenue North,Minneapolis,MN",44.997567,-93.290832,5,Near North,Near - North,1,2,Westminster,02/13/2019,12:14
+"1714 Stevens Ave s,Minneapolis,MN",44.965928000000005,-93.275643,6,Central,Steven's Square - Loring Heights,3,2,Westminster,02/13/2019,12:14
+"734 Madison st ne,Minneapolis,MN",44.99791,-93.25397199999999,3,Northeast,St. Anthony East,2,2,Westminster,02/13/2019,12:15
+"1820 Bryant Ave., n,MN",44.998214000000004,-93.290782,5,Near North,Near - North,1,2,Westminster,02/13/2019,12:17
+"606 jackson st ne,Minneapolis,MN",44.995499,-93.25017,3,Northeast,St. Anthony East,2,2,Westminster,02/13/2019,12:17
+"628 Jeffreson st ne,Minneapolis,MN",44.995995,-93.255274,3,Northeast,St. Anthony East,2,2,Westminster,02/13/2019,12:18
+"4342 Girard ave n ,Minneapolis,MN",45.034571,-93.296672,4,Camden,Webber - Camden,1,2,Westminster,02/13/2019,12:21
+"704 jackson st ne,Minneapolis,MN",44.997161,-93.250157,3,Northeast,St. Anthony East,2,2,Westminster,02/13/2019,12:21
+"710 11th ave se,Minneapolis,MN",44.985316999999995,-93.237138,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,12:25
+"2016 pleasant ave s,Minneapolis,MN",44.962559000000006,-93.28324,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,12:25
+"3030 13 ave s,Minneapolis,MN",44.947272,-93.256536,9,Powderhorn,Powderhorn Park,6,2,Westminster,02/13/2019,12:26
+"4234 Humboldt ave n ,Minneapolis,MN",45.032742,-93.29808299999999,4,Camden,Webber - Camden,1,2,Westminster,02/13/2019,12:26
+"1038 15th ave se,Minneapolis,MN",44.989005,-93.230463,1,University,Como,4,2,Westminster,02/13/2019,12:27
+"2102 32nd st,Minneapolis,MN",44.945031,-93.242184,9,Powderhorn,Corcoran,6,2,Westminster,02/13/2019,12:28
+"306 Clifton,Minneapolis,MN",44.966042,-93.28371800000001,7,Central,Loring Park,3,2,Westminster,02/13/2019,12:28
+"2104 32nd st,Minneapolis,MN",44.945031,-93.242068,9,Powderhorn,Corcoran,6,2,Westminster,02/13/2019,12:30
+"328 8th ave se,Minneapolis,MN",44.983295,-93.24405300000001,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,12:31
+"342 8th Avenue SE,Minneapolis,MN",44.98337,-93.243995,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,12:31
+"2100 pleasant ave s ,Minneapolis,MN",44.961865,-93.283237,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,12:31
+"922 12th ave se,Minneapolis,MN",44.986975,-93.234567,2,University,Como,4,2,Westminster,02/13/2019,12:32
+"400 Clifton,Minneapolis,MN",44.966768,-93.285062,7,Central,Loring Park,3,2,Westminster,02/13/2019,12:32
+"1822 4th av n,Minneapolis,MN",44.981792999999996,-93.30423,5,Near North,Harrison,3,2,Westminster,02/13/2019,12:32
+"728 6th st se,Minneapolis,MN",44.985738,-93.24286500000001,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,12:33
+"1112 Humboldt ave n,Minneapolis,MN",44.98944,-93.29757099999999,5,Near North,Near - North,1,2,Westminster,02/13/2019,12:34
+"3104 girard ave s,Minneapolis,MN",44.946261,-93.297397,10,Calhoun Isle,South Uptown,5,2,Westminster,02/13/2019,12:35
+"304 8th Avenue SE,Minneapolis,MN",44.982812,-93.244422,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,12:37
+"1724 STEVENS AVE ,Minneapolis,MN",44.965885,-93.275643,6,Central,Steven's Square - Loring Heights,3,2,Westminster,02/13/2019,12:38
+"3440 Emerson ave s,Minneapolis,MN",44.939963,-93.294875,10,Calhoun Isle,South Uptown,5,2,Westminster,02/13/2019,12:38
+"1414 Irving avenue North,Minneapolis,MN",44.993571,-93.299181,5,Near North,Near - North,1,2,Westminster,02/13/2019,12:38
+"1726 Stevens Ave s,Minneapolis,MN",44.965877,-93.275295,6,Central,Steven's Square - Loring Heights,3,2,Westminster,02/13/2019,12:38
+"1020 12th ave se,Minneapolis,MN",44.9885,-93.234314,2,University,Como,4,2,Westminster,02/13/2019,12:41
+"3208 Elliot ave s,Minneapolis,MN",44.944393,-93.26168299999999,9,Powderhorn,Powderhorn Park,6,2,Westminster,02/13/2019,12:41
+"2700 Bryant Ave n ,Minneapolis,MN",45.007829,-93.290313,5,Near North,Hawthorne,1,2,Westminster,02/13/2019,12:41
+"124 18TH ST E,Minneapolis,MN",44.965441,-93.274939,6,Central,Steven's Square - Loring Heights,3,2,Westminster,02/13/2019,12:43
+"2302 4TH AVE N,Minneapolis,MN",44.981581,-93.30984699999999,5,Near North,Harrison,3,2,Westminster,02/13/2019,12:43
+"716 pierce st ne,Minneapolis,MN",44.997487,-93.241237,3,Northeast,Beltrami,2,2,Westminster,02/13/2019,12:45
+"2818 Bryant Ave n ,Minneapolis,MN",45.00918,-93.29027099999999,5,Near North,Hawthorne,1,2,Westminster,02/13/2019,12:45
+"1205 talmage ave se,Minneapolis,MN",44.989818,-93.23435,2,University,Como,4,2,Westminster,02/13/2019,12:47
+"1030 Irving Ave. N.,Minneapolis,MN",44.988448999999996,-93.299815,5,Near North,Near - North,1,2,Westminster,02/13/2019,12:47
+"2106 32nd Street East,Minneapolis,MN",44.945031,-93.241952,9,Powderhorn,Corcoran,6,2,Westminster,02/13/2019,12:48
+"736 van buren st ne,Minneapolis,MN",44.998033,-93.24889399999999,3,Northeast,St. Anthony East,2,2,Westminster,02/13/2019,12:49
+"1726 James ave n,Minneapolis,MN",44.997166,-93.300326,5,Near North,Near - North,1,2,Westminster,02/13/2019,12:49
+"2638 pleasant ave ,Minneapolis,MN",44.954329,-93.28333,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,12:50
+"1714 2nd ave s,Minneapolis,MN",44.965619000000004,-93.274279,6,Central,Steven's Square - Loring Heights,3,2,Westminster,02/13/2019,12:50
+"2116 32nd Street East,Minneapolis,MN",44.944933,-93.241373,9,Powderhorn,Corcoran,6,2,Westminster,02/13/2019,12:52
+"628 buchanan st ne,Minneapolis,MN",44.995973,-93.239997,3,Northeast,Beltrami,2,2,Westminster,02/13/2019,12:53
+"2814 Harriet ave s,Minneapolis,MN",44.951405,-93.28586899999999,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,12:53
+"910 12TH AVE SE,Minneapolis,MN",44.986261999999996,-93.234794,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,12:54
+"2408 Harriet ave s,Minneapolis,MN",44.958711,-93.2858,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,12:58
+"926 12TH AVE SE,Minneapolis,MN",44.986975,-93.234567,2,University,Como,4,2,Westminster,02/13/2019,12:58
+"606 13th ave se,Minneapolis,MN",44.983259999999994,-93.23513,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,13:02
+"2420 James ave n ,Minneapolis,MN",45.004391,-93.301216,5,Near North,Jordan,1,2,Westminster,02/13/2019,13:02
+"3204 girard ave s,Minneapolis,MN",44.94453,-93.29742399999999,10,Calhoun Isle,South Uptown,5,2,Westminster,02/13/2019,13:03
+"1102 5th st se,Minneapolis,MN",44.982776,-93.239006,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,13:04
+"3026 29th ave so,Minneapolis,MN",44.947327,-93.230387,2,Longfellow,Longfellow,6,2,Westminster,02/13/2019,13:06
+"610 13th ave se,Minneapolis,MN",44.983345,-93.235049,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,13:06
+"2316 36th st e,Minneapolis,MN",44.937958,-93.238074,9,Powderhorn,Corcoran,6,2,Westminster,02/13/2019,13:06
+"1228 6th st se,Minneapolis,MN",44.983399,-93.236577,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,13:08
+"2316 Irving ave n ,Minneapolis,MN",45.003141,-93.29908499999999,5,Near North,Jordan,1,2,Westminster,02/13/2019,13:08
+"328 CLIFTON AVE,Minneapolis,MN",44.966586,-93.28447800000001,7,Central,Loring Park,3,2,Westminster,02/13/2019,13:09
+"3028 10th Avenue South,Minneapolis,MN",44.947381,-93.260386,9,Powderhorn,Powderhorn Park,6,2,Westminster,02/13/2019,13:09
+"5112 35th av s,Minneapolis,MN",44.910348,-93.221857,12,Nokomis,Minnehaha,6,2,Westminster,02/13/2019,13:10
+"2510 jackson st ne,Minneapolis,MN",45.013518,-93.249489,1,Northeast,Holland,2,2,Westminster,02/13/2019,13:12
+"1900 2ND AVE S ,Minneapolis,MN",44.963943,-93.274028,6,Central,Steven's Square - Loring Heights,3,2,Westminster,02/13/2019,13:12
+"2216 PLEASANT AVE S,Minneapolis,MN",44.960478,-93.283315,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,13:12
+"310 8th ave se,Minneapolis,MN",44.982996,-93.244281,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,13:14
+"710 5th st se,Minneapolis,MN",44.98487,-93.244474,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,13:17
+"434 buchanan st ne,Minneapolis,MN",44.994315,-93.239971,3,Northeast,Beltrami,2,2,Westminster,02/13/2019,13:17
+"2436 grand Ave ,Minneapolis,MN",44.957885,-93.284532,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,13:18
+"1418 Morgan avenue North,Minneapolis,MN",44.993687,-93.304185,5,Near North,Willard - Hay,1,2,Westminster,02/13/2019,13:18
+"2110 32nd st,Minneapolis,MN",44.945031,-93.241721,9,Powderhorn,Corcoran,6,2,Westminster,02/13/2019,13:19
+"2648 jackson st ne,Minneapolis,MN",45.016401,-93.24940500000001,1,Northeast,Holland,2,2,Westminster,02/13/2019,13:20
+"2108 32nd st,Minneapolis,MN",44.945031,-93.241837,9,Powderhorn,Corcoran,6,2,Westminster,02/13/2019,13:21
+"2120 grand ave s ,Minneapolis,MN",44.96117,-93.284541,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,13:22
+"634 buchanan st ne,Minneapolis,MN",44.996137,-93.239979,3,Northeast,Beltrami,2,2,Westminster,02/13/2019,13:23
+"210 8th Avenue SE,Minneapolis,MN",44.981964000000005,-93.245549,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,13:25
+"2701 pillsbury Ave s,Minneapolis,MN",44.953604999999996,-93.280969,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,13:27
+"3458 DuPont ave s,Minneapolis,MN",44.939679999999996,-93.293626,10,Calhoun Isle,South Uptown,5,2,Westminster,02/13/2019,13:28
+"2704 Bryant Ave n,Minneapolis,MN",45.007969,-93.290162,5,Near North,Hawthorne,1,2,Westminster,02/13/2019,13:29
+"1328 Morgan Ave. N.,Minneapolis,MN",44.992428000000004,-93.3041,5,Near North,Willard - Hay,1,2,Westminster,02/13/2019,13:29
+"2008 Grand Ave s,Minneapolis,MN",44.962322,-93.284453,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,13:30
+"408 6th street se,Minneapolis,MN",44.987644,-93.248068,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,13:31
+"2816 Bryant Ave n ,Minneapolis,MN",45.009107,-93.290274,5,Near North,Hawthorne,1,2,Westminster,02/13/2019,13:33
+"1808 jackson st ne,Minneapolis,MN",45.006262,-93.24944599999999,1,Northeast,Logan Park,2,2,Westminster,02/13/2019,13:33
+"2402 Stevens Ave S,Minneapolis,MN",44.9589,-93.27565200000001,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,13:34
+"422 7th street se,Minneapolis,MN",44.988451,-93.24679,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,13:35
+"2544 jackson st ne,Minneapolis,MN",45.01458,-93.24947399999999,1,Northeast,Holland,2,2,Westminster,02/13/2019,13:35
+"1408 Irving ave n,Minneapolis,MN",44.993409,-93.299267,5,Near North,Near - North,1,2,Westminster,02/13/2019,13:36
+"1716 Rollins ave se,Minneapolis,MN",44.985015000000004,-93.227817,2,University,Como,4,2,Westminster,02/13/2019,13:36
+"2226 E 33rd St ,Minneapolis,MN",44.943104999999996,-93.240151,9,Powderhorn,Corcoran,6,2,Westminster,02/13/2019,13:37
+"1402 6th st se,Minneapolis,MN",44.982203000000005,-93.234241,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,13:37
+"832 18th ave se,Minneapolis,MN",44.984483000000004,-93.226673,2,University,Como,4,2,Westminster,02/13/2019,13:40
+"2362 Humboldt ave n ,Minneapolis,MN",45.005014,-93.29784599999999,5,Near North,Jordan,1,2,Westminster,02/13/2019,13:41
+"2118 Grand Ave s,Minneapolis,MN",44.961315,-93.28459699999999,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,13:41
+"2114 32nd Street East,Minneapolis,MN",44.945029999999996,-93.241489,9,Powderhorn,Corcoran,6,2,Westminster,02/13/2019,13:42
+"704 5th st SE,Minneapolis,MN",44.984962,-93.244709,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,13:43
+"1426 Logan ave n,Minneapolis,MN",44.993902,-93.30289300000001,5,Near North,Willard - Hay,1,2,Westminster,02/13/2019,13:43
+"2646 Humboldt ave n ,Minneapolis,MN",45.007432,-93.297776,5,Near North,Jordan,1,2,Westminster,02/13/2019,13:44
+"878 18th ave se,Minneapolis,MN",44.985796,-93.226624,2,University,Como,4,2,Westminster,02/13/2019,13:45
+"1230 Logan avenue North,Minneapolis,MN",44.990677000000005,-93.302817,5,Near North,Near - North,1,2,Westminster,02/13/2019,13:47
+"3322 32 st e,Minneapolis,MN",44.945122,-93.321206,13,Calhoun Isle,West Calhoun,5,2,Westminster,02/13/2019,13:48
+"2210 colfax,Minneapolis,MN",44.960431,-93.29219499999999,10,Calhoun Isle,Lowry Hill East,3,2,Westminster,02/13/2019,13:48
+"308 N Bryant Ave ,Minneapolis,MN",44.981239,-93.29053,5,Near North,Sumner - Glenwood,3,2,Westminster,02/13/2019,13:49
+"2520 grand Ave s,Minneapolis,MN",44.956628,-93.284825,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,13:50
+"1715 talmage ave se,Minneapolis,MN",44.989674,-93.228135,1,University,Como,4,2,Westminster,02/13/2019,13:53
+"3548 girard ave s,Minneapolis,MN",44.938049,-93.297411,10,Calhoun Isle,South Uptown,5,2,Westminster,02/13/2019,13:56
+"2418 HARRIET AVE S,Minneapolis,MN",44.958475,-93.285804,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,13:56
+"3310 Fremont ave s,Minneapolis,MN",44.942493,-93.296262,10,Calhoun Isle,South Uptown,5,2,Westminster,02/13/2019,13:59
+"2400 jefferson st ne,Minneapolis,MN",45.012355,-93.25579300000001,1,Northeast,Holland,2,2,Westminster,02/13/2019,13:59
+"2516 Grand ave s,Minneapolis,MN",44.9568,-93.284549,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,14:00
+"3026 30th ave so,Minneapolis,MN",44.947367,-93.228728,2,Longfellow,Longfellow,6,2,Westminster,02/13/2019,14:01
+"722 Elwood Ave N,Minneapolis,MN",44.986137,-93.30074300000001,5,Near North,Near - North,1,2,Westminster,02/13/2019,14:01
+"2414 howard st ne,Minneapolis,MN",45.012678,-93.253381,1,Northeast,Holland,2,2,Westminster,02/13/2019,14:01
+"508 Bryant Ave n,Minneapolis,MN",44.983342,-93.290561,5,Near North,Sumner - Glenwood,3,2,Westminster,02/13/2019,14:02
+"3020 Colfax ave s,Minneapolis,MN",44.947563,-93.292221,10,Calhoun Isle,South Uptown,5,2,Westminster,02/13/2019,14:05
+"500 N Bryant Ave ,Minneapolis,MN",44.982946000000005,-93.290571,5,Near North,Sumner - Glenwood,3,2,Westminster,02/13/2019,14:05
+"2710 Bryant Ave n,Minneapolis,MN",45.008144,-93.29039399999999,5,Near North,Hawthorne,1,2,Westminster,02/13/2019,14:06
+"1852 quincy st ne,Minneapolis,MN",45.007743,-93.251202,1,Northeast,Logan Park,2,2,Westminster,02/13/2019,14:06
+"1228 Logan avenue North,Minneapolis,MN",44.990612,-93.302837,5,Near North,Near - North,1,2,Westminster,02/13/2019,14:06
+"2306 COLFAX AVE S,Minneapolis,MN",44.959841,-93.292177,10,Calhoun Isle,Lowry Hill East,3,2,Westminster,02/13/2019,14:09
+"2814 Bryant Ave n,Minneapolis,MN",45.009034,-93.290293,5,Near North,Hawthorne,1,2,Westminster,02/13/2019,14:10
+"2514 madison st ne,Minneapolis,MN",45.013701,-93.254603,1,Northeast,Holland,2,2,Westminster,02/13/2019,14:11
+"3434 Colfax ave s,Minneapolis,MN",44.940181,-93.29235899999999,10,Calhoun Isle,South Uptown,5,2,Westminster,02/13/2019,14:11
+"2420 PILLSBURY AVE S,Minneapolis,MN",44.958302,-93.28175300000001,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,14:12
+"2620 Irving ave n ,Minneapolis,MN",45.006646999999994,-93.299065,5,Near North,Jordan,1,2,Westminster,02/13/2019,14:13
+"1416 6th st se,Minneapolis,MN",44.981966,-93.233612,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,14:15
+"354 14th ave ne,Minneapolis,MN",45.001814,-93.262152,3,Northeast,Sheridan,2,2,Westminster,02/13/2019,14:16
+"2504 11TH AVE S ,Minneapolis,MN",44.957073,-93.25904799999999,9,Phillips,Midtown Phillips,3,2,Westminster,02/13/2019,14:16
+"2538 11TH AVE S,Minneapolis,MN",44.955969,-93.25908000000001,9,Phillips,Midtown Phillips,3,2,Westminster,02/13/2019,14:17
+"702 Newton Ave. N.,Minneapolis,MN",44.985261,-93.305451,5,Near North,Near - North,1,2,Westminster,02/13/2019,14:22
+"2304 33rd st,Minneapolis,MN",44.959989,-93.224267,2,Longfellow,Seward,4,2,Westminster,02/13/2019,14:23
+"1827 fairmount st se,Minneapolis,MN",44.986218,-93.226597,2,University,Como,4,2,Westminster,02/13/2019,14:23
+"2400 grand ave s ,Minneapolis,MN",44.958968,-93.284501,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,14:24
+"116 14th ave ne,Minneapolis,MN",45.00134,-93.269897,3,Northeast,Sheridan,2,2,Westminster,02/13/2019,14:25
+"2328 32nd st,Minneapolis,MN",44.94495,-93.237837,9,Powderhorn,Corcoran,6,2,Westminster,02/13/2019,14:27
+"2306 colfax,Minneapolis,MN",44.959841,-93.292177,10,Calhoun Isle,Lowry Hill East,3,2,Westminster,02/13/2019,14:27
+"332 16th ave ne,Minneapolis,MN",45.003989000000004,-93.262755,3,Northeast,Sheridan,2,2,Westminster,02/13/2019,14:29
+"802 5th ave n,Minneapolis,MN",44.982938,-93.289694,5,Near North,Sumner - Glenwood,3,2,Westminster,02/13/2019,14:29
+"2748 Pillsbury ave ,Minneapolis,MN",44.952224,-93.281697,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,14:32
+"1002 Newton avenue North,Minneapolis,MN",44.98806,-93.305412,5,Near North,Near - North,1,2,Westminster,02/13/2019,14:32
+"104 14th ave ne,Minneapolis,MN",45.001101,-93.270515,3,Northeast,Sheridan,2,2,Westminster,02/13/2019,14:34
+"908 Oliver Ave n,Minneapolis,MN",44.98721,-93.306703,5,Near North,Near - North,1,2,Westminster,02/13/2019,14:35
+"814 queen ave n ,Minneapolis,MN",44.986717999999996,-93.309382,5,Near North,Willard - Hay,1,2,Westminster,02/13/2019,14:37
+"800 7TH ST SE,Minneapolis,MN",44.985698,-93.239622,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,14:40
+"1306 Upton ave n ,Minneapolis,MN",44.991809,-93.314438,5,Near North,Willard - Hay,1,2,Westminster,02/13/2019,14:42
+"3126 Colfax Ave S ,Minneapolis,MN",44.945679,-93.292261,10,Calhoun Isle,South Uptown,5,2,Westminster,02/13/2019,14:43
+"258 humboldt Ave n,Minneapolis,MN",44.979959,-93.297789,5,Near North,Harrison,3,2,Westminster,02/13/2019,14:44
+"1012 16TH AVE SE,Minneapolis,MN",44.988256,-93.229236,1,University,Como,4,2,Westminster,02/13/2019,14:45
+"3520 32nd av s,Minneapolis,MN",44.938882,-93.22598,12,Longfellow,Howe,6,2,Westminster,02/13/2019,14:45
+"1410 6th st se,Minneapolis,MN",44.982038,-93.233804,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,14:45
+"602 7th st se,Minneapolis,MN",44.985698,-93.239622,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,14:48
+"3428 17th av s,Minneapolis,MN",44.940456,-93.250211,9,Powderhorn,Powderhorn Park,6,2,Westminster,02/13/2019,14:49
+"110 14th ave ne,Minneapolis,MN",45.001169,-93.27032,3,Northeast,Sheridan,2,2,Westminster,02/13/2019,14:49
+"4222 33 st e,Minneapolis,MN",44.92613,-93.22456600000001,12,Nokomis,Ericsson,6,2,Westminster,02/13/2019,14:49
+"1322 Newton Ave N,Minneapolis,MN",44.992314,-93.305418,5,Near North,Willard - Hay,1,2,Westminster,02/13/2019,14:50
+"3536 11th Avenue South,Minneapolis,MN",44.938378,-93.25903199999999,9,Powderhorn,Powderhorn Park,6,2,Westminster,02/13/2019,14:50
+"1100 8th street ,Minneapolis,MN",44.986457,-93.293095,5,Near North,Sumner - Glenwood,1,2,Westminster,02/13/2019,14:51
+"3604 Aldrich ave s,Minneapolis,MN",44.937431,-93.289784,10,Southwest,East Harriet,5,2,Westminster,02/13/2019,14:53
+"276 Girard Ave N,Minneapolis,MN",44.980289,-93.296769,5,Near North,Harrison,3,2,Westminster,02/13/2019,14:53
+"2326 32nd st e,Minneapolis,MN",44.94495,-93.237859,9,Powderhorn,Corcoran,6,2,Westminster,02/13/2019,14:55
+"1910 Bryant ave s ,Minneapolis,MN",44.96383,-93.289457,10,Calhoun Isle,Lowry Hill East,3,2,Westminster,02/13/2019,14:55
+"1112 7th ave se,Minneapolis,MN",44.984665,-93.237086,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,14:56
+"2422 HARRIET AVE S,Minneapolis,MN",44.958366,-93.28580600000001,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,14:56
+"2114 dupont Ave n,Minneapolis,MN",45.000842999999996,-93.292315,5,Near North,Hawthorne,1,2,Westminster,02/13/2019,14:57
+"3214 35th ave so,Minneapolis,MN",44.944451,-93.22198900000001,2,Longfellow,Longfellow,6,2,Westminster,02/13/2019,14:58
+"2424 grand ave s,Minneapolis,MN",44.95825,-93.284565,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,14:59
+"512 12th ave se,Minneapolis,MN",44.982971,-93.237174,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,15:00
+"110 22nd ave ne,Minneapolis,MN",45.010078,-93.267557,3,Northeast,Bottineau,2,2,Westminster,02/13/2019,15:00
+"2202 GARFIELD AVE S,Minneapolis,MN",44.960562,-93.287018,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,15:02
+"1350 Sheridan avenue North,Minneapolis,MN",44.993131,-93.311751,5,Near North,Willard - Hay,1,2,Westminster,02/13/2019,15:04
+"230 26th ave ne,Minneapolis,MN",45.015182,-93.265251,1,Northeast,Marshall Terrace,2,2,Westminster,02/13/2019,15:05
+"102 14th ave ne,Minneapolis,MN",45.001083,-93.270565,3,Northeast,Sheridan,2,2,Westminster,02/13/2019,15:07
+"2618 Harrriet Av S,Minneapolis,MN",44.954868,-93.28584000000001,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,15:09
+"1238 Sheridan ave n,Minneapolis,MN",44.991181,-93.311719,5,Near North,Willard - Hay,1,2,Westminster,02/13/2019,15:09
+"2424 GARFIELD AVE S,Minneapolis,MN",44.958329,-93.28709,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,15:10
+"1408 6th st se,Minneapolis,MN",44.982093,-93.233855,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,15:12
+"504 22nd ave ne,Minneapolis,MN",45.009784,-93.259512,1,Northeast,Holland,2,2,Westminster,02/13/2019,15:13
+"624 17th ave ne,Minneapolis,MN",45.00512,-93.257279,1,Northeast,Logan Park,2,2,Westminster,02/13/2019,15:17
+"886 21st ave se,Minneapolis,MN",44.986331,-93.222525,2,University,Como,4,2,Westminster,02/13/2019,15:20
+"3508 Garfield ave s,Minneapolis,MN",44.9391,-93.287222,8,Powderhorn,Lyndale,5,2,Westminster,02/13/2019,15:20
+"3522 Garfield ave s,Minneapolis,MN",44.938646999999996,-93.287406,8,Powderhorn,Lyndale,5,2,Westminster,02/13/2019,15:23
+"24 25th st w ,Minneapolis,MN",44.957483,-93.279126,10,Powderhorn,Whittier,3,2,Westminster,02/13/2019,15:23
+"2718 16TH AV S,Minneapolis,MN",44.952954999999996,-93.251478,9,Phillips,East Phillips,3,2,Westminster,02/13/2019,15:25
+"1922 queen ave n,Minneapolis,MN",44.999481,-93.309188,5,Near North,Willard - Hay,1,2,Westminster,02/13/2019,15:26
+"628 20th ave ne,Minneapolis,MN",45.008393,-93.257217,1,Northeast,Holland,2,2,Westminster,02/13/2019,15:26
+"3104 Aldrich ave s,Minneapolis,MN",44.946507000000004,-93.289397,10,Calhoun Isle,South Uptown,5,2,Westminster,02/13/2019,15:27
+"1606 Oliver Ave. N. ,Minneapolis,MN",44.995508,-93.306634,5,Near North,Willard - Hay,1,2,Westminster,02/13/2019,15:28
+"1428 32nd st,Minneapolis,MN",44.944977,-93.254326,9,Powderhorn,Powderhorn Park,6,2,Westminster,02/13/2019,15:32
+"1422 32nd st,Minneapolis,MN",44.944977,-93.254375,9,Powderhorn,Powderhorn Park,6,2,Westminster,02/13/2019,15:34
+"1314 7th st se,Minneapolis,MN",44.983505,-93.23431,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,15:34
+"2724 16TH AVE S,Minneapolis,MN",44.952698,-93.251468,9,Phillips,East Phillips,3,2,Westminster,02/13/2019,15:35
+"402 21st ave n,Minneapolis,MN",45.000229,-93.284965,5,Near North,Hawthorne,1,2,Westminster,02/13/2019,15:36
+"1410 Queen avenue North,Minneapolis,MN",44.993702,-93.309172,5,Near North,Willard - Hay,1,2,Westminster,02/13/2019,15:40
+"812 21st ave n,Minneapolis,MN",45.000239,-93.290288,5,Near North,Hawthorne,1,2,Westminster,02/13/2019,15:41
+"3226 14th ave s,Minneapolis,MN",44.944257,-93.25501899999999,9,Powderhorn,Powderhorn Park,6,2,Westminster,02/13/2019,15:58
+"720 8th ave n,Minneapolis,MN",44.987396000000004,-93.240962,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,16:05
+"712 8th ave n,Minneapolis,MN",44.986358,-93.28645,5,Central,North Loop,1,2,Westminster,02/13/2019,16:08
+"928 5th street ,Minneapolis,MN",44.98362,-93.241067,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,16:21
+"806 12 Avenue se,Minneapolis,MN",44.985742,-93.235017,3,University,Marcy Holmes,4,2,Westminster,02/13/2019,16:23
+"1122 Irving Ave n ,Minneapolis,MN",44.989774,-93.299375,5,Near North,Near - North,1,2,Westminster,02/13/2019,16:38
+"1026 Irving Ave n,Minneapolis,MN",44.98834,-93.299802,5,Near North,Near - North,1,2,Westminster,02/13/2019,16:40
+"5756 27th Avenue South,Minneapolis,MN",44.898191,-93.233951,11,Nokomis,Wenonah,6,2,Westminster,02/13/2019,17:31
+"5700 27th ave s,Minneapolis,MN",44.899724,-93.233912,11,Nokomis,Wenonah,6,2,Westminster,02/13/2019,17:35
+"5608 27th Ave S,Minneapolis,MN",44.901329,-93.233912,11,Nokomis,Wenonah,6,2,Westminster,02/13/2019,19:22
+"1613 Lynn Curve Ave. N.,Minneapolis,MN",44.996215,-93.28528,5,Near North,Near - North,1,3,Westminster,02/14/2019,08:24
+"2421 3rd st n,Minneapolis,MN",44.994181,-93.281878,5,Near North,Near - North,1,3,Westminster,02/14/2019,08:26
+"2511 3rd st n,Minneapolis,MN",44.994181,-93.281878,5,Near North,Near - North,1,3,Westminster,02/14/2019,08:29
+"223 14TH ST W,Minneapolis,MN",44.968914,-93.27646800000001,7,Central,Loring Park,3,3,Westminster,02/14/2019,08:33
+"3025 James ave s,Minneapolis,MN",44.947451,-93.303054,10,Calhoun Isle,ECCO,5,3,Westminster,02/14/2019,08:37
+"3405 humboldt ave s,Minneapolis,MN",44.941056,-93.300557,10,Calhoun Isle,ECCO,5,3,Westminster,02/14/2019,08:40
+"829 Lyndale Pl., N.,MN",44.987176,-93.289645,5,Near North,Sumner - Glenwood,1,3,Westminster,02/14/2019,08:45
+"3423 humboldt ave s,Minneapolis,MN",44.940518,-93.300538,10,Calhoun Isle,ECCO,5,3,Westminster,02/14/2019,08:47
+"3527 Holmes ave s,Minneapolis,MN",44.938612,-93.299377,10,Calhoun Isle,ECCO,5,3,Westminster,02/14/2019,08:55
+"3200 Holmes ave s, minneapolis,MN",44.944609,-93.29988900000001,10,Calhoun Isle,ECCO,5,3,Westminster,02/14/2019,08:55
+"305 7th ave se,Minneapolis,MN",44.983618,-93.246533,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,08:57
+"2805 3rd st n ,Minneapolis,MN",44.994181,-93.281878,5,Near North,Near - North,1,3,Westminster,02/14/2019,08:58
+"225 14TH ST W,Minneapolis,MN",44.968645,-93.281377,7,Central,Loring Park,3,3,Westminster,02/14/2019,08:59
+"211 14TH ST W,Minneapolis,MN",44.968914,-93.27646800000001,7,Central,Loring Park,3,3,Westminster,02/14/2019,09:02
+"1229 winter st ne,Minneapolis,MN",44.993078000000004,-93.233143,1,University,Como,2,3,Westminster,02/14/2019,09:02
+"3011 4th st n ,Minneapolis,MN",45.011140000000005,-93.285179,5,Near North,Hawthorne,1,3,Westminster,02/14/2019,09:04
+"3107 4th st n,Minneapolis,MN",45.012046999999995,-93.284899,5,Near North,Hawthorne,1,3,Westminster,02/14/2019,09:05
+"305 3rd ave ne,Minneapolis,MN",44.991073,-93.25814100000001,3,Northeast,St. Anthony West,2,3,Westminster,02/14/2019,09:06
+"2605 3rd st n,Minneapolis,MN",44.994181,-93.281878,5,Near North,Near - North,1,3,Westminster,02/14/2019,09:08
+"211 3rd ave ne,Minneapolis,MN",44.990990000000004,-93.259396,3,Northeast,St. Anthony West,2,3,Westminster,02/14/2019,09:08
+"1189 14th ave ne,Minneapolis,MN",45.001698,-93.242272,1,Northeast,Northeast Park,2,3,Westminster,02/14/2019,09:12
+"1153 14th ave se,Minneapolis,MN",44.992487,-93.232387,1,University,Como,2,3,Westminster,02/14/2019,09:15
+"3137 longfellow,Minneapolis,MN",44.945173,-93.24577,9,Powderhorn,Corcoran,6,3,Westminster,02/14/2019,09:17
+"1148 14th ave se,Minneapolis,MN",44.992346999999995,-93.231719,1,University,Como,2,3,Westminster,02/14/2019,09:17
+"3625 15th ave so,Minneapolis,MN",44.936795000000004,-93.253393,9,Powderhorn,Powderhorn Park,6,3,Westminster,02/14/2019,09:20
+"3051 16th ave,Minneapolis,MN",44.946752000000004,-93.250899,9,Powderhorn,Powderhorn Park,6,3,Westminster,02/14/2019,09:21
+"519 7th ave se,Minneapolis,MN",44.986001,-93.244539,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,09:23
+"3503 15th av s,Minneapolis,MN",44.939328,-93.253411,9,Powderhorn,Powderhorn Park,6,3,Westminster,02/14/2019,09:23
+"2525 6th st n,Minneapolis,MN",45.005571999999994,-93.28676,5,Near North,Hawthorne,1,3,Westminster,02/14/2019,09:26
+"3531 15th av s,Minneapolis,MN",44.938396999999995,-93.25343199999999,9,Powderhorn,Powderhorn Park,6,3,Westminster,02/14/2019,09:26
+"703 8th ave se,Minneapolis,MN",44.98697,-93.241935,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,09:28
+"1521 spruce place ,Minneapolis,MN",44.966423,-93.28083000000001,7,Central,Loring Park,3,3,Westminster,02/14/2019,09:29
+"811 11th ave se,Minneapolis,MN",44.986504,-93.236463,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,09:31
+"1709 Girard Ave. N.,Minneapolis,MN",44.996664,-93.297464,5,Near North,Near - North,1,3,Westminster,02/14/2019,09:31
+"423 6th ave se,Minneapolis,MN",44.985489,-93.24681700000001,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,09:31
+"417 8th ave se,Minneapolis,MN",44.984434,-93.243861,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,09:32
+"3205 Longfellow Avenue South,Minneapolis,MN",44.944410999999995,-93.24583,9,Powderhorn,Corcoran,6,3,Westminster,02/14/2019,09:34
+"303 6th ave se,Minneapolis,MN",44.984120000000004,-93.247906,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,09:34
+"507 7th ave se,Minneapolis,MN",44.988638,-93.245063,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,09:35
+"3521 13th ave s,Minneapolis,MN",44.938765999999994,-93.255935,9,Powderhorn,Powderhorn Park,6,3,Westminster,02/14/2019,09:37
+"3211 6th st n,Minneapolis,MN",45.013527,-93.286878,4,Camden,McKinley,1,3,Westminster,02/14/2019,09:38
+"3221 6th st n,Minneapolis,MN",45.013857,-93.286826,4,Camden,McKinley,1,3,Westminster,02/14/2019,09:41
+"2325 6th st n ,Minneapolis,MN",45.003374,-93.28671899999999,5,Near North,Hawthorne,1,3,Westminster,02/14/2019,09:43
+"3207 Garfield ave s ,Minneapolis,MN",44.94447,-93.28658100000001,8,Powderhorn,Lyndale,5,3,Westminster,02/14/2019,09:48
+"3500 Garfield ,Minneapolis,MN",44.939363,-93.28722900000001,8,Powderhorn,Lyndale,5,3,Westminster,02/14/2019,09:48
+"1523 spruce place ,Minneapolis,MN",44.966423,-93.28083000000001,7,Central,Loring Park,3,3,Westminster,02/14/2019,09:53
+"1143 15th ave se,Minneapolis,MN",44.992197,-93.231053,1,University,Como,2,3,Westminster,02/14/2019,09:55
+"111 14TH ST W,Minneapolis,MN",44.968789,-93.27939,7,Central,Loring Park,3,3,Westminster,02/14/2019,09:56
+"4001 Aldrich ave n ,Minneapolis,MN",45.027766,-93.28968,4,Camden,Webber - Camden,1,3,Westminster,02/14/2019,09:57
+"1161 15th ave se,Minneapolis,MN",44.992652,-93.231098,1,University,Como,2,3,Westminster,02/14/2019,09:59
+"109 14TH ST W,Minneapolis,MN",44.968789,-93.27938,7,Central,Loring Park,3,3,Westminster,02/14/2019,10:00
+"1707 Irving Ave. N.,Minneapolis,MN",44.996619,-93.29969,5,Near North,Near - North,1,3,Westminster,02/14/2019,10:03
+"2211 N 6th ave ,Minneapolis,MN",45.001876,-93.286823,5,Near North,Hawthorne,1,3,Westminster,02/14/2019,10:04
+"1427 Washburn avenue North,Minneapolis,MN",44.994240000000005,-93.31767099999999,5,Near North,Willard - Hay,1,3,Westminster,02/14/2019,10:06
+"703 12th ave se,Minneapolis,MN",44.984768,-93.236245,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,10:07
+"811 11th Ave se,Minneapolis,MN",44.986504,-93.236463,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,10:10
+"213 8th ave se,Minneapolis,MN",44.982471000000004,-93.245526,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,10:10
+"3639 13TH AVE S,Minneapolis,MN",44.936322,-93.255882,9,Powderhorn,Powderhorn Park,6,3,Westminster,02/14/2019,10:11
+"3205 girard ave s,Minneapolis,MN",44.944439,-93.296718,10,Calhoun Isle,South Uptown,5,3,Westminster,02/14/2019,10:16
+"3111 Holmes ave,Minneapolis,MN",44.946084,-93.299456,10,Calhoun Isle,ECCO,5,3,Westminster,02/14/2019,10:18
+"1225 winter st ne,Minneapolis,MN",44.994071000000005,-93.233824,1,University,Mid - City Industrial,2,3,Westminster,02/14/2019,10:20
+"1831 2nd av s ,Minneapolis,MN",44.964107,-93.27373,6,Central,Steven's Square - Loring Heights,3,3,Westminster,02/14/2019,10:21
+"3041 Garfield ave a,Minneapolis,MN",44.958534,-93.286464,10,Powderhorn,Whittier,3,3,Westminster,02/14/2019,10:22
+"4027 aldrich ave n,Minneapolis,MN",45.028459000000005,-93.289681,4,Camden,Webber - Camden,1,3,Westminster,02/14/2019,10:24
+"3419 Aldrich ave n ,Minneapolis,MN",45.01737,-93.289592,4,Camden,McKinley,1,3,Westminster,02/14/2019,10:25
+"1817 STEVENS AVE ,Minneapolis,MN",44.964487,-93.27529,6,Central,Steven's Square - Loring Heights,3,3,Westminster,02/14/2019,10:25
+"729 12th Avenue SE ,Minneapolis,MN",44.985273,-93.235929,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,10:26
+"2013 upton ave n,Minneapolis,MN",45.00009,-93.314901,5,Near North,Willard - Hay,1,3,Westminster,02/14/2019,10:26
+"213 3rd ave ne,Minneapolis,MN",44.990921,-93.259353,3,Northeast,St. Anthony West,2,3,Westminster,02/14/2019,10:26
+"3439 girard ave s,Minneapolis,MN",44.940062,-93.296812,10,Calhoun Isle,South Uptown,5,3,Westminster,02/14/2019,10:29
+"725 11TH AVE SE,Minneapolis,MN",44.985811,-93.237578,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,10:29
+"2927 Bryant ave n ,Minneapolis,MN",45.010332,-93.290798,5,Near North,Hawthorne,1,3,Westminster,02/14/2019,10:30
+"1227 Morgan Ave. N.,Minneapolis,MN",44.990548,-93.304827,5,Near North,Near - North,1,3,Westminster,02/14/2019,10:32
+"807 12th Avenue SE,Minneapolis,MN",44.985774,-93.235219,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,10:33
+"501 8TH AVE SE,Minneapolis,MN",44.985067,-93.24342,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,10:33
+"3037 18th Ave S,Minneapolis,MN",44.946993,-93.24840400000001,9,Powderhorn,Powderhorn Park,6,3,Westminster,02/14/2019,10:33
+"3800 Garfield Ave.,Minneapolis,MN",44.933968,-93.28726800000001,8,Southwest,King Field,5,3,Westminster,02/14/2019,10:34
+"3509 19th ave so,Minneapolis,MN",44.939124,-93.244515,9,Powderhorn,Corcoran,6,3,Westminster,02/14/2019,10:35
+"3253 girard ave s,Minneapolis,MN",44.943096000000004,-93.296782,10,Calhoun Isle,South Uptown,5,3,Westminster,02/14/2019,10:36
+"1611 34TH ST E,Minneapolis,MN",44.941214,-93.250486,9,Powderhorn,Powderhorn Park,6,3,Westminster,02/14/2019,10:37
+"521 12th ave s,Minneapolis,MN",44.970578,-93.254475,6,Central,Elliot Park,3,3,Westminster,02/14/2019,10:41
+"703 13th ave se,Minneapolis,MN",44.984190999999996,-93.235067,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,10:43
+"705 13th ave se,Minneapolis,MN",44.984266999999996,-93.23500899999999,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,10:43
+"1711 Stevens av s ,Minneapolis,MN",44.96586,-93.275295,6,Central,Steven's Square - Loring Heights,3,3,Westminster,02/14/2019,10:43
+"715 13th ave se,Minneapolis,MN",44.984621999999995,-93.23465300000001,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,10:44
+"907 6th st se,Minneapolis,MN",44.985248,-93.240414,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,10:45
+"1815 Stevens Ave ,Minneapolis,MN",44.9645,-93.27529,6,Central,Steven's Square - Loring Heights,3,3,Westminster,02/14/2019,10:45
+"215 8th ave se,Minneapolis,MN",44.982552,-93.24546099999999,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,10:46
+"815 13th ave se,Minneapolis,MN",44.985774,-93.234188,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,10:47
+"1339 Vincent avenue North,Minneapolis,MN",44.992714,-93.31626700000001,5,Near North,Willard - Hay,1,3,Westminster,02/14/2019,10:48
+"215 5th st ne,Minneapolis,MN",44.991614,-93.254835,3,Northeast,St. Anthony East,2,3,Westminster,02/14/2019,10:49
+"707 13th ave se,Minneapolis,MN",44.984343,-93.234951,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,10:50
+"815 Logan Ave., North,MN",44.986592,-93.303511,5,Near North,Near - North,1,3,Westminster,02/14/2019,10:50
+"711 thomas ave n,Minneapolis,MN",44.985434000000005,-93.313671,5,Near North,Willard - Hay,1,3,Westminster,02/14/2019,10:57
+"817 13th ave se,Minneapolis,MN",44.985381,-93.233948,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,10:57
+"3303 29th av s,Minneapolis,MN",44.943075,-93.229677,2,Longfellow,Longfellow,6,3,Westminster,02/14/2019,10:58
+"1835 43RD ST E,Minneapolis,MN",44.924944,-93.246818,12,Nokomis,Ericsson,6,3,Westminster,02/14/2019,11:00
+"3041 17th av s,Minneapolis,MN",44.946953,-93.249645,9,Powderhorn,Powderhorn Park,6,3,Westminster,02/14/2019,11:02
+"3237 girad,Minneapolis,MN",44.943532,-93.29682199999999,10,Calhoun Isle,South Uptown,5,3,Westminster,02/14/2019,11:03
+"2152 ne 4th ave,Minneapolis,MN",45.009858,-93.261868,1,Northeast,Holland,2,3,Westminster,02/14/2019,11:06
+"3429 Harriet ave S,Minneapolis,MN",44.940294,-93.285477,8,Powderhorn,Lyndale,5,3,Westminster,02/14/2019,11:07
+"844 34th st,Minneapolis,MN",44.94148,-93.290265,10,Calhoun Isle,South Uptown,5,3,Westminster,02/14/2019,11:08
+"1419 5th st ne,Minneapolis,MN",45.002516,-93.259989,3,Northeast,Sheridan,2,3,Westminster,02/14/2019,11:08
+"917 7th st se ,Minneapolis,MN",44.985843,-93.238718,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,11:10
+"1605 32nd st,Minneapolis,MN",44.944564,-93.250851,9,Powderhorn,Powderhorn Park,6,3,Westminster,02/14/2019,11:10
+"1227 Logan Ave. earth,Minneapolis,MN",44.990456,-93.303539,5,Near North,Near - North,1,3,Westminster,02/14/2019,11:10
+"639 Madison St ne,Minneapolis,MN",44.996193,-93.25344100000001,3,Northeast,St. Anthony East,2,3,Westminster,02/14/2019,11:11
+"2647 Irving Ave n,Minneapolis,MN",45.007414000000004,-93.29967099999999,5,Near North,Jordan,1,3,Westminster,02/14/2019,11:12
+"1605 Russell avenue North,Minneapolis,MN",44.995452,-93.311093,5,Near North,Willard - Hay,1,3,Westminster,02/14/2019,11:13
+"1315 5th st ne,Minneapolis,MN",45.001395,-93.259984,3,Northeast,Sheridan,2,3,Westminster,02/14/2019,11:14
+"2521 Irving ave n ,Minneapolis,MN",45.005297,-93.299743,5,Near North,Jordan,1,3,Westminster,02/14/2019,11:15
+"1517 SPRUCE PL,Minneapolis,MN",44.967171,-93.2805,7,Central,Loring Park,3,3,Westminster,02/14/2019,11:16
+"1701 Stevens av s ,Minneapolis,MN",44.966275,-93.275297,6,Central,Steven's Square - Loring Heights,3,3,Westminster,02/14/2019,11:18
+"1707 STEVENS AVE S,Minneapolis,MN",44.966029,-93.274941,6,Central,Steven's Square - Loring Heights,3,3,Westminster,02/14/2019,11:19
+"421 7th St. SE,Minneapolis,MN",44.988843,-93.246477,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,11:21
+"1421 5th st ne,Minneapolis,MN",45.00257,-93.260009,3,Northeast,Sheridan,2,3,Westminster,02/14/2019,11:21
+"3205 Fremont ave s,Minneapolis,MN",44.944458000000004,-93.295479,10,Calhoun Isle,South Uptown,5,3,Westminster,02/14/2019,11:22
+"213 3rd ave ne,Minneapolis,MN",44.990921,-93.259353,3,Northeast,St. Anthony West,2,3,Westminster,02/14/2019,11:23
+"2711 Bryant Ave n,Minneapolis,MN",45.008107,-93.290819,5,Near North,Hawthorne,1,3,Westminster,02/14/2019,11:24
+"1415 5th st ne,Minneapolis,MN",45.002388,-93.259988,3,Northeast,Sheridan,2,3,Westminster,02/14/2019,11:24
+"727 11th ave se,Minneapolis,MN",44.985821,-93.237571,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,11:24
+"1023 7th st SE ,Minneapolis,MN",44.985615,-93.23813,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,11:25
+"423 7th ST SE,Minneapolis,MN",44.988813,-93.24629,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,11:26
+"3341 Fremont ave s,Minneapolis,MN",44.941711,-93.295524,10,Calhoun Isle,South Uptown,5,3,Westminster,02/14/2019,11:27
+"3435 Harriet ,Minneapolis,MN",44.940108,-93.285381,8,Powderhorn,Lyndale,5,3,Westminster,02/14/2019,11:30
+"3025 30th ave so,Minneapolis,MN",44.94755,-93.228081,2,Longfellow,Longfellow,6,3,Westminster,02/14/2019,11:30
+"1005 7TH ST SE,Minneapolis,MN",44.985665000000004,-93.238259,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,11:30
+"1419 Russell avenue North,Minneapolis,MN",44.993938,-93.31109599999999,5,Near North,Willard - Hay,1,3,Westminster,02/14/2019,11:31
+"729 13th ave se,Minneapolis,MN",44.984953000000004,-93.23448499999999,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,11:33
+"1307 7th st se,Minneapolis,MN",44.984023,-93.23425999999999,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,11:34
+"1017 7TH ST SE,Minneapolis,MN",44.985637,-93.238187,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,11:34
+"3105 Emerson ave s,Minneapolis,MN",44.946284000000006,-93.294209,10,Calhoun Isle,South Uptown,5,3,Westminster,02/14/2019,11:35
+"1009 14th ave se,Minneapolis,MN",44.988314,-93.232362,2,University,Como,4,3,Westminster,02/14/2019,11:36
+"3055 14th Avenue South,Minneapolis,MN",44.946787,-93.254735,9,Powderhorn,Powderhorn Park,6,3,Westminster,02/14/2019,11:37
+"2321 queen ave n,Minneapolis,MN",45.002935,-93.30985600000001,5,Near North,Willard - Hay,1,3,Westminster,02/14/2019,11:37
+"1103 Newton Ave. N.,Minneapolis,MN",44.988999,-93.306001,5,Near North,Near - North,1,3,Westminster,02/14/2019,11:38
+"1025 7th st se,Minneapolis,MN",44.985607,-93.238112,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,11:38
+"3205 18th Ave S,Minneapolis,MN",44.944479,-93.24840400000001,9,Powderhorn,Powderhorn Park,6,3,Westminster,02/14/2019,11:40
+"3441 Harriet ,Minneapolis,MN",44.939916,-93.285327,8,Powderhorn,Lyndale,5,3,Westminster,02/14/2019,11:41
+"1019 7th st se,Minneapolis,MN",44.98563,-93.238169,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,11:42
+"3309 Emerson ave s,Minneapolis,MN",44.9426,-93.294159,10,Calhoun Isle,South Uptown,5,3,Westminster,02/14/2019,11:44
+"2417 Garfield av s ,Minneapolis,MN",44.958602,-93.286451,10,Powderhorn,Whittier,3,3,Westminster,02/14/2019,11:46
+"1405 6th st se,Minneapolis,MN",44.982409000000004,-93.23345,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,11:49
+"2527 california st ne,Minneapolis,MN",45.01403,-93.268662,1,Northeast,Marshall Terrace,2,3,Westminster,02/14/2019,11:49
+"1127 6th st ne,Minneapolis,MN",44.999547,-93.258599,3,Northeast,Sheridan,2,3,Westminster,02/14/2019,11:51
+"845 10th ave n,Minneapolis,MN",44.970178999999995,-93.25949200000001,6,Central,Elliot Park,3,3,Westminster,02/14/2019,11:53
+"1305 madison st ne,Minneapolis,MN",45.001773,-93.253434,1,Northeast,Logan Park,2,3,Westminster,02/14/2019,11:55
+"3805 pillsbury ave ,Minneapolis,MN",44.933854,-93.28109599999999,8,Southwest,King Field,5,3,Westminster,02/14/2019,11:55
+"717 9th Ave SE ,Minneapolis,MN",44.98686,-93.240199,3,University,Marcy Holmes,4,3,Westminster,02/14/2019,11:55
+"905 Queen avenue North,Minneapolis,MN",44.987171999999994,-93.310034,5,Near North,Willard - Hay,1,3,Westminster,02/14/2019,11:55
+"3121 Colfax ave n ,Minneapolis,MN",45.012606,-93.291802,5,Near North,Hawthorne,1,3,Westminster,02/14/2019,11:57
+"411 15th ave ne,Minneapolis,MN",45.002978000000006,-93.261415,3,Northeast,Sheridan,2,3,Westminster,02/14/2019,11:57
+"2543 GRAFILELD AVE S ,Minneapolis,MN",44.955796,-93.286448,10,Powderhorn,Whittier,3,3,Westminster,02/14/2019,11:57
+"1207 Fremont Ave n,Minneapolis,MN",44.989775,-93.294191,5,Near North,Near - North,1,3,Westminster,02/14/2019,11:58
+"3021 Colfax ave n ,Minneapolis,MN",45.012097,-93.291881,5,Near North,Hawthorne,1,3,Westminster,02/14/2019,12:00
+"1915 30 1/2 st e,Minneapolis,MN",44.947818,-93.326284,13,Calhoun Isle,West Calhoun,3,3,Westminster,02/14/2019,12:03
+"849 19th ave se,Minneapolis,MN",44.984916,-93.22594699999999,2,University,Como,4,3,Westminster,02/14/2019,12:04
+"3105 38th av s,Minneapolis,MN",44.946552000000004,-93.217579,2,Longfellow,Cooper,6,3,Westminster,02/14/2019,12:07
+"989 17th Ave se,Minneapolis,MN",44.98746,-93.228883,2,University,Como,4,3,Westminster,02/14/2019,12:08
+"3021 29th av s,Minneapolis,MN",44.947559000000005,-93.229671,2,Longfellow,Longfellow,6,3,Westminster,02/14/2019,12:10
+"2900 Harriet ,Minneapolis,MN",44.950146000000004,-93.285916,10,Powderhorn,Whittier,3,3,Westminster,02/14/2019,12:10
+"855 Gertrude brown place,Minneapolis,MN",44.985336,-93.291326,5,Near North,Sumner - Glenwood,1,3,Westminster,02/14/2019,12:14
+"2015 Garfield ave s,Minneapolis,MN",44.911913,-93.28671999999999,11,Southwest,Tangletown,5,3,Westminster,02/14/2019,12:15
+"3505 39th st,Minneapolis,MN",44.932206,-93.22131800000001,12,Longfellow,Howe,6,3,Westminster,02/14/2019,12:17
+"227 12th ave ne,Minneapolis,MN",45.000031,-93.265097,3,Northeast,Sheridan,2,3,Westminster,02/14/2019,12:20
+"2821 33rd st,Minneapolis,MN",44.95118,-93.224017,2,Longfellow,Longfellow,4,3,Westminster,02/14/2019,12:20
+"925 17th ave se,Minneapolis,MN",44.985549,-93.228922,2,University,Como,4,3,Westminster,02/14/2019,12:20
+"315 26 1/2 Ave Ne,Minneapolis,MN",45.015719,-93.26445600000001,1,Northeast,Marshall Terrace,2,3,Westminster,02/14/2019,12:25
+"3309 humboldt ave n,Minneapolis,MN",45.015293,-93.298411,4,Camden,Folwell,1,3,Westminster,02/14/2019,12:25
+"2003 GARFIELD AVE S,Minneapolis,MN",44.962584,-93.28644,10,Powderhorn,Whittier,3,3,Westminster,02/14/2019,12:25
+"3323 Irving avenue North,Minneapolis,MN",45.01573,-93.299681,4,Camden,Folwell,1,3,Westminster,02/14/2019,12:27
+"2545 GARFIELD AVE S ,Minneapolis,MN",44.955724,-93.286477,10,Powderhorn,Whittier,3,3,Westminster,02/14/2019,12:28
+"2351 GARFIELD AVE S,Minneapolis,MN",44.959231,-93.286462,10,Powderhorn,Whittier,3,3,Westminster,02/14/2019,12:28
+"3209 DuPont Ave S ,Minneapolis,MN",44.944371999999994,-93.292968,10,Calhoun Isle,South Uptown,5,3,Westminster,02/14/2019,12:29
+"4127 Bryant ave n ,Minneapolis,MN",45.030539000000005,-93.290948,4,Camden,Webber - Camden,1,3,Westminster,02/14/2019,12:29
+"3413 Emerson ave s,Minneapolis,MN",44.940804,-93.294185,10,Calhoun Isle,South Uptown,5,3,Westminster,02/14/2019,12:29
+"2107 3rd st ne,Minneapolis,MN",45.009485,-93.264351,3,Northeast,Bottineau,2,3,Westminster,02/14/2019,12:30
+"3311 34th ave so,Minneapolis,MN",44.942783,-93.222669,2,Longfellow,Longfellow,6,3,Westminster,02/14/2019,12:31
+"3111 pillsbury ave ,Minneapolis,MN",44.946226,-93.280946,8,Powderhorn,Lyndale,5,3,Westminster,02/14/2019,12:34
+"2939 Bryant ave n ,Minneapolis,MN",45.010661,-93.290796,5,Near North,Hawthorne,1,3,Westminster,02/14/2019,12:34
+"217 19th ave ne,Minneapolis,MN",45.007258,-93.265916,3,Northeast,Bottineau,2,3,Westminster,02/14/2019,12:35
+"1069 24TH AVE SE,Minneapolis,MN",44.990196999999995,-93.219234,1,University,Como,4,3,Westminster,02/14/2019,12:36
+"1917 3rd st ne,Minneapolis,MN",45.008148,-93.26434300000001,3,Northeast,Bottineau,2,3,Westminster,02/14/2019,12:39
+"1088 24TH AVE SE,Minneapolis,MN",44.990757,-93.218748,1,University,Como,4,3,Westminster,02/14/2019,12:40
+"1421 Newton ave n,Minneapolis,MN",44.993776000000004,-93.306,5,Near North,Willard - Hay,1,3,Westminster,02/14/2019,12:40
+"3113 pills bury ,Minneapolis,MN",44.946153,-93.28094499999999,8,Powderhorn,Lyndale,5,3,Westminster,02/14/2019,12:43
+"833 18Th Ave Ne,Minneapolis,MN",45.005939,-93.250361,1,Northeast,Logan Park,2,3,Westminster,02/14/2019,12:44
+"337 14th ave ne,Minneapolis,MN",45.002165000000005,-93.262687,3,Northeast,Sheridan,2,3,Westminster,02/14/2019,12:48
+"2609 Garfield av s,Minneapolis,MN",44.955104,-93.286487,10,Powderhorn,Whittier,3,3,Westminster,02/14/2019,12:48
+"1055 20th ave se,Minneapolis,MN",44.989437,-93.224521,1,University,Como,4,3,Westminster,02/14/2019,12:49
+"2015 Grand ave s,Minneapolis,MN",44.962181,-93.283878,10,Powderhorn,Whittier,3,3,Westminster,02/14/2019,12:49
+"2619 dupont Ave n ,Minneapolis,MN",45.006581,-93.293412,5,Near North,Hawthorne,1,3,Westminster,02/14/2019,12:51
+"3725 Colfax ave s,Minneapolis,MN",44.935069,-93.291779,10,Southwest,East Harriet,5,3,Westminster,02/14/2019,12:52
+"1925 Aldrich Ave S,Minneapolis,MN",44.963316,-93.28913,10,Calhoun Isle,Lowry Hill East,3,3,Westminster,02/14/2019,12:52
+"1061 23rd Ave se,Minneapolis,MN",44.989959000000006,-93.220568,1,University,Como,4,3,Westminster,02/14/2019,12:53
+"1921 jackson st ne,Minneapolis,MN",45.008632,-93.248796,1,Northeast,Holland,2,3,Westminster,02/14/2019,12:53
+"2409 dupont Ave n,Minneapolis,MN",45.004145,-93.29289200000001,5,Near North,Hawthorne,1,3,Westminster,02/14/2019,12:53
+"2737 GARFIELD AVE S ,Minneapolis,MN",44.952526,-93.28649200000001,10,Powderhorn,Whittier,3,3,Westminster,02/14/2019,12:55
+"3505 Emerson ave s,Minneapolis,MN",44.939252,-93.29423299999999,10,Calhoun Isle,South Uptown,5,3,Westminster,02/14/2019,12:58
+"2207 quincy st ne,Minneapolis,MN",45.009947,-93.250917,1,Northeast,Holland,2,3,Westminster,02/14/2019,12:59
+"1095 23rd ave se,Minneapolis,MN",44.990938,-93.220614,1,University,Como,4,3,Westminster,02/14/2019,13:00
+"3505 humboldt ave n ,Minneapolis,MN",45.018832,-93.298378,4,Camden,Folwell,1,3,Westminster,02/14/2019,13:03
+"315 26 1/2 Ave Ne,Minneapolis,MN",45.015719,-93.26445600000001,1,Northeast,Marshall Terrace,2,3,Westminster,02/14/2019,13:03
+"3955 Emerson ave n ,Minneapolis,MN",45.027353999999995,-93.29477299999999,4,Camden,Webber - Camden,1,3,Westminster,02/14/2019,13:03
+"2107 Pleasent ave ,Minneapolis,MN",44.961595,-93.282496,10,Powderhorn,Whittier,3,3,Westminster,02/14/2019,13:07
+"2511 cole ave se ,Minneapolis,MN",44.98522,-93.217161,2,University,Como,4,3,Westminster,02/14/2019,13:08
+"1105 24th ave se,Minneapolis,MN",44.991175,-93.21932199999999,1,University,Como,4,3,Westminster,02/14/2019,13:08
+"4523 camden ave n ,Minneapolis,MN",45.037415,-93.289128,4,Camden,Lind - Bohanon,1,3,Westminster,02/14/2019,13:09
+"837 19th ave se,Minneapolis,MN",44.984578000000006,-93.225895,2,University,Como,4,3,Westminster,02/14/2019,13:12
+"3147 pillabury ave ,Minneapolis,MN",44.945199,-93.28094,8,Powderhorn,Lyndale,5,3,Westminster,02/14/2019,13:12
+"3007 45th ave s,Minneapolis,MN",44.947982,-93.208427,2,Longfellow,Cooper,6,3,Westminster,02/14/2019,13:12
+"3253 14th ave s,Minneapolis,MN",44.943166999999995,-93.254707,9,Powderhorn,Powderhorn Park,6,3,Westminster,02/14/2019,13:13
+"3443 41st av s,Minneapolis,MN",44.940027,-93.213771,12,Longfellow,Howe,6,3,Westminster,02/14/2019,13:16
+"3011 36th st e,Minneapolis,MN",44.937611,-93.22813599999999,12,Longfellow,Howe,6,3,Westminster,02/14/2019,13:18
+"3443 Newton avenue North,Minneapolis,MN",45.018065,-93.305999,4,Camden,Folwell,1,3,Westminster,02/14/2019,13:19
+"2619 Garfield av s ,Minneapolis,MN",44.954871000000004,-93.286496,10,Powderhorn,Whittier,3,3,Westminster,02/14/2019,13:20
+"2949 GARFIELD ,Minneapolis,MN",44.948782,-93.286475,10,Powderhorn,Whittier,3,3,Westminster,02/14/2019,13:21
+"3815 pills bury ,Minneapolis,MN",44.933634999999995,-93.28109599999999,8,Southwest,King Field,5,3,Westminster,02/14/2019,13:24
+"1043 17th ave se,Minneapolis,MN",44.989061,-93.228491,1,University,Como,4,3,Westminster,02/14/2019,13:25
+"915 16th Ave. N.,Minneapolis,MN",44.995048,-93.291302,5,Near North,Near - North,1,3,Westminster,02/14/2019,13:26
+"3529 Aldrich ave s,Minneapolis,MN",44.938577,-93.289194,10,Calhoun Isle,South Uptown,5,3,Westminster,02/14/2019,13:27
+"899 23rd ave se,Minneapolis,MN",44.986695000000005,-93.220614,2,University,Como,4,3,Westminster,02/14/2019,13:28
+"5039 dupont Ave S ,Minneapolis,MN",44.91111,-93.29307299999999,13,Southwest,Lynnhurst,5,3,Westminster,02/14/2019,13:31
+"2907 newton ave n,Minneapolis,MN",45.009896000000005,-93.30598,5,Near North,Jordan,1,3,Westminster,02/14/2019,13:31
+"2735 Garfield Ave S,Minneapolis,MN",44.952589,-93.28643199999999,10,Powderhorn,Whittier,3,3,Westminster,02/14/2019,13:31
+"2525 Harriet Ave s,Minneapolis,MN",44.956306,-93.28524200000001,10,Powderhorn,Whittier,3,3,Westminster,02/14/2019,13:32
+"2409 Quincy st ne,Minneapolis,MN",45.012576,-93.250566,1,Northeast,Holland,2,3,Westminster,02/14/2019,13:33
+"5037 dupont Ave n,Minneapolis,MN",45.0469,-93.294373,4,Camden,Lind - Bohanon,1,3,Westminster,02/14/2019,13:34
+"2305 GARFIELD AVE S,Minneapolis,MN",44.959786,-93.286449,10,Powderhorn,Whittier,3,3,Westminster,02/14/2019,13:35
+"2607 HARRIET AVE S,Minneapolis,MN",44.955415,-93.284819,10,Powderhorn,Whittier,3,3,Westminster,02/14/2019,13:37
+"1019 24th ave se,Minneapolis,MN",44.988572,-93.219289,1,University,Como,4,3,Westminster,02/14/2019,13:38
+"2203 taylor st ne,Minneapolis,MN",45.010078,-93.243492,1,Northeast,Windom Park,2,3,Westminster,02/14/2019,13:39
+"1075 27th Ave se,Minneapolis,MN",44.990393,-93.215437,1,University,Como,4,3,Westminster,02/14/2019,13:40
+"2417 Polk st ne,Minneapolis,MN",45.012744,-93.24525,1,Northeast,Windom Park,2,3,Westminster,02/14/2019,13:43
+"5043 44th ave S,Minneapolis,MN",44.911179,-93.209787,12,Nokomis,Minnehaha,6,3,Westminster,02/14/2019,13:44
+"5737 sander dr,Minneapolis,MN",44.898955,-93.224959,11,Nokomis,Wenonah,6,3,Westminster,02/14/2019,13:46
+"5045 Aldrich ave n ,Minneapolis,MN",45.047376,-93.290511,4,Camden,Lind - Bohanon,1,3,Westminster,02/14/2019,13:47
+"2303 Quincy St ne,Minneapolis,MN",45.011111,-93.250578,1,Northeast,Holland,2,3,Westminster,02/14/2019,13:49
+"2209 GRAND AVE S,Minneapolis,MN",44.96048,-93.283918,10,Powderhorn,Whittier,3,3,Westminster,02/14/2019,13:49
+"4735 6th st n ,Minneapolis,MN",45.04132,-93.287876,4,Camden,Lind - Bohanon,1,3,Westminster,02/14/2019,13:50
+"1411 16th Ave. N.,Minneapolis,MN",44.995044,-93.298679,5,Near North,Near - North,1,3,Westminster,02/14/2019,13:51
+"481 25th ave se,Minneapolis,MN",44.975788,-93.218655,2,University,Prospect Park - East River Road,4,3,Westminster,02/14/2019,13:54
+"1835 taylor st NE,Minneapolis,MN",45.007158000000004,-93.243495,1,Northeast,Windom Park,2,3,Westminster,02/14/2019,13:55
+"1717 polk st ne,Minneapolis,MN",45.005505,-93.244516,1,Northeast,Northeast Park,2,3,Westminster,02/14/2019,14:02
+"4239 Queen avenue North,Minneapolis,MN",45.032505,-93.31008100000001,4,Camden,Victory,1,3,Westminster,02/14/2019,14:13
+"3817 39th st e ,Minneapolis,MN",44.932235999999996,-93.217322,12,Longfellow,Howe,6,3,Westminster,02/14/2019,14:13
+"2535 Irving Ave n,Minneapolis,MN",45.00575,-93.299708,5,Near North,Jordan,1,3,Westminster,02/14/2019,14:18
+"925 26TH AVE SE,Minneapolis,MN",44.987423,-93.21676,2,University,Como,4,3,Westminster,02/14/2019,14:19
+"2009 Pillsbury Ave S,Minneapolis,MN",44.962315999999994,-93.280834,10,Powderhorn,Whittier,3,3,Westminster,02/14/2019,14:19
+"4851 dupont ave n ,Minneapolis,MN",45.043543,-93.29434300000001,4,Camden,Lind - Bohanon,1,3,Westminster,02/14/2019,14:21
+"3905 pillbury ave ,Minneapolis,MN",44.932091,-93.28113,8,Southwest,King Field,5,3,Westminster,02/14/2019,14:21
+"5041 dupont ave n ,Minneapolis,MN",45.047028000000005,-93.294368,4,Camden,Lind - Bohanon,1,3,Westminster,02/14/2019,14:23
+"1123 25th ave ,Minneapolis,MN",45.004655,-93.29544,5,Near North,Jordan,1,3,Westminster,02/14/2019,14:23
+"2511 queen ave n,Minneapolis,MN",45.004689,-93.309493,5,Near North,Willard - Hay,1,3,Westminster,02/14/2019,14:24
+"1088 26TH AVE SE,Minneapolis,MN",44.990759000000004,-93.216104,1,University,Como,4,3,Westminster,02/14/2019,14:27
+"421 18th Ave. N.,Minneapolis,MN",44.997233,-93.285397,5,Near North,Near - North,1,3,Westminster,02/14/2019,14:27
+"155 26th ave se,Minneapolis,MN",44.971470000000004,-93.221132,2,University,Prospect Park - East River Road,4,3,Westminster,02/14/2019,14:27
+"2723 GRAND AVE S ,Minneapolis,MN",44.95279,-93.28400500000001,10,Powderhorn,Whittier,3,3,Westminster,02/14/2019,14:28
+"2401 buchannan st ne,Minneapolis,MN",45.012383,-93.239372,1,Northeast,Windom Park,2,3,Westminster,02/14/2019,14:31
+"1115 28th ave ne,Minneapolis,MN",45.018776,-93.242899,1,Northeast,Audubon Park,2,3,Westminster,02/14/2019,14:33
+"607 32nd st w,Minneapolis,MN",44.944833,-93.267286,9,Powderhorn,Central,5,3,Westminster,02/14/2019,14:49
+"53 Arthur ave se,Minneapolis,MN",44.968736,-93.216387,2,University,Prospect Park - East River Road,4,3,Westminster,02/14/2019,14:51
+"1111 28th ave ne,Minneapolis,MN",45.01877,-93.243096,1,Northeast,Audubon Park,2,3,Westminster,02/14/2019,14:54
+"1007 6th street ,Minneapolis,MN",44.972041,-93.257722,3,Central,Elliot Park,3,3,Westminster,02/14/2019,14:54
+"2651 dupont Ave n,Minneapolis,MN",45.007487,-93.293356,5,Near North,Hawthorne,1,3,Westminster,02/14/2019,14:59
+"2633 Colfax Ave n,Minneapolis,MN",45.006948,-93.292077,5,Near North,Hawthorne,1,3,Westminster,02/14/2019,15:02
+"2623 36th avenue North,Minneapolis,MN",45.020302,-93.31440500000001,4,Camden,Cleveland,1,3,Westminster,02/14/2019,15:06
+"5113 Fremont ave n ,Minneapolis,MN",45.048066,-93.296961,4,Camden,Lind - Bohanon,1,3,Westminster,02/14/2019,15:06
+"5045 Fremont ave n ,Minneapolis,MN",45.047155,-93.29693499999999,4,Camden,Lind - Bohanon,1,3,Westminster,02/14/2019,15:09
+"2829 GRAND AVE S,Minneapolis,MN",44.951142,-93.28396500000001,10,Powderhorn,Whittier,3,3,Westminster,02/14/2019,15:09
+"153 26th ave se,Minneapolis,MN",44.971451,-93.221147,2,University,Prospect Park - East River Road,4,3,Westminster,02/14/2019,15:11
+"3142 Garfield ave S,Minneapolis,MN",44.94511,-93.287226,8,Powderhorn,Lyndale,5,3,Westminster,02/14/2019,15:11
+"2803 PLEASANT AVE S,Minneapolis,MN",44.951782,-93.282771,10,Powderhorn,Whittier,3,3,Westminster,02/14/2019,15:12
+"1829 16th Ave. N.,Minneapolis,MN",44.995217,-93.30354399999999,5,Near North,Willard - Hay,1,3,Westminster,02/14/2019,15:14
+"311 22nd ave ne,Minneapolis,MN",45.010061,-93.263862,3,Northeast,Bottineau,2,3,Westminster,02/14/2019,15:28
+"3129 E 31st st ,Minneapolis,MN",44.9467,-93.225967,2,Longfellow,Longfellow,6,3,Westminster,02/14/2019,15:31
+"3555 Elliot Avenue South,Minneapolis,MN",44.937919,-93.260968,9,Powderhorn,Powderhorn Park,6,3,Westminster,02/14/2019,15:32
+"3817 STANDISH AVE S ,Minneapolis,MN",44.933547,-93.23940999999999,12,Powderhorn,Standish,6,3,Westminster,02/14/2019,15:34
+"3535 Emerson avenue North,Minneapolis,MN",45.019577000000005,-93.294688,4,Camden,Folwell,1,3,Westminster,02/14/2019,15:37
+"5701 sander Drive,Minneapolis,MN",44.899198,-93.224221,11,Nokomis,Wenonah,6,3,Westminster,02/14/2019,15:38
+"2635 dupont Ave n,Minneapolis,MN",45.007013,-93.293341,5,Near North,Hawthorne,1,3,Westminster,02/14/2019,15:49
+"311 25th ave n ,Minneapolis,MN",45.0048,-93.28355,5,Near North,Hawthorne,1,3,Westminster,02/14/2019,15:52

@@ -1,0 +1,806 @@
+Location,Latitude,Longitude,Ward,Community,Neighborhood,Tow_Zone,Day,Emergency,Date,Time
+"2900 LYNDALE AVE N,Minneapolis,MN",45.009733000000004,-93.287689,5,Near North,Hawthorne,1,1,Upton,02/07/2019,21:26
+"3300-3399 Lyndale Ave N,Minneapolis,MN",45.015031,-93.287841,4,Camden,McKinley,1,1,Upton,02/07/2019,21:40
+"1531 COMO AVE SE,Minneapolis,MN",44.988049,-93.229661,1,University,Como,4,1,Upton,02/07/2019,21:46
+"3499 Lyndale Ave n,Minneapolis,MN",45.01849,-93.288049,4,Camden,McKinley,1,1,Upton,02/07/2019,21:51
+"3900 lyndale ave n ,Minneapolis,MN",45.025889,-93.287685,4,Camden,Webber - Camden,1,1,Upton,02/07/2019,22:00
+"4199 Lyndale ave n,Minneapolis,MN",45.031534,-93.288053,4,Camden,Webber - Camden,1,1,Upton,02/07/2019,22:13
+"3806 28th ave S,Minneapolis,MN",44.933784,-93.232479,12,Powderhorn,Standish,6,1,Upton,02/07/2019,22:19
+"2100 Portland Avenue,Minneapolis,MN",44.961733,-93.268096,6,Phillips,Ventura Village,3,1,Upton,02/07/2019,22:19
+"3500 block of 3rd ave s,Minneapolis,MN",44.939440000000005,-93.273078,9,Powderhorn,Central,5,1,Upton,02/07/2019,22:21
+"1712 Como Ave SE ,Minneapolis,MN",44.987596,-93.22799300000001,2,University,Como,4,1,Upton,02/07/2019,22:25
+"1601 COMO AVE SE,Minneapolis,MN",44.987983,-93.229236,1,University,Como,4,1,Upton,02/07/2019,22:29
+"3205 3RD Avenue South ,Minneapolis,MN",44.944666,-93.27252800000001,9,Powderhorn,Central,5,1,Upton,02/07/2019,22:30
+"3900 lyndale ave n,Minneapolis,MN",45.025889,-93.287685,4,Camden,Webber - Camden,1,1,Upton,02/07/2019,22:31
+"1500 blk portland ave s,Minneapolis,MN",44.968047999999996,-93.267661,6,Central,Elliot Park,3,1,Upton,02/07/2019,22:34
+"3900 BLOCK LYNDALE AVE N,Minneapolis,MN",45.025889,-93.287685,4,Camden,Webber - Camden,1,1,Upton,02/07/2019,22:37
+"331 UNIVERSITY AVE SE,Minneapolis,MN",44.985443,-93.250665,3,University,Marcy Holmes,4,1,Upton,02/07/2019,22:38
+"830 9th St se,Minneapolis,MN",44.988562,-93.240606,3,University,Marcy Holmes,4,1,Upton,02/07/2019,22:42
+"1500 BLOCK PORTLAND AVE S,Minneapolis,MN",44.968047999999996,-93.267661,6,Central,Elliot Park,3,1,Upton,02/07/2019,22:43
+"1500 BLOCK PORTLAND AVE S,Minneapolis,MN",44.968047999999996,-93.267661,6,Central,Elliot Park,3,1,Upton,02/07/2019,22:44
+"1500 BLOCK PORTLAND AVE S,Minneapolis,MN",44.968047999999996,-93.267661,6,Central,Elliot Park,3,1,Upton,02/07/2019,22:45
+"3515 E 50TH ST ,Minneapolis,MN",44.912614000000005,-93.221362,12,Nokomis,Minnehaha,6,1,Upton,02/07/2019,22:47
+"415 1st st n,Minneapolis,MN",44.987156,-93.27210500000001,3,Central,North Loop,1,1,Upton,02/07/2019,22:52
+"578 1st st n,Minneapolis,MN",44.989016,-93.273608,3,Central,North Loop,1,1,Upton,02/07/2019,22:55
+"1400-1499 PORTLAND AVE,Minneapolis,MN",44.968714,-93.268006,7,Central,Elliot Park,3,1,Upton,02/07/2019,22:55
+"1100 Como Ave se,Minneapolis,MN",44.987643,-93.235449,2,University,Como,4,1,Upton,02/07/2019,22:58
+"2803 Central Ave Ne,Minneapolis,MN",45.01905,-93.24674,1,Northeast,Audubon Park,2,1,Upton,02/07/2019,22:59
+"3520 E 54TH ST ,Minneapolis,MN",44.905378000000006,-93.221343,12,Nokomis,Minnehaha,6,1,Upton,02/07/2019,23:04
+"1424 Quincy St NE,Minneapolis,MN",45.002774,-93.251492,1,Northeast,Logan Park,2,1,Upton,02/07/2019,23:06
+"618 9TH ST SE,Minneapolis,MN",44.98942,-93.24254,3,University,Marcy Holmes,4,1,Upton,02/07/2019,23:07
+"1350 Lasalle ave,Minneapolis,MN",44.969955,-93.279332,7,Central,Loring Park,3,1,Upton,02/07/2019,23:07
+"2700 Block of Johnson,Minneapolis,MN",44.972239,-93.282834,7,Central,Loring Park,3,1,Upton,02/07/2019,23:09
+"1300 lasalle AVE S,Minneapolis,MN",44.970601,-93.279336,7,Central,Loring Park,3,1,Upton,02/07/2019,23:10
+"2300-2399 EMERSON AVE N,Minneapolis,MN",45.002618,-93.294106,5,Near North,Jordan,1,1,Upton,02/07/2019,23:12
+"5705 34th av s,Minneapolis,MN",44.899829,-93.222575,12,Nokomis,Morris Park,6,1,Upton,02/07/2019,23:15
+"2116 como ave se,Minneapolis,MN",44.987674,-93.222065,2,University,Como,4,1,Upton,02/07/2019,23:16
+"4020 E 54TH ST ,Minneapolis,MN",44.905373,-93.214966,12,Nokomis,Morris Park,6,1,Upton,02/07/2019,23:17
+"8th univ ave se,Minneapolis,MN",44.982807,-93.24503299999999,3,University,Marcy Holmes,4,1,Upton,02/07/2019,23:18
+"4030 Bryant ave n ,Minneapolis,MN",45.028585,-93.290367,4,Camden,Webber - Camden,1,1,Upton,02/07/2019,23:19
+"5349 34th av s,Minneapolis,MN",44.9058,-93.222606,12,Nokomis,Minnehaha,6,1,Upton,02/07/2019,23:19
+"100 grant st w ,Minneapolis,MN",44.969856,-93.280709,7,Central,Loring Park,3,1,Upton,02/07/2019,23:20
+"1100-1299 Tyler st Ne,Minneapolis,MN",45.001104999999995,-93.245566,1,Northeast,Northeast Park,2,1,Upton,02/07/2019,23:20
+"5637 34th ave so,Minneapolis,MN",44.900589000000004,-93.222643,12,Nokomis,Morris Park,6,1,Upton,02/07/2019,23:21
+"600 Block of Monroe St NE,Minneapolis,MN",44.995111,-93.252426,3,Northeast,St. Anthony East,2,1,Upton,02/07/2019,23:22
+"3838 Bryant ave n ,Minneapolis,MN",45.025084,-93.29032099999999,4,Camden,Webber - Camden,1,1,Upton,02/07/2019,23:25
+"1954 Portland av s,Minneapolis,MN",44.96287,-93.268043,6,Phillips,Ventura Village,3,1,Upton,02/07/2019,23:26
+"1350 Lasalle ave,Minneapolis,MN",44.969955,-93.279332,7,Central,Loring Park,3,1,Upton,02/07/2019,23:34
+"300 Blk of 13th ave NE,Minneapolis,MN",45.000694,-93.26444000000001,3,Northeast,Sheridan,2,1,Upton,02/07/2019,23:34
+"1350 BLOCK LASALLE AVE S,Minneapolis,MN",44.969955,-93.279332,7,Central,Loring Park,3,1,Upton,02/07/2019,23:34
+"800 Penn Ave n,Minneapolis,MN",44.986245000000004,-93.307974,5,Near North,Near - North,1,1,Upton,02/07/2019,23:38
+"1823 31st,Minneapolis,MN",44.946407,-93.247033,9,Powderhorn,Corcoran,6,1,Upton,02/07/2019,23:40
+"1193 Como Ave Se,Minneapolis,MN",44.988002,-93.23432,2,University,Como,4,1,Upton,02/07/2019,23:41
+"700 Penn Ave n,Minneapolis,MN",44.98526,-93.307979,5,Near North,Near - North,1,1,Upton,02/07/2019,23:41
+"3605 e 42nd st,Minneapolis,MN",44.926768,-93.220012,12,Longfellow,Hiawatha,6,1,Upton,02/07/2019,23:42
+"1823 31st,Minneapolis,MN",44.946407,-93.247033,9,Powderhorn,Corcoran,6,1,Upton,02/07/2019,23:42
+"1700 blk portland ave s,Minneapolis,MN",44.966266,-93.267661,6,Central,Elliot Park,3,1,Upton,02/07/2019,23:43
+"3017 44th Street East,Minneapolis,MN",44.923322999999996,-93.244844,12,Nokomis,Ericsson,6,1,Upton,02/07/2019,23:46
+"2200 blaisdell ,Minneapolis,MN",44.960681,-93.280064,10,Powderhorn,Whittier,3,1,Upton,02/07/2019,23:48
+"1900 blk portland ave s,Minneapolis,MN",44.963803999999996,-93.267981,6,Phillips,Ventura Village,3,1,Upton,02/07/2019,23:48
+"3400-3499 FREMONT AVE N,Minneapolis,MN",45.016914,-93.29531,4,Camden,Folwell,1,1,Upton,02/07/2019,23:49
+"1500 block of LaSalle Ave ,Minneapolis,MN",44.967451000000004,-93.279534,7,Central,Loring Park,3,1,Upton,02/07/2019,23:49
+"3542 3rd Avenue South,Minneapolis,MN",44.93822,-93.273121,9,Powderhorn,Central,5,1,Upton,02/07/2019,23:51
+"800 block penn ave n ,Minneapolis,MN",44.986245000000004,-93.307974,5,Near North,Near - North,1,1,Upton,02/07/2019,23:53
+"4022 E 54TH ST ,Minneapolis,MN",44.905373,-93.21494100000001,12,Nokomis,Morris Park,6,1,Upton,02/07/2019,23:56
+"800 block penn ave n ,Minneapolis,MN",44.986245000000004,-93.307974,5,Near North,Near - North,1,1,Upton,02/07/2019,23:59
+"199 grant st w,Minneapolis,MN",44.969854999999995,-93.28083199999999,7,Central,Loring Park,3,1,Upton,02/08/2019,00:01
+"1700 Lasalle AVE S,Minneapolis,MN",44.966364,-93.27933399999999,7,Central,Loring Park,3,1,Upton,02/08/2019,00:02
+"1700 LASALLE AV S,Minneapolis,MN",44.966364,-93.27933399999999,7,Central,Loring Park,3,1,Upton,02/08/2019,00:02
+"600 BLOCK Delaware ave se,Minneapolis,MN",44.972551,-93.22872199999999,2,University,University of Minnesota,4,1,Upton,02/08/2019,00:03
+"00 Block of 13th ave ne,Minneapolis,MN",44.999181,-93.271564,3,Northeast,Sheridan,2,1,Upton,02/08/2019,00:03
+"1350 lasalle Ave s,Minneapolis,MN",44.969955,-93.279332,7,Central,Loring Park,3,1,Upton,02/08/2019,00:05
+"1599 LaSalle ave,Minneapolis,MN",44.96607,-93.27889,7,Central,Loring Park,3,1,Upton,02/08/2019,00:06
+"1700 Penn ave n,Minneapolis,MN",44.996584999999996,-93.307845,5,Near North,Willard - Hay,1,1,Upton,02/08/2019,00:08
+"200 block of 13th ave,Minneapolis,MN",45.000911,-93.26615600000001,3,Northeast,Sheridan,2,1,Upton,02/08/2019,00:12
+"2822 32ND ST E,Minneapolis,MN",44.944965,-93.231239,2,Longfellow,Longfellow,6,1,Upton,02/08/2019,00:12
+"1400 lasalle Ave s,Minneapolis,MN",44.968778,-93.27933399999999,7,Central,Loring Park,3,1,Upton,02/08/2019,00:13
+"3200 Penn Ave n,Minneapolis,MN",45.013599,-93.308079,4,Camden,Folwell,1,1,Upton,02/08/2019,00:16
+"3700 BLOCK 44TH ST E,Minneapolis,MN",44.92277,-93.32653499999999,13,Southwest,Linden Hills,5,1,Upton,02/08/2019,00:16
+"3800 fremont ave n,Minneapolis,MN",45.024124,-93.295248,4,Camden,Webber - Camden,1,1,Upton,02/08/2019,00:20
+"2400 blaisdell Ave ,Minneapolis,MN",44.958876000000004,-93.280113,10,Powderhorn,Whittier,3,1,Upton,02/08/2019,00:21
+"2221 E 31ST ST,Minneapolis,MN",44.946405,-93.23956700000001,9,Powderhorn,Corcoran,6,1,Upton,02/08/2019,00:21
+"3600 fremont ave n,Minneapolis,MN",45.020581,-93.295278,4,Camden,Folwell,1,1,Upton,02/08/2019,00:22
+"2400 blaisdell ,Minneapolis,MN",44.958876000000004,-93.280113,10,Powderhorn,Whittier,3,1,Upton,02/08/2019,00:22
+"801 university ave SE,Minneapolis,MN",44.982941,-93.244461,3,University,Marcy Holmes,4,1,Upton,02/08/2019,00:23
+"399 WALNUT ST SE,Minneapolis,MN",44.972551,-93.22868000000001,2,University,University of Minnesota,4,1,Upton,02/08/2019,00:23
+"315 15TH ST W,Minneapolis,MN",44.967553,-93.283101,7,Central,Loring Park,3,1,Upton,02/08/2019,00:25
+"2300 BLOCK OF PORTLAND AVE,Minneapolis,MN",44.959948,-93.268089,6,Phillips,Phillips West,3,1,Upton,02/08/2019,00:27
+"369 17th Ave se ,Minneapolis,MN",44.97854,-93.231883,2,University,University of Minnesota,4,1,Upton,02/08/2019,00:28
+"203 15th AVE S,Minneapolis,MN",44.972728000000004,-93.24804,6,University,Cedar Riverside,4,1,Upton,02/08/2019,00:30
+"2900 block penn ave n ,Minneapolis,MN",45.009802,-93.30793100000001,5,Near North,Jordan,1,1,Upton,02/08/2019,00:31
+"117 15TH ST W,Minneapolis,MN",44.967605,-93.280236,7,Central,Loring Park,3,1,Upton,02/08/2019,00:33
+"3500 penn ave n ,Minneapolis,MN",45.018812,-93.307905,4,Camden,Folwell,1,1,Upton,02/08/2019,00:38
+"1200-1299como ave se,Minneapolis,MN",44.98764,-93.23435500000001,2,University,Como,4,1,Upton,02/08/2019,00:40
+"2729 32nd st e,Minneapolis,MN",44.944759999999995,-93.232822,9,Longfellow,Longfellow,6,1,Upton,02/08/2019,00:41
+"2800 Block of Grand ave NE,Minneapolis,MN",44.951518,-93.284536,10,Powderhorn,Whittier,3,1,Upton,02/08/2019,00:43
+"2300 Portland Avenue South,Minneapolis,MN",44.959948,-93.268089,6,Phillips,Phillips West,3,1,Upton,02/08/2019,00:44
+"2683 Essex at se,Minneapolis,MN",44.970960999999996,-93.220022,2,University,Prospect Park - East River Road,4,1,Upton,02/08/2019,00:44
+"1800 31st st e,Minneapolis,MN",44.946735,-93.248522,9,Powderhorn,Powderhorn Park,6,1,Upton,02/08/2019,00:45
+"3300 FREMONT AVE N,Minneapolis,MN",45.015221999999994,-93.295175,4,Camden,Folwell,1,1,Upton,02/08/2019,00:50
+"2800 block of Grand Ave NE,Minneapolis,MN",44.951518,-93.284536,10,Powderhorn,Whittier,3,1,Upton,02/08/2019,00:50
+"3400 Penn Ave n ,Minneapolis,MN",45.016983,-93.307893,4,Camden,Folwell,1,1,Upton,02/08/2019,00:53
+"2500 Block of grand ave NE,Minneapolis,MN",45.013163,-93.27013000000001,1,Northeast,Marshall Terrace,2,1,Upton,02/08/2019,00:55
+"3953 3rd Avenue South,Minneapolis,MN",44.930774,-93.272441,8,Powderhorn,Bryant,5,1,Upton,02/08/2019,00:58
+"3500 Penn Ave n,Minneapolis,MN",45.018812,-93.307905,4,Camden,Folwell,1,1,Upton,02/08/2019,00:59
+"2800 Block of Grand ave NE,Minneapolis,MN",44.951518,-93.284536,10,Powderhorn,Whittier,3,1,Upton,02/08/2019,00:59
+"129 27TH AVE SE,Minneapolis,MN",44.969971,-93.220763,2,University,Prospect Park - East River Road,4,1,Upton,02/08/2019,01:00
+"2500 PORTLAND AV S,Minneapolis,MN",44.957144,-93.268045,6,Phillips,Phillips West,3,1,Upton,02/08/2019,01:00
+"4146 3rd Avenue South,Minneapolis,MN",44.927304,-93.273078,8,Powderhorn,Bryant,5,1,Upton,02/08/2019,01:02
+"18 15TH ST W,Minneapolis,MN",44.967978,-93.278765,7,Central,Loring Park,3,1,Upton,02/08/2019,01:04
+"3300 bloomington,Minneapolis,MN",44.942788,-93.252764,9,Powderhorn,Powderhorn Park,6,1,Upton,02/08/2019,01:06
+"2600 Portland Avenue South,Minneapolis,MN",44.9553,-93.268013,6,Phillips,Phillips West,3,1,Upton,02/08/2019,01:08
+"1340 lasalle Ave s,Minneapolis,MN",44.970249,-93.279824,7,Central,Loring Park,3,1,Upton,02/08/2019,01:09
+"1350 LaSalle ave ,Minneapolis,MN",44.969955,-93.279332,7,Central,Loring Park,3,1,Upton,02/08/2019,01:10
+"3000 grand st ne,Minneapolis,MN",45.022402,-93.270606,1,Northeast,Marshall Terrace,2,1,Upton,02/08/2019,01:10
+"2400 block of blaisdell Ave s,Minneapolis,MN",44.958876000000004,-93.280113,10,Powderhorn,Whittier,3,1,Upton,02/08/2019,01:14
+"827 3RD ST N,Minneapolis,MN",44.988248999999996,-93.280086,3,Central,North Loop,1,1,Upton,02/08/2019,01:15
+"141 27th Ave se ,Minneapolis,MN",44.97034,-93.220205,2,University,Prospect Park - East River Road,4,1,Upton,02/08/2019,01:15
+"2499 blaisdell ave ,Minneapolis,MN",44.957355,-93.279625,10,Powderhorn,Whittier,3,1,Upton,02/08/2019,01:15
+"3500 block penn ave n ,Minneapolis,MN",45.018812,-93.307905,4,Camden,Folwell,1,1,Upton,02/08/2019,01:16
+"807 3rd st n,Minneapolis,MN",44.988096,-93.279871,3,Central,North Loop,1,1,Upton,02/08/2019,01:18
+"3500 block penn ave n ,Minneapolis,MN",45.018812,-93.307905,4,Camden,Folwell,1,1,Upton,02/08/2019,01:19
+"700 4th st n,Minneapolis,MN",44.985788,-93.278943,3,Central,North Loop,1,1,Upton,02/08/2019,01:21
+"2301 31st Street East,Minneapolis,MN",44.960105,-93.22660400000001,2,Longfellow,Seward,4,1,Upton,02/08/2019,01:22
+"2800 PARK AVE S,Minneapolis,MN",44.951733000000004,-93.265553,6,Phillips,Phillips West,3,1,Upton,02/08/2019,01:22
+"5612 43rd Avenue South,Minneapolis,MN",44.901296,-93.21176899999999,12,Nokomis,Morris Park,6,1,Upton,02/08/2019,01:25
+"2500 blk portland ave s,Minneapolis,MN",44.957144,-93.268045,6,Phillips,Phillips West,3,1,Upton,02/08/2019,01:29
+"313-399 walnut st se,Minneapolis,MN",44.973608,-93.228685,2,University,University of Minnesota,4,1,Upton,02/08/2019,01:31
+"2700 McKinley St Ne,Minneapolis,MN",45.017014,-93.228429,1,Northeast,Audubon Park,2,1,Upton,02/08/2019,01:38
+"2600 BLAISDELL AV S,Minneapolis,MN",44.955521000000005,-93.279634,10,Powderhorn,Whittier,3,1,Upton,02/08/2019,01:39
+"2500 Portland Avenue South,Minneapolis,MN",44.957144,-93.268045,6,Phillips,Phillips West,3,1,Upton,02/08/2019,01:39
+"500 15TH ST E,Minneapolis,MN",44.968301000000004,-93.268698,7,Central,Elliot Park,3,1,Upton,02/08/2019,01:40
+"600-649 delaware st se,Minneapolis,MN",44.972551,-93.22872199999999,2,University,University of Minnesota,4,1,Upton,02/08/2019,01:40
+"3600 Penn Ave n ,Minneapolis,MN",45.020802,-93.30800500000001,4,Camden,Folwell,1,1,Upton,02/08/2019,01:43
+"2314 2 2nd st no,Minneapolis,MN",44.987487,-93.25783100000001,3,University,Nicollet Island - East Bank,4,1,Upton,02/08/2019,01:45
+"211 27TH AVE SE,Minneapolis,MN",44.971458,-93.21929399999999,2,University,Prospect Park - East River Road,4,1,Upton,02/08/2019,01:45
+"3601 Penn Ave n ,Minneapolis,MN",45.020703999999995,-93.308736,4,Camden,Cleveland,1,1,Upton,02/08/2019,01:46
+"2600-2699 BLAISDELL AVE,Minneapolis,MN",44.955521000000005,-93.279634,10,Powderhorn,Whittier,3,1,Upton,02/08/2019,01:48
+"604 3RD ST N,Minneapolis,MN",44.98652,-93.27705,3,Central,North Loop,1,1,Upton,02/08/2019,01:49
+"2499 blaisdell ave ,Minneapolis,MN",44.957355,-93.279625,10,Powderhorn,Whittier,3,1,Upton,02/08/2019,01:50
+"3400 block penn ave n ,Minneapolis,MN",45.016983,-93.307893,4,Camden,Folwell,1,1,Upton,02/08/2019,01:52
+"206 6th ave n,Minneapolis,MN",44.993840999999996,-93.261778,3,Northeast,St. Anthony West,2,1,Upton,02/08/2019,02:00
+"4300 block penn ave n ,Minneapolis,MN",45.035032,-93.30856,4,Camden,Victory,1,1,Upton,02/08/2019,02:00
+"1201 8th St se,Minneapolis,MN",44.985556,-93.235153,3,University,Marcy Holmes,4,1,Upton,02/08/2019,02:00
+"208 6th ave n,Minneapolis,MN",44.987211,-93.27544300000001,3,Central,North Loop,1,1,Upton,02/08/2019,02:03
+"3513 bloomington ave,Minneapolis,MN",44.93909,-93.252136,9,Powderhorn,Powderhorn Park,6,1,Upton,02/08/2019,02:05
+"2700 McKinley St Ne,Minneapolis,MN",45.017014,-93.228429,1,Northeast,Audubon Park,2,1,Upton,02/08/2019,02:06
+"2700 blaisdell ave,Minneapolis,MN",44.953632,-93.280025,10,Powderhorn,Whittier,3,1,Upton,02/08/2019,02:09
+"322 penn av n,Minneapolis,MN",44.980838,-93.308113,5,Near North,Harrison,3,1,Upton,02/08/2019,02:14
+"606 3RD ST N,Minneapolis,MN",44.986531,-93.277064,3,Central,North Loop,1,1,Upton,02/08/2019,02:15
+"600 15TH ST E,Minneapolis,MN",44.968057,-93.267635,6,Central,Elliot Park,3,1,Upton,02/08/2019,02:15
+"1700 lasalle Ave s,Minneapolis,MN",44.966364,-93.27933399999999,7,Central,Loring Park,3,1,Upton,02/08/2019,02:15
+"1700 3rd Ave South,Minneapolis,MN",44.966071,-93.273127,6,Central,Steven's Square - Loring Heights,3,1,Upton,02/08/2019,02:17
+"701 2nd st n,Minneapolis,MN",44.98839,-93.2761,3,Central,North Loop,1,1,Upton,02/08/2019,02:18
+"2600 block of blaisdell Ave s,Minneapolis,MN",44.955521000000005,-93.279634,10,Powderhorn,Whittier,3,1,Upton,02/08/2019,02:19
+"1331 8TH ST SE,Minneapolis,MN",44.984746,-93.232854,3,University,Marcy Holmes,4,1,Upton,02/08/2019,02:21
+"2500 BLOCK OF PORTLAND AVE,Minneapolis,MN",44.957144,-93.268045,6,Phillips,Phillips West,3,1,Upton,02/08/2019,02:23
+"2520 2nd st n,Minneapolis,MN",45.005719,-93.279901,5,Near North,Hawthorne,1,1,Upton,02/08/2019,02:31
+"3832Bloomington,Minneapolis,MN",44.933134,-93.252686,8,Powderhorn,Bancroft,6,1,Upton,02/08/2019,02:32
+"300 13TH AVE NE,Minneapolis,MN",45.000694,-93.26444000000001,3,Northeast,Sheridan,2,1,Upton,02/08/2019,02:37
+"4524 41st st e,Minneapolis,MN",44.929010999999996,-93.208448,12,Longfellow,Hiawatha,6,1,Upton,02/08/2019,02:39
+"300 PENN AVE N,Minneapolis,MN",44.979974,-93.307999,5,Near North,Harrison,3,1,Upton,02/08/2019,02:40
+"701 2nd st n ,Minneapolis,MN",44.98839,-93.2761,3,Central,North Loop,1,1,Upton,02/08/2019,02:41
+"4527 East 41st Street,Minneapolis,MN",44.928857,-93.208573,12,Longfellow,Hiawatha,6,1,Upton,02/08/2019,02:43
+"2520 2nd st no,Minneapolis,MN",45.005719,-93.279901,5,Near North,Hawthorne,1,1,Upton,02/08/2019,02:46
+"2499 blaisdell ave ,Minneapolis,MN",44.957355,-93.279625,10,Powderhorn,Whittier,3,1,Upton,02/08/2019,02:48
+"600 15TH ST E,Minneapolis,MN",44.968057,-93.267635,6,Central,Elliot Park,3,1,Upton,02/08/2019,02:51
+"417 8th St se,Minneapolis,MN",44.989976,-93.24570200000001,3,University,Marcy Holmes,4,1,Upton,02/08/2019,02:52
+"3050 minnehaha ave,Minneapolis,MN",44.946735,-93.233625,9,Longfellow,Longfellow,6,1,Upton,02/08/2019,02:55
+"20TH AVE S AND FRANKLIN AVE S,Minneapolis,MN",44.962702,-93.244076,6,Longfellow,Seward,4,1,Upton,02/08/2019,02:55
+"2300 glenwood av n,Minneapolis,MN",44.980922,-93.30990600000001,5,Near North,Harrison,3,1,Upton,02/08/2019,03:00
+"2700 BLOCK PORTLAND AVE,Minneapolis,MN",44.953722,-93.267703,6,Phillips,Phillips West,3,1,Upton,02/08/2019,03:02
+"612 5th st n,Minneapolis,MN",44.98502,-93.279434,5,Central,North Loop,1,1,Upton,02/08/2019,03:03
+"1900 3rd ave s,Minneapolis,MN",44.963758,-93.273119,6,Central,Steven's Square - Loring Heights,3,1,Upton,02/08/2019,03:08
+"1400 44th ave n,Minneapolis,MN",45.035756,-93.298147,4,Camden,Webber - Camden,1,1,Upton,02/08/2019,03:11
+"1700 lasalle Ave s,Minneapolis,MN",44.966364,-93.27933399999999,7,Central,Loring Park,3,1,Upton,02/08/2019,03:14
+"1400 44th ave n,Minneapolis,MN",45.035756,-93.298147,4,Camden,Webber - Camden,1,1,Upton,02/08/2019,03:16
+"2800 block of Portland Ave s,Minneapolis,MN",44.951772,-93.26814499999999,6,Phillips,Phillips West,3,1,Upton,02/08/2019,03:19
+"1900 GLENWOOD AVE N,Minneapolis,MN",44.980958,-93.304712,5,Near North,Harrison,3,1,Upton,02/08/2019,03:20
+"201 FRANKLIN AVE W,Minneapolis,MN",44.962465,-93.28201700000001,10,Powderhorn,Whittier,3,1,Upton,02/08/2019,03:22
+"100 Franklin Ave E,Minneapolis,MN",44.962845,-93.276426,6,Central,Steven's Square - Loring Heights,3,1,Upton,02/08/2019,03:24
+"20TH & Franklin,Minneapolis,MN",44.962702,-93.244076,6,Longfellow,Seward,4,1,Upton,02/08/2019,03:28
+"20TH AVE S AND FRANKLIN AVE S,Minneapolis,MN",44.962702,-93.244076,6,Longfellow,Seward,4,1,Upton,02/08/2019,03:34
+"3050 Minnehaha Avenue,Minneapolis,MN",44.946735,-93.233625,9,Longfellow,Longfellow,6,1,Upton,02/08/2019,03:39
+"1300 GOLDEN VALLEY RD,Minneapolis,MN",44.998726,-93.29717600000001,5,Near North,Near - North,1,1,Upton,02/08/2019,03:40
+"3653 Minnehaha Avenue South,Minneapolis,MN",44.936417999999996,-93.225075,12,Longfellow,Howe,6,1,Upton,02/08/2019,03:42
+"3600 minnehaha ave,Minneapolis,MN",44.937605,-93.226764,12,Longfellow,Howe,6,1,Upton,02/08/2019,03:42
+"20th ave so & Franklin ave e,Minneapolis,MN",44.962702,-93.244076,6,Longfellow,Seward,4,1,Upton,02/08/2019,03:55
+"1999 3rd ave s ,Minneapolis,MN",44.962705,-93.272754,6,Central,Steven's Square - Loring Heights,3,1,Upton,02/08/2019,03:55
+"1800 3RD AVE S,Minneapolis,MN",44.965052,-93.27299000000001,6,Central,Steven's Square - Loring Heights,3,1,Upton,02/08/2019,03:55
+"FRANKLIN AVE & 20TH AVE S,Minneapolis,MN",44.962702,-93.244076,6,Longfellow,Seward,4,1,Upton,02/08/2019,04:00
+"1900 GLENWOOD AVE N,Minneapolis,MN",44.980958,-93.304712,5,Near North,Harrison,3,1,Upton,02/08/2019,04:06
+"100-123 FRANKLIN AVE,Minneapolis,MN",44.962845,-93.276426,6,Central,Steven's Square - Loring Heights,3,1,Upton,02/08/2019,04:08
+"1925 3rd ave s ,Minneapolis,MN",44.963076,-93.272521,6,Central,Steven's Square - Loring Heights,3,1,Upton,02/08/2019,04:09
+"700 2ND AVE N,Minneapolis,MN",44.978944,-93.288048,5,Near North,Harrison,3,1,Upton,02/08/2019,04:09
+"9TH STS S / 20TH AVE S,Minneapolis,MN",44.963745,-93.2453,6,Longfellow,Seward,4,1,Upton,02/08/2019,04:09
+"2800 block of Portland Ave s,Minneapolis,MN",44.951772,-93.26814499999999,6,Phillips,Phillips West,3,1,Upton,02/08/2019,04:20
+"1800 glenwood av n,Minneapolis,MN",44.980996999999995,-93.303495,5,Near North,Harrison,3,1,Upton,02/08/2019,04:22
+"100-123 FRAMKLIN AVE,Minneapolis,MN",44.962845,-93.276426,6,Central,Steven's Square - Loring Heights,3,1,Upton,02/08/2019,04:25
+"2800 block of Portland Ave s,Minneapolis,MN",44.951772,-93.26814499999999,6,Phillips,Phillips West,3,1,Upton,02/08/2019,04:26
+"1000 2nd Ave N,Minneapolis,MN",44.97937,-93.292342,5,Near North,Harrison,3,1,Upton,02/08/2019,04:31
+"9TH STS S / 20TH AVE S,Minneapolis,MN",44.963745,-93.2453,6,Longfellow,Seward,4,1,Upton,02/08/2019,04:32
+"2800 blk portland ave s,Minneapolis,MN",44.951772,-93.26814499999999,6,Phillips,Phillips West,3,1,Upton,02/08/2019,04:35
+"20th ave so / Franklin ave e,Minneapolis,MN",44.962702,-93.244076,6,Longfellow,Seward,4,1,Upton,02/08/2019,04:36
+"300 Fremont av n,Minneapolis,MN",44.980945,-93.295113,5,Near North,Sumner - Glenwood,3,1,Upton,02/08/2019,04:43
+"100-123 FRAMKLIN AVE,Minneapolis,MN",44.962845,-93.276426,6,Central,Steven's Square - Loring Heights,3,1,Upton,02/08/2019,04:51
+"220 BLK 9TH ST S,Minneapolis,MN",44.973562,-93.27053599999999,7,Central,Downtown West,3,1,Upton,02/08/2019,04:55
+"1780 Bryant ave s,Minneapolis,MN",44.965804999999996,-93.290887,7,Calhoun Isle,Lowry Hill,3,2,Upton,02/08/2019,08:24
+"422 2ND AVE SE,Minneapolis,MN",44.987427000000004,-93.252525,3,University,Marcy Holmes,4,2,Upton,02/08/2019,08:25
+"3228 4th st n ,Minneapolis,MN",45.013921999999994,-93.284667,4,Camden,McKinley,1,2,Upton,02/08/2019,08:25
+"120 14th st w,Minneapolis,MN",44.968938,-93.280491,7,Central,Loring Park,3,2,Upton,02/08/2019,08:27
+"3628 4th st n ,Minneapolis,MN",45.021177,-93.284683,4,Camden,McKinley,1,2,Upton,02/08/2019,08:36
+"1536 41st ave,Minneapolis,MN",45.029587,-93.299273,4,Camden,Webber - Camden,1,2,Upton,02/08/2019,08:43
+"426 2nd Ave SE,Minneapolis,MN",44.987465,-93.252493,3,University,Marcy Holmes,4,2,Upton,02/08/2019,08:49
+"1776 bryant av s,Minneapolis,MN",44.96589,-93.290887,7,Calhoun Isle,Lowry Hill,3,2,Upton,02/08/2019,08:51
+"608 4th ave se,Minneapolis,MN",44.988285999999995,-93.247816,3,University,Marcy Holmes,4,2,Upton,02/08/2019,08:52
+"3008 James ave s,Minneapolis,MN",44.947943,-93.30368299999999,10,Calhoun Isle,ECCO,5,2,Upton,02/08/2019,08:55
+"1824 Bryant ave s,Minneapolis,MN",44.96464,-93.290903,7,Calhoun Isle,Lowry Hill,3,2,Upton,02/08/2019,08:56
+"324 3RD AVE SE,Minneapolis,MN",44.986422999999995,-93.251152,3,University,Marcy Holmes,4,2,Upton,02/08/2019,09:02
+"3400 4TH ST N,Minneapolis,MN",45.016874,-93.284654,4,Camden,McKinley,1,2,Upton,02/08/2019,09:03
+"1716 Colfax Avenue South,Minneapolis,MN",44.966837,-93.292153,7,Calhoun Isle,Lowry Hill,3,2,Upton,02/08/2019,09:08
+"3434 4th st n,Minneapolis,MN",45.01773,-93.284693,4,Camden,McKinley,1,2,Upton,02/08/2019,09:10
+"1772 COLFAX AV S,Minneapolis,MN",44.966054,-93.292162,7,Calhoun Isle,Lowry Hill,3,2,Upton,02/08/2019,09:11
+"3622 4th st n ,Minneapolis,MN",45.021014,-93.284674,4,Camden,McKinley,1,2,Upton,02/08/2019,09:14
+"3020 James Ave S Minneapolis MN,Minneapolis,MN",44.947579,-93.30368299999999,10,Calhoun Isle,ECCO,5,2,Upton,02/08/2019,09:15
+"3210 4th st n ,Minneapolis,MN",45.013536,-93.284646,4,Camden,McKinley,1,2,Upton,02/08/2019,09:15
+"1814 COLFAX AVE S,Minneapolis,MN",44.964869,-93.292164,7,Calhoun Isle,Lowry Hill,3,2,Upton,02/08/2019,09:16
+"2914 4th ave n,Minneapolis,MN",45.010036,-93.2846,5,Near North,Hawthorne,1,2,Upton,02/08/2019,09:17
+"1542 40 th st e,Minneapolis,MN",44.955588,-93.21526800000001,2,Longfellow,Seward,4,2,Upton,02/08/2019,09:18
+"2926 4th st n ,Minneapolis,MN",45.010227,-93.284634,5,Near North,Hawthorne,1,2,Upton,02/08/2019,09:19
+"2906 4th st n,Minneapolis,MN",45.009817,-93.284614,5,Near North,Hawthorne,1,2,Upton,02/08/2019,09:19
+"110 14TH ST W,Minneapolis,MN",44.968798,-93.28063900000001,7,Central,Loring Park,3,2,Upton,02/08/2019,09:23
+"1300 SPRUCE PL,Minneapolis,MN",44.968506,-93.28114000000001,7,Central,Loring Park,3,2,Upton,02/08/2019,09:27
+"620 4th Ave se,Minneapolis,MN",44.988494,-93.247654,3,University,Marcy Holmes,4,2,Upton,02/08/2019,09:29
+"1904 DuPont ave s ,Minneapolis,MN",44.96414,-93.293461,7,Calhoun Isle,Lowry Hill,3,2,Upton,02/08/2019,09:31
+"618 4th ave se,Minneapolis,MN",44.988471999999994,-93.247671,3,University,Marcy Holmes,4,2,Upton,02/08/2019,09:33
+"614 4TH AVE SE,Minneapolis,MN",44.988443,-93.247747,3,University,Marcy Holmes,4,2,Upton,02/08/2019,09:35
+"1908 Emerson Avenue South,Minneapolis,MN",44.964019,-93.294686,7,Calhoun Isle,Lowry Hill,3,2,Upton,02/08/2019,09:35
+"1832 41st st e,Minneapolis,MN",44.928967,-93.24671,12,Powderhorn,Standish,6,2,Upton,02/08/2019,09:44
+"1516 39th st ,Minneapolis,MN",44.932493,-93.25282800000001,8,Powderhorn,Bancroft,6,2,Upton,02/08/2019,09:46
+"516 5th ave se,Minneapolis,MN",44.986791,-93.246889,3,University,Marcy Holmes,4,2,Upton,02/08/2019,09:47
+"3136 Longfellow ave s,Minneapolis,MN",44.945192,-93.246392,9,Powderhorn,Corcoran,6,2,Upton,02/08/2019,09:48
+"2414 4th st n ,Minneapolis,MN",45.00421,-93.28461300000001,5,Near North,Hawthorne,1,2,Upton,02/08/2019,09:48
+"614 5th ave se,Minneapolis,MN",44.987390000000005,-93.246127,3,University,Marcy Holmes,4,2,Upton,02/08/2019,09:50
+"706 6th ave se,Minneapolis,MN",44.988059,-93.24440200000001,3,University,Marcy Holmes,4,2,Upton,02/08/2019,09:51
+"2516 4th st n ,Minneapolis,MN",45.005399,-93.284655,5,Near North,Hawthorne,1,2,Upton,02/08/2019,09:51
+"1504 39th st,Minneapolis,MN",44.932499,-93.253412,8,Powderhorn,Bancroft,6,2,Upton,02/08/2019,09:56
+"4000 14th ave,Minneapolis,MN",44.930378999999995,-93.255225,8,Powderhorn,Bancroft,6,2,Upton,02/08/2019,09:58
+"1906 Emerson Avenue South,Minneapolis,MN",44.964086,-93.294698,7,Calhoun Isle,Lowry Hill,3,2,Upton,02/08/2019,09:59
+"3200 15th Avenue South,Minneapolis,MN",44.94461,-93.254061,9,Powderhorn,Powderhorn Park,6,2,Upton,02/08/2019,09:59
+"THE MALL-JAMES AVE S,Minneapolis,MN",44.950001,-93.30336700000001,7,Calhoun Isle,East Isles,3,2,Upton,02/08/2019,10:01
+"3342 15th Avenue South,Minneapolis,MN",44.941908000000005,-93.254078,9,Powderhorn,Powderhorn Park,6,2,Upton,02/08/2019,10:02
+"1918 Emerson ave s ,Minneapolis,MN",44.963721,-93.294689,7,Calhoun Isle,Lowry Hill,3,2,Upton,02/08/2019,10:03
+"2122 6th st n,Minneapolis,MN",45.000927000000004,-93.286221,5,Near North,Hawthorne,1,2,Upton,02/08/2019,10:05
+"The Mall/ Irving ave,Minneapolis,MN",44.950096,-93.30209,7,Calhoun Isle,East Isles,3,2,Upton,02/08/2019,10:07
+"610 5TH AVE SE,Minneapolis,MN",44.987351000000004,-93.24615899999999,3,University,Marcy Holmes,4,2,Upton,02/08/2019,10:08
+"2106 6th st n,Minneapolis,MN",45.000538,-93.286118,5,Near North,Hawthorne,1,2,Upton,02/08/2019,10:08
+"222 4th ave NE ,Minneapolis,MN",44.991817,-93.259989,3,Northeast,St. Anthony West,2,2,Upton,02/08/2019,10:09
+"3032 James Ave S Minneapolis, MN,MN",44.947214,-93.30368299999999,10,Calhoun Isle,ECCO,5,2,Upton,02/08/2019,10:09
+"218 4th ave Ne,Minneapolis,MN",44.991817,-93.259989,3,Northeast,St. Anthony West,2,2,Upton,02/08/2019,10:11
+"2712 39th st e,Minneapolis,MN",44.932313,-93.233296,12,Powderhorn,Standish,6,2,Upton,02/08/2019,10:13
+"326 6th Ave SE,Minneapolis,MN",44.984607000000004,-93.24676,3,University,Marcy Holmes,4,2,Upton,02/08/2019,10:16
+"3416 Longfellow Ave S,Minneapolis,MN",44.940692,-93.246414,9,Powderhorn,Corcoran,6,2,Upton,02/08/2019,10:17
+"2002 Emerson Ave South,Minneapolis,MN",44.962506,-93.294673,7,Calhoun Isle,Lowry Hill,3,2,Upton,02/08/2019,10:20
+"3122 6th st n ,Minneapolis,MN",45.012223,-93.286429,5,Near North,Hawthorne,1,2,Upton,02/08/2019,10:23
+"3032 JAMES AVE S,Minneapolis,MN",44.947214,-93.30368299999999,10,Calhoun Isle,ECCO,5,2,Upton,02/08/2019,10:23
+"3120 6th st n ,Minneapolis,MN",45.0122,-93.28643000000001,5,Near North,Hawthorne,1,2,Upton,02/08/2019,10:28
+"2428 4th st n,Minneapolis,MN",45.004578,-93.284637,5,Near North,Hawthorne,1,2,Upton,02/08/2019,10:31
+"824 6th Ave SE,Minneapolis,MN",44.989546000000004,-93.243071,3,University,Marcy Holmes,4,2,Upton,02/08/2019,10:32
+"502 6th ave se,Minneapolis,MN",44.985849,-93.245655,3,University,Marcy Holmes,4,2,Upton,02/08/2019,10:33
+"THE MALL-IRVING AVE S,Minneapolis,MN",44.950096,-93.30209,7,Calhoun Isle,East Isles,3,2,Upton,02/08/2019,10:35
+"716 5th ave se,Minneapolis,MN",44.988825,-93.245207,3,University,Marcy Holmes,4,2,Upton,02/08/2019,10:36
+"1920 Emerson ave s ,Minneapolis,MN",44.963667,-93.294709,7,Calhoun Isle,Lowry Hill,3,2,Upton,02/08/2019,10:36
+"1528 SPRUCE PL,Minneapolis,MN",44.966669,-93.280567,7,Central,Loring Park,3,2,Upton,02/08/2019,10:38
+"3207 19th ave a,Minneapolis,MN",44.971643,-93.243756,2,University,University of Minnesota,4,2,Upton,02/08/2019,10:39
+"1938 Fremont Avenue South,Minneapolis,MN",44.962883000000005,-93.29598,7,Calhoun Isle,Lowry Hill,3,2,Upton,02/08/2019,10:40
+"1777 THE MALL ,Minneapolis,MN",44.950026,-93.30464599999999,7,Calhoun Isle,East Isles,3,2,Upton,02/08/2019,10:41
+"106 19TH ST E,Minneapolis,MN",44.964161,-93.2761,6,Central,Steven's Square - Loring Heights,3,2,Upton,02/08/2019,10:42
+"3102 6th st n ,Minneapolis,MN",45.011996999999994,-93.286433,5,Near North,Hawthorne,1,2,Upton,02/08/2019,10:42
+"3416 Longfellow Ave S,Minneapolis,MN",44.940692,-93.246414,9,Powderhorn,Corcoran,6,2,Upton,02/08/2019,10:42
+"402 7th ave se,Minneapolis,MN",44.98431,-93.245144,3,University,Marcy Holmes,4,2,Upton,02/08/2019,10:43
+"1920 Fremont av s,Minneapolis,MN",44.963361,-93.29599300000001,7,Calhoun Isle,Lowry Hill,3,2,Upton,02/08/2019,10:43
+"318 7th ave se,Minneapolis,MN",44.983434,-93.24582099999999,3,University,Marcy Holmes,4,2,Upton,02/08/2019,10:44
+"3014 6th st n ,Minneapolis,MN",45.011252,-93.286079,5,Near North,Hawthorne,1,2,Upton,02/08/2019,10:44
+"726 5th ave se,Minneapolis,MN",44.989053999999996,-93.244945,3,University,Marcy Holmes,4,2,Upton,02/08/2019,10:44
+"808 34th st e,Minneapolis,MN",44.941479,-93.289878,10,Calhoun Isle,South Uptown,5,2,Upton,02/08/2019,10:47
+"644 summer st ne,Minneapolis,MN",44.996664,-93.25608000000001,3,Northeast,St. Anthony East,2,2,Upton,02/08/2019,10:47
+"410 7th ave se,Minneapolis,MN",44.984559000000004,-93.244946,3,University,Marcy Holmes,4,2,Upton,02/08/2019,10:47
+"3506 Holmes ave s, MINNEAPOLIS,MN",44.939215999999995,-93.29992800000001,10,Calhoun Isle,ECCO,5,2,Upton,02/08/2019,10:49
+"312 4th ave ne,Minneapolis,MN",44.992365,-93.25856999999999,3,Northeast,St. Anthony West,2,2,Upton,02/08/2019,10:49
+"316 4Th Ave Ne,Minneapolis,MN",44.992406,-93.25841700000001,3,Northeast,St. Anthony West,2,2,Upton,02/08/2019,10:52
+"646 summer st ne,Minneapolis,MN",44.996743,-93.255911,3,Northeast,St. Anthony East,2,2,Upton,02/08/2019,10:55
+"3234 6th st n ,Minneapolis,MN",45.014258,-93.286191,4,Camden,McKinley,1,2,Upton,02/08/2019,10:55
+"3432 humboldt ave s, MINNEAPOLIS,MN",44.940181,-93.301242,10,Calhoun Isle,ECCO,5,2,Upton,02/08/2019,10:57
+"3340 15th ave,Minneapolis,MN",44.941927,-93.254078,9,Powderhorn,Powderhorn Park,6,2,Upton,02/08/2019,10:58
+"3322 6th st n ,Minneapolis,MN",45.015679,-93.286236,4,Camden,McKinley,1,2,Upton,02/08/2019,10:58
+"812 5th av n,Minneapolis,MN",44.989775,-93.244506,3,University,Marcy Holmes,4,2,Upton,02/08/2019,10:58
+"3256 15th ave,Minneapolis,MN",44.943092,-93.254059,9,Powderhorn,Powderhorn Park,6,2,Upton,02/08/2019,11:00
+"146 11th ave ne,Minneapolis,MN",44.998145,-93.26788,3,Northeast,St. Anthony West,2,2,Upton,02/08/2019,11:02
+"1518 SPRUCE PLACE,Minneapolis,MN",44.967007,-93.281164,7,Central,Loring Park,3,2,Upton,02/08/2019,11:03
+"522 7th ave se,Minneapolis,MN",44.985890000000005,-93.24383900000001,3,University,Marcy Holmes,4,2,Upton,02/08/2019,11:08
+"3304 16th av s,Minneapolis,MN",44.942698,-93.251488,9,Powderhorn,Powderhorn Park,6,2,Upton,02/08/2019,11:09
+"2222 Girard Avenue South,Minneapolis,MN",44.960148,-93.297322,7,Calhoun Isle,East Isles,3,2,Upton,02/08/2019,11:09
+"726 7TH AVE SE,Minneapolis,MN",44.987778999999996,-93.242474,3,University,Marcy Holmes,4,2,Upton,02/08/2019,11:11
+"3308 16th av s,Minneapolis,MN",44.94257,-93.251468,9,Powderhorn,Powderhorn Park,6,2,Upton,02/08/2019,11:12
+"510 6th Ave se,Minneapolis,MN",44.985531,-93.244242,3,University,Marcy Holmes,4,2,Upton,02/08/2019,11:13
+"3434 Humboldt Ave S, MINNEAPOLIS,MN",44.940126,-93.301243,10,Calhoun Isle,ECCO,5,2,Upton,02/08/2019,11:13
+"724 7th ave se,Minneapolis,MN",44.987768,-93.242482,3,University,Marcy Holmes,4,2,Upton,02/08/2019,11:14
+"220 11th ave ne,Minneapolis,MN",44.998342,-93.26730699999999,3,Northeast,St. Anthony West,2,2,Upton,02/08/2019,11:14
+"7TH & 5TH AV N,Minneapolis,MN",44.982858,-93.281664,5,Central,North Loop,3,2,Upton,02/08/2019,11:14
+"3142 15th Avenue South,Minneapolis,MN",44.945276,-93.25403100000001,9,Powderhorn,Powderhorn Park,6,2,Upton,02/08/2019,11:15
+"3726 27th ave so,Minneapolis,MN",44.934940999999995,-93.23373199999999,12,Powderhorn,Standish,6,2,Upton,02/08/2019,11:17
+"2014 Fremont Ave s ,Minneapolis,MN",44.962204,-93.29601,7,Calhoun Isle,Lowry Hill,3,2,Upton,02/08/2019,11:17
+"608 7th ave se,Minneapolis,MN",44.986596999999996,-93.24343499999999,3,University,Marcy Holmes,4,2,Upton,02/08/2019,11:18
+"3022 15th Avenue South,Minneapolis,MN",44.947634,-93.254061,9,Powderhorn,Powderhorn Park,6,2,Upton,02/08/2019,11:18
+"312 7th ave se,Minneapolis,MN",44.983375,-93.245869,3,University,Marcy Holmes,4,2,Upton,02/08/2019,11:22
+"3012 James Ave S, MINNEAPOLIS,MN",44.947815999999996,-93.303664,10,Calhoun Isle,ECCO,5,2,Upton,02/08/2019,11:23
+"3510 6th st n,Minneapolis,MN",45.018853,-93.286244,4,Camden,McKinley,1,2,Upton,02/08/2019,11:24
+"702 5TH AV N,Minneapolis,MN",44.982775,-93.289307,5,Near North,Sumner - Glenwood,3,2,Upton,02/08/2019,11:29
+"2014 33rd st e,Minneapolis,MN",44.943079,-93.243414,9,Powderhorn,Corcoran,6,2,Upton,02/08/2019,11:30
+"2414 ALDRICH AVE N ,Minneapolis,MN",45.004286,-93.289234,5,Near North,Hawthorne,1,2,Upton,02/08/2019,11:31
+"318 8th ave se,Minneapolis,MN",44.983243,-93.2441,3,University,Marcy Holmes,4,2,Upton,02/08/2019,11:33
+"720 3rd ave NE,Minneapolis,MN",44.993155,-93.251932,3,Northeast,St. Anthony East,2,2,Upton,02/08/2019,11:33
+"2226 33 ave e,Minneapolis,MN",44.960514,-93.22317,2,Longfellow,Seward,4,2,Upton,02/08/2019,11:34
+"800 3rd ave ne,Minneapolis,MN",44.993359999999996,-93.25130300000001,3,Northeast,St. Anthony East,2,2,Upton,02/08/2019,11:36
+"1716 33rd st e,Minneapolis,MN",44.94308,-93.24971500000001,9,Powderhorn,Powderhorn Park,6,2,Upton,02/08/2019,11:36
+"3730 6th st n ,Minneapolis,MN",45.023268,-93.286198,4,Camden,McKinley,1,2,Upton,02/08/2019,11:37
+"502 7th ave se,Minneapolis,MN",44.985287,-93.244315,3,University,Marcy Holmes,4,2,Upton,02/08/2019,11:38
+"300 8th ave se,Minneapolis,MN",44.982822999999996,-93.244863,3,University,Marcy Holmes,4,2,Upton,02/08/2019,11:41
+"210 6th AVE SE,Minneapolis,MN",44.983049,-93.248358,3,University,Marcy Holmes,4,2,Upton,02/08/2019,11:42
+"3416 15th ave ,Minneapolis,MN",44.940426,-93.253712,9,Powderhorn,Powderhorn Park,6,2,Upton,02/08/2019,11:42
+"234 Clifton Ave s,Minneapolis,MN",44.96593,-93.282538,7,Central,Loring Park,3,2,Upton,02/08/2019,11:43
+"700 5TH AV N,Minneapolis,MN",44.985882000000004,-93.280689,5,Central,North Loop,1,2,Upton,02/08/2019,11:44
+"2512 Girard Ave South,Minneapolis,MN",44.956839,-93.29729300000001,7,Calhoun Isle,East Isles,3,2,Upton,02/08/2019,11:46
+"2806 Aldrich ave n ,Minneapolis,MN",45.008813,-93.289082,5,Near North,Hawthorne,1,2,Upton,02/08/2019,11:48
+"1524 SPRUCE PL,Minneapolis,MN",44.966437,-93.28083000000001,7,Central,Loring Park,3,2,Upton,02/08/2019,11:49
+"618 7TH AVE SE,Minneapolis,MN",44.986798,-93.24324,3,University,Marcy Holmes,4,2,Upton,02/08/2019,11:49
+"2708 Aldrich ave n ,Minneapolis,MN",45.00803,-93.289041,5,Near North,Hawthorne,1,2,Upton,02/08/2019,11:52
+"810 3rd ,Minneapolis,MN",44.976134,-93.257214,3,Central,Downtown East,3,2,Upton,02/08/2019,11:54
+"722 8th ave se ,Minneapolis,MN",44.987425,-93.240959,3,University,Marcy Holmes,4,2,Upton,02/08/2019,11:55
+"250 6th st ne,Minneapolis,MN",44.992090000000005,-93.254222,3,Northeast,St. Anthony East,2,2,Upton,02/08/2019,11:57
+"3200 16th ave,Minneapolis,MN",44.944558,-93.251409,9,Powderhorn,Powderhorn Park,6,2,Upton,02/08/2019,12:00
+"1524 34th st,Minneapolis,MN",44.941565999999995,-93.301692,10,Calhoun Isle,ECCO,5,2,Upton,02/08/2019,12:02
+"424 7th ave se,Minneapolis,MN",44.984747,-93.244796,3,University,Marcy Holmes,4,2,Upton,02/08/2019,12:02
+"622 7th AVE SE,Minneapolis,MN",44.986943,-93.243173,3,University,Marcy Holmes,4,2,Upton,02/08/2019,12:04
+"2314 32nd Street,Minneapolis,MN",44.944963,-93.238168,9,Powderhorn,Corcoran,6,2,Upton,02/08/2019,12:07
+"510 7th ave se,Minneapolis,MN",44.985582,-93.24424300000001,3,University,Marcy Holmes,4,2,Upton,02/08/2019,12:07
+"714 8th AVE SE,Minneapolis,MN",44.987144,-93.24118399999999,3,University,Marcy Holmes,4,2,Upton,02/08/2019,12:09
+"2326 32nd Street East,Minneapolis,MN",44.94495,-93.237859,9,Powderhorn,Corcoran,6,2,Upton,02/08/2019,12:11
+"3238 aldrich ave n ,Minneapolis,MN",45.014425,-93.289008,4,Camden,McKinley,1,2,Upton,02/08/2019,12:11
+"4444 Beard Ave S,Minneapolis,MN",44.921918,-93.324318,13,Southwest,Linden Hills,5,2,Upton,02/08/2019,12:11
+"1000 Block 3rd st NE,Minneapolis,MN",44.998717,-93.264616,3,Northeast,Sheridan,2,2,Upton,02/08/2019,12:12
+"3748 21st ave so,Minneapolis,MN",44.934403,-93.24263,12,Powderhorn,Standish,6,2,Upton,02/08/2019,12:13
+"3310 aldrich ave n ,Minneapolis,MN",45.015344,-93.28900300000001,4,Camden,McKinley,1,2,Upton,02/08/2019,12:14
+"3224 21st ave s,Minneapolis,MN",44.943769,-93.242591,9,Powderhorn,Corcoran,6,2,Upton,02/08/2019,12:15
+"1116 3rd st ne,Minneapolis,MN",44.99924,-93.265013,3,Northeast,Sheridan,2,2,Upton,02/08/2019,12:15
+"2644 Humboldt ave s,Minneapolis,MN",44.954116,-93.29930999999999,7,Calhoun Isle,East Isles,3,2,Upton,02/08/2019,12:17
+"1200 block of 3rd st Ne,Minneapolis,MN",44.999953000000005,-93.264804,3,Northeast,Sheridan,2,2,Upton,02/08/2019,12:18
+"1118 3rd st ne,Minneapolis,MN",44.999247,-93.265013,3,Northeast,Sheridan,2,2,Upton,02/08/2019,12:18
+"302 7th ave se,Minneapolis,MN",44.983402000000005,-93.246259,3,University,Marcy Holmes,4,2,Upton,02/08/2019,12:19
+"3330 Aldrich ave n ,Minneapolis,MN",45.015927000000005,-93.28903100000001,4,Camden,McKinley,1,2,Upton,02/08/2019,12:20
+"2704 Humboldt ave s,Minneapolis,MN",44.953587,-93.299649,7,Calhoun Isle,East Isles,3,2,Upton,02/08/2019,12:22
+"600 7th ave se,Minneapolis,MN",44.986332,-93.243928,3,University,Marcy Holmes,4,2,Upton,02/08/2019,12:22
+"810 6TH ST SE,Minneapolis,MN",44.985358000000005,-93.242151,3,University,Marcy Holmes,4,2,Upton,02/08/2019,12:23
+"3316 22ave e,Minneapolis,MN",44.942262,-93.240921,9,Powderhorn,Corcoran,6,2,Upton,02/08/2019,12:24
+"3318 Aldrich ave n ,Minneapolis,MN",45.015634999999996,-93.289035,4,Camden,McKinley,1,2,Upton,02/08/2019,12:24
+"3320 ALDRICH AVE N ,Minneapolis,MN",45.015671000000005,-93.289035,4,Camden,McKinley,1,2,Upton,02/08/2019,12:24
+"614 8th ave se,Minneapolis,MN",44.986167,-93.241888,3,University,Marcy Holmes,4,2,Upton,02/08/2019,12:24
+"3128 22nd ave ,Minneapolis,MN",44.945728,-93.240961,9,Powderhorn,Corcoran,6,2,Upton,02/08/2019,12:29
+"614 6th st se,Minneapolis,MN",44.986465,-93.244775,3,University,Marcy Holmes,4,2,Upton,02/08/2019,12:30
+"804 11th ave se,Minneapolis,MN",44.986244,-93.236678,3,University,Marcy Holmes,4,2,Upton,02/08/2019,12:31
+"3732 15th av s,Minneapolis,MN",44.934702,-93.253943,9,Powderhorn,Powderhorn Park,6,2,Upton,02/08/2019,12:32
+"3312 22nd ave s,Minneapolis,MN",44.942359,-93.240941,9,Powderhorn,Corcoran,6,2,Upton,02/08/2019,12:32
+"3118 15th av s,Minneapolis,MN",44.945959,-93.254017,9,Powderhorn,Powderhorn Park,6,2,Upton,02/08/2019,12:37
+"500 7th st se,Minneapolis,MN",44.985698,-93.239622,3,University,Marcy Holmes,4,2,Upton,02/08/2019,12:46
+"820 6TH ST SE,Minneapolis,MN",44.985288,-93.24197099999999,3,University,Marcy Holmes,4,2,Upton,02/08/2019,12:50
+"1134 6th st ne,Minneapolis,MN",44.999786,-93.259179,3,Northeast,Sheridan,2,2,Upton,02/08/2019,12:50
+"408 7th st se,Minneapolis,MN",44.989841,-93.249431,3,University,Marcy Holmes,4,2,Upton,02/08/2019,12:51
+"3944 Aldrich ave n ,Minneapolis,MN",45.027071,-93.289075,4,Camden,Webber - Camden,1,2,Upton,02/08/2019,12:53
+"3738 aldrich ave n ,Minneapolis,MN",45.02326,-93.289043,4,Camden,McKinley,1,2,Upton,02/08/2019,12:54
+"4218 Bryant Ave n ,Minneapolis,MN",45.03217,-93.290402,4,Camden,Webber - Camden,1,2,Upton,02/08/2019,12:55
+"1128 6th st ne,Minneapolis,MN",44.999612,-93.259194,3,Northeast,Sheridan,2,2,Upton,02/08/2019,12:56
+"4028 Aldrich ave n ,Minneapolis,MN",45.028441,-93.289046,4,Camden,Webber - Camden,1,2,Upton,02/08/2019,12:57
+"1622 6th st ne,Minneapolis,MN",45.004979,-93.259247,3,Northeast,Sheridan,2,2,Upton,02/08/2019,12:58
+"2808 HUMBOLDT AVE S,Minneapolis,MN",44.952026000000004,-93.300463,7,Calhoun Isle,East Isles,3,2,Upton,02/08/2019,13:00
+"1614 6th se NE,Minneapolis,MN",45.004637,-93.259139,3,Northeast,Sheridan,2,2,Upton,02/08/2019,13:02
+"4446 Chowen Ave S,Minneapolis,MN",44.921815,-93.325918,13,Southwest,Linden Hills,5,2,Upton,02/08/2019,12:59
+"2844 HUMBOLDT AVE S,Minneapolis,MN",44.950912,-93.301147,7,Calhoun Isle,East Isles,3,2,Upton,02/08/2019,13:02
+"4446 Beard Ave S,Minneapolis,MN",44.921904,-93.324318,13,Southwest,Linden Hills,5,2,Upton,02/08/2019,13:02
+"3312 22nd ave s,Minneapolis,MN",44.942359,-93.240941,9,Powderhorn,Corcoran,6,2,Upton,02/08/2019,13:05
+"3130 22nd ave,Minneapolis,MN",44.945665000000005,-93.240987,9,Powderhorn,Corcoran,6,2,Upton,02/08/2019,13:07
+"2522 34th st e,Minneapolis,MN",44.941945000000004,-93.235141,9,Powderhorn,Corcoran,6,2,Upton,02/08/2019,13:07
+"3128 22nd ave,Minneapolis,MN",44.945728,-93.240961,9,Powderhorn,Corcoran,6,2,Upton,02/08/2019,13:09
+"126 CLIFTON Ave S,Minneapolis,MN",44.965165,-93.283658,7,Central,Loring Park,3,2,Upton,02/08/2019,13:12
+"4440 Chowen Ave S,Minneapolis,MN",44.921409999999995,-93.325848,13,Southwest,Linden Hills,5,2,Upton,02/08/2019,13:13
+"208 6th st se,Minneapolis,MN",44.989151,-93.250982,3,University,Marcy Holmes,4,2,Upton,02/08/2019,13:15
+"3304 24thave,Minneapolis,MN",44.959424,-93.223613,2,Longfellow,Seward,4,2,Upton,02/08/2019,13:17
+"1734 adams st ne,Minneapolis,MN",45.005747,-93.256277,1,Northeast,Logan Park,2,2,Upton,02/08/2019,13:18
+"1630 Adams st NE,Minneapolis,MN",45.004983,-93.256592,1,Northeast,Logan Park,2,2,Upton,02/08/2019,13:20
+"2412 Girard ave s,Minneapolis,MN",44.958636,-93.297326,7,Calhoun Isle,East Isles,3,2,Upton,02/08/2019,13:20
+"208 6th st se,Minneapolis,MN",44.989151,-93.250982,3,University,Marcy Holmes,4,2,Upton,02/08/2019,13:20
+"2402 Girard ave s ,Minneapolis,MN",44.958883,-93.297318,7,Calhoun Isle,East Isles,3,2,Upton,02/08/2019,13:23
+"210 7th ave se,Minneapolis,MN",44.9825,-93.246427,3,University,Marcy Holmes,4,2,Upton,02/08/2019,13:27
+"1834 32nd st e,Minneapolis,MN",44.944745000000005,-93.24674300000001,9,Powderhorn,Corcoran,6,2,Upton,02/08/2019,13:28
+"400 8th ave se,Minneapolis,MN",44.983825,-93.244097,3,University,Marcy Holmes,4,2,Upton,02/08/2019,13:28
+"416 11TH AVE SE,Minneapolis,MN",44.982599,-93.23915699999999,3,University,Marcy Holmes,4,2,Upton,02/08/2019,13:32
+"800 5th st se,Minneapolis,MN",44.984525,-93.24324,3,University,Marcy Holmes,4,2,Upton,02/08/2019,13:32
+"825 7th st se,Minneapolis,MN",44.986484999999995,-93.240346,3,University,Marcy Holmes,4,2,Upton,02/08/2019,13:34
+"4206 Aldrich ave n ,Minneapolis,MN",45.031576,-93.28936800000001,4,Camden,Webber - Camden,1,2,Upton,02/08/2019,13:35
+"3946 Bryant ave n ,Minneapolis,MN",45.027126,-93.290358,4,Camden,Webber - Camden,1,2,Upton,02/08/2019,13:39
+"3614 Snelling Avenue South,Minneapolis,MN",44.937194,-93.228267,12,Longfellow,Howe,6,2,Upton,02/08/2019,13:41
+"720 aldrich ave n ,Minneapolis,MN",44.985597,-93.289854,5,Near North,Sumner - Glenwood,1,2,Upton,02/08/2019,13:41
+"608 5th st se,Minneapolis,MN",44.985424,-93.245737,3,University,Marcy Holmes,4,2,Upton,02/08/2019,13:42
+"850 aldrich ave n,Minneapolis,MN",44.987065,-93.29056899999999,5,Near North,Sumner - Glenwood,1,2,Upton,02/08/2019,13:45
+"208 6th st se,Minneapolis,MN",44.989151,-93.250982,3,University,Marcy Holmes,4,2,Upton,02/08/2019,13:45
+"212 6th st se,Minneapolis,MN",44.989128,-93.250927,3,University,Marcy Holmes,4,2,Upton,02/08/2019,13:53
+"3556 snelling ave s,Minneapolis,MN",44.938037,-93.228936,12,Longfellow,Howe,6,2,Upton,02/08/2019,13:55
+"1736 adams st ne,Minneapolis,MN",45.005776000000004,-93.256276,1,Northeast,Logan Park,2,2,Upton,02/08/2019,14:02
+"710 11TH AVE SE,Minneapolis,MN",44.985316999999995,-93.237138,3,University,Marcy Holmes,4,2,Upton,02/08/2019,14:02
+"3752 snelling Ave S,Minneapolis,MN",44.9345,-93.226294,12,Longfellow,Howe,6,2,Upton,02/08/2019,14:03
+"1802 5TH AVE N,Minneapolis,MN",44.982816,-93.30328100000001,5,Near North,Harrison,3,2,Upton,02/08/2019,14:04
+"1522 jefferson st ne,Minneapolis,MN",45.003799,-93.25525400000001,1,Northeast,Logan Park,2,2,Upton,02/08/2019,14:05
+"532 HUMBOLDT AV N,Minneapolis,MN",44.983114,-93.29807,5,Near North,Harrison,3,2,Upton,02/08/2019,14:05
+"4420 Beard Ave S,Minneapolis,MN",44.922442,-93.324311,13,Southwest,Linden Hills,5,2,Upton,02/08/2019,14:03
+"4438 Chowen Ave S,Minneapolis,MN",44.921857,-93.325919,13,Southwest,Linden Hills,5,2,Upton,02/08/2019,14:07
+"1042 aldrich ave n,Minneapolis,MN",44.988414,-93.290779,5,Near North,Sumner - Glenwood,1,2,Upton,02/08/2019,14:09
+"310 CLIFTON AVE,Minneapolis,MN",44.96637,-93.283675,7,Central,Loring Park,3,2,Upton,02/08/2019,14:16
+"1514 adams st ne,Minneapolis,MN",45.003544,-93.256527,1,Northeast,Logan Park,2,2,Upton,02/08/2019,14:19
+"2310 PLEASANT AVE S,Minneapolis,MN",44.95965,-93.28328499999999,10,Powderhorn,Whittier,3,2,Upton,02/08/2019,14:19
+"1016 5th av n ,Minneapolis,MN",44.969774,-93.268784,7,Central,Elliot Park,3,2,Upton,02/08/2019,14:21
+"1410 jefferson st ne,Minneapolis,MN",45.002377,-93.25525,1,Northeast,Logan Park,2,2,Upton,02/08/2019,14:22
+"3910 BRYANT AVE N ,Minneapolis,MN",45.026140000000005,-93.290363,4,Camden,Webber - Camden,1,2,Upton,02/08/2019,14:25
+"3208 24th ave,Minneapolis,MN",44.944271,-93.237523,9,Powderhorn,Corcoran,6,2,Upton,02/08/2019,14:25
+"cedar ave e / east lake nokomis pkwy,Minneapolis,MN",44.923412,-93.24739100000001,11,Nokomis,Northrop,6,2,Upton,02/08/2019,14:26
+"86 14th ave ne,Minneapolis,MN",45.000849,-93.271153,3,Northeast,Sheridan,2,2,Upton,02/08/2019,14:26
+"308 Knox Ave N,Minneapolis,MN",44.980928999999996,-93.301976,5,Near North,Harrison,3,2,Upton,02/08/2019,14:27
+"3022 13th ave,Minneapolis,MN",44.947454,-93.256635,9,Powderhorn,Powderhorn Park,6,2,Upton,02/08/2019,14:27
+"84 14th ave ne,Minneapolis,MN",45.000863,-93.271265,3,Northeast,Sheridan,2,2,Upton,02/08/2019,14:29
+"3238 Bryant ave n ,Minneapolis,MN",45.014433000000004,-93.290242,4,Camden,McKinley,1,2,Upton,02/08/2019,14:34
+"310 12TH AVE SE,Minneapolis,MN",44.980729,-93.239249,3,University,Marcy Holmes,4,2,Upton,02/08/2019,14:35
+"2810 Bryant ave n ,Minneapolis,MN",45.008925,-93.29028100000001,5,Near North,Hawthorne,1,2,Upton,02/08/2019,14:37
+"706 7th st se,Minneapolis,MN",44.985698,-93.239622,3,University,Marcy Holmes,4,2,Upton,02/08/2019,14:38
+"3038 11th Avenue South,Minneapolis,MN",44.947145,-93.259126,9,Powderhorn,Powderhorn Park,6,2,Upton,02/08/2019,14:41
+"1012 14th ave n ,Minneapolis,MN",44.993232,-93.293256,5,Near North,Near - North,1,2,Upton,02/08/2019,14:41
+"538 KNOX AVE N,Minneapolis,MN",44.983802000000004,-93.30166899999999,5,Near North,Harrison,3,2,Upton,02/08/2019,14:42
+"1110 adams st ne,Minneapolis,MN",44.99913,-93.256578,1,Northeast,Logan Park,2,2,Upton,02/08/2019,14:42
+"806 12th ave se,Minneapolis,MN",44.985742,-93.235017,3,University,Marcy Holmes,4,2,Upton,02/08/2019,14:44
+"138 14th ave ne,Minneapolis,MN",45.001804,-93.26844200000001,3,Northeast,Sheridan,2,2,Upton,02/08/2019,14:44
+"1924 Pillsbury Ave,Minneapolis,MN",44.963415000000005,-93.280845,7,Central,Steven's Square - Loring Heights,3,2,Upton,02/08/2019,14:45
+"314 Knox Ave N,Minneapolis,MN",44.981409,-93.301627,5,Near North,Harrison,3,2,Upton,02/08/2019,14:45
+"1326 7th abe se,Minneapolis,MN",44.988273,-93.242396,3,University,Marcy Holmes,4,2,Upton,02/08/2019,14:47
+"3104 14th av s,Minneapolis,MN",44.946323,-93.255318,9,Powderhorn,Powderhorn Park,6,2,Upton,02/08/2019,14:47
+"3106 11th Avenue South,Minneapolis,MN",44.946215,-93.259129,9,Powderhorn,Powderhorn Park,6,2,Upton,02/08/2019,14:50
+"3636 20th av s,Minneapolis,MN",44.93659,-93.243863,12,Powderhorn,Standish,6,2,Upton,02/08/2019,14:51
+"2210 ALDRICH AVE S,Minneapolis,MN",44.96045,-93.289288,10,Calhoun Isle,Lowry Hill East,3,2,Upton,02/08/2019,14:51
+"1016 6th street se,Minneapolis,MN",44.984256,-93.23944300000001,3,University,Marcy Holmes,4,2,Upton,02/08/2019,14:54
+"308 8th Ave SE,Minneapolis,MN",44.982935,-93.244328,3,University,Marcy Holmes,4,2,Upton,02/08/2019,14:54
+"810 33rd st e,Minneapolis,MN",44.943331,-93.26187900000001,9,Powderhorn,Powderhorn Park,6,2,Upton,02/08/2019,14:56
+"3044 12th Ave S,Minneapolis,MN",44.946869,-93.257911,9,Powderhorn,Powderhorn Park,6,2,Upton,02/08/2019,14:56
+"3950 elliot ave,Minneapolis,MN",44.930791,-93.261527,8,Powderhorn,Bancroft,6,2,Upton,02/08/2019,14:56
+"1326 7th ST se,Minneapolis,MN",44.983315000000005,-93.233828,3,University,Marcy Holmes,4,2,Upton,02/08/2019,14:57
+"1212 7th street ,Minneapolis,MN",44.969963,-93.25510200000001,6,Central,Elliot Park,3,2,Upton,02/08/2019,14:57
+"2410 Aldrich Ave s,Minneapolis,MN",44.958721999999995,-93.28952,10,Calhoun Isle,Lowry Hill East,3,2,Upton,02/08/2019,15:07
+"616 12TH AVE SE,Minneapolis,MN",44.984015,-93.236166,3,University,Marcy Holmes,4,2,Upton,02/08/2019,15:10
+"3540 COLFAX AVE N,Minneapolis,MN",45.019884999999995,-93.29159399999999,4,Camden,McKinley,1,2,Upton,02/08/2019,15:11
+"422 Queen Ave N,Minneapolis,MN",44.984534000000004,-93.309697,5,Near North,Willard - Hay,1,2,Upton,02/08/2019,15:14
+"1336 Irving Ave n,Minneapolis,MN",44.992914,-93.299223,5,Near North,Near - North,1,2,Upton,02/08/2019,15:15
+"1206 14th aveN,Minneapolis,MN",44.993235999999996,-93.295761,5,Near North,Near - North,1,2,Upton,02/08/2019,15:17
+"1838 32nd st e,Minneapolis,MN",44.944913,-93.246423,9,Powderhorn,Corcoran,6,2,Upton,02/08/2019,15:21
+"3400 colfax,Minneapolis,MN",44.941148,-93.2923,10,Calhoun Isle,South Uptown,5,2,Upton,02/08/2019,15:23
+"2622 Grand ave s ,Minneapolis,MN",44.955456,-93.284164,10,Powderhorn,Whittier,3,2,Upton,02/08/2019,15:24
+"4412 Vincent Ave S,Minneapolis,MN",44.922806,-93.316682,13,Southwest,Linden Hills,5,2,Upton,02/08/2019,15:24
+"2942 Colfax ave n ,Minneapolis,MN",45.010784,-93.291562,5,Near North,Hawthorne,1,2,Upton,02/08/2019,15:27
+"2616 Grand ave s ,Minneapolis,MN",44.955478,-93.284164,10,Powderhorn,Whittier,3,2,Upton,02/08/2019,15:28
+"1114 Adams st ne,Minneapolis,MN",44.999204,-93.256547,1,Northeast,Logan Park,2,2,Upton,02/08/2019,15:32
+"2934 Colfax ave n ,Minneapolis,MN",45.010566,-93.291537,5,Near North,Hawthorne,1,2,Upton,02/08/2019,15:32
+"528 HUMBOLDTAve N,Minneapolis,MN",44.983112,-93.29807,5,Near North,Harrison,3,2,Upton,02/08/2019,15:32
+"328 14th ave ne,Minneapolis,MN",45.001874,-93.26347700000001,3,Northeast,Sheridan,2,2,Upton,02/08/2019,15:33
+"728 12th ave se,Minneapolis,MN",44.98525,-93.235325,3,University,Marcy Holmes,4,2,Upton,02/08/2019,15:39
+"3030 12th ave,Minneapolis,MN",44.947252,-93.257892,9,Powderhorn,Powderhorn Park,6,2,Upton,02/08/2019,15:40
+"108 17th ave ne,Minneapolis,MN",45.005137,-93.267673,3,Northeast,Bottineau,2,2,Upton,02/08/2019,15:40
+"3220 girard ave s,Minneapolis,MN",44.944041999999996,-93.29746999999999,10,Calhoun Isle,South Uptown,5,2,Upton,02/08/2019,15:41
+"3024 11th ave,Minneapolis,MN",44.947491,-93.25909,9,Powderhorn,Powderhorn Park,6,2,Upton,02/08/2019,15:42
+"626 13TH AVE SE,Minneapolis,MN",44.98344,-93.234959,3,University,Marcy Holmes,4,2,Upton,02/08/2019,15:43
+"734 Jeffreson St Ne,Minneapolis,MN",44.997927000000004,-93.255296,3,Northeast,St. Anthony East,2,2,Upton,02/08/2019,15:44
+"1222 Jefferson st NE,Minneapolis,MN",45.000553000000004,-93.255279,1,Northeast,Logan Park,2,2,Upton,02/08/2019,15:47
+"514 Irving Ave N,Minneapolis,MN",44.982865999999994,-93.29943,5,Near North,Harrison,3,2,Upton,02/08/2019,15:47
+"318 19th ave ne,Minneapolis,MN",45.007582,-93.263657,3,Northeast,Bottineau,2,2,Upton,02/08/2019,15:48
+"4288 COLFAX AVE N,Minneapolis,MN",45.033158,-93.291332,4,Camden,Webber - Camden,1,2,Upton,02/08/2019,15:50
+"200 LOGAN AV N,Minneapolis,MN",44.977911999999996,-93.302982,5,Near North,Harrison,3,2,Upton,02/08/2019,15:52
+"1318 Irving Ave n ,Minneapolis,MN",44.992473,-93.299242,5,Near North,Near - North,1,2,Upton,02/08/2019,15:52
+"1340 James Ave n ,Minneapolis,MN",44.992846,-93.300322,5,Near North,Near - North,1,2,Upton,02/08/2019,15:55
+"874 18th ave se,Minneapolis,MN",44.985632,-93.226626,2,University,Como,4,2,Upton,02/08/2019,15:55
+"4600 34 ave s,Minneapolis,MN",44.919678999999995,-93.222922,12,Nokomis,Ericsson,6,2,Upton,02/08/2019,16:05
+"470 Girard Terrace ,Minneapolis,MN",44.982349,-93.29620600000001,5,Near North,Sumner - Glenwood,3,2,Upton,02/08/2019,16:05
+"462 GIRARD TER,Minneapolis,MN",44.982345,-93.296224,5,Near North,Sumner - Glenwood,3,2,Upton,02/08/2019,16:14
+"4308 10th Ave so,Minneapolis,MN",44.92479,-93.260307,11,Nokomis,Northrop,6,2,Upton,02/08/2019,16:16
+"1202 Irving Ave n ,Minneapolis,MN",44.990272999999995,-93.299136,5,Near North,Near - North,1,2,Upton,02/08/2019,16:19
+"5706 sander dr,Minneapolis,MN",44.899667,-93.224334,11,Nokomis,Wenonah,6,2,Upton,02/08/2019,16:23
+"1914 14th ave n,Minneapolis,MN",44.993072,-93.30464599999999,5,Near North,Willard - Hay,1,2,Upton,02/08/2019,16:24
+"1904 2ND AVE N,Minneapolis,MN",44.979178999999995,-93.304757,5,Near North,Harrison,3,2,Upton,02/08/2019,16:25
+"3220 Emerson ave s,Minneapolis,MN",44.943985,-93.29483,10,Calhoun Isle,South Uptown,5,2,Upton,02/08/2019,16:26
+"4612 54th st e,Minneapolis,MN",44.905532,-93.20742800000001,12,Nokomis,Minnehaha,6,2,Upton,02/08/2019,16:30
+"2700 COLFAX AVE N,Minneapolis,MN",45.007902,-93.291586,5,Near North,Hawthorne,1,2,Upton,02/08/2019,16:31
+"210 19th ave ne,Minneapolis,MN",45.007311,-93.265525,3,Northeast,Bottineau,2,2,Upton,02/08/2019,16:32
+"4750 54th Street East,Minneapolis,MN",44.905535,-93.205608,12,Nokomis,Minnehaha,6,2,Upton,02/08/2019,16:32
+"218 19th ave ne,Minneapolis,MN",45.007739,-93.26589,3,Northeast,Bottineau,2,2,Upton,02/08/2019,16:33
+"808 13th ave se,Minneapolis,MN",44.985163,-93.233571,3,University,Marcy Holmes,4,2,Upton,02/08/2019,16:35
+"1406 6TH ST SE,Minneapolis,MN",44.982110999999996,-93.233998,3,University,Marcy Holmes,4,2,Upton,02/08/2019,16:39
+"1314 FRONTAGE RD S,Minneapolis,MN",44.984885999999996,-93.303497,5,Near North,Near - North,1,2,Upton,02/08/2019,16:42
+"2924 22ND ST E,Minneapolis,MN",44.961177,-93.228656,6,Longfellow,Seward,4,2,Upton,02/08/2019,16:43
+"3426 elliot,Minneapolis,MN",44.940533,-93.261604,9,Powderhorn,Powderhorn Park,6,2,Upton,02/08/2019,16:43
+"2223 3rd st n ,Minneapolis,MN",44.994181,-93.281878,5,Near North,Near - North,1,3,Upton,02/09/2019,08:17
+"1771 Bryant ave s,Minneapolis,MN",44.96577,-93.290317,7,Calhoun Isle,Lowry Hill,3,3,Upton,02/09/2019,08:19
+"2631 3rd st n ,Minneapolis,MN",44.984859,-93.27531,3,Central,North Loop,3,3,Upton,02/09/2019,08:19
+"2607 3rd st n,Minneapolis,MN",44.994181,-93.281878,5,Near North,Near - North,1,3,Upton,02/09/2019,08:25
+"2807 3rd st n ,Minneapolis,MN",44.994181,-93.281878,5,Near North,Near - North,1,3,Upton,02/09/2019,08:29
+"4107 26th ave ,Minneapolis,MN",44.928404,-93.234383,12,Powderhorn,Standish,6,3,Upton,02/09/2019,08:32
+"3927 26th ave s,Minneapolis,MN",44.931483,-93.23438399999999,12,Powderhorn,Standish,6,3,Upton,02/09/2019,08:36
+"101 19TH ST E,Minneapolis,MN",44.963955,-93.276546,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,08:38
+"1777 Bryant ave s ,Minneapolis,MN",44.965711999999996,-93.290317,7,Calhoun Isle,Lowry Hill,3,3,Upton,02/09/2019,08:39
+"427 2nd Ave SE,Minneapolis,MN",44.988094,-93.252279,3,University,Marcy Holmes,4,3,Upton,02/09/2019,08:40
+"4205 15 th ave a,Minneapolis,MN",44.926665,-93.253314,8,Nokomis,Northrop,6,3,Upton,02/09/2019,08:43
+"4027 BLAISDELL ave,Minneapolis,MN",44.929617,-93.27889499999999,8,Southwest,King Field,5,3,Upton,02/09/2019,08:43
+"329 3rd ave se,Minneapolis,MN",44.986389,-93.25176,3,University,Marcy Holmes,4,3,Upton,02/09/2019,08:44
+"3433 4TH ST N,Minneapolis,MN",45.017658000000004,-93.285279,4,Camden,McKinley,1,3,Upton,02/09/2019,08:45
+"105 14TH ST W,Minneapolis,MN",44.968789,-93.27936,7,Central,Loring Park,3,3,Upton,02/09/2019,08:47
+"109 14TH ST W,Minneapolis,MN",44.968789,-93.27938,7,Central,Loring Park,3,3,Upton,02/09/2019,08:49
+"3001 N 3rd ST,Minneapolis,MN",45.010899,-93.283751,5,Near North,Hawthorne,1,3,Upton,02/09/2019,08:50
+"3003 N 3rd St,Minneapolis,MN",45.010766,-93.283378,5,Near North,Hawthorne,1,3,Upton,02/09/2019,08:56
+"1789 Bryant ave s,Minneapolis,MN",44.965575,-93.290317,7,Calhoun Isle,Lowry Hill,3,3,Upton,02/09/2019,09:00
+"3109 N 3rd St ,Minneapolis,MN",45.012062,-93.283377,5,Near North,Hawthorne,1,3,Upton,02/09/2019,09:02
+"529 3rd ave se,Minneapolis,MN",44.988547,-93.250155,3,University,Marcy Holmes,4,3,Upton,02/09/2019,09:03
+"3117 N 3rd St ,Minneapolis,MN",45.012155,-93.283377,5,Near North,Hawthorne,1,3,Upton,02/09/2019,09:06
+"3207 4 th st n,Minneapolis,MN",45.013409,-93.285264,4,Camden,McKinley,1,3,Upton,02/09/2019,09:08
+"3423 26th ave ,Minneapolis,MN",44.940395,-93.234344,9,Powderhorn,Corcoran,6,3,Upton,02/09/2019,09:13
+"1541 40th st,Minneapolis,MN",44.93033,-93.251921,8,Powderhorn,Bancroft,6,3,Upton,02/09/2019,09:15
+"3211 4TH ST N,Minneapolis,MN",45.013519,-93.285237,4,Camden,McKinley,1,3,Upton,02/09/2019,09:16
+"3825 15th ave,Minneapolis,MN",44.933333000000005,-93.253393,8,Powderhorn,Bancroft,6,3,Upton,02/09/2019,09:17
+"4837 elliot ave,Minneapolis,MN",44.914707,-93.261054,11,Nokomis,Northrop,6,3,Upton,02/09/2019,09:17
+"1821 Colfax Ave s ,Minneapolis,MN",44.964687,-93.291427,7,Calhoun Isle,Lowry Hill,3,3,Upton,02/09/2019,09:18
+"3205 4th st n ,Minneapolis,MN",45.013366,-93.285219,4,Camden,McKinley,1,3,Upton,02/09/2019,09:20
+"121 14TH ST W,Minneapolis,MN",44.968790000000006,-93.279441,7,Central,Loring Park,3,3,Upton,02/09/2019,09:22
+"2227 4th st n,Minneapolis,MN",45.002309000000004,-93.285265,5,Near North,Hawthorne,1,3,Upton,02/09/2019,09:25
+"413 2nd Ave SE,Minneapolis,MN",44.987696,-93.252602,3,University,Marcy Holmes,4,3,Upton,02/09/2019,09:25
+"419 2nd Ave s e,Minneapolis,MN",44.987907,-93.252431,3,University,Marcy Holmes,4,3,Upton,02/09/2019,09:27
+"415 2nd Ave SE,Minneapolis,MN",44.987726,-93.252584,3,University,Marcy Holmes,4,3,Upton,02/09/2019,09:28
+"3533 26th ave s,Minneapolis,MN",44.938507,-93.234394,9,Powderhorn,Corcoran,6,3,Upton,02/09/2019,09:29
+"3517 26 ave s,Minneapolis,MN",44.938946,-93.23439599999999,9,Powderhorn,Corcoran,6,3,Upton,02/09/2019,09:30
+"2527 4th st n ,Minneapolis,MN",45.005676,-93.285285,5,Near North,Hawthorne,1,3,Upton,02/09/2019,09:30
+"325 4th ave se,Minneapolis,MN",44.985865999999994,-93.25036,3,University,Marcy Holmes,4,3,Upton,02/09/2019,09:33
+"2229 4th st n,Minneapolis,MN",45.002316,-93.28526,5,Near North,Hawthorne,1,3,Upton,02/09/2019,09:38
+"1821 39th st e,Minneapolis,MN",44.932182,-93.246941,12,Powderhorn,Standish,6,3,Upton,02/09/2019,09:39
+"2617 3rd st n,Minneapolis,MN",44.994181,-93.281878,5,Near North,Near - North,1,3,Upton,02/09/2019,09:39
+"111 19TH ST E,Minneapolis,MN",44.963954,-93.27600000000001,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,09:39
+"219 RIDGEWOOD AVE S,Minneapolis,MN",44.963638,-93.281935,7,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,09:39
+"4647 blaisdell ave s,Minneapolis,MN",44.917984000000004,-93.27905200000001,11,Southwest,Tangletown,5,3,Upton,02/09/2019,09:40
+"1919 DuPont ave s ,Minneapolis,MN",44.963704,-93.29276,7,Calhoun Isle,Lowry Hill,3,3,Upton,02/09/2019,09:41
+"211 RIDGEWOOD AVE S,Minneapolis,MN",44.963619,-93.281572,7,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,09:42
+"2513 4th st n,Minneapolis,MN",45.005257,-93.285296,5,Near North,Hawthorne,1,3,Upton,02/09/2019,09:43
+"309 3RD AVE NE,Minneapolis,MN",44.991077000000004,-93.258129,3,Northeast,St. Anthony West,2,3,Upton,02/09/2019,09:45
+"1045 26th ave se,Minneapolis,MN",44.989290999999994,-93.216776,1,University,Como,4,3,Upton,02/09/2019,09:47
+"1333 Spruce Place,Minneapolis,MN",44.96983,-93.280834,7,Central,Loring Park,3,3,Upton,02/09/2019,09:51
+"305 3rd ave se,Minneapolis,MN",44.985879,-93.25216800000001,3,University,Marcy Holmes,4,3,Upton,02/09/2019,09:51
+"2929 6TH ST N,Minneapolis,MN",45.010448,-93.286781,5,Near North,Hawthorne,1,3,Upton,02/09/2019,09:51
+"2025 4th st n ,Minneapolis,MN",45.000075,-93.285412,5,Near North,Hawthorne,1,3,Upton,02/09/2019,09:51
+"3223 6th st n,Minneapolis,MN",45.013913,-93.286784,4,Camden,McKinley,1,3,Upton,02/09/2019,09:53
+"307 3RD AVE NE,Minneapolis,MN",44.991073,-93.25814100000001,3,Northeast,St. Anthony West,2,3,Upton,02/09/2019,09:55
+"3837 25th ave ,Minneapolis,MN",44.932998,-93.23564,12,Powderhorn,Standish,6,3,Upton,02/09/2019,09:56
+"1307 spruce pl ,Minneapolis,MN",44.96983,-93.280834,7,Central,Loring Park,3,3,Upton,02/09/2019,09:59
+"621 5th ave se,Minneapolis,MN",44.988276,-93.246565,3,University,Marcy Holmes,4,3,Upton,02/09/2019,10:00
+"515 3Rd Ave Ne,Minneapolis,MN",44.992871,-93.254924,3,Northeast,St. Anthony East,2,3,Upton,02/09/2019,10:01
+"2907 39th st e,Minneapolis,MN",44.932311999999996,-93.230804,12,Powderhorn,Standish,6,3,Upton,02/09/2019,10:03
+"3115 6th st n ,Minneapolis,MN",45.012131,-93.286239,5,Near North,Hawthorne,1,3,Upton,02/09/2019,10:05
+"421 6TH AVE NE,Minneapolis,MN",44.995321000000004,-93.258473,3,Northeast,St. Anthony West,2,3,Upton,02/09/2019,10:05
+"131 19TH ST E,Minneapolis,MN",44.963695,-93.27463399999999,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,10:07
+"403 5th ave se,Minneapolis,MN",44.985675,-93.248544,3,University,Marcy Holmes,4,3,Upton,02/09/2019,10:08
+"1939 Emerson ave s ,Minneapolis,MN",44.963182,-93.294022,7,Calhoun Isle,Lowry Hill,3,3,Upton,02/09/2019,10:11
+"203 6TH AVE NE,Minneapolis,MN",44.994440000000004,-93.261771,3,Northeast,St. Anthony West,2,3,Upton,02/09/2019,10:12
+"3405 15th Avenue South,Minneapolis,MN",44.941024,-93.25336,9,Powderhorn,Powderhorn Park,6,3,Upton,02/09/2019,10:15
+"3725 26th ave s,Minneapolis,MN",44.935001,-93.234273,12,Powderhorn,Standish,6,3,Upton,02/09/2019,10:15
+"3119 6th st n,Minneapolis,MN",45.012176000000004,-93.286238,5,Near North,Hawthorne,1,3,Upton,02/09/2019,10:16
+"3215 6TH ST N,Minneapolis,MN",45.013692,-93.286837,4,Camden,McKinley,1,3,Upton,02/09/2019,10:16
+"3407 15th Avenue South,Minneapolis,MN",44.941094,-93.25338,9,Powderhorn,Powderhorn Park,6,3,Upton,02/09/2019,10:18
+"3511 15th ave,Minneapolis,MN",44.939103,-93.253413,9,Powderhorn,Powderhorn Park,6,3,Upton,02/09/2019,10:18
+"2101 6th st n,Minneapolis,MN",45.000386999999996,-93.286801,5,Near North,Hawthorne,1,3,Upton,02/09/2019,10:19
+"1301 39th st,Minneapolis,MN",44.932336,-93.256174,8,Powderhorn,Bancroft,6,3,Upton,02/09/2019,10:20
+"3345 16th ave s,Minneapolis,MN",44.941559000000005,-93.250922,9,Powderhorn,Powderhorn Park,6,3,Upton,02/09/2019,10:21
+"3811 27 th ave s,Minneapolis,MN",44.93376,-93.233122,12,Powderhorn,Standish,6,3,Upton,02/09/2019,10:21
+"611 4th ave se,Minneapolis,MN",44.988490999999996,-93.24831,3,University,Marcy Holmes,4,3,Upton,02/09/2019,10:23
+"213 Ridgewood Ave S,Minneapolis,MN",44.963636,-93.281642,7,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,10:24
+"317 9th ave ne,Minneapolis,MN",44.998079,-93.262332,3,Northeast,St. Anthony West,2,3,Upton,02/09/2019,10:25
+"221 ridge wood Ave s,Minneapolis,MN",44.963676,-93.282084,7,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,10:29
+"4609 1st ave s,Minneapolis,MN",44.919265,-93.27634,11,Southwest,Tangletown,5,3,Upton,02/09/2019,10:30
+"307 5th ave se,Minneapolis,MN",44.984871000000005,-93.249038,3,University,Marcy Holmes,4,3,Upton,02/09/2019,10:30
+"3621 N 6th st ,Minneapolis,MN",45.02104,-93.286862,4,Camden,McKinley,1,3,Upton,02/09/2019,10:30
+"501 Ridgewood av s,Minneapolis,MN",44.963246999999996,-93.286023,7,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,10:32
+"213 7th ave se,Minneapolis,MN",44.982603999999995,-93.247159,3,University,Marcy Holmes,4,3,Upton,02/09/2019,10:32
+"1907 Emerson ave s ,Minneapolis,MN",44.964077,-93.294012,7,Calhoun Isle,Lowry Hill,3,3,Upton,02/09/2019,10:34
+"2103 6th st n ,Minneapolis,MN",45.0004,-93.286792,5,Near North,Hawthorne,1,3,Upton,02/09/2019,10:34
+"1043 16th Ave SE - MPLS,Minneapolis,MN",44.989055,-93.22985899999999,1,University,Como,4,3,Upton,02/09/2019,10:37
+"307 RIDGEWOOD AVE S,Minneapolis,MN",44.963621999999994,-93.282965,7,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,10:37
+"135 19TH ST E,Minneapolis,MN",44.963695,-93.27461,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,10:38
+"213 7th ave se,Minneapolis,MN",44.982603999999995,-93.247159,3,University,Marcy Holmes,4,3,Upton,02/09/2019,10:39
+"713 6th ave se,Minneapolis,MN",44.988508,-93.244509,3,University,Marcy Holmes,4,3,Upton,02/09/2019,10:40
+"301 RIDGEWOOD AVE S,Minneapolis,MN",44.963739000000004,-93.28268299999999,7,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,10:40
+"1033 16th Ave SE,Minneapolis,MN",44.988859999999995,-93.229765,1,University,Como,4,3,Upton,02/09/2019,10:40
+"4523 BLAISDELL ave s,Minneapolis,MN",44.920684,-93.278974,8,Southwest,King Field,5,3,Upton,02/09/2019,10:42
+"221 11th ave ne,Minneapolis,MN",44.998659,-93.267524,3,Northeast,St. Anthony West,2,3,Upton,02/09/2019,10:42
+"3603 6TH ST N,Minneapolis,MN",45.020501,-93.28686,4,Camden,McKinley,1,3,Upton,02/09/2019,10:43
+"115 10th ave ne,Minneapolis,MN",44.997381,-93.26730699999999,3,Northeast,St. Anthony West,2,3,Upton,02/09/2019,10:43
+"3601 6th st n ,Minneapolis,MN",45.020458000000005,-93.28688299999999,4,Camden,McKinley,1,3,Upton,02/09/2019,10:44
+"327 7th ave se,Minneapolis,MN",44.984097999999996,-93.246147,3,University,Marcy Holmes,4,3,Upton,02/09/2019,10:48
+"115 11th ave ne,Minneapolis,MN",44.998342,-93.26845,3,Northeast,St. Anthony West,2,3,Upton,02/09/2019,10:51
+"329 7th ave se,Minneapolis,MN",44.984109000000004,-93.246139,3,University,Marcy Holmes,4,3,Upton,02/09/2019,10:52
+"719 7th ave se,Minneapolis,MN",44.988053,-93.2431,3,University,Marcy Holmes,4,3,Upton,02/09/2019,10:52
+"121 11th ave ne,Minneapolis,MN",44.998365,-93.268384,3,Northeast,St. Anthony West,2,3,Upton,02/09/2019,10:54
+"5139 27th ave s ,Minneapolis,MN",44.909634000000004,-93.233226,11,Nokomis,Keewaydin,6,3,Upton,02/09/2019,10:55
+"4021 aldrich ave n,Minneapolis,MN",45.028263,-93.289679,4,Camden,Webber - Camden,1,3,Upton,02/09/2019,10:56
+"509 Ridgewood Ave S,Minneapolis,MN",44.963246000000005,-93.28609,7,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,10:56
+"511 RIDGEWOOD AVE,Minneapolis,MN",44.963246000000005,-93.286103,7,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,10:58
+"503 ridgewood Ave s,Minneapolis,MN",44.963246999999996,-93.286041,7,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,10:59
+"1817 Emerson ave s ,Minneapolis,MN",44.964815,-93.294042,7,Calhoun Isle,Lowry Hill,3,3,Upton,02/09/2019,10:59
+"119 11th ave ne,Minneapolis,MN",44.998357,-93.268406,3,Northeast,St. Anthony West,2,3,Upton,02/09/2019,11:05
+"311 5th ave s e,Minneapolis,MN",44.98502,-93.248897,3,University,Marcy Holmes,4,3,Upton,02/09/2019,11:07
+"729 6TH AVE SE,Minneapolis,MN",44.988715,-93.244341,3,University,Marcy Holmes,4,3,Upton,02/09/2019,11:07
+"117 11th ave ne,Minneapolis,MN",44.99835,-93.268428,3,Northeast,St. Anthony West,2,3,Upton,02/09/2019,11:08
+"4035 ALDRICH AVE N ,Minneapolis,MN",45.028678,-93.289666,4,Camden,Webber - Camden,1,3,Upton,02/09/2019,11:11
+"2221 6th st n ,Minneapolis,MN",45.002151,-93.286776,5,Near North,Hawthorne,1,3,Upton,02/09/2019,11:12
+"3411 15th ave s,Minneapolis,MN",44.940877,-93.253354,9,Powderhorn,Powderhorn Park,6,3,Upton,02/09/2019,11:13
+"2219 6th st n,Minneapolis,MN",45.002096,-93.28676999999999,5,Near North,Hawthorne,1,3,Upton,02/09/2019,11:13
+"605 RIDGEWOOD AVE,Minneapolis,MN",44.963316999999996,-93.287081,7,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,11:14
+"3323 10th ave s,Minneapolis,MN",44.942312,-93.26004300000001,9,Powderhorn,Powderhorn Park,6,3,Upton,02/09/2019,11:16
+"3243 15th Avenue South,Minneapolis,MN",44.943461,-93.25347099999999,9,Powderhorn,Powderhorn Park,6,3,Upton,02/09/2019,11:16
+"527 7th ave se,Minneapolis,MN",44.98611,-93.244428,3,University,Marcy Holmes,4,3,Upton,02/09/2019,11:21
+"227 7th ave se,Minneapolis,MN",44.982738,-93.247051,3,University,Marcy Holmes,4,3,Upton,02/09/2019,11:21
+"4053 Longfellow Avenue South,Minneapolis,MN",44.928957000000004,-93.245816,12,Powderhorn,Standish,6,3,Upton,02/09/2019,11:23
+"221 Clifton ave,Minneapolis,MN",44.965882,-93.284166,7,Central,Loring Park,3,3,Upton,02/09/2019,11:23
+"415 5th ave se,Minneapolis,MN",44.986059000000004,-93.248266,3,University,Marcy Holmes,4,3,Upton,02/09/2019,11:24
+"129 18TH ST E,Minneapolis,MN",44.965214,-93.275223,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,11:25
+"427 7th ave se,Minneapolis,MN",44.985154,-93.24525799999999,3,University,Marcy Holmes,4,3,Upton,02/09/2019,11:25
+"3415 Aldrich ave n ,Minneapolis,MN",45.017261,-93.289579,4,Camden,McKinley,1,3,Upton,02/09/2019,11:27
+"341 Oak Grove St,Minneapolis,MN",44.967318,-93.284539,7,Central,Loring Park,3,3,Upton,02/09/2019,11:29
+"409 8th ave se,Minneapolis,MN",44.984249,-93.244095,3,University,Marcy Holmes,4,3,Upton,02/09/2019,11:29
+"1929 Fremont Ave s ,Minneapolis,MN",44.96356,-93.29525,7,Calhoun Isle,Lowry Hill,3,3,Upton,02/09/2019,11:30
+"1623 6th st ne,Minneapolis,MN",45.004906,-93.258607,3,Northeast,Sheridan,2,3,Upton,02/09/2019,11:31
+"205 Ridgewood Ave s,Minneapolis,MN",44.963566,-93.281358,7,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,11:31
+"525 8th ave se,Minneapolis,MN",44.985626,-93.24297,3,University,Marcy Holmes,4,3,Upton,02/09/2019,11:31
+"3803 aldrich ave n,Minneapolis,MN",45.024119,-93.289631,4,Camden,Webber - Camden,1,3,Upton,02/09/2019,11:33
+"1403 6th st ne,Minneapolis,MN",45.002076,-93.258585,3,Northeast,Sheridan,2,3,Upton,02/09/2019,11:33
+"711 7th ave se,Minneapolis,MN",44.98798,-93.243413,3,University,Marcy Holmes,4,3,Upton,02/09/2019,11:34
+"501 6th st se,Minneapolis,MN",44.987640999999996,-93.246251,3,University,Marcy Holmes,4,3,Upton,02/09/2019,11:37
+"515 Ridgewood Ave s,Minneapolis,MN",44.963246000000005,-93.286128,7,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,11:39
+"505 Lyn park cir n,Minneapolis,MN",44.996736,-93.286821,5,Near North,Near - North,1,3,Upton,02/09/2019,11:39
+"404 8th ave se,Minneapolis,MN",44.983931,-93.243654,3,University,Marcy Holmes,4,3,Upton,02/09/2019,11:39
+"301 OAK GROVE ST,Minneapolis,MN",44.966573,-93.282949,7,Central,Loring Park,3,3,Upton,02/09/2019,11:40
+"725 8TH AVE SE,Minneapolis,MN",44.987543,-93.24159,3,University,Marcy Holmes,4,3,Upton,02/09/2019,11:43
+"1823 6th st ne,Minneapolis,MN",45.007289,-93.258217,1,Northeast,Holland,2,3,Upton,02/09/2019,11:44
+"517 RIDGEWOOD AVE S,Minneapolis,MN",44.963246000000005,-93.286141,7,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,11:45
+"345 OAK GROVE ST,Minneapolis,MN",44.967328,-93.284573,7,Central,Loring Park,3,3,Upton,02/09/2019,11:49
+"4161 ALDRICH AVE N,Minneapolis,MN",45.03105,-93.289661,4,Camden,Webber - Camden,1,3,Upton,02/09/2019,11:53
+"2517 5th st ne,Minneapolis,MN",45.013683,-93.26008399999999,1,Northeast,Holland,2,3,Upton,02/09/2019,11:56
+"1319 Upton Ave n,Minneapolis,MN",44.992315999999995,-93.31488,5,Near North,Willard - Hay,1,3,Upton,02/09/2019,11:57
+"119 19TH ST E,Minneapolis,MN",44.963954,-93.275564,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,12:00
+"1509 spruce pl,Minneapolis,MN",44.966678,-93.280833,7,Central,Loring Park,3,3,Upton,02/09/2019,12:03
+"3717 aldrich ave n,Minneapolis,MN",45.022678000000006,-93.289606,4,Camden,McKinley,1,3,Upton,02/09/2019,12:04
+"727 8th ave se,Minneapolis,MN",44.987586,-93.24144100000001,3,University,Marcy Holmes,4,3,Upton,02/09/2019,12:05
+"223 Oak Grove St,Minneapolis,MN",44.966526,-93.28183100000001,7,Central,Loring Park,3,3,Upton,02/09/2019,12:05
+"1531 spruce pl,Minneapolis,MN",44.966423,-93.28083000000001,7,Central,Loring Park,3,3,Upton,02/09/2019,12:05
+"1529 spruce pl,Minneapolis,MN",44.966423,-93.28083000000001,7,Central,Loring Park,3,3,Upton,02/09/2019,12:06
+"5753 32nd ave ,Minneapolis,MN",44.900698,-93.225831,11,Nokomis,Wenonah,6,3,Upton,02/09/2019,12:07
+"309 Clifton Ave ,Minneapolis,MN",44.965848,-93.284086,7,Central,Loring Park,3,3,Upton,02/09/2019,12:07
+"703 8th ave se,Minneapolis,MN",44.98697,-93.241935,3,University,Marcy Holmes,4,3,Upton,02/09/2019,12:07
+"1715 adams st ne,Minneapolis,MN",45.005711,-93.255984,1,Northeast,Logan Park,2,3,Upton,02/09/2019,12:10
+"3251 sheridan ave n ,Minneapolis,MN",45.014817,-93.31234599999999,4,Camden,Cleveland,1,3,Upton,02/09/2019,12:12
+"1701 adams st ne,Minneapolis,MN",45.005419,-93.25599100000001,1,Northeast,Logan Park,2,3,Upton,02/09/2019,12:13
+"729 9TH AVE SE,Minneapolis,MN",44.986917,-93.240053,3,University,Marcy Holmes,4,3,Upton,02/09/2019,12:14
+"821 7th st se,Minneapolis,MN",44.985636,-93.238989,3,University,Marcy Holmes,4,3,Upton,02/09/2019,12:14
+"729 8th ave se,Minneapolis,MN",44.987691999999996,-93.241449,3,University,Marcy Holmes,4,3,Upton,02/09/2019,12:15
+"3217 Sheridan ave n ,Minneapolis,MN",45.013833,-93.312311,4,Camden,Cleveland,1,3,Upton,02/09/2019,12:17
+"3519 15th Avenue South,Minneapolis,MN",44.938834,-93.25343199999999,9,Powderhorn,Powderhorn Park,6,3,Upton,02/09/2019,12:20
+"429 7th ave se,Minneapolis,MN",44.996744,-93.2593,3,Northeast,St. Anthony West,2,3,Upton,02/09/2019,12:20
+"1315 adams st ne,Minneapolis,MN",45.001371999999996,-93.255964,1,Northeast,Logan Park,2,3,Upton,02/09/2019,12:23
+"3221 17th ave s,Minneapolis,MN",44.943888,-93.249555,9,Powderhorn,Powderhorn Park,6,3,Upton,02/09/2019,12:24
+"3105 Elliot Avenue South,Minneapolis,MN",44.946296999999994,-93.261003,9,Powderhorn,Powderhorn Park,6,3,Upton,02/09/2019,12:25
+"817 7th st se,Minneapolis,MN",44.986674,-93.240801,3,University,Marcy Holmes,4,3,Upton,02/09/2019,12:26
+"1723 Upton Ave n,Minneapolis,MN",44.997785,-93.314881,5,Near North,Willard - Hay,1,3,Upton,02/09/2019,12:29
+"207 17th st e,Minneapolis,MN",44.966056,-93.27363000000001,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,12:32
+"805 37th st,Minneapolis,MN",44.935885999999996,-93.28957700000001,10,Southwest,East Harriet,5,3,Upton,02/09/2019,12:32
+"2017 Thomas Ave n ,Minneapolis,MN",45.000091,-93.313622,5,Near North,Willard - Hay,1,3,Upton,02/09/2019,12:32
+"3541 13th ave,Minneapolis,MN",44.938161,-93.255966,9,Powderhorn,Powderhorn Park,6,3,Upton,02/09/2019,12:34
+"815 7th st se,Minneapolis,MN",44.985636,-93.238989,3,University,Marcy Holmes,4,3,Upton,02/09/2019,12:35
+"321 oak Grove St ,Minneapolis,MN",44.96679,-93.283778,7,Central,Loring Park,3,3,Upton,02/09/2019,12:35
+"4333 Snelling Avenue South,Minneapolis,MN",44.924184999999994,-93.21856,12,Longfellow,Hiawatha,6,3,Upton,02/09/2019,12:35
+"1800 polk st ne,Minneapolis,MN",45.005928000000004,-93.244838,1,Northeast,Northeast Park,2,3,Upton,02/09/2019,12:37
+"2815 bryant ave n,Minneapolis,MN",45.009019,-93.290805,5,Near North,Hawthorne,1,3,Upton,02/09/2019,12:38
+"701 8th ave se,Minneapolis,MN",44.986771000000005,-93.241765,3,University,Marcy Holmes,4,3,Upton,02/09/2019,12:39
+"219 19th St e,Minneapolis,MN",44.972429,-93.243261,2,University,University of Minnesota,4,3,Upton,02/09/2019,12:41
+"900 20Th Ave Ne,Minneapolis,MN",45.008886,-93.249138,1,Northeast,Holland,2,3,Upton,02/09/2019,12:42
+"719 11TH ave se,Minneapolis,MN",44.985777,-93.237604,3,University,Marcy Holmes,4,3,Upton,02/09/2019,12:42
+"302 19TH ST E,Minneapolis,MN",44.964215,-93.272603,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,12:43
+"3401 41st st ,Minneapolis,MN",44.928548,-93.22283900000001,12,Longfellow,Hiawatha,6,3,Upton,02/09/2019,12:44
+"1137 adams st ne,Minneapolis,MN",44.999827,-93.255965,1,Northeast,Logan Park,2,3,Upton,02/09/2019,12:44
+"4431 Clinton Ave S,Minneapolis,MN",44.922346000000005,-93.27121600000001,8,Nokomis,Regina,5,3,Upton,02/09/2019,12:44
+"409 Clifton Ave ,Minneapolis,MN",44.966011,-93.284509,7,Central,Loring Park,3,3,Upton,02/09/2019,12:45
+"1135 adams st ne,Minneapolis,MN",44.999776000000004,-93.256001,1,Northeast,Logan Park,2,3,Upton,02/09/2019,12:46
+"1225 James ave n ,Minneapolis,MN",44.990814,-93.30090899999999,5,Near North,Near - North,1,3,Upton,02/09/2019,12:48
+"1721 STEVENS AV,Minneapolis,MN",44.965592,-93.27497,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,12:48
+"1207 adams st ne,Minneapolis,MN",45.000097,-93.255938,1,Northeast,Logan Park,2,3,Upton,02/09/2019,12:50
+"3215 21st ave so,Minneapolis,MN",44.944136,-93.24181999999999,9,Powderhorn,Corcoran,6,3,Upton,02/09/2019,12:52
+"1317 Knox ave n ,Minneapolis,MN",44.992172,-93.30218,5,Near North,Willard - Hay,1,3,Upton,02/09/2019,12:52
+"1729 CLIFTON PL,Minneapolis,MN",44.966957,-93.285923,7,Central,Loring Park,3,3,Upton,02/09/2019,12:54
+"703 13th ave se,Minneapolis,MN",44.984190999999996,-93.235067,3,University,Marcy Holmes,4,3,Upton,02/09/2019,12:57
+"525 7th st se,Minneapolis,MN",44.986102,-93.244435,3,University,Marcy Holmes,4,3,Upton,02/09/2019,12:57
+"1831 STEVENS AVE S,Minneapolis,MN",44.964399,-93.27529,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,12:57
+"3549 Clinton Ave S,Minneapolis,MN",44.938035,-93.271231,9,Powderhorn,Central,5,3,Upton,02/09/2019,13:01
+"1119 Fremont Ave n,Minneapolis,MN",44.990173999999996,-93.294397,5,Near North,Near - North,1,3,Upton,02/09/2019,13:01
+"725 13TH AVE SE,Minneapolis,MN",44.984891,-93.234533,3,University,Marcy Holmes,4,3,Upton,02/09/2019,13:02
+"3705 SNELLING AVE S,Minneapolis,MN",44.935884,-93.226529,12,Longfellow,Howe,6,3,Upton,02/09/2019,13:06
+"521 11th ave se,Minneapolis,MN",44.98335,-93.238986,3,University,Marcy Holmes,4,3,Upton,02/09/2019,13:08
+"707 13th ave se,Minneapolis,MN",44.984343,-93.234951,3,University,Marcy Holmes,4,3,Upton,02/09/2019,13:08
+"109 17th st e,Minneapolis,MN",44.966084,-93.275192,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,13:09
+"227 18th st e ,Minneapolis,MN",44.964818,-93.273269,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,13:09
+"709 11th ave se,Minneapolis,MN",44.985640000000004,-93.237713,3,University,Marcy Holmes,4,3,Upton,02/09/2019,13:12
+"1203 jefferson st ne,Minneapolis,MN",44.999862,-93.25445500000001,1,Northeast,Logan Park,2,3,Upton,02/09/2019,13:12
+"4015 Bryant ave n ,Minneapolis,MN",45.028166999999996,-93.290952,4,Camden,Webber - Camden,1,3,Upton,02/09/2019,13:15
+"1429 Jefferson St Ne,Minneapolis,MN",45.002871,-93.254723,1,Northeast,Logan Park,2,3,Upton,02/09/2019,13:16
+"721 Irving Ave n ,Minneapolis,MN",44.986059000000004,-93.300062,5,Near North,Near - North,1,3,Upton,02/09/2019,13:18
+"3233 aldrich ave n,Minneapolis,MN",45.014234,-93.28957199999999,4,Camden,McKinley,1,3,Upton,02/09/2019,13:18
+"135 18th st e,Minneapolis,MN",44.965215,-93.27512,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,13:19
+"4029 Colfax ave n ,Minneapolis,MN",45.028658,-93.292202,4,Camden,Webber - Camden,1,3,Upton,02/09/2019,13:20
+"711 13th ave se,Minneapolis,MN",44.984495,-93.234835,3,University,Marcy Holmes,4,3,Upton,02/09/2019,13:20
+"1829 2ND AVE S,Minneapolis,MN",44.96416,-93.27376600000001,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,13:20
+"3531 Clinton ave s,Minneapolis,MN",44.938571,-93.271229,9,Powderhorn,Central,5,3,Upton,02/09/2019,13:22
+"117 17th st e,Minneapolis,MN",44.966084,-93.275088,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,13:29
+"3121 12th Avenue South,Minneapolis,MN",44.946090000000005,-93.257204,9,Powderhorn,Powderhorn Park,6,3,Upton,02/09/2019,13:29
+"3301 41 st e,Minneapolis,MN",44.928722,-93.224179,12,Longfellow,Hiawatha,6,3,Upton,02/09/2019,13:31
+"203 8th ave se,Minneapolis,MN",44.982065999999996,-93.24585,3,University,Marcy Holmes,4,3,Upton,02/09/2019,13:32
+"231 oak Grove st,Minneapolis,MN",44.966435,-93.282403,7,Central,Loring Park,3,3,Upton,02/09/2019,13:32
+"3137 Elliot ave s,Minneapolis,MN",44.94543,-93.261093,9,Powderhorn,Powderhorn Park,6,3,Upton,02/09/2019,13:33
+"3129 13th ave,Minneapolis,MN",44.946044,-93.25604399999999,9,Powderhorn,Powderhorn Park,6,3,Upton,02/09/2019,13:36
+"1827 Stevens Ave s,Minneapolis,MN",44.964424,-93.27529,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,13:36
+"3025 10th ave,Minneapolis,MN",44.947398,-93.25979699999999,9,Powderhorn,Powderhorn Park,6,3,Upton,02/09/2019,13:39
+"1201 main st ne,Minneapolis,MN",45.000013,-93.267376,3,Northeast,Sheridan,2,3,Upton,02/09/2019,13:40
+"3753 colfax ave n,Minneapolis,MN",45.023663,-93.292161,4,Camden,McKinley,1,3,Upton,02/09/2019,13:42
+"1400 6TH ST SE,Minneapolis,MN",44.982453,-93.234208,3,University,Marcy Holmes,4,3,Upton,02/09/2019,13:42
+"209 Girard Ave n,Minneapolis,MN",44.978389,-93.29760300000001,5,Near North,Harrison,3,3,Upton,02/09/2019,13:42
+"1715 madison st ne,Minneapolis,MN",45.005277,-93.253428,1,Northeast,Logan Park,2,3,Upton,02/09/2019,13:44
+"617 jefferson st ne,Minneapolis,MN",44.995683,-93.254725,3,Northeast,St. Anthony East,2,3,Upton,02/09/2019,13:45
+"500 9th ave se,Minneapolis,MN",44.984637,-93.24239200000001,3,University,Marcy Holmes,4,3,Upton,02/09/2019,13:46
+"1200 6th st se,Minneapolis,MN",44.983559,-93.236965,3,University,Marcy Holmes,4,3,Upton,02/09/2019,13:46
+"943 17th ave se,Minneapolis,MN",44.98602,-93.22896800000001,2,University,Como,4,3,Upton,02/09/2019,13:46
+"3715 Colfax ave n ,Minneapolis,MN",45.022625,-93.29209300000001,4,Camden,McKinley,1,3,Upton,02/09/2019,13:46
+"105 17th st e,Minneapolis,MN",44.966084,-93.275244,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,13:47
+"500 9th ave ne ,Minneapolis,MN",44.998564,-93.260251,3,Northeast,St. Anthony West,2,3,Upton,02/09/2019,13:48
+"1911 STEVENS AVE S,Minneapolis,MN",44.963476,-93.27502700000001,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,13:50
+"103 17th st e ,Minneapolis,MN",44.966275,-93.27527099999999,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,13:51
+"703 Elwood ave n ,Minneapolis,MN",44.985875,-93.301579,5,Near North,Near - North,1,3,Upton,02/09/2019,13:51
+"329 Clifton ave,Minneapolis,MN",44.965979,-93.28444,7,Central,Loring Park,3,3,Upton,02/09/2019,13:51
+"211 Girard Ave n,Minneapolis,MN",44.978437,-93.297604,5,Near North,Harrison,3,3,Upton,02/09/2019,13:53
+"1405 dupont Ave n,Minneapolis,MN",44.993223,-93.292919,5,Near North,Near - North,1,3,Upton,02/09/2019,13:54
+"1913 STEVENS AVE S,Minneapolis,MN",44.963413,-93.274973,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,13:54
+"1479 7th ave se,Minneapolis,MN",44.988273,-93.242396,3,University,Marcy Holmes,4,3,Upton,02/09/2019,13:55
+"4029 20th ave so,Minneapolis,MN",44.929611,-93.243258,12,Powderhorn,Standish,6,3,Upton,02/09/2019,13:56
+"1805 2ND AVE S,Minneapolis,MN",44.964940999999996,-93.27376600000001,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,13:58
+"1401 7th st se,Minneapolis,MN",44.983431,-93.233419,3,University,Marcy Holmes,4,3,Upton,02/09/2019,14:00
+"3107 Thomas ave n ,Minneapolis,MN",45.012516,-93.313701,4,Near North,Jordan,1,3,Upton,02/09/2019,14:01
+"3541 11th ave s ,Minneapolis,MN",44.938274,-93.258436,9,Powderhorn,Powderhorn Park,6,3,Upton,02/09/2019,14:06
+"3023 26th st e,Minneapolis,MN",44.955583000000004,-93.228011,2,Longfellow,Seward,4,3,Upton,02/09/2019,14:10
+"1321 3rd st ne,Minneapolis,MN",45.00164,-93.264347,3,Northeast,Sheridan,2,3,Upton,02/09/2019,14:14
+"3325 colfax ave n ,Minneapolis,MN",45.015803000000005,-93.292099,4,Camden,McKinley,1,3,Upton,02/09/2019,14:15
+"1100 7TH ST SE,Minneapolis,MN",44.985085,-93.237574,3,University,Marcy Holmes,4,3,Upton,02/09/2019,14:16
+"1313 3Rd St Ne,Minneapolis,MN",45.001389,-93.264336,3,Northeast,Sheridan,2,3,Upton,02/09/2019,14:17
+"1807 2nd ave s ,Minneapolis,MN",44.964886,-93.273719,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,14:19
+"1200 6th st se,Minneapolis,MN",44.983559,-93.236965,3,University,Marcy Holmes,4,3,Upton,02/09/2019,14:21
+"1825 Stevens Ave s,Minneapolis,MN",44.964437,-93.27529,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,14:22
+"153 12th ave ne,Minneapolis,MN",45.000015000000005,-93.26692,3,Northeast,Sheridan,2,3,Upton,02/09/2019,14:22
+"131 12th ave ne,Minneapolis,MN",45.000014,-93.267236,3,Northeast,Sheridan,2,3,Upton,02/09/2019,14:24
+"1415 14th ave n,Minneapolis,MN",44.993064000000004,-93.29258,5,Near North,Near - North,1,3,Upton,02/09/2019,14:25
+"341 26th ave ne,Minneapolis,MN",45.014977,-93.263402,1,Northeast,Marshall Terrace,2,3,Upton,02/09/2019,14:28
+"1907 2nd Ave s,Minneapolis,MN",44.963701,-93.273786,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,14:29
+"1419 14th ave n ,Minneapolis,MN",44.993064000000004,-93.29258,5,Near North,Near - North,1,3,Upton,02/09/2019,14:29
+"2511 3rd st ne,Minneapolis,MN",45.013578,-93.264328,1,Northeast,Marshall Terrace,2,3,Upton,02/09/2019,14:30
+"2531 3rd st ne,Minneapolis,MN",45.014164,-93.264302,1,Northeast,Marshall Terrace,2,3,Upton,02/09/2019,14:33
+"4900 block logan ave n ,Minneapolis,MN",45.04407,-93.3039,4,Camden,Shingle Creek,1,3,Upton,02/09/2019,14:38
+"2723 colfax ave n,Minneapolis,MN",45.008472999999995,-93.292046,5,Near North,Hawthorne,1,3,Upton,02/09/2019,14:39
+"405 GIRARD TER,Minneapolis,MN",44.981897,-93.297382,5,Near North,Harrison,3,3,Upton,02/09/2019,14:39
+"5733 BoSSen terr,Minneapolis,MN",44.899267,-93.226196,11,Nokomis,Wenonah,6,3,Upton,02/09/2019,14:40
+"1200 block & 7th st se,Minneapolis,MN",44.984525,-93.236191,3,University,Marcy Holmes,4,3,Upton,02/09/2019,14:44
+"1913 2ND AVE S,Minneapolis,MN",44.96346,-93.273788,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,14:46
+"1919 2nd ave s,Minneapolis,MN",44.963203,-93.27376600000001,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,14:47
+"4900 block sheridan ave n ,Minneapolis,MN",45.044106,-93.31276899999999,4,Camden,Shingle Creek,1,3,Upton,02/09/2019,14:47
+"1200 6TH ST SE,Minneapolis,MN",44.983559,-93.236965,3,University,Marcy Holmes,4,3,Upton,02/09/2019,14:49
+"2825 33rd st,Minneapolis,MN",44.951034,-93.224017,2,Longfellow,Longfellow,4,3,Upton,02/09/2019,14:53
+"600 9th ave se ,Minneapolis,MN",44.9854,-93.241664,3,University,Marcy Holmes,4,3,Upton,02/09/2019,14:53
+"1427 S FRONTAGE ROAD,Minneapolis,MN",44.98411,-93.29853299999999,5,Near North,Harrison,3,3,Upton,02/09/2019,14:54
+"744 14 ave se,Minneapolis,MN",44.984118,-93.232301,3,University,Marcy Holmes,4,3,Upton,02/09/2019,14:56
+"1423 Girard Ave n ,Minneapolis,MN",44.993876,-93.297478,5,Near North,Near - North,1,3,Upton,02/09/2019,14:56
+"1200 6th st se,Minneapolis,MN",44.983559,-93.236965,3,University,Marcy Holmes,4,3,Upton,02/09/2019,14:58
+"1319 Girard Ave n ,Minneapolis,MN",44.992726,-93.297523,5,Near North,Near - North,1,3,Upton,02/09/2019,14:59
+"3205 41st Street East,Minneapolis,MN",44.928717,-93.224429,12,Longfellow,Hiawatha,6,3,Upton,02/09/2019,15:02
+"1821 2ND AVE S,Minneapolis,MN",44.964385,-93.27376600000001,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,15:05
+"3111 33rd Street East,Minneapolis,MN",44.946353,-93.223997,2,Longfellow,Longfellow,6,3,Upton,02/09/2019,15:06
+"1925 CLINTON AVE S,Minneapolis,MN",44.963236,-93.27149,6,Central,Steven's Square - Loring Heights,3,3,Upton,02/09/2019,15:07
+"1829 37th st,Minneapolis,MN",44.935893,-93.293299,10,Southwest,East Harriet,5,3,Upton,02/09/2019,15:12
+"511 NEWTON AV N,Minneapolis,MN",44.982999,-93.306117,5,Near North,Harrison,3,3,Upton,02/09/2019,15:13
+"1300 6TH ST SE,Minneapolis,MN",44.98299,-93.235579,3,University,Marcy Holmes,4,3,Upton,02/09/2019,15:18

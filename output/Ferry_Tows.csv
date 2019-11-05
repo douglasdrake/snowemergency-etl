@@ -1,0 +1,1329 @@
+Location,Latitude,Longitude,Ward,Neighborhood,Community,Day,Tow_Zone,Date,Time,Emergency
+"2563 2nd st n. ,Minneapolis,MN",45.005508,-93.280233,5,Hawthorne,Near North,1,1,12/17/2016,21:15,Ferry
+"3018 Chicago Avenue S,Minneapolis,MN",44.947734000000004,-93.26302700000001,9,Central,Powderhorn,1,5,12/17/2016,21:21,Ferry
+"3232 Chicago ave,Minneapolis,MN",44.943659999999994,-93.262996,9,Central,Powderhorn,1,5,12/17/2016,21:23,Ferry
+"2802 EMERSON AVE S,Minneapolis,MN",44.951574,-93.29446999999999,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,21:24,Ferry
+"2814 EMERSON AVE S,Minneapolis,MN",44.951547,-93.294471,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,21:26,Ferry
+"3220 Chicago Ave. S. ,Minneapolis,MN",44.94402,-93.263003,9,Central,Powderhorn,1,5,12/17/2016,21:29,Ferry
+"4327 4th Ave s,Minneapolis,MN",44.924246000000004,-93.269937,8,Regina,Nokomis,1,5,12/17/2016,21:34,Ferry
+"2563 2nd St N,Minneapolis,MN",45.005508,-93.280233,5,Hawthorne,Near North,1,1,12/17/2016,21:34,Ferry
+"935 2nd st n,Minneapolis,MN",44.991053,-93.27934499999999,3,North Loop,Central,1,1,12/17/2016,21:41,Ferry
+"2563 2ND ST N ,Minneapolis,MN",45.005508,-93.280233,5,Hawthorne,Near North,1,1,12/17/2016,21:42,Ferry
+"3717 4 th ave s,Minneapolis,MN",44.935396999999995,-93.269855,8,Central,Powderhorn,1,5,12/17/2016,21:42,Ferry
+"4909 4th Avenue South,Minneapolis,MN",44.913924,-93.27005600000001,8,Field,Nokomis,1,5,12/17/2016,21:43,Ferry
+"2816 emerson ave s,Minneapolis,MN",44.951524,-93.294472,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,21:43,Ferry
+"935 2nd st n,Minneapolis,MN",44.991053,-93.27934499999999,3,North Loop,Central,1,1,12/17/2016,21:43,Ferry
+"4316 4TH ave s,Minneapolis,MN",44.924498,-93.227416,12,Ericsson,Nokomis,1,6,12/17/2016,21:46,Ferry
+"3917 4th Avenue South,Minneapolis,MN",44.931744,-93.26982,8,Bryant,Powderhorn,1,5,12/17/2016,21:46,Ferry
+"3418 Johnson St NE,Minneapolis,MN",45.030046,-93.23740600000001,1,Waite Park,Northeast,1,2,12/17/2016,21:47,Ferry
+"428 5th Ave se ,Minneapolis,MN",44.9861,-93.247751,3,Marcy Holmes,University,2,4,12/18/2016,10:25,Ferry
+"3549 4th Ave s,Minneapolis,MN",44.938047,-93.270166,9,Central,Powderhorn,1,5,12/17/2016,21:47,Ferry
+"1218 Morgan Ave N,Minneapolis,MN",44.990289000000004,-93.30411099999999,5,Near - North,Near North,2,1,12/18/2016,11:23,Ferry
+"3104 Humboldt Ave South,Minneapolis,MN",44.946294,-93.301087,10,ECCO,Calhoun Isles,2,5,12/18/2016,10:25,Ferry
+"2810 Emerson ave s,Minneapolis,MN",44.951571,-93.29446999999999,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,21:49,Ferry
+"1504 5th st ne,Minneapolis,MN",45.003352,-93.260273,3,Sheridan,Northeast,2,2,12/18/2016,11:24,Ferry
+"3210 Emerson Ave s,Minneapolis,MN",44.944282,-93.294527,10,South Uptown,Calhoun Isles,2,5,12/18/2016,14:32,Ferry
+"324 7th ave se,Minneapolis,MN",44.983612,-93.24606999999999,3,Marcy Holmes,University,2,4,12/18/2016,10:25,Ferry
+"1034 13th ave se,Minneapolis,MN",44.988868,-93.23292099999999,2,Como,University,2,4,12/18/2016,11:24,Ferry
+"3116 colfax ave s,Minneapolis,MN",44.945898,-93.2923,10,South Uptown,Calhoun Isles,2,5,12/18/2016,14:32,Ferry
+"935 2ND ST N ,Minneapolis,MN",44.991053,-93.27934499999999,3,North Loop,Central,1,1,12/17/2016,21:51,Ferry
+"1004 13th ave se,Minneapolis,MN",44.988046999999995,-93.233289,2,Como,University,2,4,12/18/2016,11:26,Ferry
+"4733 4TH AVE S ,Minneapolis,MN",44.916895000000004,-93.270005,8,Field,Nokomis,1,5,12/17/2016,21:51,Ferry
+"1828 33rd st E,Minneapolis,MN",44.942945,-93.247093,9,Corcoran,Powderhorn,2,6,12/18/2016,14:32,Ferry
+"410 11th Ave SE,Minneapolis,MN",44.982376,-93.239339,3,Marcy Holmes,University,2,4,12/18/2016,11:27,Ferry
+"3024 Chicago Avenue South,Minneapolis,MN",44.947497,-93.26300400000001,9,Central,Powderhorn,1,5,12/17/2016,21:51,Ferry
+"144 19TH ST E,Minneapolis,MN",44.963968,-93.274513,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,14:33,Ferry
+"946 12th ave se,Minneapolis,MN",44.986983,-93.234551,2,Como,University,2,4,12/18/2016,11:27,Ferry
+"500-799 2nd st n,Minneapolis,MN",44.987185,-93.273561,3,North Loop,Central,1,1,12/17/2016,21:52,Ferry
+"668 15th ave ne,Minneapolis,MN",45.003068,-93.253918,1,Logan Park,Northeast,2,2,12/18/2016,14:33,Ferry
+"3118 3rd st n,Minneapolis,MN",45.012184999999995,-93.283395,5,Hawthorne,Near North,2,1,12/18/2016,10:26,Ferry
+"523 15TH ST E,Minneapolis,MN",44.968046,-93.268187,6,Elliot Park,Central,2,3,12/18/2016,01:36,Ferry
+"1714 Irving Ave. N. ,Minneapolis,MN",44.996828,-93.299125,5,Near - North,Near North,2,1,12/18/2016,10:26,Ferry
+"1218 Sheridan Ave n,Minneapolis,MN",44.990544,-93.31206800000001,5,Willard - Hay,Near North,2,1,12/18/2016,14:34,Ferry
+"410 8th ave se,Minneapolis,MN",44.98418,-93.243798,3,Marcy Holmes,University,2,4,12/18/2016,11:27,Ferry
+"3715 4TH AVE S,Minneapolis,MN",44.935516,-93.269785,8,Central,Powderhorn,1,5,12/17/2016,21:53,Ferry
+"1102 13th ave se,Minneapolis,MN",44.990904,-93.233074,2,Como,University,2,4,12/18/2016,13:36,Ferry
+"3610 10th Avenue South,Minneapolis,MN",44.937288,-93.260023,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,10:27,Ferry
+"2226 6th st n,Minneapolis,MN",45.002334999999995,-93.286192,5,Hawthorne,Near North,2,1,12/18/2016,11:27,Ferry
+"3204 16th Avenue South,Minneapolis,MN",44.944386,-93.251474,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,14:34,Ferry
+"3038 13th ave s,Minneapolis,MN",44.947041,-93.256644,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,13:36,Ferry
+"420 7th ave se,Minneapolis,MN",44.984832,-93.24509300000001,3,Marcy Holmes,University,2,4,12/18/2016,10:28,Ferry
+"3238 Chicago Avenue South,Minneapolis,MN",44.943534,-93.26263399999999,9,Central,Powderhorn,1,5,12/17/2016,21:55,Ferry
+"108 9th ave ne,Minneapolis,MN",44.996217,-93.267119,3,St. Anthony West,Northeast,2,2,12/18/2016,11:28,Ferry
+"202 23rd ave ne,Minneapolis,MN",45.011092,-93.266166,3,Bottineau,Northeast,2,2,12/18/2016,15:40,Ferry
+"612 8th ave se,Minneapolis,MN",44.986208000000005,-93.242187,3,Marcy Holmes,University,2,4,12/18/2016,10:28,Ferry
+"3934 aldrich ave n ,Minneapolis,MN",45.026786,-93.28909300000001,4,Webber - Camden,Camden,2,1,12/18/2016,14:34,Ferry
+"2834 Emerson ave s,Minneapolis,MN",44.951218,-93.29447900000001,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,21:55,Ferry
+"224 12th ave ne,Minneapolis,MN",44.99961,-93.265047,3,Sheridan,Northeast,2,2,12/18/2016,13:36,Ferry
+"1710 Fremont Ave s,Minneapolis,MN",44.967013,-93.295642,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,11:29,Ferry
+"2722 Bryant Ave n,Minneapolis,MN",45.008463,-93.290293,5,Hawthorne,Near North,2,1,12/18/2016,15:41,Ferry
+"3822 11th ave s,Minneapolis,MN",44.933352,-93.25873100000001,8,Bancroft,Powderhorn,2,6,12/18/2016,10:29,Ferry
+"2017 PORTLAND AVE,Minneapolis,MN",44.962005,-93.267656,6,Ventura Village,Phillips,2,3,12/18/2016,02:35,Ferry
+"1004 Newton Ave N,Minneapolis,MN",44.988157,-93.305711,5,Near - North,Near North,2,1,12/18/2016,13:37,Ferry
+"2912 EMERSON AVE S,Minneapolis,MN",44.949559,-93.294494,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,21:55,Ferry
+"1828 Oliver Ave n,Minneapolis,MN",44.998234000000004,-93.306933,5,Willard - Hay,Near North,2,1,12/18/2016,13:37,Ferry
+"3232aldrich Ave s,Minneapolis,MN",44.943649,-93.289681,10,South Uptown,Calhoun Isles,2,5,12/18/2016,15:41,Ferry
+"3812 11th Ave. S.,Minneapolis,MN",44.933664,-93.258975,8,Bancroft,Powderhorn,2,6,12/18/2016,10:31,Ferry
+"253 humbolt ave n,Minneapolis,MN",44.979687,-93.298551,5,Harrison,Near North,3,3,12/19/2016,13:07,Ferry
+"1910 2ND AVE S,Minneapolis,MN",44.963589,-93.27405,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,14:35,Ferry
+"3455 4th ave s,Minneapolis,MN",44.939715,-93.26993399999999,9,Central,Powderhorn,1,5,12/17/2016,21:57,Ferry
+"1518 39th st e,Minneapolis,MN",44.93233,-93.252734,8,Bancroft,Powderhorn,2,6,12/18/2016,11:30,Ferry
+"2312 HUMBOLDT AVE S,Minneapolis,MN",44.959559000000006,-93.29861,7,East Isles,Calhoun Isles,2,3,12/18/2016,13:38,Ferry
+"304 20th ave ne,Minneapolis,MN",45.008544,-93.26304,1,Holland,Northeast,2,2,12/18/2016,15:43,Ferry
+"3022 KNOX AVE S ,Minneapolis,MN",44.947509000000004,-93.304665,10,ECCO,Calhoun Isles,2,5,12/18/2016,10:31,Ferry
+"932 18th ave se,Minneapolis,MN",44.98731,-93.22691400000001,2,Como,University,2,4,12/18/2016,14:35,Ferry
+"3207 36th st e,Minneapolis,MN",44.937559,-93.225289,12,Howe,Longfellow,3,6,12/19/2016,13:07,Ferry
+"614 5th st ne,Minneapolis,MN",44.995748,-93.25851999999999,3,St. Anthony West,Northeast,2,2,12/18/2016,10:31,Ferry
+"503 6th st se,Minneapolis,MN",44.987508,-93.246285,3,Marcy Holmes,University,3,4,12/19/2016,13:08,Ferry
+"3625 4th Avenue South,Minneapolis,MN",44.936952000000005,-93.269901,8,Central,Powderhorn,1,5,12/17/2016,21:58,Ferry
+"2420 harriet av s,Minneapolis,MN",44.958422999999996,-93.285793,10,Whittier,Powderhorn,2,3,12/18/2016,14:35,Ferry
+"314 18th St e,Minneapolis,MN",44.965363,-93.272126,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,13:38,Ferry
+"3710 aldrich ave n ,Minneapolis,MN",45.022490999999995,-93.289061,4,McKinley,Camden,2,1,12/18/2016,15:44,Ferry
+"1030 12th Ave se,Minneapolis,MN",44.988766,-93.234318,2,Como,University,2,4,12/18/2016,11:30,Ferry
+"2608 3rd st n,Minneapolis,MN",45.006021000000004,-93.283402,5,Hawthorne,Near North,2,1,12/18/2016,09:14,Ferry
+"3548 4th ave s,Minneapolis,MN",44.938231,-93.270551,9,Central,Powderhorn,1,5,12/17/2016,21:58,Ferry
+"406 7th ave se,Minneapolis,MN",44.984545000000004,-93.245322,3,Marcy Holmes,University,2,4,12/18/2016,10:33,Ferry
+"3429 17th Ave. so,Minneapolis,MN",44.940334,-93.249636,9,Powderhorn Park,Powderhorn,3,6,12/19/2016,13:09,Ferry
+"1254 queen ave n,Minneapolis,MN",44.991007,-93.309488,5,Willard - Hay,Near North,2,1,12/18/2016,13:38,Ferry
+"614 5th st ne,Minneapolis,MN",44.995748,-93.25851999999999,3,St. Anthony West,Northeast,2,2,12/18/2016,11:31,Ferry
+"2004 GRAND AVE S,Minneapolis,MN",44.962425,-93.284487,10,Whittier,Powderhorn,2,3,12/18/2016,15:44,Ferry
+"718 5TH AVE SE,Minneapolis,MN",44.989021,-93.24544200000001,3,Marcy Holmes,University,2,4,12/18/2016,09:14,Ferry
+"2830 Emerson s,Minneapolis,MN",44.951329,-93.294477,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,22:01,Ferry
+"3232 humbolt Ave s,Minneapolis,MN",44.943668,-93.301128,10,ECCO,Calhoun Isles,2,5,12/18/2016,10:33,Ferry
+"1043 20th Avenue Southeast,Minneapolis,MN",44.989093,-93.224602,1,Como,University,3,4,12/19/2016,13:09,Ferry
+"300 18th St e,Minneapolis,MN",44.965363,-93.272126,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,13:40,Ferry
+"1512 spruce pl,Minneapolis,MN",44.967154,-93.28119699999999,7,Loring Park,Central,2,3,12/18/2016,11:32,Ferry
+"320 4th Avenue southeast ,Minneapolis,MN",44.985675,-93.250212,3,Marcy Holmes,University,2,4,12/18/2016,09:15,Ferry
+"342 20th ave ne,Minneapolis,MN",45.008249,-93.262396,1,Holland,Northeast,2,2,12/18/2016,15:45,Ferry
+"2818 Emerson s,Minneapolis,MN",44.951501,-93.294472,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,22:03,Ferry
+"1625 newton ave n,Minneapolis,MN",44.996001,-93.305714,5,Willard - Hay,Near North,3,1,12/19/2016,13:11,Ferry
+"1408 6th st se,Minneapolis,MN",44.982082,-93.23385,3,Marcy Holmes,University,2,4,12/18/2016,13:41,Ferry
+"624 11-2the ave se,Minneapolis,MN",44.987168,-93.25705,3,Nicollet Island - East Bank,University,2,4,12/18/2016,11:32,Ferry
+"3222 4th st n,Minneapolis,MN",45.013912,-93.28466,4,McKinley,Camden,2,1,12/18/2016,10:33,Ferry
+"1902 41st st e,Minneapolis,MN",44.928899,-93.24430699999999,12,Standish,Powderhorn,2,6,12/18/2016,09:17,Ferry
+"2824 Emerson ave s,Minneapolis,MN",44.951431,-93.294474,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,22:03,Ferry
+"716 5th ave se,Minneapolis,MN",44.988853000000006,-93.245251,3,Marcy Holmes,University,2,4,12/18/2016,15:45,Ferry
+"2206 TALMAGE AVE SE,Minneapolis,MN",44.989686,-93.221458,1,Como,University,2,4,12/18/2016,13:41,Ferry
+"629 18TH ST E,Minneapolis,MN",44.965016999999996,-93.265858,6,Ventura Village,Phillips,3,3,12/19/2016,13:11,Ferry
+"3146 Holmes Ave s,Minneapolis,MN",44.944953000000005,-93.299625,10,ECCO,Calhoun Isles,2,5,12/18/2016,11:32,Ferry
+"2654 queen ave n,Minneapolis,MN",45.007596,-93.309212,5,Jordan,Near North,2,1,12/18/2016,15:46,Ferry
+"3505 14th ave s,Minneapolis,MN",44.93926,-93.25493900000001,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,09:18,Ferry
+"2910 EMERSON AVE S,Minneapolis,MN",44.949638,-93.294495,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,22:05,Ferry
+"855 21st st e,Minneapolis,MN",44.961804,-93.261426,6,Ventura Village,Phillips,3,3,12/19/2016,13:12,Ferry
+"118 9th ave ne,Minneapolis,MN",44.996292,-93.266903,3,St. Anthony West,Northeast,2,2,12/18/2016,11:34,Ferry
+"3322 aldrich ave n ,Minneapolis,MN",45.015692,-93.289062,4,McKinley,Camden,2,1,12/18/2016,15:47,Ferry
+"1206 Freemont ave n,Minneapolis,MN",44.991984,-93.295631,5,Near - North,Near North,2,1,12/18/2016,09:20,Ferry
+"28 16th ave ne,Minneapolis,MN",45.003907,-93.270684,3,Sheridan,Northeast,2,2,12/18/2016,13:41,Ferry
+"202 20th ave ne,Minneapolis,MN",45.008524,-93.26528,3,Bottineau,Northeast,2,2,12/18/2016,14:35,Ferry
+"3729 27th ave s,Minneapolis,MN",44.934806,-93.233102,12,Standish,Powderhorn,3,6,12/19/2016,13:12,Ferry
+"3218 Johnson St NE,Minneapolis,MN",45.026447999999995,-93.237381,1,Waite Park,Northeast,1,2,12/17/2016,22:05,Ferry
+"2100 Girard ave s,Minneapolis,MN",44.961883,-93.297268,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,12:17,Ferry
+"1726 Adams st ne,Minneapolis,MN",45.005633,-93.256298,1,Logan Park,Northeast,2,2,12/18/2016,15:49,Ferry
+"118 oak grove st,Minneapolis,MN",44.966387,-93.280238,7,Loring Park,Central,2,3,12/18/2016,09:20,Ferry
+"3240 Holmes Ave s,Minneapolis,MN",44.943445000000004,-93.299873,10,ECCO,Calhoun Isles,2,5,12/18/2016,11:34,Ferry
+"728 15th st e ,Minneapolis,MN",44.968344,-93.263456,7,Elliot Park,Central,2,3,12/18/2016,01:42,Ferry
+"1107 17TH AVE SE,Minneapolis,MN",44.990977,-93.228585,1,Como,University,3,4,12/19/2016,13:14,Ferry
+"3617 Chicago Avenue South,Minneapolis,MN",44.937163,-93.262512,9,Powderhorn Park,Powderhorn,1,6,12/17/2016,22:05,Ferry
+"922 26th Avenue Southeast,Minneapolis,MN",44.987418,-93.216086,2,Como,University,2,4,12/18/2016,15:49,Ferry
+"3358 RUSSELL AVE N,Minneapolis,MN",45.016696,-93.310436,4,Cleveland,Camden,2,1,12/18/2016,09:21,Ferry
+"3106 colfax ave s,Minneapolis,MN",44.946222,-93.291953,10,South Uptown,Calhoun Isles,2,5,12/18/2016,14:35,Ferry
+"799 2 st n,Minneapolis,MN",44.989382,-93.277001,3,North Loop,Central,2,1,12/18/2016,00:18,Ferry
+"623 18TH ST E,Minneapolis,MN",44.965203,-93.26635999999999,6,Ventura Village,Phillips,3,3,12/19/2016,13:14,Ferry
+"1772 FREMONT AVE S,Minneapolis,MN",44.966046,-93.295629,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,11:36,Ferry
+"443 15th st w,Minneapolis,MN",44.968422,-93.285995,7,Loring Park,Central,1,3,12/17/2016,22:08,Ferry
+"1820 2nd Ave s,Minneapolis,MN",44.964897,-93.274046,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,15:50,Ferry
+"1040 aldrich ave n,Minneapolis,MN",44.988344,-93.291023,5,Sumner - Glenwood,Near North,2,1,12/18/2016,09:23,Ferry
+"920 5th Street Southeast,Minneapolis,MN",44.983906,-93.241084,3,Marcy Holmes,University,2,4,12/18/2016,13:42,Ferry
+"651 Adams st ne,Minneapolis,MN",44.996536,-93.255997,3,St. Anthony East,Northeast,3,2,12/19/2016,13:18,Ferry
+"228 20th ave ne,Minneapolis,MN",45.008522,-93.26499799999999,3,Bottineau,Northeast,2,2,12/18/2016,14:36,Ferry
+"3240 Aldrich Ave N,Minneapolis,MN",45.014435,-93.289275,4,McKinley,Camden,2,1,12/18/2016,15:51,Ferry
+"920 6th st se,Minneapolis,MN",44.984888,-93.240377,3,Marcy Holmes,University,2,4,12/18/2016,12:18,Ferry
+"612 3rd ave ne,Minneapolis,MN",44.992344,-93.25310400000001,3,St. Anthony East,Northeast,2,2,12/18/2016,09:24,Ferry
+"500-799 2nd St N,Minneapolis,MN",44.987185,-93.273561,3,North Loop,Central,1,1,12/17/2016,22:08,Ferry
+"1414 Grand st ne,Minneapolis,MN",45.002047999999995,-93.269973,3,Sheridan,Northeast,2,2,12/18/2016,11:36,Ferry
+"719 Queen Ave. N. ,Minneapolis,MN",44.985665999999995,-93.310052,5,Willard - Hay,Near North,3,1,12/19/2016,13:18,Ferry
+"4552 Longfellow ave S,Minneapolis,MN",44.919942,-93.246064,12,Ericsson,Nokomis,2,6,12/18/2016,14:36,Ferry
+"202 12th ave ne,Minneapolis,MN",44.975511,-93.25124,3,Downtown East,Central,2,3,12/18/2016,13:43,Ferry
+"1086 26th ave se,Minneapolis,MN",44.990688,-93.216418,1,Como,University,2,4,12/18/2016,15:51,Ferry
+"3736 elliot ave,Minneapolis,MN",44.934849,-93.26150799999999,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,12:18,Ferry
+"2019 Thomas ave n,Minneapolis,MN",45.000149,-93.31360699999999,5,Willard - Hay,Near North,3,1,12/19/2016,13:24,Ferry
+"1332 Russell Ave n ,Minneapolis,MN",44.992616,-93.310406,5,Willard - Hay,Near North,2,1,12/18/2016,14:37,Ferry
+"1316 Knox Ave n ,Minneapolis,MN",44.992174,-93.301691,5,Near - North,Near North,2,1,12/18/2016,11:37,Ferry
+"1776 Bryant Ave s,Minneapolis,MN",44.96589,-93.29054000000001,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,09:25,Ferry
+"3841 Chicago ave,Minneapolis,MN",44.932857,-93.262178,8,Bancroft,Powderhorn,1,6,12/17/2016,22:12,Ferry
+"3036 13th Avenue South,Minneapolis,MN",44.947098,-93.256327,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,13:43,Ferry
+"104 23rd ave ne,Minneapolis,MN",45.011091,-93.268825,3,Bottineau,Northeast,2,2,12/18/2016,15:51,Ferry
+"3506 21st Avenue South,Minneapolis,MN",44.939192,-93.242304,9,Corcoran,Powderhorn,2,6,12/18/2016,12:18,Ferry
+"921 14th Ave n,Minneapolis,MN",44.993047,-93.291988,5,Near - North,Near North,3,1,12/19/2016,13:25,Ferry
+"1218 main St ne,Minneapolis,MN",45.000527000000005,-93.26769,3,Sheridan,Northeast,2,2,12/18/2016,11:39,Ferry
+"718 3rd ave ne,Minneapolis,MN",44.975001,-93.268401,7,Downtown West,Central,2,3,12/18/2016,09:25,Ferry
+"1418 5th st ne,Minneapolis,MN",45.002484,-93.260615,3,Sheridan,Northeast,2,2,12/18/2016,14:38,Ferry
+"935 2nd st n,Minneapolis,MN",44.991053,-93.27934499999999,3,North Loop,Central,1,1,12/17/2016,22:12,Ferry
+"3622 Aldrich Ave South,Minneapolis,MN",44.936904,-93.28952,10,East Harriet,Southwest,2,5,12/18/2016,15:51,Ferry
+"2316 9th st s,Minneapolis,MN",44.963993,-93.238664,6,Seward,Longfellow,2,4,12/18/2016,00:19,Ferry
+"601 6th St se ,Minneapolis,MN",44.987003,-93.244976,3,Marcy Holmes,University,3,4,12/19/2016,13:26,Ferry
+"1776 FREMONT AVE S,Minneapolis,MN",44.96584,-93.295998,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,11:39,Ferry
+"306 5th Ave se,Minneapolis,MN",44.984634,-93.248909,3,Marcy Holmes,University,2,4,12/18/2016,09:26,Ferry
+"1006 19 th ave se,Minneapolis,MN",44.988189,-93.225557,1,Como,University,2,4,12/18/2016,14:38,Ferry
+"2508 4th St SE -,Minneapolis,MN",44.97437,-93.220472,2,Prospect Park - East River Road,University,2,4,12/18/2016,15:52,Ferry
+"4128 Chicago Ave. S. ,Minneapolis,MN",44.927785,-93.262879,8,Bryant,Powderhorn,1,5,12/17/2016,22:13,Ferry
+"3128 JAMES AVE S ,Minneapolis,MN",44.945543,-93.303737,10,ECCO,Calhoun Isles,2,5,12/18/2016,10:33,Ferry
+"2114 GIRARD AVE S,Minneapolis,MN",44.961495,-93.297274,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,13:43,Ferry
+"1405 6th st se ,Minneapolis,MN",44.982229,-93.233574,3,Marcy Holmes,University,3,4,12/19/2016,13:27,Ferry
+"1827 lasalle av s,Minneapolis,MN",44.964617,-93.279064,7,Steven's Square - Loring Heights,Central,2,3,12/18/2016,00:19,Ferry
+"1344 Knox Ave n,Minneapolis,MN",44.992929,-93.301581,5,Near - North,Near North,2,1,12/18/2016,11:40,Ferry
+"518 7th ave ne,Minneapolis,MN",44.996691999999996,-93.25779200000001,3,St. Anthony West,Northeast,2,2,12/18/2016,10:33,Ferry
+"2104 GRAND AVE S,Minneapolis,MN",44.961647,-93.284581,10,Whittier,Powderhorn,2,3,12/18/2016,15:52,Ferry
+"500-799 2nd st n,Minneapolis,MN",44.987185,-93.273561,3,North Loop,Central,1,1,12/17/2016,22:16,Ferry
+"716 3rd ave SE,Minneapolis,MN",44.989979999999996,-93.248303,3,Marcy Holmes,University,2,4,12/18/2016,09:26,Ferry
+"618 Jefferson st ne,Minneapolis,MN",44.995676,-93.255219,3,St. Anthony East,Northeast,2,2,12/18/2016,14:40,Ferry
+"312 Clifton Ave,Minneapolis,MN",44.965905,-93.28322800000001,7,Loring Park,Central,2,3,12/18/2016,13:44,Ferry
+"2831 34TH ST E,Minneapolis,MN",44.94135,-93.23128299999999,12,Longfellow,Longfellow,3,6,12/19/2016,13:28,Ferry
+"1118 Logan Ave N,Minneapolis,MN",44.989444,-93.30319300000001,5,Near - North,Near North,2,1,12/18/2016,11:40,Ferry
+"1816 32nd st e,Minneapolis,MN",44.944758,-93.247771,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,15:53,Ferry
+"104 14TH ST w,Minneapolis,MN",44.968809,-93.280173,7,Loring Park,Central,2,3,12/18/2016,10:35,Ferry
+"33115th st W,Minneapolis,MN",44.968396999999996,-93.285924,7,Loring Park,Central,1,3,12/17/2016,22:17,Ferry
+"1114 6th st ne,Minneapolis,MN",44.999204999999996,-93.259268,3,Sheridan,Northeast,2,2,12/18/2016,12:19,Ferry
+"1202 Fremont Ave. N. ,Minneapolis,MN",44.991984,-93.295631,5,Near - North,Near North,2,1,12/18/2016,09:27,Ferry
+"1718 Adams st ne,Minneapolis,MN",45.005519,-93.2563,1,Logan Park,Northeast,2,2,12/18/2016,13:44,Ferry
+"1016 20 th ave se,Minneapolis,MN",44.988393,-93.224181,1,Como,University,2,4,12/18/2016,14:40,Ferry
+"1413 6th St se,Minneapolis,MN",44.982164000000004,-93.2334,3,Marcy Holmes,University,3,4,12/19/2016,13:29,Ferry
+"2122 6th st n,Minneapolis,MN",45.000865000000005,-93.286041,5,Hawthorne,Near North,2,1,12/18/2016,11:41,Ferry
+"1122 Irving Ave N,Minneapolis,MN",44.989778,-93.299374,5,Near - North,Near North,2,1,12/18/2016,10:36,Ferry
+"116 23rd ave ne,Minneapolis,MN",45.011093,-93.26860699999999,3,Bottineau,Northeast,2,2,12/18/2016,15:53,Ferry
+"346 26th ave ne,Minneapolis,MN",45.014995,-93.262778,1,Holland,Northeast,2,2,12/18/2016,13:45,Ferry
+"2904 emerson av s,Minneapolis,MN",44.949872,-93.294498,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,22:19,Ferry
+"35th & Hennepin,Minneapolis,MN",44.939513,-93.298373,10,South Uptown,Calhoun Isles,2,5,12/18/2016,00:20,Ferry
+"520 5th Ave se,Minneapolis,MN",44.986936,-93.246787,3,Marcy Holmes,University,2,4,12/18/2016,09:28,Ferry
+"3511 Bryant Ave N ,Minneapolis,MN",45.018945,-93.290913,4,McKinley,Camden,3,1,12/19/2016,13:29,Ferry
+"318 18th St e,Minneapolis,MN",44.965233000000005,-93.271553,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,14:41,Ferry
+"2510 4th st n,Minneapolis,MN",45.00525,-93.284642,5,Hawthorne,Near North,2,1,12/18/2016,10:36,Ferry
+"3120 JAMES AVE S ,Minneapolis,MN",44.945807,-93.303671,10,ECCO,Calhoun Isles,2,5,12/18/2016,11:42,Ferry
+"1406 6TH ST SE,Minneapolis,MN",44.9823,-93.233841,3,Marcy Holmes,University,2,4,12/18/2016,13:46,Ferry
+"1092 27THAVE SE,Minneapolis,MN",44.990215,-93.215144,1,Como,University,2,4,12/18/2016,15:56,Ferry
+"3031 Aldrich Ave s,Minneapolis,MN",44.94727,-93.289371,10,South Uptown,Calhoun Isles,3,5,12/19/2016,13:30,Ferry
+"3034 KNOX AVE S ,Minneapolis,MN",44.947198,-93.304988,10,ECCO,Calhoun Isles,2,5,12/18/2016,09:29,Ferry
+"1320 Irving ave north,Minneapolis,MN",44.992469,-93.29923199999999,5,Near - North,Near North,2,1,12/18/2016,10:36,Ferry
+"3212 Girard Ave South,Minneapolis,MN",44.944226,-93.297074,10,South Uptown,Calhoun Isles,2,5,12/18/2016,11:42,Ferry
+"119 13th Ave NE,Minneapolis,MN",45.000446000000004,-93.269042,3,Sheridan,Northeast,2,2,12/18/2016,01:47,Ferry
+"935 2nd st n,Minneapolis,MN",44.991053,-93.27934499999999,3,North Loop,Central,1,1,12/17/2016,22:20,Ferry
+"1614 Vincent ave n,Minneapolis,MN",44.995748999999996,-93.315516,5,Willard - Hay,Near North,2,1,12/18/2016,14:41,Ferry
+"2319 9TH ST S,Minneapolis,MN",44.963965,-93.238231,6,Seward,Longfellow,2,4,12/18/2016,00:20,Ferry
+"2520 4th St SE - ,Minneapolis,MN",44.974303000000006,-93.22030699999999,2,Prospect Park - East River Road,University,2,4,12/18/2016,15:56,Ferry
+"2314 aldrich ave n,Minneapolis,MN",45.003157,-93.289229,5,Hawthorne,Near North,2,1,12/18/2016,13:47,Ferry
+"1106 Logan Ave. N. ,Minneapolis,MN",44.989286,-93.30289300000001,5,Near - North,Near North,2,1,12/18/2016,11:42,Ferry
+"3147 Aldrich Ave s,Minneapolis,MN",44.945021999999994,-93.28923499999999,10,South Uptown,Calhoun Isles,3,5,12/19/2016,13:32,Ferry
+"522 7th ave se,Minneapolis,MN",44.985757,-93.24436,3,Marcy Holmes,University,2,4,12/18/2016,09:32,Ferry
+"3320 humbolt Ave s,Minneapolis,MN",44.942488,-93.30114499999999,10,ECCO,Calhoun Isles,2,5,12/18/2016,10:37,Ferry
+"4600 Bryant Ave n ,Minneapolis,MN",45.038638,-93.291054,4,Lind - Bohanon,Camden,1,1,12/17/2016,22:26,Ferry
+"2710 girard Ave n ,Minneapolis,MN",45.008144,-93.296651,5,Jordan,Near North,2,1,12/18/2016,15:57,Ferry
+"41 13th Ave NE,Minneapolis,MN",44.999421000000005,-93.272002,3,Sheridan,Northeast,2,2,12/18/2016,01:48,Ferry
+"2324 6th st n,Minneapolis,MN",45.003287,-93.286435,5,Hawthorne,Near North,2,1,12/18/2016,11:43,Ferry
+"3116 james ave s,Minneapolis,MN",44.945908,-93.303702,10,ECCO,Calhoun Isles,2,5,12/18/2016,10:37,Ferry
+"319 newton ave n,Minneapolis,MN",44.980733,-93.306324,5,Harrison,Near North,3,3,12/19/2016,13:33,Ferry
+"1782 Bryant Ave s,Minneapolis,MN",44.965763,-93.29054000000001,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,09:33,Ferry
+"2408 11TH AVE S,Minneapolis,MN",44.958724,-93.259084,9,Midtown Phillips,Phillips,2,3,12/18/2016,15:57,Ferry
+"340 15th ave ne,Minneapolis,MN",45.002915,-93.26254200000001,3,Sheridan,Northeast,2,2,12/18/2016,13:48,Ferry
+"500-799 2nd St N,Minneapolis,MN",44.987185,-93.273561,3,North Loop,Central,1,1,12/17/2016,22:29,Ferry
+"802 4th st ne,Minneapolis,MN",44.997383,-93.261082,3,St. Anthony West,Northeast,2,2,12/18/2016,10:38,Ferry
+"3400 Holmes ave s,Minneapolis,MN",44.941159000000006,-93.29991,10,ECCO,Calhoun Isles,2,5,12/18/2016,11:44,Ferry
+"5731 BOSSEN TERR,Minneapolis,MN",44.899469,-93.226455,11,Wenonah,Nokomis,3,6,12/19/2016,13:34,Ferry
+"1204 Fremont Ave N,Minneapolis,MN",44.991984,-93.295631,5,Near - North,Near North,2,1,12/18/2016,09:33,Ferry
+"2231 PORTLAND AVE,Minneapolis,MN",44.960545,-93.267652,6,Phillips West,Phillips,2,3,12/18/2016,03:58,Ferry
+"1004 queen Ave n. ,Minneapolis,MN",44.98809,-93.309218,5,Willard - Hay,Near North,2,1,12/18/2016,13:49,Ferry
+"1802 COLFAX AVE SO,Minneapolis,MN",44.965237,-93.292152,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,10:38,Ferry
+"2822 EMERSON AVE S,Minneapolis,MN",44.951454,-93.294473,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,22:30,Ferry
+"507 7th st se,Minneapolis,MN",44.988243,-93.245464,3,Marcy Holmes,University,3,4,12/19/2016,13:37,Ferry
+"2016 Emerson ave s,Minneapolis,MN",44.962129,-93.294682,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,11:46,Ferry
+"414 22nd ave ne,Minneapolis,MN",45.009802,-93.2608,1,Holland,Northeast,2,2,12/18/2016,15:58,Ferry
+"518 7th ave se,Minneapolis,MN",44.985728,-93.244383,3,Marcy Holmes,University,2,4,12/18/2016,09:34,Ferry
+"648 15th St E,Minneapolis,MN",44.968072,-93.265955,7,Elliot Park,Central,2,3,12/18/2016,01:50,Ferry
+"1808 BRYANT AVE S,Minneapolis,MN",44.965022999999995,-93.290541,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,10:39,Ferry
+"807 Queen Ave. N. ,Minneapolis,MN",44.986349,-93.309881,5,Willard - Hay,Near North,3,1,12/19/2016,13:37,Ferry
+"2810 DUPONT AV S,Minneapolis,MN",44.951209000000006,-93.293203,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,22:31,Ferry
+"3248 ALDRICH AVE S ,Minneapolis,MN",44.943184,-93.289792,10,South Uptown,Calhoun Isles,2,5,12/18/2016,15:58,Ferry
+"104 11th ave ne,Minneapolis,MN",44.998168,-93.268467,3,St. Anthony West,Northeast,2,2,12/18/2016,11:46,Ferry
+"123 13th Ave NE,Minneapolis,MN",45.000478,-93.26894899999999,3,Sheridan,Northeast,2,2,12/18/2016,01:50,Ferry
+"1826 dupont Ave n,Minneapolis,MN",44.998296,-93.29233599999999,5,Near - North,Near North,2,1,12/18/2016,09:34,Ferry
+"102 10th ave ne,Minneapolis,MN",44.997203000000006,-93.267864,3,St. Anthony West,Northeast,2,2,12/18/2016,10:39,Ferry
+"605 7th st se,Minneapolis,MN",44.987899,-93.243959,3,Marcy Holmes,University,3,4,12/19/2016,13:40,Ferry
+"1816 33rd Street East,Minneapolis,MN",44.942945,-93.24776,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,15:58,Ferry
+"3540 4th Ave s,Minneapolis,MN",44.938231,-93.270551,9,Central,Powderhorn,1,5,12/17/2016,22:32,Ferry
+"622 newton ave n,Minneapolis,MN",44.985092,-93.30574200000001,5,Near - North,Near North,2,1,12/18/2016,13:50,Ferry
+"3116 HOLMES AVE S ,Minneapolis,MN",44.945937,-93.29982199999999,10,ECCO,Calhoun Isles,2,5,12/18/2016,11:47,Ferry
+"526 8th ave se,Minneapolis,MN",44.985517,-93.24235300000001,3,Marcy Holmes,University,2,4,12/18/2016,10:39,Ferry
+"1122 main st ne,Minneapolis,MN",44.998948,-93.26750600000001,3,Sheridan,Northeast,2,2,12/18/2016,12:20,Ferry
+"1768 Bryant ave s,Minneapolis,MN",44.966028,-93.290539,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,09:35,Ferry
+"320 18th St e,Minneapolis,MN",44.965233000000005,-93.271473,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,14:43,Ferry
+"2838 dupont Ave s,Minneapolis,MN",44.950457,-93.293219,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,23:28,Ferry
+"3213 Bryant Ave n ,Minneapolis,MN",45.013612,-93.29056899999999,4,McKinley,Camden,3,1,12/19/2016,13:40,Ferry
+"1006 5th st se,Minneapolis,MN",44.983475,-93.240053,3,Marcy Holmes,University,2,4,12/18/2016,13:51,Ferry
+"1816 4TH AVE S,Minneapolis,MN",44.964591999999996,-93.270622,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,15:59,Ferry
+"3422 4th Avenue South,Minneapolis,MN",44.940386,-93.270222,9,Central,Powderhorn,1,5,12/17/2016,22:33,Ferry
+"3018 James Ave s,Minneapolis,MN",44.947617,-93.303414,10,ECCO,Calhoun Isles,2,5,12/18/2016,10:40,Ferry
+"1002 13th ave se,Minneapolis,MN",44.988008,-93.232959,2,Como,University,2,4,12/18/2016,11:47,Ferry
+"100 13th Ave NE,Minneapolis,MN",45.000094,-93.26998,3,Sheridan,Northeast,2,2,12/18/2016,00:22,Ferry
+"3020 3rd st n,Minneapolis,MN",45.010989,-93.283397,5,Hawthorne,Near North,2,1,12/18/2016,09:36,Ferry
+"1004 20th Ave se ,Minneapolis,MN",44.988018,-93.22418,1,Como,University,2,4,12/18/2016,14:44,Ferry
+"628 15TH ST E,Minneapolis,MN",44.968072,-93.26629100000001,7,Elliot Park,Central,2,3,12/18/2016,01:52,Ferry
+"4635 Bryant Ave n ,Minneapolis,MN",45.039513,-93.291799,4,Lind - Bohanon,Camden,1,1,12/17/2016,23:28,Ferry
+"621 18TH ST E,Minneapolis,MN",44.965203,-93.266437,6,Ventura Village,Phillips,3,3,12/19/2016,13:42,Ferry
+"1314 Irving ave n,Minneapolis,MN",44.992464,-93.299312,5,Near - North,Near North,2,1,12/18/2016,10:40,Ferry
+"609 17th St e,Minneapolis,MN",44.966254,-93.267431,6,Elliot Park,Central,3,3,12/19/2016,13:42,Ferry
+"4225 Bloomington ave,Minneapolis,MN",44.925982,-93.251989,8,Northrop,Nokomis,1,6,12/17/2016,23:29,Ferry
+"924 20th ave ne,Minneapolis,MN",45.008877000000005,-93.24768,1,Holland,Northeast,2,2,12/18/2016,16:00,Ferry
+"1048 22nd Ave SE -,Minneapolis,MN",44.989343,-93.221272,1,Como,University,2,4,12/18/2016,14:45,Ferry
+"918 Oliver Ave n ,Minneapolis,MN",44.987559000000005,-93.30699,5,Near - North,Near North,2,1,12/18/2016,13:52,Ferry
+"143 13th Ave NE,Minneapolis,MN",45.001243,-93.267292,3,Sheridan,Northeast,2,2,12/18/2016,00:22,Ferry
+"210 7th Avenue southeast ,Minneapolis,MN",44.982493,-93.246948,3,Marcy Holmes,University,2,4,12/18/2016,10:41,Ferry
+"920 20th ave ne,Minneapolis,MN",45.008877000000005,-93.24788199999999,1,Holland,Northeast,2,2,12/18/2016,16:01,Ferry
+"1512 8th St se,Minneapolis,MN",44.983671,-93.230859,2,University of Minnesota,University,2,4,12/18/2016,13:52,Ferry
+"1310 33rd Street West,Minneapolis,MN",44.942921999999996,-93.295953,10,South Uptown,Calhoun Isles,2,5,12/18/2016,14:45,Ferry
+"4145 aldrich ave n ,Minneapolis,MN",45.030657,-93.289385,4,Webber - Camden,Camden,3,1,12/19/2016,13:43,Ferry
+"816 12th Avenue southeast ,Minneapolis,MN",44.986035,-93.23498199999999,3,Marcy Holmes,University,2,4,12/18/2016,12:22,Ferry
+"3444 Bloomington Ave. S. ,Minneapolis,MN",44.939783,-93.252453,9,Powderhorn Park,Powderhorn,1,6,12/17/2016,23:31,Ferry
+"1312 Irving Ave n,Minneapolis,MN",44.99245,-93.29942,5,Near - North,Near North,2,1,12/18/2016,10:42,Ferry
+"1914 2ND AVE S,Minneapolis,MN",44.963446999999995,-93.274051,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,16:02,Ferry
+"113 13th Ave NE,Minneapolis,MN",45.000538,-93.269235,3,Sheridan,Northeast,2,2,12/18/2016,01:53,Ferry
+"2717 37th ST E,Minneapolis,MN",44.935911,-93.232656,12,Standish,Powderhorn,3,6,12/19/2016,13:44,Ferry
+"489 2nd st N,Minneapolis,MN",44.98686,-93.2735,3,North Loop,Central,2,3,12/18/2016,00:23,Ferry
+"920 12th Avenue Southeast,Minneapolis,MN",44.986983,-93.234551,2,Como,University,2,4,12/18/2016,14:45,Ferry
+"3114 James Ave s,Minneapolis,MN",44.945979,-93.30341800000001,10,ECCO,Calhoun Isles,2,5,12/18/2016,10:42,Ferry
+"2830 DUPONT AVE S,Minneapolis,MN",44.950511,-93.29321999999999,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,23:32,Ferry
+"828 37TH W ,Minneapolis,MN",44.935895,-93.29006,10,East Harriet,Southwest,2,5,12/18/2016,16:02,Ferry
+"1204 russel Ave n,Minneapolis,MN",44.989796999999996,-93.31078199999999,5,Willard - Hay,Near North,2,1,12/18/2016,13:53,Ferry
+"605 17th St e,Minneapolis,MN",44.966254,-93.267533,6,Elliot Park,Central,3,3,12/19/2016,13:44,Ferry
+"206 19TH ST E,Minneapolis,MN",44.963968,-93.273339,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,12:24,Ferry
+"1822 BRYANT AVE S,Minneapolis,MN",44.96464,-93.290903,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,10:43,Ferry
+"636 18th ave ne,Minneapolis,MN",45.006383,-93.256613,1,Logan Park,Northeast,2,2,12/18/2016,14:47,Ferry
+"706 34th st w,Minneapolis,MN",44.941326000000004,-93.28841700000001,10,South Uptown,Calhoun Isles,2,5,12/18/2016,16:02,Ferry
+"4429 upton Ave s,Minneapolis,MN",44.922329,-93.314769,13,Linden Hills,Southwest,1,5,12/17/2016,23:34,Ferry
+"1821 10TH AVE S,Minneapolis,MN",44.964351,-93.259663,6,Ventura Village,Phillips,3,3,12/19/2016,13:45,Ferry
+"152 19TH ST E,Minneapolis,MN",44.963969,-93.27445,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,13:53,Ferry
+"2220 4th st n ,Minneapolis,MN",45.002146,-93.284912,5,Hawthorne,Near North,2,1,12/18/2016,10:43,Ferry
+"1825 lasalle AVE,Minneapolis,MN",44.964649,-93.279318,7,Steven's Square - Loring Heights,Central,2,3,12/18/2016,00:25,Ferry
+"1042 26th Ave se,Minneapolis,MN",44.989288,-93.216072,1,Como,University,2,4,12/18/2016,16:03,Ferry
+"1800 2nd Ave s ,Minneapolis,MN",44.965135,-93.274046,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,14:48,Ferry
+"2317 33rd st E,Minneapolis,MN",44.942746,-93.237952,9,Corcoran,Powderhorn,3,6,12/19/2016,13:48,Ferry
+"2823 Plymouth ave n.,Minneapolis,MN",44.991528,-93.316211,5,Willard - Hay,Near North,1,1,12/17/2016,23:34,Ferry
+"916 20th ave se,Minneapolis,MN",44.987108,-93.22394,2,Como,University,2,4,12/18/2016,13:53,Ferry
+"716 34th st w,Minneapolis,MN",44.941474,-93.28898000000001,10,South Uptown,Calhoun Isles,2,5,12/18/2016,16:04,Ferry
+"1906 upton ave n,Minneapolis,MN",44.999156,-93.314601,5,Willard - Hay,Near North,2,1,12/18/2016,12:25,Ferry
+"402 7th Ave SE,Minneapolis,MN",44.984421000000005,-93.245421,3,Marcy Holmes,University,2,4,12/18/2016,10:44,Ferry
+"2435 30TH AVE S,Minneapolis,MN",44.957886,-93.228278,2,Seward,Longfellow,3,4,12/19/2016,13:48,Ferry
+"1088 23rd Ave SE,Minneapolis,MN",44.990727,-93.219988,1,Como,University,2,4,12/18/2016,14:48,Ferry
+"1044 23rd ave se,Minneapolis,MN",44.989221,-93.220259,1,Como,University,2,4,12/18/2016,13:54,Ferry
+"212 15th st w,Minneapolis,MN",44.96774,-93.281389,7,Loring Park,Central,1,3,12/17/2016,23:37,Ferry
+"2312 34th Street East,Minneapolis,MN",44.941573999999996,-93.23814,9,Corcoran,Powderhorn,2,6,12/18/2016,16:05,Ferry
+"1612 6th st ne,Minneapolis,MN",45.004587,-93.25891700000001,3,Sheridan,Northeast,2,2,12/18/2016,12:25,Ferry
+"700 7TH AVE SE,Minneapolis,MN",44.987313,-93.243138,3,Marcy Holmes,University,2,4,12/18/2016,10:46,Ferry
+"3449 Emerson Ave s,Minneapolis,MN",44.939776,-93.294196,10,South Uptown,Calhoun Isles,3,5,12/19/2016,13:48,Ferry
+"214 12th ave ne,Minneapolis,MN",44.975409,-93.251326,3,Downtown East,Central,2,3,12/18/2016,13:54,Ferry
+"1002 20th Ave se ,Minneapolis,MN",44.98794,-93.22418,1,Como,University,2,4,12/18/2016,14:49,Ferry
+"422 6th St SE,Minneapolis,MN",44.987345,-93.24743000000001,3,Marcy Holmes,University,2,4,12/18/2016,16:05,Ferry
+"16 15th st w,Minneapolis,MN",44.967734,-93.278341,7,Loring Park,Central,1,3,12/17/2016,23:40,Ferry
+"2906 DUPONT AVE S,Minneapolis,MN",44.949892999999996,-93.293215,10,Lowry Hill East,Calhoun Isles,2,3,12/18/2016,00:26,Ferry
+"2510 4th st n,Minneapolis,MN",45.00525,-93.284642,5,Hawthorne,Near North,2,1,12/18/2016,10:47,Ferry
+"3206 FREMONT AVE S ,Minneapolis,MN",44.944408,-93.295813,10,South Uptown,Calhoun Isles,2,5,12/18/2016,13:55,Ferry
+"1117 15th Ave n ,Minneapolis,MN",44.994134,-93.29463299999999,5,Near - North,Near North,3,1,12/19/2016,13:49,Ferry
+"862 23rd Ave se,Minneapolis,MN",44.985485,-93.220303,2,Como,University,2,4,12/18/2016,14:50,Ferry
+"3246 Aldrich ave n,Minneapolis,MN",45.014662,-93.289017,4,McKinley,Camden,2,1,12/18/2016,16:06,Ferry
+"1428 lasalle,Minneapolis,MN",44.968478000000005,-93.279353,7,Loring Park,Central,1,3,12/17/2016,23:40,Ferry
+"1210 Newton Ave N,Minneapolis,MN",44.990154,-93.30540400000001,5,Near - North,Near North,2,1,12/18/2016,12:26,Ferry
+"1806 colfax ave s,Minneapolis,MN",44.964984,-93.29217299999999,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,10:48,Ferry
+"408 6th st se,Minneapolis,MN",44.987906,-93.247923,3,Marcy Holmes,University,2,4,12/18/2016,16:07,Ferry
+"1006 24th Ave s e,Minneapolis,MN",44.988172,-93.218722,1,Como,University,2,4,12/18/2016,14:51,Ferry
+"3102 Emerson Ave South,Minneapolis,MN",44.946339,-93.294503,10,South Uptown,Calhoun Isles,2,5,12/18/2016,13:55,Ferry
+"2525 30th ave s,Minneapolis,MN",44.956459,-93.22829,2,Seward,Longfellow,3,4,12/19/2016,13:50,Ferry
+"426 W 15TH ST ,Minneapolis,MN",44.968441999999996,-93.28596800000001,7,Loring Park,Central,1,3,12/17/2016,23:43,Ferry
+"1090 13th Ave SE -,Minneapolis,MN",44.990575,-93.23305500000001,2,Como,University,2,4,12/18/2016,10:48,Ferry
+"2325 9th st s,Minneapolis,MN",44.963965,-93.238028,6,Seward,Longfellow,2,4,12/18/2016,00:28,Ferry
+"2425 PORTLAND AVE,Minneapolis,MN",44.958211999999996,-93.267658,6,Phillips West,Phillips,2,3,12/18/2016,04:09,Ferry
+"1806 Thomas Ave N,Minneapolis,MN",44.997941,-93.31296400000001,5,Willard - Hay,Near North,2,1,12/18/2016,14:53,Ferry
+"3655 33rd ave s,Minneapolis,MN",44.936121,-93.22429,12,Howe,Longfellow,3,6,12/19/2016,13:51,Ferry
+"1016 newton ave n,Minneapolis,MN",44.988514,-93.305402,5,Near - North,Near North,2,1,12/18/2016,13:55,Ferry
+"728 8th ave se,Minneapolis,MN",44.987489000000004,-93.240892,3,Marcy Holmes,University,2,4,12/18/2016,10:48,Ferry
+"2836 dupont Ave s,Minneapolis,MN",44.950687,-93.293661,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,23:44,Ferry
+"3516 Harriet Ave s,Minneapolis,MN",44.938952,-93.285629,8,Lyndale,Powderhorn,2,5,12/18/2016,16:12,Ferry
+"1014 Sheridan Ave n,Minneapolis,MN",44.988406,-93.312079,5,Willard - Hay,Near North,2,1,12/18/2016,14:54,Ferry
+"1034 17th ave se,Minneapolis,MN",44.988861,-93.227972,1,Como,University,2,4,12/18/2016,12:29,Ferry
+"150 19TH ST E,Minneapolis,MN",44.963969,-93.274466,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,13:55,Ferry
+"1427 Queen Ave N,Minneapolis,MN",44.994122,-93.309851,5,Willard - Hay,Near North,3,1,12/19/2016,13:51,Ferry
+"4132 11th ave s,Minneapolis,MN",44.927723,-93.259067,8,Bancroft,Powderhorn,2,6,12/18/2016,10:49,Ferry
+"21 15th st w,Minneapolis,MN",44.967632,-93.2789,7,Loring Park,Central,1,3,12/17/2016,23:47,Ferry
+"3238 Garfield ave s,Minneapolis,MN",44.943424,-93.28716899999999,8,Lyndale,Powderhorn,2,5,12/18/2016,16:14,Ferry
+"3216 LONGFELLOW AV S,Minneapolis,MN",44.944023,-93.246123,9,Corcoran,Powderhorn,2,6,12/18/2016,14:55,Ferry
+"1518 8th st se,Minneapolis,MN",44.98359,-93.23065600000001,2,University of Minnesota,University,2,4,12/18/2016,13:55,Ferry
+"1328 Adams st ne,Minneapolis,MN",45.001814,-93.25664499999999,1,Logan Park,Northeast,2,2,12/18/2016,12:29,Ferry
+"1226 Irving Ave n. ,Minneapolis,MN",44.990849,-93.299423,5,Near - North,Near North,2,1,12/18/2016,10:51,Ferry
+"3536 Harriet Ave s,Minneapolis,MN",44.938252,-93.285635,8,Lyndale,Powderhorn,2,5,12/18/2016,16:15,Ferry
+"391 13th Ave NE,Minneapolis,MN",45.000919,-93.26160300000001,3,Sheridan,Northeast,1,2,12/17/2016,23:49,Ferry
+"905 19th Ave se,Minneapolis,MN",44.986724,-93.22595600000001,2,Como,University,3,4,12/19/2016,13:52,Ferry
+"608 15TH ST E,Minneapolis,MN",44.968071,-93.266994,7,Elliot Park,Central,2,3,12/18/2016,01:56,Ferry
+"2422 11TH AVE S,Minneapolis,MN",44.958348,-93.258787,9,Midtown Phillips,Phillips,2,3,12/18/2016,14:55,Ferry
+"1100 12th Ave SE -,Minneapolis,MN",44.990908000000005,-93.234349,2,Como,University,2,4,12/18/2016,10:52,Ferry
+"2224 5th st ne,Minneapolis,MN",45.010804,-93.260663,1,Holland,Northeast,2,2,12/18/2016,12:31,Ferry
+"618 33rd st w,Minneapolis,MN",44.942916,-93.287118,8,Lyndale,Powderhorn,2,5,12/18/2016,16:19,Ferry
+"2820 DUPONT AVE S,Minneapolis,MN",44.951192,-93.29379899999999,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,23:50,Ferry
+"912 Oliver Ave N,Minneapolis,MN",44.987390999999995,-93.30699200000001,5,Near - North,Near North,2,1,12/18/2016,13:56,Ferry
+"3429 DuPont Ave s,Minneapolis,MN",44.940298,-93.293221,10,South Uptown,Calhoun Isles,3,5,12/19/2016,13:53,Ferry
+"1320 Irving Ave N,Minneapolis,MN",44.992469,-93.29923199999999,5,Near - North,Near North,2,1,12/18/2016,10:55,Ferry
+"624 17th ave ne,Minneapolis,MN",45.00512,-93.257279,1,Logan Park,Northeast,2,2,12/18/2016,14:57,Ferry
+"2922 Sheridan ave n,Minneapolis,MN",45.010343,-93.311815,4,Jordan,Near North,2,1,12/18/2016,16:28,Ferry
+"4438 16th ave s,Minneapolis,MN",44.921982,-93.251148,11,Northrop,Nokomis,2,6,12/18/2016,12:31,Ferry
+"636 15th ave ne,Minneapolis,MN",45.002941,-93.256647,1,Logan Park,Northeast,2,2,12/18/2016,13:56,Ferry
+"5047 Upton ave s,Minneapolis,MN",44.911077,-93.315028,13,Fulton,Southwest,1,5,12/17/2016,23:51,Ferry
+"112 9th st ne,Minneapolis,MN",44.974145,-93.271899,7,Downtown West,Central,2,3,12/18/2016,10:56,Ferry
+"1049 24th Avenue Southeast,Minneapolis,MN",44.989402,-93.219274,1,Como,University,3,4,12/19/2016,13:55,Ferry
+"3330 Sheridan ave n,Minneapolis,MN",45.015958000000005,-93.311729,4,Cleveland,Camden,2,1,12/18/2016,16:31,Ferry
+"810 Oliver ave n ,Minneapolis,MN",44.986453000000004,-93.306709,5,Near - North,Near North,2,1,12/18/2016,14:58,Ferry
+"3106 Emerson ave s,Minneapolis,MN",44.946220000000004,-93.294505,10,South Uptown,Calhoun Isles,2,5,12/18/2016,13:56,Ferry
+"608 12th Ave se,Minneapolis,MN",44.984047,-93.23656700000001,3,Marcy Holmes,University,2,4,12/18/2016,12:31,Ferry
+"1324 spruce pl,Minneapolis,MN",44.968503999999996,-93.28085300000001,7,Loring Park,Central,2,3,12/18/2016,10:57,Ferry
+"357 13th Ave NE,Minneapolis,MN",45.001093,-93.261792,3,Sheridan,Northeast,1,2,12/17/2016,23:51,Ferry
+"635 17TH ST E,Minneapolis,MN",44.966257,-93.266765,6,Elliot Park,Central,3,3,12/19/2016,13:55,Ferry
+"866 24th Ave SE,Minneapolis,MN",44.985619,-93.218723,2,Como,University,2,4,12/18/2016,14:58,Ferry
+"3436 Colfax Ave s,Minneapolis,MN",44.940158000000004,-93.292027,10,South Uptown,Calhoun Isles,2,5,12/18/2016,13:57,Ferry
+"216 6th Street se,Minneapolis,MN",44.989095,-93.250881,3,Marcy Holmes,University,2,4,12/18/2016,16:41,Ferry
+"716 7th ave se,Minneapolis,MN",44.987814,-93.242742,3,Marcy Holmes,University,2,4,12/18/2016,09:37,Ferry
+"3120 girard ave s,Minneapolis,MN",44.945771,-93.297398,10,South Uptown,Calhoun Isles,2,5,12/18/2016,11:48,Ferry
+"212 7th ave se,Minneapolis,MN",44.982513,-93.246933,3,Marcy Holmes,University,2,4,12/18/2016,10:57,Ferry
+"816 Sheridan Ave n ,Minneapolis,MN",44.986561,-93.31184,5,Willard - Hay,Near North,2,1,12/18/2016,12:31,Ferry
+"935 2 st n,Minneapolis,MN",44.991053,-93.27934499999999,3,North Loop,Central,1,1,12/17/2016,22:33,Ferry
+"613 17TH ST E,Minneapolis,MN",44.966254,-93.267328,6,Elliot Park,Central,3,3,12/19/2016,13:59,Ferry
+"310 Clifton Ave,Minneapolis,MN",44.966307,-93.283615,7,Loring Park,Central,2,3,12/18/2016,13:57,Ferry
+"3120 Bloomington Avenue South,Minneapolis,MN",44.945806,-93.25278,9,Powderhorn Park,Powderhorn,1,6,12/17/2016,23:52,Ferry
+"712 15th ave ne,Minneapolis,MN",45.002748,-93.251554,1,Logan Park,Northeast,2,2,12/18/2016,14:58,Ferry
+"708 7th St SE,Minneapolis,MN",44.987146,-93.242786,3,Marcy Holmes,University,2,4,12/18/2016,16:46,Ferry
+"1318 Irving Ave n,Minneapolis,MN",44.992473,-93.29942,5,Near - North,Near North,2,1,12/18/2016,10:58,Ferry
+"3200 Girard Ave s,Minneapolis,MN",44.944708,-93.297071,10,South Uptown,Calhoun Isles,2,5,12/18/2016,12:32,Ferry
+"108 10th ave ne,Minneapolis,MN",44.997298,-93.267589,3,St. Anthony West,Northeast,2,2,12/18/2016,13:58,Ferry
+"2229 16th ave n,Minneapolis,MN",44.995127000000004,-93.308583,5,Willard - Hay,Near North,3,1,12/19/2016,14:01,Ferry
+"200 13th Ave NE,Minneapolis,MN",45.000898,-93.26615600000001,3,Sheridan,Northeast,1,2,12/17/2016,23:54,Ferry
+"2954 Aldrich Ave. n. ,Minneapolis,MN",45.010993,-93.289249,5,Hawthorne,Near North,2,1,12/18/2016,14:59,Ferry
+"720 7th Ave SE ,Minneapolis,MN",44.987836,-93.242724,3,Marcy Holmes,University,2,4,12/18/2016,10:58,Ferry
+"1404 van white lane,Minneapolis,MN",44.993257,-93.28842900000001,5,Near - North,Near North,2,1,12/18/2016,08:20,Ferry
+"3106 FREMONT AVE S ,Minneapolis,MN",44.946263,-93.29579,10,South Uptown,Calhoun Isles,2,5,12/18/2016,13:58,Ferry
+"1418 Grand st ne,Minneapolis,MN",45.002253,-93.270059,3,Sheridan,Northeast,2,2,12/18/2016,12:32,Ferry
+"315 6TH ST SE,Minneapolis,MN",44.98851,-93.24935,3,Marcy Holmes,University,3,4,12/19/2016,14:02,Ferry
+"2834 DUPONT AVE S,Minneapolis,MN",44.950484,-93.293219,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,23:54,Ferry
+"1422 5th st ne,Minneapolis,MN",45.002592,-93.260529,3,Sheridan,Northeast,2,2,12/18/2016,10:58,Ferry
+"2420 11TH AVE S,Minneapolis,MN",44.958403999999994,-93.25904200000001,9,Midtown Phillips,Phillips,2,3,12/18/2016,14:59,Ferry
+"1502 8th st se,Minneapolis,MN",44.983807,-93.231197,2,University of Minnesota,University,2,4,12/18/2016,13:59,Ferry
+"742 aldrich ave n,Minneapolis,MN",44.986125,-93.29078100000001,5,Sumner - Glenwood,Near North,2,1,12/18/2016,08:23,Ferry
+"821 13TH AVE SE,Minneapolis,MN",44.985305,-93.2338,3,Marcy Holmes,University,3,4,12/19/2016,14:05,Ferry
+"912 Thomas Ave. N. ,Minneapolis,MN",44.987384000000006,-93.313356,5,Willard - Hay,Near North,2,1,12/18/2016,12:32,Ferry
+"3410 Humboldt Ave South,Minneapolis,MN",44.940946999999994,-93.301154,10,ECCO,Calhoun Isles,2,5,12/18/2016,10:58,Ferry
+"4319 Thomas Ave. n. ,Minneapolis,MN",45.033972,-93.313947,4,Victory,Camden,1,1,12/17/2016,23:56,Ferry
+"1130 Adams st ne,Minneapolis,MN",44.999634,-93.256589,1,Logan Park,Northeast,2,2,12/18/2016,13:59,Ferry
+"718 Aldrich Ave n,Minneapolis,MN",44.985828999999995,-93.289521,5,Sumner - Glenwood,Near North,2,1,12/18/2016,08:24,Ferry
+"3104 Colfax Ave s,Minneapolis,MN",44.946287,-93.29229699999999,10,South Uptown,Calhoun Isles,2,5,12/18/2016,15:00,Ferry
+"1815 Upton Ave. N. ,Minneapolis,MN",44.998288,-93.31490600000001,5,Willard - Hay,Near North,3,1,12/19/2016,14:06,Ferry
+"1420 spruce pl,Minneapolis,MN",44.968107,-93.280858,7,Loring Park,Central,2,3,12/18/2016,10:59,Ferry
+"806 12th ave se,Minneapolis,MN",44.985684,-93.234904,3,Marcy Holmes,University,2,4,12/18/2016,12:32,Ferry
+"3130 Emerson ave s,Minneapolis,MN",44.945561,-93.29477,10,South Uptown,Calhoun Isles,2,5,12/18/2016,14:00,Ferry
+"2008 9th st ,Minneapolis,MN",44.964034000000005,-93.24395200000001,6,Seward,Longfellow,1,4,12/17/2016,23:57,Ferry
+"714 Aldrich Ave n ,Minneapolis,MN",44.98561,-93.289474,5,Sumner - Glenwood,Near North,2,1,12/18/2016,08:26,Ferry
+"2017 PORTLAND AVE,Minneapolis,MN",44.962005,-93.267656,6,Ventura Village,Phillips,2,3,12/18/2016,03:02,Ferry
+"945 26th ave ne,Minneapolis,MN",45.014987,-93.24644599999999,1,Audubon Park,Northeast,3,2,12/19/2016,14:06,Ferry
+"2200 4th st n,Minneapolis,MN",45.001634,-93.284653,5,Hawthorne,Near North,2,1,12/18/2016,11:00,Ferry
+"1708 stevens av s,Minneapolis,MN",44.965955,-93.275314,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,14:00,Ferry
+"1426 LaSalle ave,Minneapolis,MN",44.968499,-93.279353,7,Loring Park,Central,2,3,12/18/2016,00:33,Ferry
+"3012 Knox ave s,Minneapolis,MN",44.947827000000004,-93.30497700000001,10,ECCO,Calhoun Isles,2,5,12/18/2016,08:30,Ferry
+"2941 Hennepin Ave ,Minneapolis,MN",44.948664,-93.297962,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,23:58,Ferry
+"1015 16th Ave n ,Minneapolis,MN",44.995087,-93.293515,5,Near - North,Near North,3,1,12/19/2016,14:07,Ferry
+"2402 11TH av s,Minneapolis,MN",44.95892,-93.258781,9,Midtown Phillips,Phillips,2,3,12/18/2016,15:02,Ferry
+"512 7th ave se,Minneapolis,MN",44.985684,-93.244417,3,Marcy Holmes,University,2,4,12/18/2016,11:02,Ferry
+"528 2nd ave se,Minneapolis,MN",44.988927000000004,-93.2513,3,Marcy Holmes,University,2,4,12/18/2016,08:32,Ferry
+"3536 Holmes Ave s,Minneapolis,MN",44.938351000000004,-93.299938,10,ECCO,Calhoun Isles,2,5,12/18/2016,12:33,Ferry
+"3430 Colfax Ave s,Minneapolis,MN",44.940374,-93.292024,10,South Uptown,Calhoun Isles,2,5,12/18/2016,14:01,Ferry
+"903 26th ave ne,Minneapolis,MN",45.015132,-93.248837,1,Holland,Northeast,3,2,12/19/2016,14:08,Ferry
+"908 20th ave s,Minneapolis,MN",44.963879999999996,-93.244127,6,Seward,Longfellow,1,4,12/17/2016,23:58,Ferry
+"3208 6th st n,Minneapolis,MN",45.013464,-93.286452,4,McKinley,Camden,2,1,12/18/2016,11:02,Ferry
+"3042 13th ave s,Minneapolis,MN",44.946926,-93.25665500000001,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,15:02,Ferry
+"4034 14th ave s,Minneapolis,MN",44.929463,-93.25495500000001,8,Bancroft,Powderhorn,2,6,12/18/2016,08:32,Ferry
+"211 15th st w,Minneapolis,MN",44.967714,-93.28156,7,Loring Park,Central,2,3,12/18/2016,00:34,Ferry
+"849 21st st e,Minneapolis,MN",44.961804,-93.26146800000001,6,Ventura Village,Phillips,3,3,12/19/2016,14:08,Ferry
+"3438 Irving Ave n,Minneapolis,MN",45.017936,-93.299012,4,Folwell,Camden,2,1,12/18/2016,14:01,Ferry
+"902 40TH ST E,Minneapolis,MN",44.930566,-93.26120999999999,8,Bancroft,Powderhorn,2,6,12/18/2016,11:03,Ferry
+"200 13th Ave NE,Minneapolis,MN",45.000898,-93.26615600000001,3,Sheridan,Northeast,1,2,12/17/2016,23:59,Ferry
+"3036 Knox Ave s,Minneapolis,MN",44.947074,-93.304962,10,ECCO,Calhoun Isles,2,5,12/18/2016,08:32,Ferry
+"2930 Aldrich ave n,Minneapolis,MN",45.010428999999995,-93.288905,5,Hawthorne,Near North,2,1,12/18/2016,15:02,Ferry
+"931 26th ave ne,Minneapolis,MN",45.014986,-93.247345,1,Holland,Northeast,3,2,12/19/2016,14:09,Ferry
+"2818 DUPONT AVE S,Minneapolis,MN",44.951190000000004,-93.293204,10,Lowry Hill East,Calhoun Isles,2,3,12/18/2016,00:34,Ferry
+"708 5th st se,Minneapolis,MN",44.984879,-93.24449399999999,3,Marcy Holmes,University,2,4,12/18/2016,14:02,Ferry
+"22 OAK GROVW ST,Minneapolis,MN",44.966606,-93.278949,7,Loring Park,Central,2,3,12/18/2016,11:04,Ferry
+"1774 colfax Ave s ,Minneapolis,MN",44.965973,-93.29181899999999,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,08:33,Ferry
+"3802 6th st n,Minneapolis,MN",45.024076,-93.286238,4,Webber - Camden,Camden,2,1,12/18/2016,13:00,Ferry
+"1817 10TH AVE S,Minneapolis,MN",44.964490000000005,-93.259555,6,Ventura Village,Phillips,3,3,12/19/2016,14:10,Ferry
+"3812 6th st n,Minneapolis,MN",45.02433,-93.28652,4,Webber - Camden,Camden,2,1,12/18/2016,12:34,Ferry
+"3630 Stinson Blvd,Minneapolis,MN",45.034595,-93.227316,1,Waite Park,Northeast,2,2,12/18/2016,03:03,Ferry
+"942 12th Ave se,Minneapolis,MN",44.986983,-93.234551,2,Como,University,2,4,12/18/2016,14:03,Ferry
+"31 & knox,Minneapolis,MN",44.946554,-93.304647,10,ECCO,Calhoun Isles,2,5,12/18/2016,08:34,Ferry
+"810 12th Ave se,Minneapolis,MN",44.986018,-93.234996,3,Marcy Holmes,University,2,4,12/18/2016,13:00,Ferry
+"702 8th ave se,Minneapolis,MN",44.986825,-93.2417,3,Marcy Holmes,University,2,4,12/18/2016,11:04,Ferry
+"2209 16th Ave N,Minneapolis,MN",44.995135999999995,-93.30832099999999,5,Willard - Hay,Near North,3,1,12/19/2016,14:10,Ferry
+"3124 15th Ave. S.,Minneapolis,MN",44.945861,-93.253777,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,14:06,Ferry
+"726 7th ave SE,Minneapolis,MN",44.987869,-93.242698,3,Marcy Holmes,University,2,4,12/18/2016,11:04,Ferry
+"500 2nd St n,Minneapolis,MN",44.987216,-93.273326,3,North Loop,Central,1,1,12/17/2016,22:35,Ferry
+"928 19th Avenue Southeast,Minneapolis,MN",44.987322,-93.225549,2,Como,University,2,4,12/18/2016,15:03,Ferry
+"1306 Logan ave n,Minneapolis,MN",44.991788,-93.303185,5,Willard - Hay,Near North,2,1,12/18/2016,11:48,Ferry
+"2102 9th st s,Minneapolis,MN",44.964031,-93.242459,6,Seward,Longfellow,2,4,12/18/2016,01:01,Ferry
+"3020 James Ave s,Minneapolis,MN",44.94758,-93.30367199999999,10,ECCO,Calhoun Isles,2,5,12/18/2016,09:38,Ferry
+"954 26th ave ne,Minneapolis,MN",45.014958,-93.245995,1,Audubon Park,Northeast,3,2,12/19/2016,14:10,Ferry
+"1030 Aldrich ave n,Minneapolis,MN",44.988279999999996,-93.29101999999999,5,Sumner - Glenwood,Near North,2,1,12/18/2016,08:35,Ferry
+"835 21st st e,Minneapolis,MN",44.961803,-93.26156800000001,6,Ventura Village,Phillips,3,3,12/19/2016,14:11,Ferry
+"402 CLIFTON AVE,Minneapolis,MN",44.96591,-93.283244,7,Loring Park,Central,2,3,12/18/2016,14:07,Ferry
+"1720 DUPONT AVE S,Minneapolis,MN",44.966685,-93.293447,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,11:04,Ferry
+"3028 James Ave s,Minneapolis,MN",44.947305,-93.30376,10,ECCO,Calhoun Isles,2,5,12/18/2016,08:36,Ferry
+"2311 16th ave n,Minneapolis,MN",44.995128,-93.30964200000001,5,Willard - Hay,Near North,3,1,12/19/2016,14:13,Ferry
+"912 5th st se,Minneapolis,MN",44.983959999999996,-93.24120699999999,3,Marcy Holmes,University,2,4,12/18/2016,14:08,Ferry
+"3444 Elliot Avenue South,Minneapolis,MN",44.940032,-93.261318,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,11:05,Ferry
+"1408 7th st se,Minneapolis,MN",44.98307,-93.233065,3,Marcy Holmes,University,2,4,12/18/2016,13:01,Ferry
+"112 18th st e,Minneapolis,MN",44.965229,-93.275826,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,15:04,Ferry
+"526 2nd ave se,Minneapolis,MN",44.988919,-93.251306,3,Marcy Holmes,University,2,4,12/18/2016,08:36,Ferry
+"1009 21st ave n ,Minneapolis,MN",45.000234999999996,-93.292711,5,Hawthorne,Near North,3,1,12/19/2016,14:13,Ferry
+"614 Thomas Ave N. ,Minneapolis,MN",44.984528999999995,-93.31338000000001,5,Willard - Hay,Near North,2,1,12/18/2016,14:09,Ferry
+"112 OAK GROVE ST,Minneapolis,MN",44.966387,-93.28020500000001,7,Loring Park,Central,2,3,12/18/2016,11:05,Ferry
+"3956 14th Avenue South,Minneapolis,MN",44.930679,-93.255239,8,Bancroft,Powderhorn,2,6,12/18/2016,08:41,Ferry
+"2521 Polk st ne,Minneapolis,MN",45.013925,-93.245202,1,Audubon Park,Northeast,3,2,12/19/2016,14:13,Ferry
+"626 queen ave n,Minneapolis,MN",44.985118,-93.30928,5,Willard - Hay,Near North,2,1,12/18/2016,14:09,Ferry
+"4110 13th ave,Minneapolis,MN",44.928243,-93.256212,8,Bancroft,Powderhorn,2,6,12/18/2016,11:06,Ferry
+"1066 12th Ave SE ,Minneapolis,MN",44.989615,-93.234574,2,Como,University,2,4,12/18/2016,08:41,Ferry
+"1061 15th ave se,Minneapolis,MN",44.989816999999995,-93.23100600000001,1,Como,University,3,4,12/19/2016,14:13,Ferry
+"3038 Elliot Avenue South,Minneapolis,MN",44.947742,-93.261427,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,14:10,Ferry
+"1804 colfax ave s,Minneapolis,MN",44.965118,-93.291822,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,11:06,Ferry
+"1136 Adams st ne,Minneapolis,MN",44.999855,-93.256632,1,Logan Park,Northeast,2,2,12/18/2016,13:02,Ferry
+"626 17th ave ne,Minneapolis,MN",45.005095000000004,-93.257184,1,Logan Park,Northeast,2,2,12/18/2016,15:04,Ferry
+"3238 LONGFELLOWAV S,Minneapolis,MN",44.94336,-93.246379,9,Corcoran,Powderhorn,2,6,12/18/2016,14:11,Ferry
+"4332 11th ave,Minneapolis,MN",44.924056,-93.25910400000001,11,Northrop,Nokomis,2,6,12/18/2016,11:07,Ferry
+"618 5TH street se,Minneapolis,MN",44.9853,-93.245632,3,Marcy Holmes,University,2,4,12/18/2016,14:11,Ferry
+"612 Newton Ave N,Minneapolis,MN",44.984796,-93.305408,5,Near - North,Near North,2,1,12/18/2016,13:02,Ferry
+"146 10th ave ne,Minneapolis,MN",44.997783,-93.266177,3,St. Anthony West,Northeast,2,2,12/18/2016,11:08,Ferry
+"2017 PORTLAND AVE,Minneapolis,MN",44.962005,-93.267656,6,Ventura Village,Phillips,2,3,12/18/2016,03:05,Ferry
+"526 11th ave se,Minneapolis,MN",44.983753,-93.238232,3,Marcy Holmes,University,2,4,12/18/2016,12:35,Ferry
+"516 5th ave se,Minneapolis,MN",44.986801,-93.24686899999999,3,Marcy Holmes,University,2,4,12/18/2016,09:38,Ferry
+"2308 Aldrich ave n,Minneapolis,MN",45.002965,-93.289088,5,Hawthorne,Near North,2,1,12/18/2016,13:03,Ferry
+"890 21st ave se,Minneapolis,MN",44.986469,-93.222566,2,Como,University,2,4,12/18/2016,14:12,Ferry
+"710 8th ave se,Minneapolis,MN",44.987068,-93.241506,3,Marcy Holmes,University,2,4,12/18/2016,11:08,Ferry
+"1820 Fremont ave s,Minneapolis,MN",44.964571,-93.295632,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,11:48,Ferry
+"3206 EMERSON AVE S ,Minneapolis,MN",44.944373,-93.294526,10,South Uptown,Calhoun Isles,2,5,12/18/2016,15:05,Ferry
+"3217 4th Ave s,Minneapolis,MN",44.944432,-93.269995,9,Central,Powderhorn,1,5,12/17/2016,22:35,Ferry
+"510 2nd ave se,Minneapolis,MN",44.988551,-93.251339,3,Marcy Holmes,University,2,4,12/18/2016,08:44,Ferry
+"1923 ELLIOT AVE,Minneapolis,MN",44.963096,-93.261045,6,Ventura Village,Phillips,3,3,12/19/2016,14:14,Ferry
+"688 summer st ne,Minneapolis,MN",44.996751,-93.253155,3,St. Anthony East,Northeast,2,2,12/18/2016,12:35,Ferry
+"1332 Sheridan Ave n ,Minneapolis,MN",44.992629,-93.31169799999999,5,Willard - Hay,Near North,2,1,12/18/2016,14:13,Ferry
+"2129 9th st s,Minneapolis,MN",44.964002,-93.241579,6,Seward,Longfellow,2,4,12/18/2016,01:04,Ferry
+"3506 Elliot Avenue South,Minneapolis,MN",44.939314,-93.261312,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,11:09,Ferry
+"1058 12th Ave SE ,Minneapolis,MN",44.989529,-93.234324,2,Como,University,2,4,12/18/2016,08:44,Ferry
+"3500 Colfax Ave s,Minneapolis,MN",44.939378000000005,-93.292374,10,South Uptown,Calhoun Isles,2,5,12/18/2016,15:05,Ferry
+"607 queen ave S,Minneapolis,MN",44.971592,-93.309614,7,Bryn - Mawr,Calhoun Isles,3,3,12/19/2016,14:15,Ferry
+"1506 Thomas Ave n,Minneapolis,MN",44.994372999999996,-93.312979,5,Willard - Hay,Near North,2,1,12/18/2016,14:13,Ferry
+"956 37TH ST E,Minneapolis,MN",44.935968,-93.260533,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,12:36,Ferry
+"1718 FREMONT AVE S,Minneapolis,MN",44.966673,-93.295742,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,11:09,Ferry
+"2105 Blaisdell Ave S,Minneapolis,MN",44.961715999999996,-93.279588,10,Whittier,Powderhorn,2,3,12/18/2016,01:04,Ferry
+"3944 14th ave s,Minneapolis,MN",44.931003000000004,-93.255245,8,Bancroft,Powderhorn,2,6,12/18/2016,08:44,Ferry
+"2516 11TH AVE S,Minneapolis,MN",44.956684,-93.259114,9,Midtown Phillips,Phillips,2,3,12/18/2016,15:06,Ferry
+"3034 13th Avenue South,Minneapolis,MN",44.947155,-93.256653,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,14:14,Ferry
+"2611 Essex st se,Minneapolis,MN",44.970881,-93.221389,2,Prospect Park - East River Road,University,3,4,12/19/2016,14:16,Ferry
+"1714 Adams st ne,Minneapolis,MN",45.005461,-93.25630100000001,1,Logan Park,Northeast,2,2,12/18/2016,12:36,Ferry
+"1322 5th st ne,Minneapolis,MN",45.001605,-93.26061899999999,3,Sheridan,Northeast,2,2,12/18/2016,11:09,Ferry
+"728 2ND AVE SE,Minneapolis,MN",44.990922999999995,-93.249436,3,Marcy Holmes,University,2,2,12/18/2016,08:46,Ferry
+"1900 humboldt ave s,Minneapolis,MN",44.964289,-93.29854499999999,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,13:04,Ferry
+"872 21st Ave SE,Minneapolis,MN",44.985785,-93.222835,2,Como,University,2,4,12/18/2016,14:15,Ferry
+"3216 17th ave s,Minneapolis,MN",44.944114,-93.25034000000001,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,15:07,Ferry
+"3119 22nd Avenue South,Minneapolis,MN",44.945972,-93.240139,9,Corcoran,Powderhorn,3,6,12/19/2016,14:19,Ferry
+"1373 LASALLE AVE #62523,Minneapolis,MN",44.969533,-93.279314,7,Loring Park,Central,2,3,12/18/2016,00:37,Ferry
+"1506 SPRUCE PL,Minneapolis,MN",44.96679,-93.28085300000001,7,Loring Park,Central,2,3,12/18/2016,11:09,Ferry
+"508 3rd ave se,Minneapolis,MN",44.987903,-93.25028,3,Marcy Holmes,University,2,4,12/18/2016,08:46,Ferry
+"508 5TH street se,Minneapolis,MN",44.986042,-93.247179,3,Marcy Holmes,University,2,4,12/18/2016,14:16,Ferry
+"1421 6th St se ,Minneapolis,MN",44.982098,-93.233225,3,Marcy Holmes,University,3,4,12/19/2016,14:19,Ferry
+"2310 FREMONT AVE S,Minneapolis,MN",44.959682,-93.29566700000001,7,East Isles,Calhoun Isles,2,3,12/18/2016,13:05,Ferry
+"3939 FREMONT AVE N,Minneapolis,MN",45.026927,-93.296022,4,Webber - Camden,Camden,2,1,12/18/2016,15:07,Ferry
+"524 7th Ave se,Minneapolis,MN",44.985771,-93.244349,3,Marcy Holmes,University,2,4,12/18/2016,11:09,Ferry
+"602 11th ave se,Minneapolis,MN",44.984305,-93.238201,3,Marcy Holmes,University,2,4,12/18/2016,12:37,Ferry
+"2000 CLINTON AVE S,Minneapolis,MN",44.962680999999996,-93.27151500000001,10,Whittier,Powderhorn,2,3,12/18/2016,14:16,Ferry
+"4112 14th ave,Minneapolis,MN",44.928178,-93.255292,8,Bancroft,Powderhorn,2,6,12/18/2016,08:46,Ferry
+"2107 Blaisdell ,Minneapolis,MN",44.96163,-93.27959,10,Whittier,Powderhorn,2,3,12/18/2016,01:06,Ferry
+"615 6th st se ,Minneapolis,MN",44.986763,-93.244348,3,Marcy Holmes,University,3,4,12/19/2016,14:19,Ferry
+"512 8th Ave se ,Minneapolis,MN",44.985307,-93.242899,3,Marcy Holmes,University,2,4,12/18/2016,11:10,Ferry
+"2440 11TH AVE S,Minneapolis,MN",44.957865000000005,-93.258972,9,Midtown Phillips,Phillips,2,3,12/18/2016,15:08,Ferry
+"3126 Emerson Ave s,Minneapolis,MN",44.945676,-93.29479599999999,10,South Uptown,Calhoun Isles,2,5,12/18/2016,14:17,Ferry
+"1803 lasalle ave,Minneapolis,MN",44.965089,-93.279839,7,Steven's Square - Loring Heights,Central,2,3,12/18/2016,00:38,Ferry
+"1042 Aldrich Ave. n. ,Minneapolis,MN",44.988357,-93.291024,5,Sumner - Glenwood,Near North,2,1,12/18/2016,08:47,Ferry
+"16 oak grove st,Minneapolis,MN",44.966482,-93.278594,7,Loring Park,Central,2,3,12/18/2016,11:11,Ferry
+"3017 dupont ave s,Minneapolis,MN",44.947688,-93.292825,10,South Uptown,Calhoun Isles,2,5,12/18/2016,01:07,Ferry
+"1001 31st ave n,Minneapolis,MN",45.012225,-93.29163199999999,5,Hawthorne,Near North,3,1,12/19/2016,14:23,Ferry
+"2312 LAKE PLACE,Minneapolis,MN",44.959696,-93.300324,7,East Isles,Calhoun Isles,2,3,12/18/2016,14:17,Ferry
+"4012 14th ave,Minneapolis,MN",44.930064,-93.255235,8,Bancroft,Powderhorn,2,6,12/18/2016,08:48,Ferry
+"702 32nd st w,Minneapolis,MN",44.944748,-93.28828299999999,10,South Uptown,Calhoun Isles,2,5,12/18/2016,15:09,Ferry
+"3810 6th st n,Minneapolis,MN",45.024309,-93.286265,4,Webber - Camden,Camden,2,1,12/18/2016,12:38,Ferry
+"1410 Irving Ave n ,Minneapolis,MN",44.993221999999996,-93.299082,5,Near - North,Near North,2,1,12/18/2016,11:11,Ferry
+"3024 12th Avenue South,Minneapolis,MN",44.94742,-93.25789499999999,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,13:07,Ferry
+"936 18th Avenue Southeast,Minneapolis,MN",44.987315,-93.22691400000001,2,Como,University,2,4,12/18/2016,14:18,Ferry
+"255 26th Ave se ,Minneapolis,MN",44.972445,-93.2204,2,Prospect Park - East River Road,University,3,4,12/19/2016,14:24,Ferry
+"1036 22nd ave se,Minneapolis,MN",44.989014000000005,-93.221275,1,Como,University,2,4,12/18/2016,15:10,Ferry
+"228 4th ave ne,Minneapolis,MN",44.979106,-93.262997,3,Downtown West,Central,2,3,12/18/2016,08:49,Ferry
+"4200 Elliott Avenue South,Minneapolis,MN",44.926759000000004,-93.26155200000001,8,Northrop,Nokomis,2,6,12/18/2016,11:11,Ferry
+"1724 humboldt Ave s,Minneapolis,MN",44.966704,-93.29854499999999,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,12:39,Ferry
+"1802 Talmage ave SE ,Minneapolis,MN",44.989627,-93.226899,1,Como,University,2,4,12/18/2016,14:19,Ferry
+"1110 Adams st ne,Minneapolis,MN",44.999113,-93.256537,1,Logan Park,Northeast,2,2,12/18/2016,13:07,Ferry
+"2017 PORTLAND AVE ,Minneapolis,MN",44.962005,-93.267656,6,Ventura Village,Phillips,2,3,12/18/2016,03:11,Ferry
+"604 4th Avenue southeast ,Minneapolis,MN",44.988211,-93.247946,3,Marcy Holmes,University,2,4,12/18/2016,08:49,Ferry
+"718 8th ave se,Minneapolis,MN",44.987266,-93.241075,3,Marcy Holmes,University,2,4,12/18/2016,11:12,Ferry
+"3121 pleasant Ave s,Minneapolis,MN",44.945725,-93.28268100000001,8,Lyndale,Powderhorn,3,5,12/19/2016,14:25,Ferry
+"1126 32nd Street West,Minneapolis,MN",44.944743,-93.29356899999999,10,South Uptown,Calhoun Isles,2,5,12/18/2016,14:19,Ferry
+"316 12th ave se,Minneapolis,MN",44.981086,-93.23872,3,Marcy Holmes,University,2,4,12/18/2016,12:41,Ferry
+"1036 Aldrich Ave n,Minneapolis,MN",44.988318,-93.291023,5,Sumner - Glenwood,Near North,2,1,12/18/2016,08:50,Ferry
+"2514 6th st n,Minneapolis,MN",45.005293,-93.286013,5,Hawthorne,Near North,2,1,12/18/2016,11:12,Ferry
+"1090 16th ave se,Minneapolis,MN",44.990545000000004,-93.229259,1,Como,University,2,4,12/18/2016,13:08,Ferry
+"1826 2nd Ave s ,Minneapolis,MN",44.964826,-93.274046,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,15:12,Ferry
+"1117 17th Ave n ,Minneapolis,MN",44.996313,-93.295234,5,Near - North,Near North,3,1,12/19/2016,14:25,Ferry
+"3128 Emerson Ave s,Minneapolis,MN",44.945568,-93.294511,10,South Uptown,Calhoun Isles,2,5,12/18/2016,14:19,Ferry
+"3040 James Ave South,Minneapolis,MN",44.946923,-93.303765,10,ECCO,Calhoun Isles,2,5,12/18/2016,08:51,Ferry
+"1410 newton Ave n,Minneapolis,MN",44.993471,-93.305462,5,Willard - Hay,Near North,2,1,12/18/2016,13:09,Ferry
+"1712 Irving ave n,Minneapolis,MN",44.99677,-93.29941,5,Near - North,Near North,2,1,12/18/2016,11:13,Ferry
+"1908 FREMONT AVE S,Minneapolis,MN",44.963714,-93.295996,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,12:41,Ferry
+"3117 22nd Avenue South,Minneapolis,MN",44.946017,-93.240608,9,Corcoran,Powderhorn,3,6,12/19/2016,14:27,Ferry
+"2017 PORTLAND AVE,Minneapolis,MN",44.962005,-93.267656,6,Ventura Village,Phillips,2,3,12/18/2016,03:13,Ferry
+"632 15th ave ne,Minneapolis,MN",45.003091999999995,-93.256918,1,Logan Park,Northeast,2,2,12/18/2016,14:19,Ferry
+"1032 Aldrich ave n,Minneapolis,MN",44.988293,-93.291021,5,Sumner - Glenwood,Near North,2,1,12/18/2016,08:53,Ferry
+"726 11 th ave se ,Minneapolis,MN",44.985799,-93.23674,3,Marcy Holmes,University,2,4,12/18/2016,11:13,Ferry
+"622 5street se,Minneapolis,MN",44.985257,-93.245172,3,Marcy Holmes,University,2,4,12/18/2016,13:10,Ferry
+"3418 4th Avenue South,Minneapolis,MN",44.940428999999995,-93.270223,9,Central,Powderhorn,1,5,12/17/2016,22:37,Ferry
+"618 8th Ave se,Minneapolis,MN",44.986366,-93.242062,3,Marcy Holmes,University,2,4,12/18/2016,11:48,Ferry
+"506 5th Ave se,Minneapolis,MN",44.986637,-93.247326,3,Marcy Holmes,University,2,4,12/18/2016,09:39,Ferry
+"245 irving av n,Minneapolis,MN",44.979476,-93.299705,5,Harrison,Near North,3,3,12/19/2016,14:27,Ferry
+"416 11TH AVE SE,Minneapolis,MN",44.982541,-93.23911600000001,3,Marcy Holmes,University,2,4,12/18/2016,12:41,Ferry
+"1504 8th St se,Minneapolis,MN",44.983779,-93.23112900000001,2,University of Minnesota,University,2,4,12/18/2016,14:21,Ferry
+"1044 Aldrich Ave n,Minneapolis,MN",44.98837,-93.291024,5,Sumner - Glenwood,Near North,2,1,12/18/2016,08:54,Ferry
+"3318 Chicago Ave S,Minneapolis,MN",44.942554,-93.262619,9,Central,Powderhorn,1,5,12/17/2016,22:37,Ferry
+"1119 Adams st ne,Minneapolis,MN",44.999340999999994,-93.25595899999999,1,Logan Park,Northeast,2,2,12/18/2016,13:10,Ferry
+"3336 humboldt ave s,Minneapolis,MN",44.942045,-93.301185,10,ECCO,Calhoun Isles,2,5,12/18/2016,11:14,Ferry
+"2124 6th st ne,Minneapolis,MN",45.009567,-93.25853199999999,1,Holland,Northeast,2,2,12/18/2016,15:13,Ferry
+"4311 44TH AV S,Minneapolis,MN",44.924808,-93.21018199999999,12,Hiawatha,Longfellow,3,6,12/19/2016,14:27,Ferry
+"626 12th ave se,Minneapolis,MN",44.984190000000005,-93.236452,3,Marcy Holmes,University,2,4,12/18/2016,12:42,Ferry
+"908 3rd st e,Minneapolis,MN",44.993601,-93.25159000000001,3,St. Anthony East,Northeast,2,2,12/18/2016,11:48,Ferry
+"216 4th ave ne,Minneapolis,MN",44.97922,-93.262902,3,Downtown West,Central,2,3,12/18/2016,08:54,Ferry
+"1506 8th st se,Minneapolis,MN",44.983753,-93.231062,2,University of Minnesota,University,2,4,12/18/2016,14:21,Ferry
+"3540 12th ave s,Minneapolis,MN",44.938241,-93.257503,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,09:39,Ferry
+"1082 24th ave se,Minneapolis,MN",44.990584999999996,-93.218963,1,Como,University,2,4,12/18/2016,15:15,Ferry
+"2820 EMERSON,Minneapolis,MN",45.009221000000004,-93.29429499999999,5,Hawthorne,Near North,1,1,12/17/2016,22:37,Ferry
+"420 8th Avenue southeast ,Minneapolis,MN",44.984349,-93.243275,3,Marcy Holmes,University,2,4,12/18/2016,11:14,Ferry
+"924 - 5TH ST SE,Minneapolis,MN",44.983864000000004,-93.240987,3,Marcy Holmes,University,2,4,12/18/2016,13:10,Ferry
+"3147 pillsbury Ave s,Minneapolis,MN",44.945192,-93.28135,8,Lyndale,Powderhorn,3,5,12/19/2016,14:28,Ferry
+"1418 32nd st w,Minneapolis,MN",44.94474,-93.298252,10,South Uptown,Calhoun Isles,2,5,12/18/2016,12:42,Ferry
+"808 11th Avenue southeast ,Minneapolis,MN",44.986411,-93.236519,3,Marcy Holmes,University,2,4,12/18/2016,11:48,Ferry
+"3104 james ave s,Minneapolis,MN",44.94631,-93.303699,10,ECCO,Calhoun Isles,2,5,12/18/2016,08:55,Ferry
+"312 3rd Avenue southeast,Minneapolis,MN",44.986089,-93.251191,3,Marcy Holmes,University,2,4,12/18/2016,09:39,Ferry
+"1766 BRYANT AVE S,Minneapolis,MN",44.966039,-93.290539,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,14:21,Ferry
+"4030 aldrich ave n,Minneapolis,MN",45.02856,-93.289079,4,Webber - Camden,Camden,2,1,12/18/2016,15:15,Ferry
+"1508 SPRUCE PL,Minneapolis,MN",44.966751,-93.28085300000001,7,Loring Park,Central,2,3,12/18/2016,11:14,Ferry
+"1061 26th Avenue Southeast,Minneapolis,MN",44.990014,-93.216466,1,Como,University,3,4,12/19/2016,14:31,Ferry
+"804 37th st e,Minneapolis,MN",44.935969,-93.26182299999999,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,12:42,Ferry
+"3033 Dupont Ave. S,Minneapolis,MN",44.947195,-93.292937,10,South Uptown,Calhoun Isles,2,5,12/18/2016,01:11,Ferry
+"350 15th st w,Minneapolis,MN",44.968425,-93.28591999999999,7,Loring Park,Central,1,3,12/17/2016,22:38,Ferry
+"608 Bryant Ave n,Minneapolis,MN",44.991409999999995,-93.29106999999999,5,Near - North,Near North,2,1,12/18/2016,08:59,Ferry
+"3124 James Ave s,Minneapolis,MN",44.945688,-93.30369300000001,10,ECCO,Calhoun Isles,2,5,12/18/2016,09:39,Ferry
+"210 5th st se,Minneapolis,MN",44.988008,-93.251463,3,Marcy Holmes,University,2,4,12/18/2016,14:22,Ferry
+"1227 Talmage Ave SE -,Minneapolis,MN",44.989677,-93.23397299999999,2,Como,University,2,4,12/18/2016,11:50,Ferry
+"622 8th Ave se ,Minneapolis,MN",44.986502,-93.241955,3,Marcy Holmes,University,2,4,12/18/2016,11:14,Ferry
+"759 PIERCE ST NE,Minneapolis,MN",44.998514,-93.24062099999999,3,Beltrami,Northeast,3,2,12/19/2016,14:31,Ferry
+"110 3rd ave ne,Minneapolis,MN",44.98149,-93.262861,3,Downtown West,Central,2,3,12/18/2016,09:00,Ferry
+"408 4TTH AVE SE,Minneapolis,MN",44.986696,-93.249404,3,Marcy Holmes,University,2,4,12/18/2016,09:39,Ferry
+"3228 6th st n,Minneapolis,MN",45.014055,-93.286459,4,McKinley,Camden,2,1,12/18/2016,11:50,Ferry
+"3632 18th ave s,Minneapolis,MN",44.936749,-93.248899,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,14:22,Ferry
+"799 2 st n ,Minneapolis,MN",44.989382,-93.277001,3,North Loop,Central,1,1,12/17/2016,22:38,Ferry
+"26th and Essex Southeastc,Minneapolis,MN",44.970929,-93.22155,2,Prospect Park - East River Road,University,3,4,12/19/2016,14:32,Ferry
+"1510 5th st ne,Minneapolis,MN",45.003443,-93.260506,3,Sheridan,Northeast,2,2,12/18/2016,11:16,Ferry
+"1778 Bryant ave s,Minneapolis,MN",44.965848,-93.29054000000001,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,09:01,Ferry
+"4052. 12 th ave s,Minneapolis,MN",44.928967,-93.257837,8,Bancroft,Powderhorn,2,6,12/18/2016,09:40,Ferry
+"5717 BOSSEN TERR,Minneapolis,MN",44.899699,-93.22614,11,Wenonah,Nokomis,3,6,12/19/2016,14:33,Ferry
+"642 15th ave ne,Minneapolis,MN",45.003089,-93.256425,1,Logan Park,Northeast,2,2,12/18/2016,14:23,Ferry
+"600 2nd ave se,Minneapolis,MN",44.989202,-93.251085,3,Marcy Holmes,University,2,4,12/18/2016,09:01,Ferry
+"2814 Dupont Ave S,Minneapolis,MN",44.951199,-93.293204,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,22:42,Ferry
+"410 8th ave se,Minneapolis,MN",44.98418,-93.243798,3,Marcy Holmes,University,2,4,12/18/2016,11:16,Ferry
+"2318 HUMBOLDT AVE S,Minneapolis,MN",44.959364,-93.298211,7,East Isles,Calhoun Isles,2,3,12/18/2016,13:11,Ferry
+"1524 39TH ST E,Minneapolis,MN",44.932327,-93.252442,8,Bancroft,Powderhorn,2,6,12/18/2016,11:50,Ferry
+"3114 GIRARD Ave s,Minneapolis,MN",44.946044,-93.297051,10,South Uptown,Calhoun Isles,2,5,12/18/2016,12:43,Ferry
+"710 7th St se,Minneapolis,MN",44.987632,-93.242549,3,Marcy Holmes,University,2,4,12/18/2016,15:15,Ferry
+"513 Humboldt n,Minneapolis,MN",44.983225,-93.298215,5,Harrison,Near North,3,3,12/19/2016,14:35,Ferry
+"3548 3rd st n,Minneapolis,MN",45.019326,-93.283451,4,McKinley,Camden,2,1,12/18/2016,09:40,Ferry
+"624 Bryant Ave n,Minneapolis,MN",44.984741,-93.291015,5,Sumner - Glenwood,Near North,2,1,12/18/2016,09:01,Ferry
+"2642 UPTON AVE N ,Minneapolis,MN",45.007275,-93.314306,4,Willard - Hay,Near North,2,1,12/18/2016,14:23,Ferry
+"500 2nd st n. ,Minneapolis,MN",44.987216,-93.273326,3,North Loop,Central,1,1,12/17/2016,22:42,Ferry
+"508 7th ave ne,Minneapolis,MN",44.996718,-93.258687,3,St. Anthony West,Northeast,2,2,12/18/2016,11:17,Ferry
+"2200 EMERSON SO,Minneapolis,MN",44.960770000000004,-93.294718,7,East Isles,Calhoun Isles,2,3,12/18/2016,11:50,Ferry
+"922 5th st se,Minneapolis,MN",44.983885,-93.241036,3,Marcy Holmes,University,2,4,12/18/2016,13:12,Ferry
+"1024 5th st se,Minneapolis,MN",44.983288,-93.239571,3,Marcy Holmes,University,2,4,12/18/2016,12:43,Ferry
+"3148 ALDRICH AVE S,Minneapolis,MN",44.945683,-93.28943100000001,10,South Uptown,Calhoun Isles,2,5,12/18/2016,15:15,Ferry
+"5715 BOSSEN TERR,Minneapolis,MN",44.899731,-93.226079,11,Wenonah,Nokomis,3,6,12/19/2016,14:36,Ferry
+"622 4th st ne,Minneapolis,MN",44.995596,-93.260053,3,St. Anthony West,Northeast,2,2,12/18/2016,09:41,Ferry
+"608 3rd ave SE,Minneapolis,MN",44.988728,-93.24963000000001,3,Marcy Holmes,University,2,4,12/18/2016,09:03,Ferry
+"1442 32nd st w,Minneapolis,MN",44.944742,-93.299252,10,ECCO,Calhoun Isles,2,5,12/18/2016,11:17,Ferry
+"612 11th ave se,Minneapolis,MN",44.984444,-93.237767,3,Marcy Holmes,University,2,4,12/18/2016,11:51,Ferry
+"3116 22nd Avenue S,Minneapolis,MN",44.945971,-93.24112099999999,9,Corcoran,Powderhorn,2,6,12/18/2016,15:16,Ferry
+"500-799 2nd St N,Minneapolis,MN",44.987185,-93.273561,3,North Loop,Central,1,1,12/17/2016,22:42,Ferry
+"3040 Elliot Avenue South,Minneapolis,MN",44.947028,-93.26173399999999,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,13:13,Ferry
+"2213 16th ave n,Minneapolis,MN",44.995127000000004,-93.30837700000001,5,Willard - Hay,Near North,3,1,12/19/2016,14:37,Ferry
+"1522 dupont ave n,Minneapolis,MN",44.994925,-93.292144,5,Near - North,Near North,2,1,12/18/2016,09:41,Ferry
+"2103 BLAISDELL AVE S,Minneapolis,MN",44.961802,-93.279585,10,Whittier,Powderhorn,2,3,12/18/2016,00:44,Ferry
+"3042 James ave s,Minneapolis,MN",44.946855,-93.303414,10,ECCO,Calhoun Isles,2,5,12/18/2016,09:04,Ferry
+"1526 Madison st ne,Minneapolis,MN",45.003918,-93.254005,1,Logan Park,Northeast,2,2,12/18/2016,14:26,Ferry
+"1910 DuPont ave s,Minneapolis,MN",44.963929,-93.293093,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,11:17,Ferry
+"202 19TH ST E,Minneapolis,MN",44.963968,-93.273376,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,15:18,Ferry
+"422 11th Ave se ,Minneapolis,MN",44.98272,-93.239462,3,Marcy Holmes,University,2,4,12/18/2016,11:51,Ferry
+"3508 Fremont Ave s,Minneapolis,MN",44.939151,-93.296141,10,South Uptown,Calhoun Isles,2,5,12/18/2016,13:13,Ferry
+"5529 Chicago Ave S,Minneapolis,MN",44.90229,-93.2623,11,Diamond Lake,Nokomis,1,6,12/17/2016,22:43,Ferry
+"1121 Talmage Ave SE,Minneapolis,MN",44.989678000000005,-93.235567,2,Como,University,2,4,12/18/2016,09:41,Ferry
+"501 Humboldt n,Minneapolis,MN",44.982638,-93.298214,5,Harrison,Near North,3,3,12/19/2016,14:37,Ferry
+"3132 HOLMES AVE S ,Minneapolis,MN",44.94543,-93.299856,10,ECCO,Calhoun Isles,2,5,12/18/2016,12:44,Ferry
+"3000 James Ave s,Minneapolis,MN",44.948048,-93.30379,10,ECCO,Calhoun Isles,2,5,12/18/2016,09:04,Ferry
+"1527 LASALLE AVE,Minneapolis,MN",44.966793,-93.279315,7,Loring Park,Central,2,3,12/18/2016,02:27,Ferry
+"409 13th Ave NE,Minneapolis,MN",45.00111,-93.2611,3,Sheridan,Northeast,1,2,12/17/2016,22:43,Ferry
+"1404 6th st se ,Minneapolis,MN",44.982347,-93.233967,3,Marcy Holmes,University,2,4,12/18/2016,13:14,Ferry
+"1911 Upton Ave. N. ,Minneapolis,MN",44.999179999999996,-93.314924,5,Willard - Hay,Near North,3,1,12/19/2016,14:38,Ferry
+"1716 colfax ave s,Minneapolis,MN",44.966784000000004,-93.292175,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,09:42,Ferry
+"717 Morgan AVE N,Minneapolis,MN",44.985735999999996,-93.304724,5,Near - North,Near North,2,1,12/18/2016,15:18,Ferry
+"1328 James Ave. N. ,Minneapolis,MN",44.992497,-93.300688,5,Near - North,Near North,2,1,12/18/2016,11:18,Ferry
+"920 7th st se,Minneapolis,MN",44.985861,-93.23952,3,Marcy Holmes,University,2,4,12/18/2016,12:44,Ferry
+"1428 Morgan ave n,Minneapolis,MN",44.993961999999996,-93.304439,5,Willard - Hay,Near North,2,1,12/18/2016,11:53,Ferry
+"416 7th ave ne,Minneapolis,MN",44.996231,-93.259276,3,St. Anthony West,Northeast,2,2,12/18/2016,09:05,Ferry
+"316 7th st se,Minneapolis,MN",44.989498,-93.248752,3,Marcy Holmes,University,2,4,12/18/2016,14:27,Ferry
+"209 15th st w,Minneapolis,MN",44.967464,-93.281525,7,Loring Park,Central,1,3,12/17/2016,22:44,Ferry
+"1318 7th St se,Minneapolis,MN",44.983301000000004,-93.234073,3,Marcy Holmes,University,2,4,12/18/2016,13:14,Ferry
+"3117 28th ave s,Minneapolis,MN",44.94628,-93.231308,2,Longfellow,Longfellow,3,6,12/19/2016,14:41,Ferry
+"308 3rd ave se,Minneapolis,MN",44.986061,-93.251739,3,Marcy Holmes,University,2,4,12/18/2016,09:43,Ferry
+"3526 aldrich ave n ,Minneapolis,MN",45.019302,-93.288926,4,McKinley,Camden,2,1,12/18/2016,15:18,Ferry
+"814 39th St. E.,Minneapolis,MN",44.932367,-93.26230600000001,8,Bancroft,Powderhorn,2,6,12/18/2016,11:18,Ferry
+"3102 10th ave s,Minneapolis,MN",44.946368,-93.260124,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,12:45,Ferry
+"318 4th Ave se,Minneapolis,MN",44.985665000000004,-93.25022,3,Marcy Holmes,University,2,4,12/18/2016,09:07,Ferry
+"1109 Talmage Ave SE -,Minneapolis,MN",44.989678000000005,-93.235714,2,Como,University,2,4,12/18/2016,11:53,Ferry
+"2113 2ND AVE S,Minneapolis,MN",44.961199,-93.273997,10,Whittier,Powderhorn,3,3,12/19/2016,14:42,Ferry
+"461 13th Ave NE,Minneapolis,MN",45.00092,-93.260778,3,Sheridan,Northeast,1,2,12/17/2016,22:45,Ferry
+"670 15th ave ne,Minneapolis,MN",45.003068,-93.253804,1,Logan Park,Northeast,2,2,12/18/2016,14:28,Ferry
+"1518 LASALLE AVE,Minneapolis,MN",44.967067,-93.279353,7,Loring Park,Central,2,3,12/18/2016,01:15,Ferry
+"528 7th ave se,Minneapolis,MN",44.9858,-93.244326,3,Marcy Holmes,University,2,4,12/18/2016,09:43,Ferry
+"1914 - 2ND AVE S,Minneapolis,MN",44.963446999999995,-93.274051,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,15:20,Ferry
+"3020 11th Ave. S.,Minneapolis,MN",44.947623,-93.259078,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,12:45,Ferry
+"1504 Morgan ave n,Minneapolis,MN",44.994299,-93.304441,5,Willard - Hay,Near North,2,1,12/18/2016,11:18,Ferry
+"510 7th ave ne,Minneapolis,MN",44.996727,-93.258663,3,St. Anthony West,Northeast,2,2,12/18/2016,09:07,Ferry
+"1448 32nd st w,Minneapolis,MN",44.944743,-93.299566,10,ECCO,Calhoun Isles,2,5,12/18/2016,11:56,Ferry
+"643 15TH ST E,Minneapolis,MN",44.968046,-93.265895,6,Elliot Park,Central,2,3,12/18/2016,02:29,Ferry
+"155 26th Ave se ,Minneapolis,MN",44.971477,-93.221148,2,Prospect Park - East River Road,University,3,4,12/19/2016,14:45,Ferry
+"1522 SPRUCE pl,Minneapolis,MN",44.966476,-93.28085,7,Loring Park,Central,2,3,12/18/2016,09:44,Ferry
+"2302 9th St s,Minneapolis,MN",44.963994,-93.23881999999999,6,Seward,Longfellow,2,4,12/18/2016,00:46,Ferry
+"3544 holmes ave s,Minneapolis,MN",44.938134000000005,-93.299685,10,ECCO,Calhoun Isles,2,5,12/18/2016,11:19,Ferry
+"3140 4TH AVE S,Minneapolis,MN",44.945281,-93.270507,9,Central,Powderhorn,1,5,12/17/2016,22:45,Ferry
+"2314 Sheridan Ave n,Minneapolis,MN",45.002968,-93.311752,5,Willard - Hay,Near North,2,1,12/18/2016,15:20,Ferry
+"501 15TH st e,Minneapolis,MN",44.967652,-93.26853299999999,6,Elliot Park,Central,2,3,12/18/2016,01:15,Ferry
+"726 8th ave se,Minneapolis,MN",44.98754,-93.241128,3,Marcy Holmes,University,2,4,12/18/2016,11:57,Ferry
+"3032 James Ave s,Minneapolis,MN",44.947176,-93.303763,10,ECCO,Calhoun Isles,2,5,12/18/2016,09:07,Ferry
+"1819 Queen Ave N,Minneapolis,MN",44.998258,-93.30984699999999,5,Willard - Hay,Near North,3,1,12/19/2016,14:46,Ferry
+"716 5TH AVE SE,Minneapolis,MN",44.988853000000006,-93.245251,3,Marcy Holmes,University,2,4,12/18/2016,09:44,Ferry
+"354 14th ave ne,Minneapolis,MN",45.001977000000004,-93.262153,3,Sheridan,Northeast,2,2,12/18/2016,14:29,Ferry
+"708 13th Ave se,Minneapolis,MN",44.984246,-93.234347,3,Marcy Holmes,University,2,4,12/18/2016,12:46,Ferry
+"3233 4th ave s,Minneapolis,MN",44.943853999999995,-93.270237,9,Central,Powderhorn,1,5,12/17/2016,22:47,Ferry
+"3206 Holmes Ave s,Minneapolis,MN",44.944363,-93.29974,10,ECCO,Calhoun Isles,2,5,12/18/2016,11:20,Ferry
+"3624 24th ave S,Minneapolis,MN",44.936704,-93.237498,12,Standish,Powderhorn,2,6,12/18/2016,15:20,Ferry
+"3502 14th Ave. S.,Minneapolis,MN",44.939394,-93.255246,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,09:08,Ferry
+"3248 girard ave s,Minneapolis,MN",44.943157,-93.29708199999999,10,South Uptown,Calhoun Isles,2,5,12/18/2016,11:59,Ferry
+"3340 Girard Ave s,Minneapolis,MN",44.941697999999995,-93.297439,10,South Uptown,Calhoun Isles,2,5,12/18/2016,13:15,Ferry
+"1103 Talmage Ave SE - ,Minneapolis,MN",44.989678000000005,-93.235788,2,Como,University,2,4,12/18/2016,09:44,Ferry
+"3501 pleasant Ave s,Minneapolis,MN",44.939372,-93.282641,8,Lyndale,Powderhorn,3,5,12/19/2016,14:47,Ferry
+"1410 32nd st w,Minneapolis,MN",44.94474,-93.297747,10,South Uptown,Calhoun Isles,2,5,12/18/2016,12:46,Ferry
+"316 6th st se,Minneapolis,MN",44.988081,-93.249262,3,Marcy Holmes,University,2,4,12/18/2016,14:30,Ferry
+"500-799 2st n ,Minneapolis,MN",45.00855,-93.266591,3,Bottineau,Northeast,1,2,12/17/2016,22:47,Ferry
+"400 8th ave se ,Minneapolis,MN",44.983819,-93.24408100000001,3,Marcy Holmes,University,2,4,12/18/2016,11:20,Ferry
+"3038 James ave,Minneapolis,MN",45.012232,-93.300627,5,Jordan,Near North,2,1,12/18/2016,09:08,Ferry
+"3120 Aldrich Ave South,Minneapolis,MN",44.946208,-93.28942099999999,10,South Uptown,Calhoun Isles,2,5,12/18/2016,15:21,Ferry
+"1434 32nd st w,Minneapolis,MN",44.944854,-93.298834,10,ECCO,Calhoun Isles,2,5,12/18/2016,11:59,Ferry
+"1359 Lasalle ave ,Minneapolis,MN",44.969615999999995,-93.279314,7,Loring Park,Central,2,3,12/18/2016,01:16,Ferry
+"715 25th ave n ,Minneapolis,MN",45.004647999999996,-93.288891,5,Hawthorne,Near North,3,1,12/19/2016,14:47,Ferry
+"616 5th Ave SE,Minneapolis,MN",44.987602,-93.24658199999999,3,Marcy Holmes,University,2,4,12/18/2016,09:45,Ferry
+"2320 GIRARD AVE S,Minneapolis,MN",44.959381,-93.29724,7,East Isles,Calhoun Isles,2,3,12/18/2016,12:46,Ferry
+"1942 Johnson St NE,Minneapolis,MN",45.009298,-93.237186,1,Windom Park,Northeast,1,2,12/17/2016,22:48,Ferry
+"3814 6th st n,Minneapolis,MN",45.024413,-93.28625500000001,4,Webber - Camden,Camden,2,1,12/18/2016,14:31,Ferry
+"606 4th ave se,Minneapolis,MN",44.988335,-93.248109,3,Marcy Holmes,University,2,4,12/18/2016,09:08,Ferry
+"2922 Aldrich Ave N,Minneapolis,MN",45.010222,-93.28899799999999,5,Hawthorne,Near North,2,1,12/18/2016,15:22,Ferry
+"2007 9th st s ,Minneapolis,MN",44.964007,-93.24354699999999,6,Seward,Longfellow,2,4,12/18/2016,00:01,Ferry
+"3328 Girard Ave South,Minneapolis,MN",44.94206,-93.297376,10,South Uptown,Calhoun Isles,2,5,12/18/2016,13:16,Ferry
+"820 40 th st ,Minneapolis,MN",44.930566,-93.26223399999999,8,Bancroft,Powderhorn,2,6,12/18/2016,11:21,Ferry
+"2113 8th ave n,Minneapolis,MN",44.986074,-93.307182,5,Near - North,Near North,3,1,12/19/2016,14:52,Ferry
+"682 Summer St ne,Minneapolis,MN",44.996916999999996,-93.253517,3,St. Anthony East,Northeast,2,2,12/18/2016,09:46,Ferry
+"616 Newton Ave N,Minneapolis,MN",44.984911,-93.30540699999999,5,Near - North,Near North,2,1,12/18/2016,12:46,Ferry
+"1522 Thomas Ave N,Minneapolis,MN",44.994811999999996,-93.312976,5,Willard - Hay,Near North,2,1,12/18/2016,14:31,Ferry
+"2908 EMERSON AVE S,Minneapolis,MN",44.949715999999995,-93.294496,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,22:49,Ferry
+"1208 Fremont Ave. N. ,Minneapolis,MN",44.991984,-93.295631,5,Near - North,Near North,2,1,12/18/2016,09:08,Ferry
+"2707 Girard Ave S,Minneapolis,MN",44.953461,-93.296603,10,Lowry Hill East,Calhoun Isles,3,3,12/19/2016,14:54,Ferry
+"3041 Hennepin Avenue South,Minneapolis,MN",44.947057,-93.298293,10,South Uptown,Calhoun Isles,2,5,12/18/2016,00:02,Ferry
+"414 se 8th,Minneapolis,MN",44.989546999999995,-93.246139,3,Marcy Holmes,University,2,4,12/18/2016,11:21,Ferry
+"2116 GRAND AVE S,Minneapolis,MN",44.961315,-93.284589,10,Whittier,Powderhorn,2,3,12/18/2016,15:24,Ferry
+"220 13th Ave NE,Minneapolis,MN",45.000895,-93.26507600000001,3,Sheridan,Northeast,2,2,12/18/2016,01:17,Ferry
+"1820 dupont ave n,Minneapolis,MN",44.99807,-93.292301,5,Near - North,Near North,2,1,12/18/2016,09:46,Ferry
+"1402 32ND st w,Minneapolis,MN",44.944739,-93.297241,10,South Uptown,Calhoun Isles,2,5,12/18/2016,12:47,Ferry
+"2017 PORTLAND AVE,Minneapolis,MN",44.962005,-93.267656,6,Ventura Village,Phillips,2,3,12/18/2016,02:32,Ferry
+"2604 3rd St N,Minneapolis,MN",45.005971,-93.283401,5,Hawthorne,Near North,2,1,12/18/2016,09:08,Ferry
+"411 13th Ave NE,Minneapolis,MN",45.001055,-93.26105600000001,3,Sheridan,Northeast,1,2,12/17/2016,22:49,Ferry
+"108 19TH ST E,Minneapolis,MN",44.963968,-93.276052,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,12:02,Ferry
+"735 31st ave n ,Minneapolis,MN",45.012,-93.289473,5,Hawthorne,Near North,3,1,12/19/2016,14:55,Ferry
+"526 7th Avenue Southeast,Minneapolis,MN",44.985785,-93.244337,3,Marcy Holmes,University,2,4,12/18/2016,11:22,Ferry
+"3112 22nd Ave. S.,Minneapolis,MN",44.946113000000004,-93.241118,9,Corcoran,Powderhorn,2,6,12/18/2016,15:24,Ferry
+"3026 Elliot Avenue South,Minneapolis,MN",44.947488,-93.26173100000001,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,13:18,Ferry
+"602 5th st ne,Minneapolis,MN",44.995444,-93.25794300000001,3,St. Anthony West,Northeast,2,2,12/18/2016,09:47,Ferry
+"708 2nd ave se,Minneapolis,MN",44.990399,-93.25012199999999,3,Marcy Holmes,University,2,2,12/18/2016,09:10,Ferry
+"3240 GIRARD AVE S ,Minneapolis,MN",44.943456,-93.29708000000001,10,South Uptown,Calhoun Isles,2,5,12/18/2016,12:47,Ferry
+"3241 4 TH AVE S,Minneapolis,MN",44.943621,-93.27023299999999,9,Central,Powderhorn,1,5,12/17/2016,22:50,Ferry
+"1336 Knox Ave n,Minneapolis,MN",44.992709999999995,-93.30158,5,Near - North,Near North,2,1,12/18/2016,11:22,Ferry
+"3400 GIRARD AVE S,Minneapolis,MN",44.941148999999996,-93.297386,10,South Uptown,Calhoun Isles,2,5,12/18/2016,13:18,Ferry
+"1814 FREMONT AVE S,Minneapolis,MN",44.964775,-93.295633,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,12:02,Ferry
+"1506 talmage ave se,Minneapolis,MN",44.989667,-93.230713,1,Como,University,3,4,12/19/2016,14:55,Ferry
+"1112 newton ave n,Minneapolis,MN",44.989308,-93.305379,5,Near - North,Near North,2,1,12/18/2016,15:26,Ferry
+"1034 Aldrich Ave n,Minneapolis,MN",44.988306,-93.291022,5,Sumner - Glenwood,Near North,2,1,12/18/2016,09:12,Ferry
+"1204 Humbodlt Ave. N. ,Minneapolis,MN",44.990937,-93.298165,5,Near - North,Near North,2,1,12/18/2016,09:47,Ferry
+"489 2nd st n,Minneapolis,MN",44.98686,-93.2735,3,North Loop,Central,1,3,12/17/2016,22:51,Ferry
+"1026 5th st Se,Minneapolis,MN",44.983071,-93.239639,3,Marcy Holmes,University,2,4,12/18/2016,12:47,Ferry
+"3435 Harriet Ave s,Minneapolis,MN",44.940106,-93.285364,8,Lyndale,Powderhorn,3,5,12/19/2016,14:56,Ferry
+"604 11th Ave se,Minneapolis,MN",44.984255,-93.237913,3,Marcy Holmes,University,2,4,12/18/2016,12:02,Ferry
+"3034 James ave s,Minneapolis,MN",44.947107,-93.303414,10,ECCO,Calhoun Isles,2,5,12/18/2016,09:47,Ferry
+"2112 GRAND AVE S,Minneapolis,MN",44.961453999999996,-93.284587,10,Whittier,Powderhorn,2,3,12/18/2016,15:28,Ferry
+"431 15th st w,Minneapolis,MN",44.968419,-93.285987,7,Loring Park,Central,1,3,12/17/2016,22:51,Ferry
+"161 26TH AVE SE,Minneapolis,MN",44.971536,-93.221103,2,Prospect Park - East River Road,University,3,4,12/19/2016,14:57,Ferry
+"620 11th ave se,Minneapolis,MN",44.98469,-93.23761800000001,3,Marcy Holmes,University,2,4,12/18/2016,12:03,Ferry
+"3028 humbolt Ave s,Minneapolis,MN",44.947328999999996,-93.301128,10,ECCO,Calhoun Isles,2,5,12/18/2016,09:48,Ferry
+"3032 4th ave s,Minneapolis,MN",44.947324,-93.27031,9,Central,Powderhorn,1,5,12/17/2016,22:51,Ferry
+"1722 Adams st ne,Minneapolis,MN",45.005576,-93.256299,1,Logan Park,Northeast,2,2,12/18/2016,15:28,Ferry
+"3800 block Thomas Ave n,Minneapolis,MN",45.024243,-93.313062,4,Victory,Camden,2,1,12/18/2016,00:04,Ferry
+"2423 STEVENS AVE S,Minneapolis,MN",44.95877,-93.275277,10,Whittier,Powderhorn,3,3,12/19/2016,14:59,Ferry
+"412 7th ave se,Minneapolis,MN",44.984731,-93.245173,3,Marcy Holmes,University,2,4,12/18/2016,09:49,Ferry
+"3609 4th Ave s,Minneapolis,MN",44.937396,-93.269896,8,Central,Powderhorn,1,5,12/17/2016,22:52,Ferry
+"4600 Bryant ave,Minneapolis,MN",45.038638,-93.291054,4,Lind - Bohanon,Camden,2,1,12/18/2016,00:04,Ferry
+"3510 Colfax Ave s,Minneapolis,MN",44.939118,-93.292041,10,South Uptown,Calhoun Isles,2,5,12/18/2016,15:28,Ferry
+"2516 Butler PL,Minneapolis,MN",44.964652,-93.23604499999999,2,Cedar Riverside,University,2,4,12/18/2016,00:50,Ferry
+"157 26TH AVE SE,Minneapolis,MN",44.971496,-93.221133,2,Prospect Park - East River Road,University,3,4,12/19/2016,15:01,Ferry
+"1526 spruce pl,Minneapolis,MN",44.966904,-93.280556,7,Loring Park,Central,2,3,12/18/2016,09:50,Ferry
+"2nd St n 500 blk,Minneapolis,MN",44.987185,-93.273561,3,North Loop,Central,1,1,12/17/2016,22:53,Ferry
+"2105 9th St s,Minneapolis,MN",44.964005,-93.242323,6,Seward,Longfellow,2,4,12/18/2016,00:04,Ferry
+"326 7th ave se,Minneapolis,MN",44.983631,-93.246054,3,Marcy Holmes,University,2,4,12/18/2016,09:51,Ferry
+"40th and dupont ave n,Minneapolis,MN",45.027589,-93.293173,4,Webber - Camden,Camden,2,1,12/18/2016,15:30,Ferry
+"1403 lasalle av s,Minneapolis,MN",44.968691,-93.27931600000001,7,Loring Park,Central,2,3,12/18/2016,00:50,Ferry
+"4729 Chicago Avenue South,Minneapolis,MN",44.91679,-93.262242,11,Northrop,Nokomis,1,6,12/17/2016,22:56,Ferry
+"610 17th ST E,Minneapolis,MN",44.966281,-93.267362,6,Elliot Park,Central,2,3,12/18/2016,12:04,Ferry
+"4008 13th ave S,Minneapolis,MN",44.930181,-93.25644100000001,8,Bancroft,Powderhorn,2,6,12/18/2016,09:51,Ferry
+"3316 Elliot ave,Minneapolis,MN",44.942875,-93.261365,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,12:04,Ferry
+"2912 DUPONT AVE S,Minneapolis,MN",44.949743,-93.293215,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,22:57,Ferry
+"3204 Emerson Ave s,Minneapolis,MN",44.944418,-93.294525,10,South Uptown,Calhoun Isles,2,5,12/18/2016,15:30,Ferry
+"5208 Bloomington Ave S,Minneapolis,MN",44.90853,-93.252803,11,Hale,Nokomis,2,6,12/18/2016,00:50,Ferry
+"628 summer st ne,Minneapolis,MN",44.996909,-93.256602,3,St. Anthony East,Northeast,2,2,12/18/2016,09:52,Ferry
+"1036 16th Ave s e,Minneapolis,MN",44.988906,-93.22936999999999,1,Como,University,2,4,12/18/2016,12:04,Ferry
+"500 block 2nd St n,Minneapolis,MN",44.987185,-93.273561,3,North Loop,Central,1,1,12/17/2016,22:58,Ferry
+"3716 13th ave S,Minneapolis,MN",44.935293,-93.25621,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,09:53,Ferry
+"1526 Morgan Ave N,Minneapolis,MN",44.994995,-93.304446,5,Willard - Hay,Near North,2,1,12/18/2016,12:04,Ferry
+"3033 4th Ave s ,Minneapolis,MN",44.947277,-93.270273,9,Central,Powderhorn,1,5,12/17/2016,22:59,Ferry
+"1428 Grand St ne,Minneapolis,MN",45.002449,-93.27028,3,Sheridan,Northeast,2,2,12/18/2016,12:50,Ferry
+"2017 PORTLAND AVE,Minneapolis,MN",44.962005,-93.267656,6,Ventura Village,Phillips,2,3,12/18/2016,03:32,Ferry
+"410 7th ave se,Minneapolis,MN",44.984669,-93.245223,3,Marcy Holmes,University,2,4,12/18/2016,09:53,Ferry
+"620 4th st ne,Minneapolis,MN",44.995406,-93.26004499999999,3,St. Anthony West,Northeast,2,2,12/18/2016,12:04,Ferry
+"110 15th st w,Minneapolis,MN",44.967731,-93.27942,7,Loring Park,Central,1,3,12/17/2016,23:00,Ferry
+"3502 12th Ave. so,Minneapolis,MN",44.939336,-93.257509,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,09:54,Ferry
+"2406 Morgan Ave n ,Minneapolis,MN",45.004601,-93.304427,5,Jordan,Near North,2,1,12/18/2016,15:32,Ferry
+"3824 17th Ave. S.,Minneapolis,MN",44.933217,-93.250262,8,Bancroft,Powderhorn,2,6,12/18/2016,12:05,Ferry
+"129 13th Ave NE,Minneapolis,MN",45.000526,-93.26880899999999,3,Sheridan,Northeast,2,2,12/18/2016,00:51,Ferry
+"500 799 2nd st n,Minneapolis,MN",44.987185,-93.273561,3,North Loop,Central,1,1,12/17/2016,23:00,Ferry
+"3122 James ave s,Minneapolis,MN",44.945737,-93.30341999999999,10,ECCO,Calhoun Isles,2,5,12/18/2016,09:54,Ferry
+"406 11th ave se,Minneapolis,MN",44.982288,-93.239456,3,Marcy Holmes,University,2,4,12/18/2016,12:05,Ferry
+"1401 lasalle ave,Minneapolis,MN",44.968778,-93.279315,7,Loring Park,Central,2,3,12/18/2016,00:51,Ferry
+"314 6th St SE,Minneapolis,MN",44.988372,-93.249081,3,Marcy Holmes,University,2,4,12/18/2016,15:32,Ferry
+"214 15th st w,Minneapolis,MN",44.968022999999995,-93.281638,7,Loring Park,Central,1,3,12/17/2016,23:01,Ferry
+"1124 humbold Ave n,Minneapolis,MN",44.989604,-93.298168,5,Near - North,Near North,2,1,12/18/2016,09:55,Ferry
+"1304 spruce pl,Minneapolis,MN",44.968503999999996,-93.28085300000001,7,Loring Park,Central,2,3,12/18/2016,12:06,Ferry
+"500-799 2nd st n,Minneapolis,MN",44.987185,-93.273561,3,North Loop,Central,1,1,12/17/2016,23:03,Ferry
+"424 7th ave ne,Minneapolis,MN",44.996429,-93.258984,3,St. Anthony West,Northeast,2,2,12/18/2016,09:55,Ferry
+"1208 6th st se,Minneapolis,MN",44.983502,-93.236864,3,Marcy Holmes,University,2,4,12/18/2016,12:51,Ferry
+"2416 - 11TH AVE S,Minneapolis,MN",44.958521000000005,-93.259061,9,Midtown Phillips,Phillips,2,3,12/18/2016,15:33,Ferry
+"1110 Main st ne,Minneapolis,MN",44.998825,-93.267426,3,Sheridan,Northeast,2,2,12/18/2016,12:06,Ferry
+"500 block 2nd St n,Minneapolis,MN",44.987185,-93.273561,3,North Loop,Central,1,1,12/17/2016,23:04,Ferry
+"3106 Humboldt Ave South,Minneapolis,MN",44.946213,-93.300874,10,ECCO,Calhoun Isles,2,5,12/18/2016,09:56,Ferry
+"3034 Hennepin Ave S ,Minneapolis,MN",44.947143,-93.29833199999999,10,ECCO,Calhoun Isles,2,5,12/18/2016,00:08,Ferry
+"628 16th St e,Minneapolis,MN",44.96745,-93.266183,6,Elliot Park,Central,2,3,12/18/2016,15:33,Ferry
+"2824 dupont av s,Minneapolis,MN",44.951059,-93.293207,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,23:08,Ferry
+"722 Russell Ave ,Minneapolis,MN",44.985765,-93.310728,5,Willard - Hay,Near North,2,1,12/18/2016,12:51,Ferry
+"1814 Dupont Ave N,Minneapolis,MN",44.997943,-93.292296,5,Near - North,Near North,2,1,12/18/2016,09:56,Ferry
+"1310 Thomas Ave n ,Minneapolis,MN",44.99192,-93.313069,5,Willard - Hay,Near North,2,1,12/18/2016,12:08,Ferry
+"712 32nd st w,Minneapolis,MN",44.944925,-93.288925,10,South Uptown,Calhoun Isles,2,5,12/18/2016,15:35,Ferry
+"4715 Chicago Avenue South,Minneapolis,MN",44.917556,-93.262589,11,Northrop,Nokomis,1,6,12/17/2016,23:10,Ferry
+"318 5th st ne,Minneapolis,MN",44.992521999999994,-93.25647,3,St. Anthony West,Northeast,2,2,12/18/2016,09:57,Ferry
+"1934 HUMBOLDT AVE S,Minneapolis,MN",44.963104,-93.29818399999999,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,12:08,Ferry
+"602 16th St e,Minneapolis,MN",44.967181,-93.26723299999999,6,Elliot Park,Central,2,3,12/18/2016,15:35,Ferry
+"500-799 2nd St n,Minneapolis,MN",44.987185,-93.273561,3,North Loop,Central,1,1,12/17/2016,23:10,Ferry
+"350 19TH ST E,Minneapolis,MN",44.963971,-93.270538,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,12:51,Ferry
+"1522 Girard Ave n,Minneapolis,MN",44.994966,-93.296757,5,Near - North,Near North,2,1,12/18/2016,09:57,Ferry
+"1511 lasalle ave,Minneapolis,MN",44.967231,-93.27931600000001,7,Loring Park,Central,2,3,12/18/2016,00:09,Ferry
+"2802 Dupont Ave S,Minneapolis,MN",44.951228,-93.293203,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,23:11,Ferry
+"1138 Adams st ne,Minneapolis,MN",44.99991,-93.256493,1,Logan Park,Northeast,2,2,12/18/2016,12:51,Ferry
+"2017 PORTLAND AVE,Minneapolis,MN",44.962005,-93.267656,6,Ventura Village,Phillips,2,3,12/18/2016,03:36,Ferry
+"4302 12th Avenue South,Minneapolis,MN",44.924942,-93.257485,11,Northrop,Nokomis,2,6,12/18/2016,09:57,Ferry
+"3800 block Thomas Ave n,Minneapolis,MN",45.024243,-93.313062,4,Victory,Camden,2,1,12/18/2016,00:09,Ferry
+"3926 6th st n,Minneapolis,MN",45.026544,-93.286224,4,Webber - Camden,Camden,2,1,12/18/2016,13:18,Ferry
+"806 13th Avenue southeast ,Minneapolis,MN",44.985211,-93.233835,3,Marcy Holmes,University,2,4,12/18/2016,12:52,Ferry
+"3800 Chicago Avenue South,Minneapolis,MN",44.93396,-93.262874,8,Bryant,Powderhorn,1,5,12/17/2016,23:16,Ferry
+"224 23rd ave ne,Minneapolis,MN",45.011070000000004,-93.265314,3,Bottineau,Northeast,2,2,12/18/2016,15:37,Ferry
+"808 41st st e,Minneapolis,MN",44.928758,-93.262383,8,Bancroft,Powderhorn,2,6,12/18/2016,10:01,Ferry
+"715 5street se,Minneapolis,MN",44.985332,-93.243862,3,Marcy Holmes,University,2,4,12/18/2016,13:18,Ferry
+"804 12th AVE SE,Minneapolis,MN",44.985644,-93.235078,3,Marcy Holmes,University,2,4,12/18/2016,12:09,Ferry
+"984 17th Ave s e,Minneapolis,MN",44.987254,-93.22830400000001,2,Como,University,2,4,12/18/2016,12:52,Ferry
+"489 2nd St n,Minneapolis,MN",44.98686,-93.2735,3,North Loop,Central,1,3,12/17/2016,23:16,Ferry
+"924 26th Ave se,Minneapolis,MN",44.987429,-93.216461,2,Como,University,2,4,12/18/2016,15:37,Ferry
+"804 5th st se,Minneapolis,MN",44.98464,-93.242962,3,Marcy Holmes,University,2,4,12/18/2016,10:02,Ferry
+"2610 upton ave n,Minneapolis,MN",45.006387,-93.314238,4,Willard - Hay,Near North,2,1,12/18/2016,13:18,Ferry
+"1102 6th st se,Minneapolis,MN",44.984045,-93.238231,3,Marcy Holmes,University,2,4,12/18/2016,12:09,Ferry
+"132 19TH ST E,Minneapolis,MN",44.963968,-93.274608,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,12:53,Ferry
+"349 13th Ave NE,Minneapolis,MN",45.001065999999994,-93.262056,3,Sheridan,Northeast,1,2,12/17/2016,23:19,Ferry
+"3136 Aldrich Ave s,Minneapolis,MN",44.945908,-93.289427,10,South Uptown,Calhoun Isles,2,5,12/18/2016,15:38,Ferry
+"626 5th st ne,Minneapolis,MN",44.996083,-93.2587,3,St. Anthony West,Northeast,2,2,12/18/2016,10:04,Ferry
+"3523 hennepin ave s,Minneapolis,MN",44.938788,-93.298358,10,South Uptown,Calhoun Isles,2,5,12/18/2016,01:19,Ferry
+"720 13th ave se,Minneapolis,MN",44.984664,-93.234267,3,Marcy Holmes,University,2,4,12/18/2016,12:09,Ferry
+"324 19th St e,Minneapolis,MN",44.96397,-93.271334,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,12:53,Ferry
+"489 2nd st n,Minneapolis,MN",44.98686,-93.2735,3,North Loop,Central,1,3,12/17/2016,23:22,Ferry
+"406 23rd ave ne,Minneapolis,MN",45.011082,-93.261414,1,Holland,Northeast,2,2,12/18/2016,15:39,Ferry
+"3802 11th ave s,Minneapolis,MN",44.933937,-93.25873,8,Bancroft,Powderhorn,2,6,12/18/2016,10:05,Ferry
+"2510 butler pl,Minneapolis,MN",44.964652,-93.236086,2,Cedar Riverside,University,2,4,12/18/2016,01:20,Ferry
+"1922 6th st ne,Minneapolis,MN",45.008121,-93.258533,1,Holland,Northeast,2,2,12/18/2016,12:09,Ferry
+"2119 BLAISDELL AV S,Minneapolis,MN",44.961539,-93.27959200000001,10,Whittier,Powderhorn,2,3,12/18/2016,00:54,Ferry
+"2822 DUPONT AV S,Minneapolis,MN",44.951122,-93.293205,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,23:23,Ferry
+"2214 4th st n,Minneapolis,MN",45.001984,-93.2845,5,Hawthorne,Near North,2,1,12/18/2016,10:06,Ferry
+"2718 Bryant Ave n,Minneapolis,MN",45.008340999999994,-93.290301,5,Hawthorne,Near North,2,1,12/18/2016,15:39,Ferry
+"3532 Bloomington ave,Minneapolis,MN",44.938338,-93.25271500000001,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,01:20,Ferry
+"20 OAK GROVE ST,Minneapolis,MN",44.966387,-93.278649,7,Loring Park,Central,2,3,12/18/2016,12:09,Ferry
+"712 11th Ave se,Minneapolis,MN",44.985408,-93.237048,3,Marcy Holmes,University,2,4,12/18/2016,12:54,Ferry
+"2800 DUPONT AVE S,Minneapolis,MN",44.951233,-93.293203,10,Lowry Hill East,Calhoun Isles,1,3,12/17/2016,23:24,Ferry
+"304 3RD AVE SE,Minneapolis,MN",44.985876,-93.251886,3,Marcy Holmes,University,2,4,12/18/2016,10:06,Ferry
+"902 Newton Ave N,Minneapolis,MN",44.987031,-93.30539399999999,5,Near - North,Near North,2,1,12/18/2016,13:20,Ferry
+"3404 Elliot Ave,Minneapolis,MN",44.941115,-93.261324,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,12:10,Ferry
+"3023 DuPont Ave s,Minneapolis,MN",44.947559999999996,-93.292827,10,South Uptown,Calhoun Isles,2,5,12/18/2016,00:55,Ferry
+"2645 Plymouth Ave N,Minneapolis,MN",44.991519,-93.31393100000001,5,Willard - Hay,Near North,1,1,12/17/2016,23:24,Ferry
+"1802 Bryant Ave s,Minneapolis,MN",44.965303999999996,-93.29054000000001,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,10:07,Ferry
+"816 37TH ST E,Minneapolis,MN",44.935969,-93.261752,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,13:20,Ferry
+"626 4th st ne,Minneapolis,MN",44.995517,-93.260122,3,St. Anthony West,Northeast,2,2,12/18/2016,12:11,Ferry
+"628 13th st se,Minneapolis,MN",44.983553,-93.235128,3,Marcy Holmes,University,2,4,12/18/2016,12:55,Ferry
+"401 13th Ave NE,Minneapolis,MN",45.000919,-93.261555,3,Sheridan,Northeast,1,2,12/17/2016,23:25,Ferry
+"408 5th Avenue southeast,Minneapolis,MN",44.98579,-93.248001,3,Marcy Holmes,University,2,4,12/18/2016,10:09,Ferry
+"2508 Butler PL,Minneapolis,MN",44.964652,-93.2361,2,Cedar Riverside,University,2,4,12/18/2016,01:21,Ferry
+"502 11th ave se,Minneapolis,MN",44.983221,-93.239069,3,Marcy Holmes,University,2,4,12/18/2016,12:11,Ferry
+"4315 upton Ave s,Minneapolis,MN",44.923889,-93.31453,13,Linden Hills,Southwest,1,5,12/17/2016,23:27,Ferry
+"418 7th St SE,Minneapolis,MN",44.988459999999996,-93.246827,3,Marcy Holmes,University,2,4,12/18/2016,12:55,Ferry
+"1518 Girard ave n,Minneapolis,MN",44.994842,-93.296914,5,Near - North,Near North,2,1,12/18/2016,10:09,Ferry
+"1404 newton ave N,Minneapolis,MN",44.993359000000005,-93.305444,5,Willard - Hay,Near North,2,1,12/18/2016,13:21,Ferry
+"4317 upton ave s,Minneapolis,MN",44.923912,-93.31481099999999,13,Linden Hills,Southwest,2,5,12/18/2016,00:12,Ferry
+"1310 Adams st ne,Minneapolis,MN",45.001269,-93.256642,1,Logan Park,Northeast,2,2,12/18/2016,12:56,Ferry
+"1604 Girard Ave. N. ,Minneapolis,MN",44.995506,-93.297165,5,Near - North,Near North,2,1,12/18/2016,10:10,Ferry
+"2211 9th St S,Minneapolis,MN",44.963688,-93.23990500000001,6,Seward,Longfellow,2,4,12/18/2016,00:12,Ferry
+"3328 freemont Ave s,Minneapolis,MN",44.942028,-93.296165,10,South Uptown,Calhoun Isles,2,5,12/18/2016,13:21,Ferry
+"2126 4th st n,Minneapolis,MN",45.000569,-93.284921,5,Hawthorne,Near North,2,1,12/18/2016,10:11,Ferry
+"316 19th St e,Minneapolis,MN",44.96397,-93.271689,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,12:56,Ferry
+"1311 Talmage Ave SE,Minneapolis,MN",44.989668,-93.232835,2,Como,University,2,4,12/18/2016,13:21,Ferry
+"3450 6th st n,Minneapolis,MN",45.018162,-93.286208,4,McKinley,Camden,2,1,12/18/2016,12:12,Ferry
+"3015 DUPONT AVE S,Minneapolis,MN",44.947814,-93.292823,10,South Uptown,Calhoun Isles,2,5,12/18/2016,00:57,Ferry
+"302 3RD AVE SE,Minneapolis,MN",44.985783000000005,-93.251959,3,Marcy Holmes,University,2,4,12/18/2016,10:13,Ferry
+"514 12th ave se,Minneapolis,MN",44.983083,-93.237344,3,Marcy Holmes,University,2,4,12/18/2016,13:21,Ferry
+"3334 6th st n,Minneapolis,MN",45.016015,-93.286058,4,McKinley,Camden,2,1,12/18/2016,12:12,Ferry
+"142 19TH ST E,Minneapolis,MN",44.963968,-93.274529,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,12:57,Ferry
+"612 5th ave se,Minneapolis,MN",44.987563,-93.246613,3,Marcy Holmes,University,2,4,12/18/2016,10:13,Ferry
+"3035 Hennepin Ave s,Minneapolis,MN",44.947094,-93.298294,10,South Uptown,Calhoun Isles,2,5,12/18/2016,00:13,Ferry
+"3032 DUPONT AVE S,Minneapolis,MN",44.947195,-93.29350699999999,10,South Uptown,Calhoun Isles,2,5,12/18/2016,01:22,Ferry
+"200 13th Ave NE,Minneapolis,MN",45.000898,-93.26615600000001,3,Sheridan,Northeast,2,2,12/18/2016,00:58,Ferry
+"1762 BRYANT AVE S,Minneapolis,MN",44.96606,-93.290539,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,10:14,Ferry
+"1312 Adams st ne,Minneapolis,MN",45.001323,-93.256293,1,Logan Park,Northeast,2,2,12/18/2016,13:22,Ferry
+"102 19TH ST E,Minneapolis,MN",44.964177,-93.276208,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,12:14,Ferry
+"802 11th Avenue Southeast,Minneapolis,MN",44.986151,-93.236733,3,Marcy Holmes,University,2,4,12/18/2016,12:58,Ferry
+"316 clifton,Minneapolis,MN",44.965905,-93.283229,7,Loring Park,Central,2,3,12/18/2016,10:15,Ferry
+"1608 37th Street East,Minneapolis,MN",44.935951,-93.251159,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,12:14,Ferry
+"2712 upton ave n,Minneapolis,MN",45.008033000000005,-93.314588,4,Willard - Hay,Near North,2,1,12/18/2016,13:22,Ferry
+"3834 6th st n,Minneapolis,MN",45.024957,-93.286281,4,Webber - Camden,Camden,2,1,12/18/2016,12:59,Ferry
+"822 4th st ne,Minneapolis,MN",44.997751,-93.261657,3,St. Anthony West,Northeast,2,2,12/18/2016,10:15,Ferry
+"1226 Thomas,Minneapolis,MN",44.990528000000005,-93.31334100000001,5,Willard - Hay,Near North,2,1,12/18/2016,12:14,Ferry
+"3037 DuPont ave s,Minneapolis,MN",44.947069,-93.292963,10,South Uptown,Calhoun Isles,2,5,12/18/2016,01:23,Ferry
+"1424 7th st se,Minneapolis,MN",44.983043,-93.23249,3,Marcy Holmes,University,2,4,12/18/2016,12:59,Ferry
+"1602 Girard ave n,Minneapolis,MN",44.995467,-93.297165,5,Near - North,Near North,2,1,12/18/2016,10:15,Ferry
+"512 12th Ave se,Minneapolis,MN",44.983057,-93.23736600000001,3,Marcy Holmes,University,2,4,12/18/2016,13:23,Ferry
+"3342 6th stt n,Minneapolis,MN",45.016303,-93.28623499999999,4,McKinley,Camden,2,1,12/18/2016,12:14,Ferry
+"611 Adams st ne,Minneapolis,MN",44.995446,-93.25623399999999,3,St. Anthony East,Northeast,3,2,12/19/2016,13:01,Ferry
+"308 3rd st n,Minneapolis,MN",44.984865,-93.275345,3,North Loop,Central,2,3,12/18/2016,10:15,Ferry
+"1434 Adams st ne,Minneapolis,MN",45.002828,-93.25629599999999,1,Logan Park,Northeast,2,2,12/18/2016,13:23,Ferry
+"3414 6th st n,Minneapolis,MN",45.017191,-93.28619300000001,4,McKinley,Camden,2,1,12/18/2016,12:14,Ferry
+"122 14TH ST W,Minneapolis,MN",44.968809,-93.28025699999999,7,Loring Park,Central,2,3,12/18/2016,10:16,Ferry
+"501 6th st se,Minneapolis,MN",44.987640999999996,-93.246251,3,Marcy Holmes,University,3,4,12/19/2016,13:01,Ferry
+"1408 33rd st w,Minneapolis,MN",44.942918,-93.297703,10,South Uptown,Calhoun Isles,2,5,12/18/2016,13:24,Ferry
+"2511 9TH ST S,Minneapolis,MN",44.963972999999996,-93.235106,6,Seward,Longfellow,2,4,12/18/2016,00:15,Ferry
+"122 OAK GROVE ST,Minneapolis,MN",44.966387,-93.280245,7,Loring Park,Central,2,3,12/18/2016,10:16,Ferry
+"603 32nd st w,Minneapolis,MN",44.944728000000005,-93.28704599999999,8,Lyndale,Powderhorn,3,5,12/19/2016,13:02,Ferry
+"1525 LaSalle AVE,Minneapolis,MN",44.96687,-93.278902,7,Loring Park,Central,2,3,12/18/2016,00:15,Ferry
+"500 15TH ST E,Minneapolis,MN",44.968322,-93.268724,7,Elliot Park,Central,2,3,12/18/2016,01:25,Ferry
+"1330 spruce pl,Minneapolis,MN",44.968503999999996,-93.28085300000001,7,Loring Park,Central,2,3,12/18/2016,10:17,Ferry
+"719 Main st ne,Minneapolis,MN",44.995465,-93.26458199999999,3,St. Anthony West,Northeast,3,2,12/19/2016,13:04,Ferry
+"3917 Thomas AV n,Minneapolis,MN",45.026452,-93.313507,4,Victory,Camden,2,1,12/18/2016,00:15,Ferry
+"1314 Adams st ne,Minneapolis,MN",45.001376,-93.256641,1,Logan Park,Northeast,2,2,12/18/2016,13:25,Ferry
+"1824 BRYANT AVE S,Minneapolis,MN",44.96464,-93.290903,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,10:17,Ferry
+"829 Gertrude brown pl,Minneapolis,MN",44.985343,-93.290497,5,Sumner - Glenwood,Near North,3,1,12/19/2016,13:06,Ferry
+"1910 Knox Ave s,Minneapolis,MN",44.96405,-93.30233299999999,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,13:27,Ferry
+"2315 9th St S,Minneapolis,MN",44.963966,-93.23836700000001,6,Seward,Longfellow,2,4,12/18/2016,00:15,Ferry
+"3716 11th av s,Minneapolis,MN",44.93537,-93.25907099999999,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,10:18,Ferry
+"3133 Harriet Ave s,Minneapolis,MN",44.945422,-93.285309,8,Lyndale,Powderhorn,3,5,12/19/2016,13:07,Ferry
+"136 19TH ST E,Minneapolis,MN",44.963968,-93.274576,6,Steven's Square - Loring Heights,Central,2,3,12/18/2016,13:27,Ferry
+"3110 elliot ave,Minneapolis,MN",44.946146999999996,-93.261387,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,12:16,Ferry
+"404 5th Ave SE,Minneapolis,MN",44.985633,-93.24812800000001,3,Marcy Holmes,University,2,4,12/18/2016,10:20,Ferry
+"3040 12th Ave. S.,Minneapolis,MN",44.946968,-93.257911,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,13:28,Ferry
+"3112 hennipen Ave s,Minneapolis,MN",44.946018,-93.298321,10,ECCO,Calhoun Isles,2,5,12/18/2016,00:17,Ferry
+"124 OAK GROVE ST,Minneapolis,MN",44.966387,-93.280248,7,Loring Park,Central,2,3,12/18/2016,10:20,Ferry
+"1510 brook ave SE,Minneapolis,MN",44.986571999999995,-93.229336,2,Como,University,2,4,12/18/2016,13:28,Ferry
+"3026 James ave s,Minneapolis,MN",44.947365000000005,-93.303414,10,ECCO,Calhoun Isles,2,5,12/18/2016,10:20,Ferry
+"1126 34th st w,Minneapolis,MN",44.941328000000006,-93.293582,10,South Uptown,Calhoun Isles,2,5,12/18/2016,13:28,Ferry
+"1728 Girard Ave N,Minneapolis,MN",44.996635999999995,-93.29715999999999,5,Near - North,Near North,2,1,12/18/2016,10:20,Ferry
+"4348 12th ave s,Minneapolis,MN",44.923595,-93.25778000000001,11,Northrop,Nokomis,2,6,12/18/2016,10:21,Ferry
+"116 13th Ave NE,Minneapolis,MN",45.00031,-93.269351,3,Sheridan,Northeast,2,2,12/18/2016,01:30,Ferry
+"310 7th ave se,Minneapolis,MN",44.983474,-93.24618000000001,3,Marcy Holmes,University,2,4,12/18/2016,10:22,Ferry
+"810 queen Ave. n. ,Minneapolis,MN",44.986533,-93.309393,5,Willard - Hay,Near North,2,1,12/18/2016,13:30,Ferry
+"112 13th Ave NE,Minneapolis,MN",45.000256,-93.269508,3,Sheridan,Northeast,2,2,12/18/2016,01:31,Ferry
+"518 7th ave ne,Minneapolis,MN",44.996691999999996,-93.25779200000001,3,St. Anthony West,Northeast,2,2,12/18/2016,10:22,Ferry
+"1324 Irving Ave n,Minneapolis,MN",44.992605,-93.299201,5,Near - North,Near North,2,1,12/18/2016,10:24,Ferry
+"838 18th Ave SE,Minneapolis,MN",44.984676,-93.22691400000001,2,Como,University,2,4,12/18/2016,13:31,Ferry
+"2209 9th St s,Minneapolis,MN",44.963972999999996,-93.24012900000001,6,Seward,Longfellow,2,4,12/18/2016,01:32,Ferry
+"1770 colfax ave s,Minneapolis,MN",44.966134999999994,-93.29181899999999,7,Lowry Hill,Calhoun Isles,2,3,12/18/2016,10:24,Ferry
+"3112 James ave s,Minneapolis,MN",44.946062,-93.303694,10,ECCO,Calhoun Isles,2,5,12/18/2016,10:25,Ferry
+"2928 5TH av s,Minneapolis,MN",44.949056,-93.269398,6,Phillips West,Phillips,2,3,12/18/2016,13:32,Ferry
+"304 7th ave se,Minneapolis,MN",44.983415,-93.246227,3,Marcy Holmes,University,2,4,12/18/2016,10:25,Ferry
+"646 15th St E,Minneapolis,MN",44.968072,-93.26598800000001,7,Elliot Park,Central,2,3,12/18/2016,01:33,Ferry
+"1515 LASALLE AVE,Minneapolis,MN",44.967139,-93.27931600000001,7,Loring Park,Central,2,3,12/18/2016,01:33,Ferry
+"1418 newton Ave n,Minneapolis,MN",44.993695,-93.30544599999999,5,Willard - Hay,Near North,2,1,12/18/2016,13:33,Ferry
+"1316 7th st se,Minneapolis,MN",44.983374,-93.234259,3,Marcy Holmes,University,2,4,12/18/2016,13:33,Ferry
+"1094 13th ave se,Minneapolis,MN",44.990677000000005,-93.23304300000001,2,Como,University,2,4,12/18/2016,13:33,Ferry
+"1732 Adams st ne,Minneapolis,MN",45.005719,-93.25629599999999,1,Logan Park,Northeast,2,2,12/18/2016,13:33,Ferry
+"3238 14th ave,Minneapolis,MN",44.944039000000004,-93.255036,9,Powderhorn Park,Powderhorn,2,6,12/18/2016,13:35,Ferry
+"2215 16th Ave N,Minneapolis,MN",44.995127000000004,-93.308402,5,Willard - Hay,Near North,3,1,12/19/2016,15:08,Ferry
+"2709 Delaware st se ,Minneapolis,MN",44.971433000000005,-93.218812,2,Prospect Park - East River Road,University,3,4,12/19/2016,15:12,Ferry
+"2115 Irving Ave n ,Minneapolis,MN",45.000758000000005,-93.298992,5,Jordan,Near North,3,1,12/19/2016,15:17,Ferry
+"2615 Delaware Ave se ,Minneapolis,MN",44.971841,-93.220568,2,Prospect Park - East River Road,University,3,4,12/19/2016,15:20,Ferry
+"1027 16th Ave N,Minneapolis,MN",44.995226,-93.29361899999999,5,Near - North,Near North,3,1,12/19/2016,15:24,Ferry
+"2305 GRAND AVE S,Minneapolis,MN",44.959835999999996,-93.28388299999999,10,Whittier,Powderhorn,3,3,12/19/2016,15:24,Ferry
+"3023 Colfax Ave n ,Minneapolis,MN",45.0121,-93.29163199999999,5,Hawthorne,Near North,3,1,12/19/2016,15:25,Ferry
+"2225 16th ave n,Minneapolis,MN",44.995127000000004,-93.308532,5,Willard - Hay,Near North,3,1,12/19/2016,15:26,Ferry
+"5705 31ST ave s,Minneapolis,MN",44.900433,-93.227244,11,Wenonah,Nokomis,3,6,12/19/2016,15:27,Ferry
+"2015 GRAND AVE S,Minneapolis,MN",44.962137,-93.284163,10,Whittier,Powderhorn,3,3,12/19/2016,15:27,Ferry
+"2613 Delaware st se,Minneapolis,MN",44.971852,-93.220597,2,Prospect Park - East River Road,University,3,4,12/19/2016,15:28,Ferry
+"2905 Colfax Ave n ,Minneapolis,MN",45.009791,-93.292152,5,Hawthorne,Near North,3,1,12/19/2016,15:29,Ferry
+"2611 Delaware st se ,Minneapolis,MN",44.971863,-93.220625,2,Prospect Park - East River Road,University,3,4,12/19/2016,15:34,Ferry
+"2627 DELAWARE ST SE,Minneapolis,MN",44.971773999999996,-93.220399,2,Prospect Park - East River Road,University,3,4,12/19/2016,15:35,Ferry
+"2623 Delaware st se,Minneapolis,MN",44.971796000000005,-93.220455,2,Prospect Park - East River Road,University,3,4,12/19/2016,15:36,Ferry
+"205 14TH ST W,Minneapolis,MN",44.968784,-93.281253,7,Loring Park,Central,3,3,12/19/2016,15:37,Ferry
+"2523 Logan Ave N,Minneapolis,MN",45.00587,-93.303476,5,Jordan,Near North,3,1,12/19/2016,15:37,Ferry
+"2617 DELAWARE ST SE,Minneapolis,MN",44.971829,-93.22054,2,Prospect Park - East River Road,University,3,4,12/19/2016,15:39,Ferry
+"2309 HARRIET AVE S,Minneapolis,MN",44.959732,-93.285213,10,Whittier,Powderhorn,3,3,12/19/2016,15:46,Ferry
+"711 32nd st w,Minneapolis,MN",44.944722,-93.28828299999999,10,South Uptown,Calhoun Isles,3,5,12/19/2016,15:48,Ferry
+"2211 Garfield s,Minneapolis,MN",44.960444,-93.28639100000001,10,Whittier,Powderhorn,3,3,12/19/2016,15:49,Ferry
+"2323 HARRIET AVE S,Minneapolis,MN",44.959484,-93.285441,10,Whittier,Powderhorn,3,3,12/19/2016,15:50,Ferry
+"517 Humboldt N,Minneapolis,MN",44.983281,-93.298215,5,Harrison,Near North,3,3,12/19/2016,15:53,Ferry
+"2017 aldrich av s,Minneapolis,MN",44.961918,-93.288986,10,Lowry Hill East,Calhoun Isles,3,3,12/19/2016,15:55,Ferry
+"941 Lyndale Pl,Minneapolis,MN",44.987474,-93.289765,5,Sumner - Glenwood,Near North,3,1,12/19/2016,08:13,Ferry
+"1935 DuPont ave s,Minneapolis,MN",44.963186,-93.29284200000001,7,Lowry Hill,Calhoun Isles,3,3,12/19/2016,08:17,Ferry
+"1917 COLFAX AVE S,Minneapolis,MN",44.963743,-93.291535,7,Lowry Hill,Calhoun Isles,3,3,12/19/2016,08:20,Ferry
+"749 Lyndale pl,Minneapolis,MN",44.986306,-93.289609,5,Sumner - Glenwood,Near North,3,1,12/19/2016,08:20,Ferry
+"825 Lyndale pl,Minneapolis,MN",44.987177,-93.289627,5,Sumner - Glenwood,Near North,3,1,12/19/2016,08:20,Ferry
+"829 Lyndale place n,Minneapolis,MN",44.986143,-93.288947,5,Sumner - Glenwood,Near North,3,1,12/19/2016,08:23,Ferry
+"733 Lyndale pl,Minneapolis,MN",44.985925,-93.289221,5,Sumner - Glenwood,Near North,3,1,12/19/2016,08:24,Ferry
+"727 Lyndale pl ,Minneapolis,MN",44.985903,-93.289218,5,Sumner - Glenwood,Near North,3,1,12/19/2016,08:24,Ferry
+"1841 41st st e,Minneapolis,MN",44.92872,-93.246252,12,Standish,Powderhorn,3,6,12/19/2016,08:24,Ferry
+"1947 DUPONT AVE S,Minneapolis,MN",44.962932,-93.293054,7,Lowry Hill,Calhoun Isles,3,3,12/19/2016,08:25,Ferry
+"1033 Aldrich Ave N,Minneapolis,MN",44.988609999999994,-93.29135,5,Sumner - Glenwood,Near North,3,1,12/19/2016,08:28,Ferry
+"3043 Knox Ave s,Minneapolis,MN",44.947010999999996,-93.304627,10,ECCO,Calhoun Isles,3,5,12/19/2016,08:28,Ferry
+"4049 14th ave s,Minneapolis,MN",44.929216,-93.254918,8,Bancroft,Powderhorn,3,6,12/19/2016,08:29,Ferry
+"4029 14th ave s ,Minneapolis,MN",44.929321,-93.25459000000001,8,Bancroft,Powderhorn,3,6,12/19/2016,08:29,Ferry
+"3045 Knox Ave s,Minneapolis,MN",44.946999,-93.304627,10,ECCO,Calhoun Isles,3,5,12/19/2016,08:31,Ferry
+"511 3rd ave ne,Minneapolis,MN",44.976914,-93.266581,7,Downtown West,Central,3,3,12/19/2016,08:39,Ferry
+"303 4th Ave se,Minneapolis,MN",44.985212,-93.250629,3,Marcy Holmes,University,3,4,12/19/2016,08:39,Ferry
+"3731 15th ave s,Minneapolis,MN",44.934756,-93.253644,9,Powderhorn Park,Powderhorn,3,6,12/19/2016,08:41,Ferry
+"3005 James ave s,Minneapolis,MN",44.948082,-93.303093,10,ECCO,Calhoun Isles,3,5,12/19/2016,08:42,Ferry
+"609 4th ave se,Minneapolis,MN",44.988434000000005,-93.248336,3,Marcy Holmes,University,3,4,12/19/2016,08:44,Ferry
+"1041 Aldrich Ave N,Minneapolis,MN",44.988611999999996,-93.291067,5,Sumner - Glenwood,Near North,3,1,12/19/2016,08:44,Ferry
+"1951 DuPont ave n,Minneapolis,MN",44.998998,-93.292597,5,Near - North,Near North,3,1,12/19/2016,08:44,Ferry
+"305 4th Ave se,Minneapolis,MN",44.985279,-93.250575,3,Marcy Holmes,University,3,4,12/19/2016,08:45,Ferry
+"713 Bryant Ave n ,Minneapolis,MN",44.985313,-93.291985,5,Sumner - Glenwood,Near North,3,1,12/19/2016,08:45,Ferry
+"725 5TH AVE SE,Minneapolis,MN",44.98927,-93.245571,3,Marcy Holmes,University,3,4,12/19/2016,08:49,Ferry
+"231 3rd ave ne,Minneapolis,MN",44.98041,-93.26371800000001,3,Downtown West,Central,3,3,12/19/2016,08:49,Ferry
+"719 5th Ave se,Minneapolis,MN",44.98905,-93.245766,3,Marcy Holmes,University,3,4,12/19/2016,08:49,Ferry
+"85 5th ave se,Minneapolis,MN",44.983517,-93.249849,3,Marcy Holmes,University,3,4,12/19/2016,08:49,Ferry
+"315 12th ave ne,Minneapolis,MN",44.974389,-93.252131,3,Downtown East,Central,3,3,12/19/2016,08:50,Ferry
+"229 12th ave ne,Minneapolis,MN",44.974641999999996,-93.2509,3,Downtown East,Central,3,3,12/19/2016,08:52,Ferry
+"517 4th Ave se,Minneapolis,MN",44.987796,-93.24893,3,Marcy Holmes,University,3,4,12/19/2016,08:52,Ferry
+"226 12th ave ne,Minneapolis,MN",44.999611,-93.264911,3,Sheridan,Northeast,3,2,12/19/2016,08:53,Ferry
+"1819 Bryant ave n,Minneapolis,MN",44.998057,-93.291428,5,Near - North,Near North,3,1,12/19/2016,08:53,Ferry
+"3615 14th Ave. S.,Minneapolis,MN",44.937255,-93.254591,9,Powderhorn Park,Powderhorn,3,6,12/19/2016,08:53,Ferry
+"1525 Bryant Ave n ,Minneapolis,MN",44.994915,-93.291415,5,Near - North,Near North,3,1,12/19/2016,08:53,Ferry
+"845 3rd ave ne,Minneapolis,MN",44.973402,-93.269533,7,Downtown West,Central,3,3,12/19/2016,08:54,Ferry
+"1519 spruce pl,Minneapolis,MN",44.967009999999995,-93.280401,7,Loring Park,Central,3,3,12/19/2016,08:55,Ferry
+"1943 FREMONT AVE S,Minneapolis,MN",44.962958,-93.295612,7,Lowry Hill,Calhoun Isles,3,3,12/19/2016,08:56,Ferry
+"1823 Bryant ave n,Minneapolis,MN",44.99815,-93.29145600000001,5,Near - North,Near North,3,1,12/19/2016,08:56,Ferry
+"23 oakgrove st,Minneapolis,MN",44.966361,-93.278806,7,Loring Park,Central,3,3,12/19/2016,08:56,Ferry
+"149 12TH AVE NE,Minneapolis,MN",45.000019,-93.266987,3,Sheridan,Northeast,3,2,12/19/2016,08:57,Ferry
+"521 4th Ave se,Minneapolis,MN",44.987867,-93.248818,3,Marcy Holmes,University,3,4,12/19/2016,08:58,Ferry
+"3217 6th st n ,Minneapolis,MN",45.013718,-93.28649300000001,4,McKinley,Camden,3,1,12/19/2016,11:37,Ferry
+"217 5th ave ne,Minneapolis,MN",44.978730999999996,-93.26142800000001,3,Downtown West,Central,3,3,12/19/2016,08:58,Ferry
+"2701 aldrich ave n ,Minneapolis,MN",45.007871,-93.28953299999999,5,Hawthorne,Near North,3,1,12/19/2016,11:37,Ferry
+"809 13th ave se,Minneapolis,MN",44.98536,-93.23397800000001,3,Marcy Holmes,University,3,4,12/19/2016,11:38,Ferry
+"1945 FREMONT AVE S,Minneapolis,MN",44.962882,-93.295322,7,Lowry Hill,Calhoun Isles,3,3,12/19/2016,08:59,Ferry
+"1509 Bryant a n,Minneapolis,MN",44.994471000000004,-93.291466,5,Near - North,Near North,3,1,12/19/2016,08:59,Ferry
+"1903 Clinton Ave s,Minneapolis,MN",44.963858,-93.27148000000001,6,Steven's Square - Loring Heights,Central,3,3,12/19/2016,11:40,Ferry
+"1403 32ND ST W,Minneapolis,MN",44.944713,-93.29741899999999,10,South Uptown,Calhoun Isles,3,5,12/19/2016,11:40,Ferry
+"1521 spruce pl,Minneapolis,MN",44.967011,-93.280816,7,Loring Park,Central,3,3,12/19/2016,09:03,Ferry
+"201 7th ave ne,Minneapolis,MN",44.995176,-93.26307,3,St. Anthony West,Northeast,3,2,12/19/2016,09:04,Ferry
+"3335 Holmes ave s,Minneapolis,MN",44.941814,-93.299254,10,ECCO,Calhoun Isles,3,5,12/19/2016,09:04,Ferry
+"1509 spruce pl,Minneapolis,MN",44.967358000000004,-93.28081800000001,7,Loring Park,Central,3,3,12/19/2016,09:06,Ferry
+"3133 humbolt Ave s,Minneapolis,MN",44.945398,-93.300503,10,ECCO,Calhoun Isles,3,5,12/19/2016,09:09,Ferry
+"2011 PLEASANT AVE S,Minneapolis,MN",44.962226,-93.282495,10,Whittier,Powderhorn,3,3,12/19/2016,11:41,Ferry
+"3211 Holmes Ave s,Minneapolis,MN",44.944365000000005,-93.299214,10,ECCO,Calhoun Isles,3,5,12/19/2016,09:43,Ferry
+"325 19th St e,Minneapolis,MN",44.963943,-93.27138599999999,6,Steven's Square - Loring Heights,Central,3,3,12/19/2016,11:43,Ferry
+"407 7th ave se,Minneapolis,MN",44.984794,-93.245478,3,Marcy Holmes,University,3,4,12/19/2016,09:43,Ferry
+"817 13th ave se,Minneapolis,MN",44.985301,-93.233804,3,Marcy Holmes,University,3,4,12/19/2016,11:44,Ferry
+"3239 4th st n ,Minneapolis,MN",45.014359999999996,-93.285399,4,McKinley,Camden,3,1,12/19/2016,09:44,Ferry
+"415 oak grove st,Minneapolis,MN",44.967205,-93.285134,7,Loring Park,Central,3,3,12/19/2016,09:12,Ferry
+"317 8th Ave se,Minneapolis,MN",44.983328,-93.244498,3,Marcy Holmes,University,3,4,12/19/2016,11:44,Ferry
+"309 oak grove st,Minneapolis,MN",44.96693,-93.28326899999999,7,Loring Park,Central,3,3,12/19/2016,09:45,Ferry
+"1457 32nd st w,Minneapolis,MN",44.944716,-93.29978299999999,10,ECCO,Calhoun Isles,3,5,12/19/2016,09:13,Ferry
+"243 18TH ST E,Minneapolis,MN",44.965206,-93.273156,6,Steven's Square - Loring Heights,Central,3,3,12/19/2016,11:45,Ferry
+"1453 32nd st w,Minneapolis,MN",44.944716,-93.299683,10,ECCO,Calhoun Isles,3,5,12/19/2016,09:46,Ferry
+"303 6th ave se,Minneapolis,MN",44.984009,-93.24761600000001,3,Marcy Holmes,University,3,4,12/19/2016,09:13,Ferry
+"811 Oliver Ave N,Minneapolis,MN",44.986471,-93.30731,5,Near - North,Near North,3,1,12/19/2016,11:46,Ferry
+"3317 Fremont ave s,Minneapolis,MN",44.942351,-93.295436,10,South Uptown,Calhoun Isles,3,5,12/19/2016,09:48,Ferry
+"1929 Fremont ave S,Minneapolis,MN",44.96356,-93.29525,7,Lowry Hill,Calhoun Isles,3,3,12/19/2016,09:14,Ferry
+"1923 Fillmore St ne,Minneapolis,MN",45.008434,-93.241885,1,Windom Park,Northeast,3,2,12/19/2016,11:46,Ferry
+"1116 TALMAGE AVE SE,Minneapolis,MN",44.989652,-93.235607,2,Como,University,3,4,12/19/2016,09:48,Ferry
+"1119 Humboldt Ave N,Minneapolis,MN",44.98966,-93.298659,5,Near - North,Near North,3,1,12/19/2016,09:14,Ferry
+"1311 32nd st w,Minneapolis,MN",44.944721,-93.295929,10,South Uptown,Calhoun Isles,3,5,12/19/2016,11:46,Ferry
+"2619 girard Ave n,Minneapolis,MN",45.006575,-93.297198,5,Jordan,Near North,3,1,12/19/2016,09:48,Ferry
+"417 7th AV se,Minneapolis,MN",44.984866,-93.245109,3,Marcy Holmes,University,3,4,12/19/2016,11:47,Ferry
+"319 7th ave se,Minneapolis,MN",44.984012,-93.246049,3,Marcy Holmes,University,3,4,12/19/2016,09:50,Ferry
+"317 6th Avenue Southeast,Minneapolis,MN",44.984567999999996,-93.24749,3,Marcy Holmes,University,3,4,12/19/2016,09:16,Ferry
+"1839 Garfield st ne,Minneapolis,MN",45.007220000000004,-93.233025,1,Windom Park,Northeast,3,2,12/19/2016,11:47,Ferry
+"203 19TH ST E,Minneapolis,MN",44.963684,-93.273775,6,Steven's Square - Loring Heights,Central,3,3,12/19/2016,11:48,Ferry
+"1361 spruce pl,Minneapolis,MN",44.96978,-93.280815,7,Loring Park,Central,3,3,12/19/2016,09:50,Ferry
+"425 6th AVE ne,Minneapolis,MN",44.995264,-93.258211,3,St. Anthony West,Northeast,3,2,12/19/2016,09:17,Ferry
+"1317 girard Ave n,Minneapolis,MN",44.992663,-93.297198,5,Near - North,Near North,3,1,12/19/2016,09:20,Ferry
+"321 4TH AVE SE,Minneapolis,MN",44.985704999999996,-93.250231,3,Marcy Holmes,University,3,4,12/19/2016,09:50,Ferry
+"817 12th Avenue Southeast,Minneapolis,MN",44.986379,-93.235127,3,Marcy Holmes,University,3,4,12/19/2016,11:48,Ferry
+"405 6TH AVE SE,Minneapolis,MN",44.985302000000004,-93.246926,3,Marcy Holmes,University,3,4,12/19/2016,09:22,Ferry
+"1207 James Ave n ,Minneapolis,MN",44.990349,-93.300919,5,Near - North,Near North,3,1,12/19/2016,09:51,Ferry
+"1409 13th ave ne,Minneapolis,MN",45.000541999999996,-93.239592,1,Northeast Park,Northeast,3,2,12/19/2016,11:49,Ferry
+"3921 12th ave s,Minneapolis,MN",44.93169,-93.25743,8,Bancroft,Powderhorn,3,6,12/19/2016,09:23,Ferry
+"173 14th ave ne,Minneapolis,MN",45.001999,-93.26657900000001,3,Sheridan,Northeast,3,2,12/19/2016,09:52,Ferry
+"1917 2ND AVE S,Minneapolis,MN",44.96328,-93.273798,6,Steven's Square - Loring Heights,Central,3,3,12/19/2016,11:50,Ferry
+"403 OAK GROVE ST,Minneapolis,MN",44.967127000000005,-93.28489499999999,7,Loring Park,Central,3,3,12/19/2016,09:26,Ferry
+"221 12th ave ne,Minneapolis,MN",45.00005,-93.26513299999999,3,Sheridan,Northeast,3,2,12/19/2016,09:53,Ferry
+"749 Fillmore st ne,Minneapolis,MN",44.998362,-93.2419,3,Beltrami,Northeast,3,2,12/19/2016,11:51,Ferry
+"313 clifton ave,Minneapolis,MN",44.966095,-93.283937,7,Loring Park,Central,3,3,12/19/2016,09:53,Ferry
+"1605 Girard ave n,Minneapolis,MN",44.995526,-93.297554,5,Near - North,Near North,3,1,12/19/2016,09:28,Ferry
+"2905 Bryant Ave N ,Minneapolis,MN",45.009782,-93.29089,5,Hawthorne,Near North,3,1,12/19/2016,11:52,Ferry
+"203 CLIFTON AVE,Minneapolis,MN",44.966062,-93.283829,7,Loring Park,Central,3,3,12/19/2016,09:53,Ferry
+"1411 13th ave ne,Minneapolis,MN",45.000541999999996,-93.23956700000001,1,Northeast Park,Northeast,3,2,12/19/2016,11:52,Ferry
+"227 14TH ST w,Minneapolis,MN",44.968784,-93.281391,7,Loring Park,Central,3,3,12/19/2016,09:29,Ferry
+"1505 Main st ne,Minneapolis,MN",45.003287,-93.26734499999999,3,Sheridan,Northeast,3,2,12/19/2016,09:54,Ferry
+"811 newton ave n,Minneapolis,MN",44.98646,-93.305973,5,Near - North,Near North,3,1,12/19/2016,11:52,Ferry
+"337 OAK GROVE ST,Minneapolis,MN",44.967071000000004,-93.28452800000001,7,Loring Park,Central,3,3,12/19/2016,09:29,Ferry
+"429 OAK GROVE ST,Minneapolis,MN",44.967771,-93.285889,7,Loring Park,Central,3,3,12/19/2016,09:54,Ferry
+"1907 Pierce st ne,Minneapolis,MN",45.008072999999996,-93.240716,1,Windom Park,Northeast,3,2,12/19/2016,11:53,Ferry
+"1611 Grand st ne,Minneapolis,MN",45.004352000000004,-93.269898,3,Sheridan,Northeast,3,2,12/19/2016,09:55,Ferry
+"819 13th Ave se ,Minneapolis,MN",44.985303,-93.233802,3,Marcy Holmes,University,3,4,12/19/2016,11:54,Ferry
+"323 6th Ave se ,Minneapolis,MN",44.98483,-93.247291,3,Marcy Holmes,University,3,4,12/19/2016,09:30,Ferry
+"1923 Morgan Ave n ,Minneapolis,MN",44.999533,-93.304458,5,Willard - Hay,Near North,3,1,12/19/2016,09:56,Ferry
+"1923 2 4th ave,Minneapolis,MN",45.004231,-93.304503,5,Jordan,Near North,3,1,12/19/2016,11:54,Ferry
+"301 CLIFTON AVE,Minneapolis,MN",44.965771000000004,-93.283638,7,Loring Park,Central,3,3,12/19/2016,09:59,Ferry
+"3123 18TH AV S,Minneapolis,MN",44.945678,-93.248389,9,Powderhorn Park,Powderhorn,3,6,12/19/2016,11:56,Ferry
+"1373 SPRUCE PL,Minneapolis,MN",44.969478,-93.280815,7,Loring Park,Central,3,3,12/19/2016,09:30,Ferry
+"3033 4th St N,Minneapolis,MN",45.011776,-93.285184,5,Hawthorne,Near North,3,1,12/19/2016,10:01,Ferry
+"813 23rd ave ne,Minneapolis,MN",45.011066,-93.250266,1,Holland,Northeast,3,2,12/19/2016,11:56,Ferry
+"1345 Morgan Ave N,Minneapolis,MN",44.992931,-93.304728,5,Willard - Hay,Near North,3,1,12/19/2016,10:03,Ferry
+"2825 39th st e,Minneapolis,MN",44.9323,-93.231771,12,Standish,Powderhorn,3,6,12/19/2016,09:30,Ferry
+"955 17th ave se,Minneapolis,MN",44.986368,-93.22862099999999,2,Como,University,3,4,12/19/2016,11:57,Ferry
+"311 6th Ave se,Minneapolis,MN",44.984284,-93.2474,3,Marcy Holmes,University,3,4,12/19/2016,09:31,Ferry
+"1367 SPRUCE PL,Minneapolis,MN",44.969629,-93.280815,7,Loring Park,Central,3,3,12/19/2016,09:32,Ferry
+"601 5th Avenue Southeast,Minneapolis,MN",44.987769,-93.246791,3,Marcy Holmes,University,3,4,12/19/2016,09:33,Ferry
+"3523 11th ave s,Minneapolis,MN",44.938736999999996,-93.258737,9,Powderhorn Park,Powderhorn,3,6,12/19/2016,09:33,Ferry
+"3727 11th ave s ,Minneapolis,MN",44.935075,-93.25842,9,Powderhorn Park,Powderhorn,3,6,12/19/2016,09:34,Ferry
+"1523 37th Ave. E.,Minneapolis,MN",45.035622,-93.237432,1,Waite Park,Northeast,3,2,12/19/2016,09:35,Ferry
+"1609 Grand st ne,Minneapolis,MN",45.00427,-93.27008199999999,3,Sheridan,Northeast,3,2,12/19/2016,09:36,Ferry
+"1625 Girard ave n ,Minneapolis,MN",44.996123,-93.2972,5,Near - North,Near North,3,1,12/19/2016,09:36,Ferry
+"3037 Knox Ave s,Minneapolis,MN",44.947049,-93.304315,10,ECCO,Calhoun Isles,3,5,12/19/2016,09:37,Ferry
+"1607 California St ne,Minneapolis,MN",45.004222,-93.268606,3,Sheridan,Northeast,3,2,12/19/2016,09:37,Ferry
+"421 7th ave se,Minneapolis,MN",44.984889,-93.245091,3,Marcy Holmes,University,3,4,12/19/2016,09:38,Ferry
+"3629 12th Avenue South,Minneapolis,MN",44.936640999999995,-93.257076,9,Powderhorn Park,Powderhorn,3,6,12/19/2016,09:38,Ferry
+"119 14th ave ne,Minneapolis,MN",45.001585999999996,-93.269764,3,Sheridan,Northeast,3,2,12/19/2016,09:38,Ferry
+"3501 girard ave s,Minneapolis,MN",44.939391,-93.296869,10,South Uptown,Calhoun Isles,3,5,12/19/2016,09:39,Ferry
+"309 6th Ave se,Minneapolis,MN",44.984215999999996,-93.247454,3,Marcy Holmes,University,3,4,12/19/2016,09:40,Ferry
+"3641 14th ave,Minneapolis,MN",44.936234000000006,-93.25457800000001,9,Powderhorn Park,Powderhorn,3,6,12/19/2016,09:40,Ferry
+"1531 Xerxes Ave N,Minneapolis,MN",44.994878,-93.318815,5,Near North,Near North,3,1,12/19/2016,09:41,Ferry
+"3945 14th Avenue South,Minneapolis,MN",44.930997,-93.254644,8,Bancroft,Powderhorn,3,6,12/19/2016,09:41,Ferry
+"3733 12th ave,Minneapolis,MN",44.934715000000004,-93.25715799999999,9,Powderhorn Park,Powderhorn,3,6,12/19/2016,09:42,Ferry
+"2951 Bryant Ave n,Minneapolis,MN",45.011025,-93.290755,5,Hawthorne,Near North,3,1,12/19/2016,11:58,Ferry
+"1507 Morgan ave n,Minneapolis,MN",44.994415999999994,-93.304808,5,Willard - Hay,Near North,3,1,12/19/2016,10:05,Ferry
+"1103 Morgan Ave n,Minneapolis,MN",44.988974,-93.304778,5,Near - North,Near North,3,1,12/19/2016,10:05,Ferry
+"1314 Irving ave n,Minneapolis,MN",44.992464,-93.299312,5,Near - North,Near North,3,1,12/19/2016,11:58,Ferry
+"311 7th AV se,Minneapolis,MN",44.983919,-93.24613199999999,3,Marcy Holmes,University,3,4,12/19/2016,10:08,Ferry
+"1805 4th ave s,Minneapolis,MN",44.965052,-93.27019399999999,6,Steven's Square - Loring Heights,Central,3,3,12/19/2016,11:59,Ferry
+"1801 43rd Street East,Minneapolis,MN",44.925115000000005,-93.24854,11,Northrop,Nokomis,3,6,12/19/2016,11:59,Ferry
+"303 7th Avenue Southeast,Minneapolis,MN",44.983439000000004,-93.246251,3,Marcy Holmes,University,3,4,12/19/2016,10:09,Ferry
+"725 8th ave se,Minneapolis,MN",44.987477,-93.24144,3,Marcy Holmes,University,3,4,12/19/2016,10:10,Ferry
+"3423 45th st e,Minneapolis,MN",44.921481,-93.222175,12,Ericsson,Nokomis,3,6,12/19/2016,11:59,Ferry
+"1825 Garfield st ne,Minneapolis,MN",45.006721999999996,-93.232948,1,Windom Park,Northeast,3,2,12/19/2016,12:00,Ferry
+"327 CLIFTON pl,Minneapolis,MN",44.966095,-93.283938,7,Loring Park,Central,3,3,12/19/2016,10:10,Ferry
+"927 Morgan ave n,Minneapolis,MN",44.987633,-93.304508,5,Near - North,Near North,3,1,12/19/2016,10:10,Ferry
+"401 11th Ave se,Minneapolis,MN",44.982498,-93.240089,3,Marcy Holmes,University,3,4,12/19/2016,12:00,Ferry
+"2411 Fillmore st ne,Minneapolis,MN",45.012613,-93.241857,1,Windom Park,Northeast,3,2,12/19/2016,10:11,Ferry
+"310 and 9 22nd Ave. S.,Minneapolis,MN",44.963997,-93.240913,6,Seward,Longfellow,3,4,12/19/2016,12:00,Ferry
+"321 6th Ave se,Minneapolis,MN",44.984618,-93.247137,3,Marcy Holmes,University,3,4,12/19/2016,10:11,Ferry
+"2811 aldrich ave n ,Minneapolis,MN",45.008913,-93.28949200000001,5,Hawthorne,Near North,3,1,12/19/2016,12:01,Ferry
+"311 Clifton ave,Minneapolis,MN",44.966095,-93.283937,7,Loring Park,Central,3,3,12/19/2016,10:14,Ferry
+"815 13TH Ave se,Minneapolis,MN",44.985794,-93.234274,3,Marcy Holmes,University,3,4,12/19/2016,12:01,Ferry
+"211 7th Ave se ,Minneapolis,MN",44.982507,-93.246981,3,Marcy Holmes,University,3,4,12/19/2016,10:14,Ferry
+"919 6th Street East,Minneapolis,MN",44.984893,-93.240314,3,Marcy Holmes,University,3,4,12/19/2016,12:02,Ferry
+"417 8th Ave se ,Minneapolis,MN",44.984462,-93.24397900000001,3,Marcy Holmes,University,3,4,12/19/2016,10:14,Ferry
+"2329 5th st ne,Minneapolis,MN",45.012038000000004,-93.260097,1,Holland,Northeast,3,2,12/19/2016,12:02,Ferry
+"3939 11th ave s,Minneapolis,MN",44.931089,-93.258703,8,Bancroft,Powderhorn,3,6,12/19/2016,10:15,Ferry
+"3131 16th ave s,Minneapolis,MN",44.945553000000004,-93.251192,9,Powderhorn Park,Powderhorn,3,6,12/19/2016,12:02,Ferry
+"1111 36th st ,Minneapolis,MN",44.93757,-93.258228,9,Powderhorn Park,Powderhorn,3,6,12/19/2016,10:15,Ferry
+"2823 aldrich ave n ,Minneapolis,MN",45.009252000000004,-93.28962299999999,5,Hawthorne,Near North,3,1,12/19/2016,12:03,Ferry
+"1415 40TH st,Minneapolis,MN",44.93051,-93.254227,8,Bancroft,Powderhorn,3,6,12/19/2016,10:15,Ferry
+"343 23rd ave ne,Minneapolis,MN",45.011106,-93.262426,1,Holland,Northeast,3,2,12/19/2016,12:05,Ferry
+"415 5th AV se,Minneapolis,MN",44.986022999999996,-93.248334,3,Marcy Holmes,University,3,4,12/19/2016,10:15,Ferry
+"3237 6th st n ,Minneapolis,MN",45.014386,-93.286862,4,McKinley,Camden,3,1,12/19/2016,12:05,Ferry
+"607 8th ave se,Minneapolis,MN",44.986171,-93.242571,3,Marcy Holmes,University,3,4,12/19/2016,10:17,Ferry
+"2111 2ND AVE S,Minneapolis,MN",44.961292,-93.273748,10,Whittier,Powderhorn,3,3,12/19/2016,12:06,Ferry
+"929 Morgan Ave N,Minneapolis,MN",44.987755,-93.304869,5,Near - North,Near North,3,1,12/19/2016,10:18,Ferry
+"937 17th Ave se,Minneapolis,MN",44.985809,-93.228888,2,Como,University,3,4,12/19/2016,12:08,Ferry
+"1443 33rd st w,Minneapolis,MN",44.942915,-93.299314,10,ECCO,Calhoun Isles,3,5,12/19/2016,10:19,Ferry
+"3527 21st Ave s,Minneapolis,MN",44.93861,-93.241996,9,Corcoran,Powderhorn,3,6,12/19/2016,12:09,Ferry
+"1409 33rd st w,Minneapolis,MN",44.942892,-93.29764,10,South Uptown,Calhoun Isles,3,5,12/19/2016,10:22,Ferry
+"2017 2ND AVE S,Minneapolis,MN",44.961928,-93.27374300000001,10,Whittier,Powderhorn,3,3,12/19/2016,12:10,Ferry
+"2009 Polk st ne,Minneapolis,MN",45.009277000000004,-93.24525,1,Windom Park,Northeast,3,2,12/19/2016,10:22,Ferry
+"525 9th Ave se ,Minneapolis,MN",44.984831,-93.24222900000001,3,Marcy Holmes,University,3,4,12/19/2016,12:10,Ferry
+"1831 pierce st ne,Minneapolis,MN",45.007073999999996,-93.240611,1,Windom Park,Northeast,3,2,12/19/2016,10:23,Ferry
+"1507 Newton Ave N,Minneapolis,MN",44.994415000000004,-93.306001,5,Willard - Hay,Near North,3,1,12/19/2016,12:11,Ferry
+"3505 ELLIOT AV S,Minneapolis,MN",44.939236,-93.261274,9,Powderhorn Park,Powderhorn,3,6,12/19/2016,10:24,Ferry
+"805 12th ave se,Minneapolis,MN",44.985695,-93.23530699999999,3,Marcy Holmes,University,3,4,12/19/2016,12:11,Ferry
+"309 CLIFTON AVE,Minneapolis,MN",44.965848,-93.284086,7,Loring Park,Central,3,3,12/19/2016,10:25,Ferry
+"749 Pierce st ne,Minneapolis,MN",44.998357,-93.240718,3,Beltrami,Northeast,3,2,12/19/2016,12:16,Ferry
+"1337 Morgan ave n ,Minneapolis,MN",44.992694,-93.30479100000001,5,Willard - Hay,Near North,3,1,12/19/2016,10:27,Ferry
+"3021 14th ave S,Minneapolis,MN",44.947635999999996,-93.254777,9,Powderhorn Park,Powderhorn,3,6,12/19/2016,12:18,Ferry
+"321 7th ave se,Minneapolis,MN",44.983944,-93.245846,3,Marcy Holmes,University,3,4,12/19/2016,10:27,Ferry
+"843 18th ave se,Minneapolis,MN",44.985042,-93.226946,2,Como,University,3,4,12/19/2016,12:18,Ferry
+"1607 Buchanan st ne,Minneapolis,MN",45.004506,-93.23944200000001,1,Northeast Park,Northeast,3,2,12/19/2016,10:28,Ferry
+"901 17TH ST E,Minneapolis,MN",44.966367,-93.261046,6,Elliot Park,Central,3,3,12/19/2016,12:19,Ferry
+"3829 10th ave s,Minneapolis,MN",44.933206,-93.259727,8,Bancroft,Powderhorn,3,6,12/19/2016,10:28,Ferry
+"3121 12th ave S,Minneapolis,MN",44.946075,-93.257538,9,Powderhorn Park,Powderhorn,3,6,12/19/2016,12:20,Ferry
+"1405 33rd st w,Minneapolis,MN",44.942890000000006,-93.297384,10,South Uptown,Calhoun Isles,3,5,12/19/2016,10:28,Ferry
+"1205 Oliver ave n,Minneapolis,MN",44.989843,-93.307009,5,Near - North,Near North,3,1,12/19/2016,12:22,Ferry
+"1723 Tyler st ne,Minneapolis,MN",45.005686,-93.246104,1,Northeast Park,Northeast,3,2,12/19/2016,10:29,Ferry
+"1007 19TH AVE SE,Minneapolis,MN",44.988085,-93.225594,1,Como,University,3,4,12/19/2016,12:24,Ferry
+"1423 Washburn Ave N,Minneapolis,MN",44.99413,-93.317685,5,Willard - Hay,Near North,3,1,12/19/2016,10:30,Ferry
+"3115 22nd Ave. S.,Minneapolis,MN",44.946064,-93.240608,9,Corcoran,Powderhorn,3,6,12/19/2016,12:25,Ferry
+"101 17TH ST E,Minneapolis,MN",44.966262,-93.275284,6,Steven's Square - Loring Heights,Central,3,3,12/19/2016,10:33,Ferry
+"1813 Hayes st ne,Minneapolis,MN",45.006521,-93.234588,1,Windom Park,Northeast,3,2,12/19/2016,12:26,Ferry
+"1829 34th St e,Minneapolis,MN",44.941327,-93.24706,9,Corcoran,Powderhorn,3,6,12/19/2016,10:34,Ferry
+"1703 Thomas pl,Minneapolis,MN",44.984905,-93.302286,5,Near - North,Near North,3,1,12/19/2016,12:29,Ferry
+"1015 12th Avenue Southeast,Minneapolis,MN",44.988431,-93.234948,2,Como,University,3,4,12/19/2016,12:30,Ferry
+"1513 Logan Ave n ,Minneapolis,MN",44.994581,-93.30319300000001,5,Willard - Hay,Near North,3,1,12/19/2016,10:34,Ferry
+"1407 33rd st w,Minneapolis,MN",44.942890999999996,-93.297512,10,South Uptown,Calhoun Isles,3,5,12/19/2016,10:34,Ferry
+"639 Buchanan st ne,Minneapolis,MN",44.996266999999996,-93.239427,3,Beltrami,Northeast,3,2,12/19/2016,12:31,Ferry
+"3231 Aldrich Ave n ,Minneapolis,MN",45.014146000000004,-93.289552,4,McKinley,Camden,3,1,12/19/2016,12:31,Ferry
+"801 Logan ave n,Minneapolis,MN",44.986246,-93.303595,5,Near - North,Near North,3,1,12/19/2016,10:35,Ferry
+"1817 Garfield st ne,Minneapolis,MN",45.006499,-93.233308,1,Windom Park,Northeast,3,2,12/19/2016,12:33,Ferry
+"641 19th ave ne,Minneapolis,MN",45.007646,-93.256153,1,Holland,Northeast,3,2,12/19/2016,10:35,Ferry
+"1415 Oliver Ave N,Minneapolis,MN",44.993567999999996,-93.307244,5,Willard - Hay,Near North,3,1,12/19/2016,12:33,Ferry
+"1023 14th ave se,Minneapolis,MN",44.988535,-93.232407,2,Como,University,3,4,12/19/2016,10:37,Ferry
+"727 Buchanan st ne,Minneapolis,MN",44.997710999999995,-93.239388,3,Beltrami,Northeast,3,2,12/19/2016,12:35,Ferry
+"1203 Logan ave n,Minneapolis,MN",44.989807,-93.303228,5,Near - North,Near North,3,1,12/19/2016,10:40,Ferry
+"2813 Aldrich Ave N ,Minneapolis,MN",45.009019,-93.289624,5,Hawthorne,Near North,3,1,12/19/2016,12:35,Ferry
+"3551 10th ave,Minneapolis,MN",44.937963,-93.259996,9,Powderhorn Park,Powderhorn,3,6,12/19/2016,10:42,Ferry
+"745 Buchanan st ne,Minneapolis,MN",44.998191999999996,-93.239698,3,Beltrami,Northeast,3,2,12/19/2016,12:37,Ferry
+"209 14th ave ne,Minneapolis,MN",45.002193,-93.265635,3,Sheridan,Northeast,3,2,12/19/2016,10:43,Ferry
+"947 17th Ave se,Minneapolis,MN",44.986105,-93.229085,2,Como,University,3,4,12/19/2016,12:37,Ferry
+"3455 elliot ave,Minneapolis,MN",44.939772,-93.26093399999999,9,Powderhorn Park,Powderhorn,3,6,12/19/2016,10:43,Ferry
+"3445pillsbury Ave s,Minneapolis,MN",44.939988,-93.281098,8,Lyndale,Powderhorn,3,5,12/19/2016,12:37,Ferry
+"221 19th ave ne,Minneapolis,MN",44.973618,-93.245856,2,University of Minnesota,University,3,4,12/19/2016,10:45,Ferry
+"707 buchanan st ne,Minneapolis,MN",44.997147,-93.239441,3,Beltrami,Northeast,3,2,12/19/2016,12:37,Ferry
+"227 8th Avenue Southeast,Minneapolis,MN",44.982564,-93.245091,3,Marcy Holmes,University,3,4,12/19/2016,10:45,Ferry
+"1043 23RD AVE SE ,Minneapolis,MN",44.989301,-93.220295,1,Como,University,3,4,12/19/2016,12:37,Ferry
+"1723 3rd st ne,Minneapolis,MN",45.006054999999996,-93.264286,3,Bottineau,Northeast,3,2,12/19/2016,10:46,Ferry
+"3431 26TH AV S,Minneapolis,MN",44.940079,-93.23435,9,Corcoran,Powderhorn,3,6,12/19/2016,12:38,Ferry
+"1729 2nd Ave s,Minneapolis,MN",44.96562,-93.27400899999999,6,Steven's Square - Loring Heights,Central,3,3,12/19/2016,10:46,Ferry
+"1051 16th ave se,Minneapolis,MN",44.989314,-93.229778,1,Como,University,3,4,12/19/2016,12:38,Ferry
+"413 clifton,Minneapolis,MN",44.966097,-93.28394300000001,7,Loring Park,Central,3,3,12/19/2016,10:48,Ferry
+"629 taylor st ne,Minneapolis,MN",44.995954,-93.243505,3,Beltrami,Northeast,3,2,12/19/2016,12:39,Ferry
+"205 7th Ave se,Minneapolis,MN",44.982449,-93.247027,3,Marcy Holmes,University,3,4,12/19/2016,10:51,Ferry
+"611 18TH ST E,Minneapolis,MN",44.965043,-93.267092,6,Ventura Village,Phillips,3,3,12/19/2016,12:39,Ferry
+"327 18th st e,Minneapolis,MN",44.965109000000005,-93.271238,6,Steven's Square - Loring Heights,Central,3,3,12/19/2016,10:52,Ferry
+"1829 Garfield st ne,Minneapolis,MN",45.006931,-93.232948,1,Windom Park,Northeast,3,2,12/19/2016,12:41,Ferry
+"315 8th ave se,Minneapolis,MN",44.983266,-93.244546,3,Marcy Holmes,University,3,4,12/19/2016,10:52,Ferry
+"603 29th st e,Minneapolis,MN",44.950052,-93.260091,9,Midtown Phillips,Phillips,3,3,12/19/2016,12:41,Ferry
+"227 20th ave ne,Minneapolis,MN",45.00855,-93.265159,3,Bottineau,Northeast,3,2,12/19/2016,10:52,Ferry
+"945 17th Ave se,Minneapolis,MN",44.986051,-93.228619,2,Como,University,3,4,12/19/2016,12:42,Ferry
+"203 7th Ave se,Minneapolis,MN",44.98243,-93.247043,3,Marcy Holmes,University,3,4,12/19/2016,10:55,Ferry
+"719 17TH ST E,Minneapolis,MN",44.966268,-93.26462099999999,6,Elliot Park,Central,3,3,12/19/2016,12:42,Ferry
+"1819 3rd st ne,Minneapolis,MN",45.007075,-93.26437800000001,3,Bottineau,Northeast,3,2,12/19/2016,10:55,Ferry
+"841 se 18th ave,Minneapolis,MN",44.985006,-93.226947,2,Como,University,3,4,12/19/2016,12:42,Ferry
+"313 8th ave se,Minneapolis,MN",44.983203,-93.24459399999999,3,Marcy Holmes,University,3,4,12/19/2016,10:56,Ferry
+"3243 aldrich ave n ,Minneapolis,MN",45.014508,-93.289636,4,McKinley,Camden,3,1,12/19/2016,12:43,Ferry
+"1415 Knox Ave N,Minneapolis,MN",44.993576000000004,-93.302226,5,Willard - Hay,Near North,3,1,12/19/2016,10:56,Ferry
+"1821 Sheridan ave n,Minneapolis,MN",44.998278000000006,-93.312067,5,Willard - Hay,Near North,3,1,12/19/2016,12:43,Ferry
+"3345 Girard Ave s,Minneapolis,MN",44.941590000000005,-93.29672,10,South Uptown,Calhoun Isles,3,5,12/19/2016,10:56,Ferry
+"529 19th st,Minneapolis,MN",44.963938,-93.268152,6,Ventura Village,Phillips,3,3,12/19/2016,12:44,Ferry
+"1819 Buchanan st ne,Minneapolis,MN",45.006709,-93.23942199999999,1,Windom Park,Northeast,3,2,12/19/2016,11:00,Ferry
+"221 7th Ave se,Minneapolis,MN",44.982602,-93.246904,3,Marcy Holmes,University,3,4,12/19/2016,12:45,Ferry
+"1095 17TH AVE SE,Minneapolis,MN",44.990643,-93.22858599999999,1,Como,University,3,4,12/19/2016,11:00,Ferry
+"3021 13th Avenue South,Minneapolis,MN",44.947790999999995,-93.256299,9,Powderhorn Park,Powderhorn,3,6,12/19/2016,12:45,Ferry
+"4005 11th ave s,Minneapolis,MN",44.930296000000006,-93.258429,8,Bancroft,Powderhorn,3,6,12/19/2016,11:01,Ferry
+"723 17TH ST E,Minneapolis,MN",44.966268,-93.26451999999999,6,Elliot Park,Central,3,3,12/19/2016,12:46,Ferry
+"2101 4th st n,Minneapolis,MN",45.000399,-93.285315,5,Hawthorne,Near North,3,1,12/19/2016,11:01,Ferry
+"1823 2nd Ave s,Minneapolis,MN",44.964326,-93.27400899999999,6,Steven's Square - Loring Heights,Central,3,3,12/19/2016,12:47,Ferry
+"3253 GIRARD AVE S,Minneapolis,MN",44.94308,-93.296706,10,South Uptown,Calhoun Isles,3,5,12/19/2016,11:02,Ferry
+"3745 25th Avenue South,Minneapolis,MN",44.934325,-93.235671,12,Standish,Powderhorn,3,6,12/19/2016,12:48,Ferry
+"1229 logan ave n,Minneapolis,MN",44.990503000000004,-93.303606,5,Near - North,Near North,3,1,12/19/2016,11:03,Ferry
+"627 Taylor st ne,Minneapolis,MN",44.995905,-93.243505,3,Beltrami,Northeast,3,2,12/19/2016,12:49,Ferry
+"3123 13th ave s,Minneapolis,MN",44.946088,-93.256279,9,Powderhorn Park,Powderhorn,3,6,12/19/2016,11:03,Ferry
+"707 PIERCE ST NE ,Minneapolis,MN",44.99719,-93.240972,3,Beltrami,Northeast,3,2,12/19/2016,12:51,Ferry
+"4433 16th Avenue South,Minneapolis,MN",44.922318,-93.250833,11,Northrop,Nokomis,3,6,12/19/2016,11:03,Ferry
+"925 6th st se,Minneapolis,MN",44.985054999999996,-93.239936,3,Marcy Holmes,University,3,4,12/19/2016,12:51,Ferry
+"133 18TH ST E,Minneapolis,MN",44.965202000000005,-93.275141,6,Steven's Square - Loring Heights,Central,3,3,12/19/2016,11:03,Ferry
+"801 6th st se,Minneapolis,MN",44.985909,-93.242103,3,Marcy Holmes,University,3,4,12/19/2016,12:52,Ferry
+"219 8th Ave Southeast,Minneapolis,MN",44.982535999999996,-93.245113,3,Marcy Holmes,University,3,4,12/19/2016,11:04,Ferry
+"3715 21st Avenue South,Minneapolis,MN",44.935356,-93.241895,12,Standish,Powderhorn,3,6,12/19/2016,12:52,Ferry
+"2223 6th st n ,Minneapolis,MN",45.002216,-93.28676899999999,5,Hawthorne,Near North,3,1,12/19/2016,11:05,Ferry
+"1109 8th Ave n ,Minneapolis,MN",44.986334,-93.299724,5,Near - North,Near North,3,1,12/19/2016,12:53,Ferry
+"209 8th ave se,Minneapolis,MN",44.982202,-93.24538000000001,3,Marcy Holmes,University,3,4,12/19/2016,11:06,Ferry
+"729 9TH AVE SE,Minneapolis,MN",44.987102,-93.239692,3,Marcy Holmes,University,3,4,12/19/2016,12:54,Ferry
+"221 8th Ave se ,Minneapolis,MN",44.982543,-93.245108,3,Marcy Holmes,University,3,4,12/19/2016,11:07,Ferry
+"4402 36th st e,Minneapolis,MN",44.937898,-93.210175,12,Howe,Longfellow,3,6,12/19/2016,12:54,Ferry
+"1317 logan ave n,Minneapolis,MN",44.992146999999996,-93.303549,5,Willard - Hay,Near North,3,1,12/19/2016,11:08,Ferry
+"931 18th Ave se,Minneapolis,MN",44.985554,-93.227241,2,Como,University,3,4,12/19/2016,12:55,Ferry
+"1803 STEVENS AVE S,Minneapolis,MN",44.965175,-93.275272,6,Steven's Square - Loring Heights,Central,3,3,12/19/2016,11:08,Ferry
+"407 7TH ST SE,Minneapolis,MN",44.989164,-93.247073,3,Marcy Holmes,University,3,4,12/19/2016,12:55,Ferry
+"2223 Lincoln st ne,Minneapolis,MN",45.010422999999996,-93.238063,1,Windom Park,Northeast,3,2,12/19/2016,11:10,Ferry
+"721 6th St se ,Minneapolis,MN",44.986154,-93.242785,3,Marcy Holmes,University,3,4,12/19/2016,12:55,Ferry
+"3545 6th st n,Minneapolis,MN",45.019796,-93.286541,4,McKinley,Camden,3,1,12/19/2016,11:10,Ferry
+"907 17TH ST E,Minneapolis,MN",44.966367,-93.260963,6,Elliot Park,Central,3,3,12/19/2016,12:56,Ferry
+"207 8th Avenue Southeast,Minneapolis,MN",44.982121,-93.245446,3,Marcy Holmes,University,3,4,12/19/2016,11:14,Ferry
+"981 18th Ave se,Minneapolis,MN",44.9871,-93.226952,2,Como,University,3,4,12/19/2016,12:58,Ferry
+"1521 32ND ST E,Minneapolis,MN",44.944721,-93.252627,9,Powderhorn Park,Powderhorn,3,6,12/19/2016,11:15,Ferry
+"925 17TH ST E,Minneapolis,MN",44.966366,-93.26071400000001,6,Elliot Park,Central,3,3,12/19/2016,12:58,Ferry
+"231 19TH ST E,Minneapolis,MN",44.963941999999996,-93.273488,6,Steven's Square - Loring Heights,Central,3,3,12/19/2016,11:20,Ferry
+"1703 2nd AV s ,Minneapolis,MN",44.9661,-93.273848,6,Steven's Square - Loring Heights,Central,3,3,12/19/2016,12:59,Ferry
+"3053 10th Ave. so,Minneapolis,MN",44.947895,-93.260122,9,Powderhorn Park,Powderhorn,3,6,12/19/2016,11:21,Ferry
+"3247 Aldrich Ave N,Minneapolis,MN",45.014658000000004,-93.289596,4,McKinley,Camden,3,1,12/19/2016,12:59,Ferry
+"227 19th st e,Minneapolis,MN",44.963941999999996,-93.273492,6,Steven's Square - Loring Heights,Central,3,3,12/19/2016,11:23,Ferry
+"1309 Upton Ave N,Minneapolis,MN",44.991991,-93.314651,5,Willard - Hay,Near North,3,1,12/19/2016,12:59,Ferry
+"4449 16th Avenue South,Minneapolis,MN",44.921889,-93.25084100000001,11,Northrop,Nokomis,3,6,12/19/2016,11:24,Ferry
+"805 36th Street East,Minneapolis,MN",44.937754,-93.26230600000001,9,Powderhorn Park,Powderhorn,3,6,12/19/2016,11:27,Ferry
+"211 8th Ave se,Minneapolis,MN",44.982284,-93.245315,3,Marcy Holmes,University,3,4,12/19/2016,11:28,Ferry
+"2115 Bryant Ave n,Minneapolis,MN",45.000793,-93.29145799999999,5,Hawthorne,Near North,3,1,12/19/2016,11:30,Ferry
+"2103 aldrich ave n ,Minneapolis,MN",45.000448,-93.289534,5,Hawthorne,Near North,3,1,12/19/2016,11:30,Ferry
+"2105 Bryant Ave N ,Minneapolis,MN",45.000526,-93.29146,5,Hawthorne,Near North,3,1,12/19/2016,11:31,Ferry
+"2217 GIRARD AVE S,Minneapolis,MN",44.960304,-93.29656,7,East Isles,Calhoun Isles,3,3,12/19/2016,11:31,Ferry
+"205 8TH AVE SE,Minneapolis,MN",44.982039,-93.245511,3,Marcy Holmes,University,3,4,12/19/2016,11:32,Ferry
+"309 7th ave se,Minneapolis,MN",44.983682,-93.24633100000001,3,Marcy Holmes,University,3,4,12/19/2016,11:34,Ferry

@@ -1,0 +1,1355 @@
+Location,Latitude,Longitude,Ward,Neighborhood,Community,Day,Tow_Zone,Date,Time,Emergency
+"5555 34 ave s,Minneapolis,MN",44.901953000000006,-93.222912,12,Morris Park,Nokomis,2,6,12/12/2016,03:56,Dana
+"grant st e / porland ave,Minneapolis,MN",44.969485999999996,-93.267517,7,Elliot Park,Central,2,3,12/12/2016,03:57,Dana
+"4300 Nicollet ,Minneapolis,MN",44.924943,-93.278242,8,King Field,Southwest,2,5,12/12/2016,03:58,Dana
+"2109 9th st s ,Minneapolis,MN",44.964005,-93.24215600000001,6,Seward,Longfellow,2,4,12/12/2016,04:06,Dana
+"5535 34th Ave. so,Minneapolis,MN",44.902582,-93.222647,12,Morris Park,Nokomis,2,6,12/12/2016,04:09,Dana
+"14th St e and 10th Ave s,Minneapolis,MN",44.968855,-93.259686,6,Elliot Park,Central,2,3,12/12/2016,04:09,Dana
+"5749 28 ave s,Minneapolis,MN",44.899498,-93.23235600000001,11,Wenonah,Nokomis,2,6,12/12/2016,04:14,Dana
+"2220 9th street s,Minneapolis,MN",44.963997,-93.239589,6,Seward,Longfellow,2,4,12/12/2016,04:25,Dana
+"3000 Holmes Ave S ,Minneapolis,MN",44.947829,-93.29956999999999,10,ECCO,Calhoun Isle,2,5,12/12/2016,04:43,Dana
+"14th and 10th Ave s,Minneapolis,MN",44.968855,-93.259686,6,Elliot Park,Central,2,3,12/12/2016,04:45,Dana
+"3000 Holmes Ave S,Minneapolis,MN",44.947829,-93.29956999999999,10,ECCO,Calhoun Isle,2,5,12/12/2016,04:47,Dana
+"14th and 10th Ave s,Minneapolis,MN",44.968855,-93.259686,6,Elliot Park,Central,2,3,12/12/2016,04:48,Dana
+"2118 Lyndale Ave n. ,Minneapolis,MN",45.00088,-93.28769799999999,5,Hawthorne,Near North,1,1,12/11/2016,21:18,Dana
+"2211 9th st s,Minneapolis,MN",44.963688,-93.23990500000001,6,Seward,Longfellow,2,4,12/12/2016,04:54,Dana
+"422 2ND AVE SE,Minneapolis,MN",44.987425,-93.252505,3,Marcy Holmes,University,2,4,12/12/2016,08:19,Dana
+"3300 Lyndale Ave N,Minneapolis,MN",45.015044,-93.287773,4,McKinley,Camden,1,1,12/11/2016,21:40,Dana
+"3044 Chicago ave s,Minneapolis,MN",44.946940999999995,-93.262979,9,Central,Powderhorn,1,5,12/11/2016,21:44,Dana
+"420 2nd ave se,Minneapolis,MN",44.987406,-93.25251999999999,3,Marcy Holmes,University,2,4,12/12/2016,08:21,Dana
+"2700 Lyndale Ave n,Minneapolis,MN",45.007733,-93.287959,5,Hawthorne,Near North,1,1,12/11/2016,21:44,Dana
+"604 2nd ave se,Minneapolis,MN",44.989348,-93.250984,3,Marcy Holmes,University,2,4,12/12/2016,08:25,Dana
+"3021 Lyndale ave n ,Minneapolis,MN",45.011634,-93.288016,5,Hawthorne,Near North,1,1,12/11/2016,21:48,Dana
+"1810 Bryant Ave s,Minneapolis,MN",44.964934,-93.290901,7,Lowry Hill,Calhoun Isle,2,3,12/12/2016,08:33,Dana
+"3425 Lyndale Ave N,Minneapolis,MN",45.017451,-93.28806,4,McKinley,Camden,1,1,12/11/2016,21:53,Dana
+"738 aldrich ave n,Minneapolis,MN",44.985977,-93.29064100000001,5,Sumner - Glenwood,Near North,2,1,12/12/2016,08:38,Dana
+"2800-2899 EMERSON AVE S,Minneapolis,MN",44.951575,-93.29446999999999,10,Lowry Hill East,Calhoun Isle,1,3,12/11/2016,21:55,Dana
+"3012 Knox Ave s,Minneapolis,MN",44.947827000000004,-93.30497700000001,10,ECCO,Calhoun Isle,2,5,12/12/2016,08:39,Dana
+"946 Aldrich Avenue North ,Minneapolis,MN",44.987907,-93.29071,5,Sumner - Glenwood,Near North,2,1,12/12/2016,08:41,Dana
+"2800-2899 EMERSON AVE S,Minneapolis,MN",44.951575,-93.29446999999999,10,Lowry Hill East,Calhoun Isle,1,3,12/11/2016,21:58,Dana
+"3014 Knox Ave s,Minneapolis,MN",44.947761,-93.304665,10,ECCO,Calhoun Isle,2,5,12/12/2016,08:41,Dana
+"2888 emerson ave s,Minneapolis,MN",44.950148999999996,-93.2945,10,Lowry Hill East,Calhoun Isle,1,3,12/11/2016,22:01,Dana
+"804 aldrich ave n,Minneapolis,MN",44.986532000000004,-93.290966,5,Sumner - Glenwood,Near North,2,1,12/12/2016,08:41,Dana
+"1416 41st st e,Minneapolis,MN",44.928738,-93.254723,8,Bancroft,Powderhorn,2,6,12/12/2016,08:44,Dana
+"3222 chicago,Minneapolis,MN",44.943959,-93.26264499999999,9,Central,Powderhorn,1,5,12/11/2016,22:03,Dana
+"1776 bryant ave s,Minneapolis,MN",44.96589,-93.29054000000001,7,Lowry Hill,Calhoun Isle,2,3,12/12/2016,08:45,Dana
+"758 Aldrich Ave n ,Minneapolis,MN",44.986211,-93.291011,5,Sumner - Glenwood,Near North,2,1,12/12/2016,08:45,Dana
+"28th & Emerson Ave S,Minneapolis,MN",44.951946,-93.294442,10,Lowry Hill East,Calhoun Isle,1,3,12/11/2016,22:09,Dana
+"708 Bryant Ave. N. ,Minneapolis,MN",44.985623,-93.291797,5,Sumner - Glenwood,Near North,2,1,12/12/2016,08:46,Dana
+"1778 bryant ave s,Minneapolis,MN",44.965848,-93.29054000000001,7,Lowry Hill,Calhoun Isle,2,3,12/12/2016,08:48,Dana
+"2800 emerson av ,Minneapolis,MN",45.008695,-93.294294,5,Hawthorne,Near North,1,1,12/11/2016,22:14,Dana
+"3016 18th ave s,Minneapolis,MN",44.947744,-93.249027,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,14:06,Dana
+"1040 Aldrich Ave n ,Minneapolis,MN",44.988344,-93.291023,5,Sumner - Glenwood,Near North,2,1,12/12/2016,08:48,Dana
+"3018 11th Avenue South,Minneapolis,MN",44.947688,-93.258876,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,15:37,Dana
+"3322 Chicago ave s,Minneapolis,MN",44.942439,-93.262977,9,Central,Powderhorn,1,5,12/11/2016,22:14,Dana
+"314 3rd ave se,Minneapolis,MN",44.986114,-93.251351,3,Marcy Holmes,University,2,4,12/12/2016,08:54,Dana
+"338 19th ave ne,Minneapolis,MN",45.007283,-93.26257700000001,1,Holland,Northeast,2,2,12/12/2016,14:08,Dana
+"1780 BRYANT AVE S,Minneapolis,MN",44.965804999999996,-93.29054000000001,7,Lowry Hill,Calhoun Isle,2,3,12/12/2016,08:54,Dana
+"1320 upton ave n,Minneapolis,MN",44.992308,-93.314263,5,Willard - Hay,Near North,2,1,12/12/2016,15:38,Dana
+"420 8th Ave se,Minneapolis,MN",44.984349,-93.243275,3,Marcy Holmes,University,2,4,12/12/2016,14:11,Dana
+"3300 4TH AVE S,Minneapolis,MN",44.943042,-93.27046800000001,9,Central,Powderhorn,1,5,12/11/2016,22:15,Dana
+"616 3rd ave ne,Minneapolis,MN",44.992344,-93.25310400000001,3,St. Anthony East,Northeast,2,2,12/12/2016,08:55,Dana
+"908 upton ave n,Minneapolis,MN",44.987305,-93.314366,5,Willard - Hay,Near North,2,1,12/12/2016,15:40,Dana
+"322 Clifton Ave ,Minneapolis,MN",44.966577,-93.284418,7,Loring Park,Central,2,3,12/12/2016,14:11,Dana
+"3510 13th ave,Minneapolis,MN",44.939068,-93.25657,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,08:58,Dana
+"3000 4TH AVE S ,Minneapolis,MN",44.948333,-93.270308,9,Central,Powderhorn,1,5,12/11/2016,22:16,Dana
+"3908 Harriet ave s,Minneapolis,MN",44.931903000000005,-93.28603000000001,8,King Field,Southwest,2,5,12/12/2016,15:42,Dana
+"1008 summit s,Minneapolis,MN",44.965438,-93.292209,7,Lowry Hill,Calhoun Isle,2,3,12/12/2016,14:14,Dana
+"1900 COLFAX AVE S,Minneapolis,MN",44.964284,-93.292146,7,Lowry Hill,Calhoun Isle,2,3,12/12/2016,08:58,Dana
+"3300 2nd St N,Minneapolis,MN",45.01493,-93.280834,4,McKinley,Camden,1,1,12/11/2016,22:17,Dana
+"3024 30TH AVE S,Minneapolis,MN",44.947469,-93.228779,2,Longfellow,Longfellow,2,6,12/12/2016,15:42,Dana
+"1206 newton ave n,Minneapolis,MN",44.989996999999995,-93.305705,5,Near - North,Near North,2,1,12/12/2016,14:14,Dana
+"520 2nd Avenue Southeast ,Minneapolis,MN",44.988796,-93.25107,3,Marcy Holmes,University,2,4,12/12/2016,08:58,Dana
+"3200 4th ave s,Minneapolis,MN",44.944805,-93.270637,9,Central,Powderhorn,1,5,12/11/2016,22:19,Dana
+"3802 12th ave,Minneapolis,MN",44.933935,-93.257464,8,Bancroft,Powderhorn,2,6,12/12/2016,10:14,Dana
+"2022 grand ave s,Minneapolis,MN",44.961929999999995,-93.284201,10,Whittier,Powderhorn,2,3,12/12/2016,15:42,Dana
+"326 CLIFTON AVE,Minneapolis,MN",44.965906,-93.28323,7,Loring Park,Central,2,3,12/12/2016,14:15,Dana
+"4450 14th ave,Minneapolis,MN",44.923103999999995,-93.25496600000001,11,Northrop,Nokomis,2,6,12/12/2016,09:00,Dana
+"520 Bryant ave n,Minneapolis,MN",44.983576,-93.290811,5,Sumner - Glenwood,Near North,2,3,12/12/2016,10:15,Dana
+"2800-2899 Emerson ave s,Minneapolis,MN",44.951575,-93.29446999999999,10,Lowry Hill East,Calhoun Isle,1,3,12/11/2016,22:20,Dana
+"800 27th ave ne,Minneapolis,MN",45.016588,-93.250702,1,Holland,Northeast,2,2,12/12/2016,15:45,Dana
+"910 19th St e,Minneapolis,MN",44.963947,-93.260524,6,Ventura Village,Phillips,2,3,12/12/2016,14:16,Dana
+"300 3rd Ave se,Minneapolis,MN",44.985690000000005,-93.252032,3,Marcy Holmes,University,2,4,12/12/2016,09:02,Dana
+"1120 humblolt ave n,Minneapolis,MN",44.989549,-93.298167,5,Near - North,Near North,2,1,12/12/2016,10:15,Dana
+"2222 14th Ave N,Minneapolis,MN",44.993334999999995,-93.30851700000001,5,Willard - Hay,Near North,2,1,12/12/2016,15:45,Dana
+"2635 Johnson St NE,Minneapolis,MN",45.016234000000004,-93.236901,1,Audubon Park,Northeast,1,2,12/11/2016,22:20,Dana
+"1536 spruce pl,Minneapolis,MN",44.966908000000004,-93.280854,7,Loring Park,Central,2,3,12/12/2016,09:04,Dana
+"1204 newton ave n,Minneapolis,MN",44.989944,-93.305451,5,Near - North,Near North,2,1,12/12/2016,14:17,Dana
+"1342 queen Ave n ,Minneapolis,MN",44.992296,-93.309487,5,Willard - Hay,Near North,2,1,12/12/2016,15:48,Dana
+"2600 2nd st n ,Minneapolis,MN",45.006418,-93.27950799999999,5,Hawthorne,Near North,1,1,12/11/2016,22:20,Dana
+"220 3rd ave ne,Minneapolis,MN",44.990596000000004,-93.258811,3,St. Anthony West,Northeast,2,2,12/12/2016,09:05,Dana
+"3106 Colfax Ave. n. ,Minneapolis,MN",45.0123,-93.291598,5,Hawthorne,Near North,2,1,12/12/2016,15:49,Dana
+"718 8th ave se,Minneapolis,MN",44.987266,-93.241075,3,Marcy Holmes,University,2,4,12/12/2016,14:18,Dana
+"1038 aldrich ave n,Minneapolis,MN",44.988331,-93.291023,5,Sumner - Glenwood,Near North,2,1,12/12/2016,09:06,Dana
+"2800 Emerson Ave S,Minneapolis,MN",44.951575,-93.29446999999999,10,Lowry Hill East,Calhoun Isle,1,3,12/11/2016,21:57,Dana
+"4510 43rd st e,Minneapolis,MN",44.925246,-93.208801,12,Hiawatha,Longfellow,2,6,12/12/2016,15:49,Dana
+"328 Clifton ave ,Minneapolis,MN",44.965906,-93.283231,7,Loring Park,Central,2,3,12/12/2016,14:18,Dana
+"706 3rd ave ne,Minneapolis,MN",44.975118,-93.268307,7,Downtown West,Central,2,3,12/12/2016,09:06,Dana
+"3021 Lyndale ave n,Minneapolis,MN",45.011634,-93.288016,5,Hawthorne,Near North,1,1,12/11/2016,22:21,Dana
+"302 queen av n,Minneapolis,MN",44.980028000000004,-93.30934599999999,5,Harrison,Near North,2,3,12/12/2016,15:51,Dana
+"310 CLIFTON AVE,Minneapolis,MN",44.966307,-93.283615,7,Loring Park,Central,2,3,12/12/2016,14:18,Dana
+"2628 Johnson St NE,Minneapolis,MN",45.015903,-93.237155,1,Audubon Park,Northeast,1,2,12/11/2016,22:22,Dana
+"702 3rd ave ne,Minneapolis,MN",44.975156,-93.268276,7,Downtown West,Central,2,3,12/12/2016,09:08,Dana
+"2550 jackson st ne,Minneapolis,MN",45.01462,-93.249135,1,Holland,Northeast,2,2,12/12/2016,15:52,Dana
+"218 8th ave se,Minneapolis,MN",44.982034000000006,-93.24547199999999,3,Marcy Holmes,University,2,4,12/12/2016,14:18,Dana
+"3542 12th ave,Minneapolis,MN",44.938224,-93.257503,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,10:16,Dana
+"1808 dupont ave s,Minneapolis,MN",44.965022999999995,-93.293454,7,Lowry Hill,Calhoun Isle,2,3,12/12/2016,09:08,Dana
+"3400 4th Ave s,Minneapolis,MN",44.941355,-93.27023100000001,9,Central,Powderhorn,1,5,12/11/2016,22:23,Dana
+"2604 Jackson st ne,Minneapolis,MN",45.015187,-93.249137,1,Holland,Northeast,2,2,12/12/2016,15:54,Dana
+"1504 Oliver Ave n ,Minneapolis,MN",44.994426000000004,-93.306597,5,Willard - Hay,Near North,2,1,12/12/2016,14:20,Dana
+"1802 dupont ave s,Minneapolis,MN",44.965178,-93.293086,7,Lowry Hill,Calhoun Isle,2,3,12/12/2016,09:10,Dana
+"232 8th ave se,Minneapolis,MN",44.982167,-93.245365,3,Marcy Holmes,University,2,4,12/12/2016,15:56,Dana
+"1500 2nd st N. ,Minneapolis,MN",44.994215999999994,-93.27986700000001,5,Near - North,Near North,1,1,12/11/2016,22:23,Dana
+"308 5th ave se,Minneapolis,MN",44.984682,-93.248871,3,Marcy Holmes,University,2,4,12/12/2016,10:17,Dana
+"418 2nd Avenue Southeast,Minneapolis,MN",44.987386,-93.25253599999999,3,Marcy Holmes,University,2,4,12/12/2016,09:10,Dana
+"430 8th ave se,Minneapolis,MN",44.984472,-93.243565,3,Marcy Holmes,University,2,4,12/12/2016,14:21,Dana
+"2227 Johnson St NE,Minneapolis,MN",45.010471,-93.2369,1,Windom Park,Northeast,1,2,12/11/2016,22:23,Dana
+"3510 Garfield Ave s,Minneapolis,MN",44.939051,-93.287201,8,Lyndale,Powderhorn,2,5,12/12/2016,15:57,Dana
+"3918 13th ave s,Minneapolis,MN",44.931706,-93.256206,8,Bancroft,Powderhorn,2,6,12/12/2016,09:11,Dana
+"808 5th ave se,Minneapolis,MN",44.989696,-93.244904,3,Marcy Holmes,University,2,4,12/12/2016,10:18,Dana
+"802 5th ave se,Minneapolis,MN",44.989471,-93.245083,3,Marcy Holmes,University,2,4,12/12/2016,14:21,Dana
+"3000 4TH AVE S,Minneapolis,MN",44.948333,-93.270308,9,Central,Powderhorn,1,5,12/11/2016,22:23,Dana
+"1510 Sheridan Ave N,Minneapolis,MN",44.994473,-93.31179200000001,5,Willard - Hay,Near North,2,1,12/12/2016,15:58,Dana
+"500 3rd Avenue Southeast,Minneapolis,MN",44.987639,-93.250491,3,Marcy Holmes,University,2,4,12/12/2016,09:13,Dana
+"2706 aldrich ave n,Minneapolis,MN",45.007978,-93.289017,5,Hawthorne,Near North,2,1,12/12/2016,14:21,Dana
+"424 7th ave ne,Minneapolis,MN",44.996429,-93.258984,3,St. Anthony West,Northeast,2,2,12/12/2016,10:18,Dana
+"2650 Jefferson st ne,Minneapolis,MN",45.016601,-93.255739,1,Holland,Northeast,2,2,12/12/2016,15:58,Dana
+"508 3rd ave se,Minneapolis,MN",44.987903,-93.25028,3,Marcy Holmes,University,2,4,12/12/2016,09:15,Dana
+"1012 Oliver Ave N,Minneapolis,MN",44.988389,-93.306983,5,Near - North,Near North,2,1,12/12/2016,14:22,Dana
+"3408 Chicago Ave.,Minneapolis,MN",44.940940999999995,-93.262904,9,Central,Powderhorn,1,5,12/11/2016,22:26,Dana
+"2938. Bryant Ave n,Minneapolis,MN",45.010666,-93.29026,5,Hawthorne,Near North,2,1,12/12/2016,15:59,Dana
+"124 19TH st e,Minneapolis,MN",44.963968,-93.27468,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,10:22,Dana
+"516 3rd ave se,Minneapolis,MN",44.988081,-93.249837,3,Marcy Holmes,University,2,4,12/12/2016,09:16,Dana
+"1502 Oliver Ave N,Minneapolis,MN",44.994366,-93.306943,5,Willard - Hay,Near North,2,1,12/12/2016,14:22,Dana
+"302 8th Avenue Southeast,Minneapolis,MN",44.982878,-93.2448,3,Marcy Holmes,University,2,4,12/12/2016,16:00,Dana
+"3900 4th Ave s,Minneapolis,MN",44.93222,-93.2705,8,Bryant,Powderhorn,1,5,12/11/2016,22:27,Dana
+"3608 13th ave s,Minneapolis,MN",44.937326,-93.25656,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,09:16,Dana
+"3140 elliot,Minneapolis,MN",44.945294,-93.26137299999999,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,14:24,Dana
+"3144 22nd Ave S,Minneapolis,MN",44.945236,-93.24064200000001,9,Corcoran,Powderhorn,2,6,12/12/2016,16:00,Dana
+"636 Summer st ne,Minneapolis,MN",44.996761,-93.256618,3,St. Anthony East,Northeast,2,2,12/12/2016,10:22,Dana
+"716 3rd ave ne,Minneapolis,MN",44.975021000000005,-93.268385,7,Downtown West,Central,2,3,12/12/2016,09:17,Dana
+"3542 Garfield Ave s,Minneapolis,MN",44.93803,-93.28724799999999,8,Lyndale,Powderhorn,2,5,12/12/2016,16:00,Dana
+"718 3rd ave ne,Minneapolis,MN",44.975001,-93.268401,7,Downtown West,Central,2,3,12/12/2016,09:19,Dana
+"614 33rd st e,Minneapolis,MN",44.943205,-93.26688299999999,9,Central,Powderhorn,2,5,12/12/2016,10:23,Dana
+"509 15th st e,Minneapolis,MN",44.968046,-93.268282,6,Elliot Park,Central,1,3,12/11/2016,23:47,Dana
+"308 17th ave ne,Minneapolis,MN",45.005143,-93.264013,3,Sheridan,Northeast,2,2,12/12/2016,14:24,Dana
+"2520 Jackson St ,Minneapolis,MN",45.013948,-93.24942800000001,1,Holland,Northeast,2,2,12/12/2016,16:01,Dana
+"618 3rd ave se,Minneapolis,MN",44.989133,-93.248829,3,Marcy Holmes,University,2,4,12/12/2016,09:20,Dana
+"3033 Chicago ave s,Minneapolis,MN",44.947259,-93.262273,9,Powderhorn Park,Powderhorn,1,6,12/11/2016,22:29,Dana
+"4715 Bryant Ave n,Minneapolis,MN",45.040782,-93.29180600000001,4,Lind - Bohanon,Camden,1,1,12/11/2016,23:47,Dana
+"1904 Irving Ave n ,Minneapolis,MN",44.999224,-93.299289,5,Willard - Hay,Near North,2,1,12/12/2016,10:25,Dana
+"308 queen ave n,Minneapolis,MN",44.980028000000004,-93.30934599999999,5,Harrison,Near North,2,3,12/12/2016,16:01,Dana
+"626 17th ave ne,Minneapolis,MN",45.005095000000004,-93.257184,1,Logan Park,Northeast,2,2,12/12/2016,14:25,Dana
+"3116 16th ave s,Minneapolis,MN",44.945959,-93.25146600000001,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,11:29,Dana
+"424 5th ave se,Minneapolis,MN",44.986261999999996,-93.248041,3,Marcy Holmes,University,2,4,12/12/2016,10:27,Dana
+"502 15th st e,Minneapolis,MN",44.968075,-93.268609,7,Elliot Park,Central,1,3,12/11/2016,23:48,Dana
+"700 7th st se,Minneapolis,MN",44.987064000000004,-93.24303499999999,3,Marcy Holmes,University,2,4,12/12/2016,16:02,Dana
+"310 3rd Ave Southeast,Minneapolis,MN",44.986154,-93.251666,3,Marcy Holmes,University,2,4,12/12/2016,09:20,Dana
+"1320 Irving Ave n ,Minneapolis,MN",44.992469,-93.29923199999999,5,Near - North,Near North,2,1,12/12/2016,11:29,Dana
+"3430 Fremont ave s,Minneapolis,MN",44.940292,-93.295846,10,South Uptown,Calhoun Isle,2,5,12/12/2016,14:25,Dana
+"3837 chicago ave,Minneapolis,MN",44.932959000000004,-93.262085,8,Bancroft,Powderhorn,1,6,12/11/2016,22:29,Dana
+"500 15th st e,Minneapolis,MN",44.968322,-93.268724,7,Elliot Park,Central,1,3,12/11/2016,23:49,Dana
+"622 5th Ave se,Minneapolis,MN",44.98766,-93.246534,3,Marcy Holmes,University,2,4,12/12/2016,10:27,Dana
+"3014 GARFIELD AVE S ,Minneapolis,MN",44.947758,-93.28708,8,Lyndale,Powderhorn,2,5,12/12/2016,16:02,Dana
+"1212 Fremont Ave. N. ,Minneapolis,MN",44.991984,-93.295631,5,Near - North,Near North,2,1,12/12/2016,09:23,Dana
+"810 37th st e,Minneapolis,MN",44.935969,-93.261787,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,11:29,Dana
+"2320 32nd St E,Minneapolis,MN",44.944769,-93.237933,9,Corcoran,Powderhorn,2,6,12/12/2016,14:25,Dana
+"2800-2899 Dupont av s,Minneapolis,MN",44.951233,-93.293203,10,Lowry Hill East,Calhoun Isle,1,3,12/11/2016,23:50,Dana
+"3512 12th ave s,Minneapolis,MN",44.939054999999996,-93.257784,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,10:27,Dana
+"308 11th Ave se,Minneapolis,MN",44.981258000000004,-93.24064,3,Marcy Holmes,University,2,4,12/12/2016,16:02,Dana
+"424 15th st w,Minneapolis,MN",44.968441999999996,-93.285967,7,Loring Park,Central,1,3,12/11/2016,22:31,Dana
+"1210 Fremont Ave n,Minneapolis,MN",44.991984,-93.295631,5,Near - North,Near North,2,1,12/12/2016,09:25,Dana
+"316 18th st e,Minneapolis,MN",44.965232,-93.271839,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,11:30,Dana
+"1510 Irving Ave n,Minneapolis,MN",44.994531,-93.299144,5,Near - North,Near North,2,1,12/12/2016,10:27,Dana
+"2500 2nd st north,Minneapolis,MN",45.00496,-93.27964300000001,5,Hawthorne,Near North,1,1,12/11/2016,23:50,Dana
+"314 11th Avenue Southeast,Minneapolis,MN",44.981685,-93.240273,3,Marcy Holmes,University,2,4,12/12/2016,16:03,Dana
+"2128 Pillsbury ave s,Minneapolis,MN",44.961159,-93.281287,10,Whittier,Powderhorn,2,3,12/12/2016,14:25,Dana
+"208 4th ave ne,Minneapolis,MN",44.979296999999995,-93.262839,3,Downtown West,Central,2,3,12/12/2016,09:25,Dana
+"2633 Johnson St NE,Minneapolis,MN",45.016118,-93.236878,1,Audubon Park,Northeast,1,2,12/11/2016,22:33,Dana
+"4220 11th ave s,Minneapolis,MN",44.92621,-93.25908299999999,8,Northrop,Nokomis,2,6,12/12/2016,11:30,Dana
+"5317 Chicago ave s,Minneapolis,MN",44.906434999999995,-93.262244,11,Hale,Nokomis,1,6,12/11/2016,23:51,Dana
+"3516 Bryant Ave n,Minneapolis,MN",45.019114,-93.290548,4,McKinley,Camden,2,1,12/12/2016,16:03,Dana
+"3810 15th ave s,Minneapolis,MN",44.933707,-93.253677,8,Bancroft,Powderhorn,2,6,12/12/2016,10:28,Dana
+"3026 elliot,Minneapolis,MN",44.947488,-93.26173100000001,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,14:26,Dana
+"324. 4Th ave se,Minneapolis,MN",44.985696000000004,-93.25019499999999,3,Marcy Holmes,University,2,4,12/12/2016,09:25,Dana
+"2716 Plymouth ave n,Minneapolis,MN",44.991732,-93.315443,5,Willard - Hay,Near North,1,1,12/11/2016,23:53,Dana
+"2620 Quincy St ne,Minneapolis,MN",45.015775,-93.25121800000001,1,Holland,Northeast,2,2,12/12/2016,16:04,Dana
+"828 6th av se,Minneapolis,MN",44.989113,-93.243525,3,Marcy Holmes,University,2,4,12/12/2016,11:30,Dana
+"16 15th at w,Minneapolis,MN",44.968291,-93.276854,7,Loring Park,Central,1,3,12/11/2016,22:34,Dana
+"646 Summer St ne,Minneapolis,MN",44.996765,-93.255884,3,St. Anthony East,Northeast,2,2,12/12/2016,10:28,Dana
+"2714 3rd st. N. ,Minneapolis,MN",45.007342,-93.283417,5,Hawthorne,Near North,2,1,12/12/2016,09:26,Dana
+"4829 chicago ave,Minneapolis,MN",44.914972999999996,-93.26224300000001,11,Northrop,Nokomis,1,6,12/11/2016,23:54,Dana
+"3116 22nd Ave S,Minneapolis,MN",44.945971,-93.24112099999999,9,Corcoran,Powderhorn,2,6,12/12/2016,16:04,Dana
+"2914 aldrich ave n,Minneapolis,MN",45.009992,-93.289006,5,Hawthorne,Near North,2,1,12/12/2016,14:26,Dana
+"324 e 1 8th st,Minneapolis,MN",44.965233000000005,-93.271236,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,11:32,Dana
+"401 15th st w ,Minneapolis,MN",44.968412,-93.28596800000001,7,Loring Park,Central,1,3,12/11/2016,22:35,Dana
+"1424 spruce pl,Minneapolis,MN",44.968129,-93.281623,7,Loring Park,Central,2,3,12/12/2016,09:30,Dana
+"602 5th Avenue Southeast ,Minneapolis,MN",44.987465,-93.24669300000001,3,Marcy Holmes,University,2,4,12/12/2016,10:28,Dana
+"3036 GARFIELD AVE S ,Minneapolis,MN",44.94708,-93.287104,8,Lyndale,Powderhorn,2,5,12/12/2016,16:04,Dana
+"2800-2899 Dupont av s,Minneapolis,MN",44.951233,-93.293203,10,Lowry Hill East,Calhoun Isle,1,3,12/11/2016,23:54,Dana
+"122 18 st e,Minneapolis,MN",44.965229,-93.27510600000001,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,11:32,Dana
+"2108 Bryant Ave. n,Minneapolis,MN",45.000525,-93.291031,5,Hawthorne,Near North,2,1,12/12/2016,14:26,Dana
+"2508 girard ave s,Minneapolis,MN",44.9569,-93.297309,7,East Isles,Calhoun Isle,2,3,12/12/2016,09:31,Dana
+"608 5th ave se,Minneapolis,MN",44.987524,-93.246645,3,Marcy Holmes,University,2,4,12/12/2016,10:29,Dana
+"412 queen av n,Minneapolis,MN",44.984535,-93.30971600000001,5,Willard - Hay,Near North,2,1,12/12/2016,16:05,Dana
+"316 15th st w,Minneapolis,MN",44.968418,-93.285899,7,Loring Park,Central,1,3,12/11/2016,22:36,Dana
+"3024 James ave ,Minneapolis,MN",44.947448,-93.30366500000001,10,ECCO,Calhoun Isle,2,5,12/12/2016,09:33,Dana
+"2126 Pillsbury ave s,Minneapolis,MN",44.961166,-93.281287,10,Whittier,Powderhorn,2,3,12/12/2016,14:27,Dana
+"1816 Polk St ne,Minneapolis,MN",45.006948,-93.24562900000001,1,Windom Park,Northeast,2,2,12/12/2016,16:10,Dana
+"1300 spruce pl,Minneapolis,MN",44.968503999999996,-93.28085300000001,7,Loring Park,Central,2,3,12/12/2016,09:34,Dana
+"682 summer st ne,Minneapolis,MN",44.996916999999996,-93.253517,3,St. Anthony East,Northeast,2,2,12/12/2016,10:29,Dana
+"1900 block 2nd st n,Minneapolis,MN",44.998397,-93.279708,5,Near - North,Near North,1,1,12/11/2016,22:39,Dana
+"3106 Garfield Ave s,Minneapolis,MN",44.946335999999995,-93.286874,8,Lyndale,Powderhorn,2,5,12/12/2016,16:13,Dana
+"158 12th ave ne,Minneapolis,MN",44.999805,-93.266708,3,Sheridan,Northeast,2,2,12/12/2016,14:27,Dana
+"1708 Aldrich Ave n ,Minneapolis,MN",44.996094,-93.289541,5,Near - North,Near North,2,1,12/12/2016,09:36,Dana
+"2418 Fillmore st ne,Minneapolis,MN",45.012819,-93.242508,1,Windom Park,Northeast,2,2,12/12/2016,16:15,Dana
+"2800 Emerson s,Minneapolis,MN",44.951575,-93.29446999999999,10,Lowry Hill East,Calhoun Isle,1,3,12/11/2016,22:39,Dana
+"426 8th ave se,Minneapolis,MN",44.984454,-93.243579,3,Marcy Holmes,University,2,4,12/12/2016,14:27,Dana
+"320 4th Avenue Southeast ,Minneapolis,MN",44.985675,-93.250212,3,Marcy Holmes,University,2,4,12/12/2016,09:36,Dana
+"2800-2899 Dupont av s,Minneapolis,MN",44.951233,-93.293203,10,Lowry Hill East,Calhoun Isle,1,3,12/11/2016,22:41,Dana
+"3136 Garfield Ave s,Minneapolis,MN",44.945296,-93.287162,8,Lyndale,Powderhorn,2,5,12/12/2016,16:15,Dana
+"2202 8th Ave n ,Minneapolis,MN",44.986102,-93.308307,5,Willard - Hay,Near North,2,1,12/12/2016,16:15,Dana
+"3500 humboldt ave,Minneapolis,MN",45.018731,-93.297742,4,Folwell,Camden,2,1,12/12/2016,09:37,Dana
+"2800 Emerson s,Minneapolis,MN",44.951575,-93.29446999999999,10,Lowry Hill East,Calhoun Isle,1,3,12/11/2016,22:43,Dana
+"610 van buren st ne,Minneapolis,MN",44.995461999999996,-93.24898,3,St. Anthony East,Northeast,2,2,12/12/2016,14:28,Dana
+"1049 7th St N,Minneapolis,MN",44.988667,-93.290328,5,Sumner - Glenwood,Near North,1,1,12/11/2016,23:54,Dana
+"436 25th st w,Minneapolis,MN",44.957355,-93.284965,10,Whittier,Powderhorn,2,3,12/12/2016,16:15,Dana
+"816 5th Avenue Southeast,Minneapolis,MN",44.989841,-93.244428,3,Marcy Holmes,University,2,4,12/12/2016,10:30,Dana
+"614 15th Street East,Minneapolis,MN",44.968329,-93.26665,7,Elliot Park,Central,1,3,12/11/2016,23:55,Dana
+"422 5th ave se,Minneapolis,MN",44.98607,-93.247775,3,Marcy Holmes,University,2,4,12/12/2016,10:30,Dana
+"11 15th st w,Minneapolis,MN",44.967591,-93.27848900000001,7,Loring Park,Central,1,3,12/11/2016,22:45,Dana
+"202 4th ave ne,Minneapolis,MN",44.979354,-93.262791,3,Downtown West,Central,2,3,12/12/2016,09:38,Dana
+"3420 Fremont ave s,Minneapolis,MN",44.940576,-93.29619,10,South Uptown,Calhoun Isle,2,5,12/12/2016,14:29,Dana
+"608 15th st e,Minneapolis,MN",44.968071,-93.266994,7,Elliot Park,Central,1,3,12/11/2016,23:57,Dana
+"288 5th st ne,Minneapolis,MN",44.991982,-93.255585,3,St. Anthony East,Northeast,2,2,12/12/2016,11:35,Dana
+"3520 12th ave s,Minneapolis,MN",44.93865,-93.257839,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,10:31,Dana
+"736 18th St e,Minneapolis,MN",44.965239000000004,-93.26417099999999,6,Ventura Village,Phillips,2,3,12/12/2016,16:15,Dana
+"3136 james ave s,Minneapolis,MN",44.945294,-93.303687,10,ECCO,Calhoun Isle,2,5,12/12/2016,09:38,Dana
+"520 8th av se,Minneapolis,MN",44.985417,-93.242811,3,Marcy Holmes,University,2,4,12/12/2016,14:29,Dana
+"500 2nd st n,Minneapolis,MN",44.987216,-93.273326,3,North Loop,Central,1,1,12/11/2016,22:47,Dana
+"5409 Chicago a e s,Minneapolis,MN",44.904799,-93.262624,11,Hale,Nokomis,2,6,12/12/2016,00:00,Dana
+"1912 2nd Ave s,Minneapolis,MN",44.963518,-93.27405,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,10:32,Dana
+"3306 Logan Ave. N. ,Minneapolis,MN",45.015278,-93.302811,4,Folwell,Camden,2,1,12/12/2016,16:16,Dana
+"104 19th Street East,Minneapolis,MN",44.963968,-93.276156,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,11:35,Dana
+"204 4th ave ne,Minneapolis,MN",44.979335,-93.262807,3,Downtown West,Central,2,3,12/12/2016,09:40,Dana
+"2210 32nd St E,Minneapolis,MN",44.944765000000004,-93.239974,9,Corcoran,Powderhorn,2,6,12/12/2016,14:30,Dana
+"504 15th st e,Minneapolis,MN",44.968075,-93.268576,7,Elliot Park,Central,2,3,12/12/2016,00:01,Dana
+"2318 grand ave s,Minneapolis,MN",44.959453,-93.284223,10,Whittier,Powderhorn,2,3,12/12/2016,16:16,Dana
+"3104 3rd st n,Minneapolis,MN",45.012026,-93.283396,5,Hawthorne,Near North,2,1,12/12/2016,10:34,Dana
+"3450 3rd Avenue South,Minneapolis,MN",44.939683,-93.27313199999999,9,Central,Powderhorn,1,5,12/11/2016,22:47,Dana
+"226 5th st ne,Minneapolis,MN",44.991624,-93.255825,3,St. Anthony West,Northeast,2,2,12/12/2016,11:36,Dana
+"1712 41st,Minneapolis,MN",44.928815,-93.249086,8,Bancroft,Powderhorn,2,6,12/12/2016,09:40,Dana
+"3431 3rd ave s,Minneapolis,MN",44.940325,-93.27275999999999,9,Central,Powderhorn,2,5,12/12/2016,00:01,Dana
+"314 7th ave ne,Minneapolis,MN",44.995765000000006,-93.260812,3,St. Anthony West,Northeast,2,2,12/12/2016,10:34,Dana
+"610 18th St e,Minneapolis,MN",44.965175,-93.267388,6,Ventura Village,Phillips,2,3,12/12/2016,16:19,Dana
+"710 8th Avenue Southeast ,Minneapolis,MN",44.987068,-93.241506,3,Marcy Holmes,University,2,4,12/12/2016,14:31,Dana
+"8 15th st w,Minneapolis,MN",44.967889,-93.28054200000001,7,Loring Park,Central,1,3,12/11/2016,22:48,Dana
+"1810 4TH av s,Minneapolis,MN",44.964795,-93.270545,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,11:38,Dana
+"302 4th Avenue Southeast,Minneapolis,MN",44.985242,-93.250562,3,Marcy Holmes,University,2,4,12/12/2016,10:35,Dana
+"4717 Bryant Ave n ,Minneapolis,MN",45.040859999999995,-93.291471,4,Lind - Bohanon,Camden,2,1,12/12/2016,00:02,Dana
+"2530 Jackson St ne,Minneapolis,MN",45.014209,-93.24945799999999,1,Holland,Northeast,2,2,12/12/2016,16:19,Dana
+"3100 james ave s,Minneapolis,MN",44.946432,-93.30369,10,ECCO,Calhoun Isle,2,5,12/12/2016,09:41,Dana
+"3010 38th ave s,Minneapolis,MN",44.94785,-93.218194,2,Longfellow,Longfellow,2,6,12/12/2016,14:31,Dana
+"500 2nd st n ,Minneapolis,MN",44.987216,-93.273326,3,North Loop,Central,1,1,12/11/2016,22:50,Dana
+"3626 4th st. N. ,Minneapolis,MN",45.021125,-93.284701,4,McKinley,Camden,2,1,12/12/2016,11:38,Dana
+"506 15th St e,Minneapolis,MN",44.968074,-93.26854200000001,7,Elliot Park,Central,2,3,12/12/2016,00:03,Dana
+"3602 10th ave,Minneapolis,MN",44.937540000000006,-93.26002700000001,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,10:35,Dana
+"3524 31ST ST E,Minneapolis,MN",44.946841,-93.221352,2,Longfellow,Longfellow,2,6,12/12/2016,16:21,Dana
+"210 4th ave ne,Minneapolis,MN",44.979278,-93.262855,3,Downtown West,Central,2,3,12/12/2016,09:41,Dana
+"3008 40th ave s,Minneapolis,MN",44.947924,-93.215294,2,Cooper,Longfellow,2,6,12/12/2016,14:36,Dana
+"124 5th st ne,Minneapolis,MN",44.990659,-93.25469100000001,3,Nicollet Island - East Bank,University,2,2,12/12/2016,11:39,Dana
+"5323 Chicago Ave.,Minneapolis,MN",44.906321999999996,-93.262314,11,Hale,Nokomis,2,6,12/12/2016,00:05,Dana
+"3400 2nd st n,Minneapolis,MN",45.016702,-93.280999,4,McKinley,Camden,1,1,12/11/2016,22:50,Dana
+"2606 3rd st n,Minneapolis,MN",45.005996,-93.283401,5,Hawthorne,Near North,2,1,12/12/2016,10:35,Dana
+"404 Sheridan ave s,Minneapolis,MN",44.973301,-93.31254100000001,7,Bryn - Mawr,Calhoun Isle,2,3,12/12/2016,16:21,Dana
+"1021 7th st n,Minneapolis,MN",44.988375,-93.290132,5,Sumner - Glenwood,Near North,2,1,12/12/2016,00:05,Dana
+"1808 40th st,Minneapolis,MN",44.930475,-93.248184,8,Bancroft,Powderhorn,2,6,12/12/2016,09:42,Dana
+"414 7th ave ne,Minneapolis,MN",44.996173999999996,-93.259439,3,St. Anthony West,Northeast,2,2,12/12/2016,10:37,Dana
+"1914 2nd Avenue South,Minneapolis,MN",44.963446999999995,-93.274051,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,11:39,Dana
+"3620 Chicago,Minneapolis,MN",44.937048,-93.26285899999999,8,Central,Powderhorn,1,5,12/11/2016,22:51,Dana
+"526 8th ave se,Minneapolis,MN",44.985517,-93.24235300000001,3,Marcy Holmes,University,2,4,12/12/2016,14:39,Dana
+"1302 Barnes Place N,Minneapolis,MN",44.988135,-93.298186,5,Near - North,Near North,2,1,12/12/2016,16:21,Dana
+"1206 Fremont ave n ,Minneapolis,MN",44.991984,-93.295631,5,Near - North,Near North,2,1,12/12/2016,09:45,Dana
+"3312 3RD AVE S,Minneapolis,MN",44.942646999999994,-93.273173,9,Central,Powderhorn,2,5,12/12/2016,00:06,Dana
+"516 5th Ave se,Minneapolis,MN",44.986801,-93.24686899999999,3,Marcy Holmes,University,2,4,12/12/2016,10:37,Dana
+"122 5th st ne,Minneapolis,MN",44.990655,-93.254688,3,Nicollet Island - East Bank,University,2,2,12/12/2016,11:40,Dana
+"600 2nd st n. ,Minneapolis,MN",44.988078,-93.274552,3,North Loop,Central,1,1,12/11/2016,22:51,Dana
+"410 8th Ave se,Minneapolis,MN",44.98418,-93.243798,3,Marcy Holmes,University,2,4,12/12/2016,14:41,Dana
+"304 11th Ave se,Minneapolis,MN",44.981225,-93.24068100000001,3,Marcy Holmes,University,2,4,12/12/2016,16:24,Dana
+"1538 Spruce Place,Minneapolis,MN",44.966908000000004,-93.280854,7,Loring Park,Central,2,3,12/12/2016,09:46,Dana
+"1920 s 2nd ave,Minneapolis,MN",44.962973999999996,-93.274372,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,10:38,Dana
+"516 15TH st e,Minneapolis,MN",44.968074,-93.268434,7,Elliot Park,Central,2,3,12/12/2016,00:06,Dana
+"1226 Irving Ave. N. ,Minneapolis,MN",44.990849,-93.299423,5,Near - North,Near North,2,1,12/12/2016,11:42,Dana
+"3628 Chicago ave s,Minneapolis,MN",44.936807,-93.262852,8,Central,Powderhorn,1,5,12/11/2016,22:51,Dana
+"302 11th ave se,Minneapolis,MN",44.981208,-93.240701,3,Marcy Holmes,University,2,4,12/12/2016,16:24,Dana
+"524 8th ave se,Minneapolis,MN",44.985371,-93.242537,3,Marcy Holmes,University,2,4,12/12/2016,14:42,Dana
+"708 5th ave se,Minneapolis,MN",44.988779,-93.245635,3,Marcy Holmes,University,2,4,12/12/2016,10:39,Dana
+"256 6th st ne,Minneapolis,MN",44.976399,-93.267948,7,Downtown West,Central,2,3,12/12/2016,09:47,Dana
+"810 st ne,Minneapolis,MN",45.016766,-93.250303,1,Holland,Northeast,2,2,12/12/2016,11:43,Dana
+"3000 block of Hennepin Avenue South,Minneapolis,MN",44.948207000000004,-93.29831300000001,10,ECCO,Calhoun Isle,2,5,12/12/2016,00:07,Dana
+"2014 Upton Ave N,Minneapolis,MN",45.000141,-93.314233,5,Willard - Hay,Near North,2,1,12/12/2016,16:25,Dana
+"340 2nd St N,Minneapolis,MN",44.985822,-93.27192,3,North Loop,Central,1,3,12/11/2016,22:53,Dana
+"144 19th st E,Minneapolis,MN",44.963968,-93.274513,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,10:39,Dana
+"1406 DuPont Ave n,Minneapolis,MN",44.993655,-93.29256600000001,5,Near - North,Near North,2,1,12/12/2016,09:47,Dana
+"2106 4th st n,Minneapolis,MN",45.009504,-93.26184,1,Holland,Northeast,2,2,12/12/2016,11:43,Dana
+"1840 32ND ST E,Minneapolis,MN",44.944757,-93.246299,9,Corcoran,Powderhorn,2,6,12/12/2016,14:43,Dana
+"1108 5th st se,Minneapolis,MN",44.982937,-93.238676,3,Marcy Holmes,University,2,4,12/12/2016,16:25,Dana
+"4330 Thomas Ave n,Minneapolis,MN",45.034323,-93.313273,4,Victory,Camden,2,1,12/12/2016,00:14,Dana
+"3120 3rd st n,Minneapolis,MN",45.012208,-93.283395,5,Hawthorne,Near North,2,1,12/12/2016,10:39,Dana
+"316 4th Ave se,Minneapolis,MN",44.985704,-93.249822,3,Marcy Holmes,University,2,4,12/12/2016,09:47,Dana
+"3436 3rd Avenue South,Minneapolis,MN",44.940175,-93.27306,9,Central,Powderhorn,1,5,12/11/2016,22:54,Dana
+"1770 Fremont s,Minneapolis,MN",44.966116,-93.295997,7,Lowry Hill,Calhoun Isle,2,3,12/12/2016,11:45,Dana
+"704 18th st e ,Minneapolis,MN",44.965233000000005,-93.264971,6,Ventura Village,Phillips,2,3,12/12/2016,16:27,Dana
+"424 8th Ave se,Minneapolis,MN",44.984444,-93.243587,3,Marcy Holmes,University,2,4,12/12/2016,14:43,Dana
+"3016 3rd st n,Minneapolis,MN",45.010939,-93.283397,5,Hawthorne,Near North,2,1,12/12/2016,10:40,Dana
+"514 15th st E ,Minneapolis,MN",44.968074,-93.26845300000001,7,Elliot Park,Central,2,3,12/12/2016,00:14,Dana
+"322 4th ave se,Minneapolis,MN",44.985686,-93.250203,3,Marcy Holmes,University,2,4,12/12/2016,09:47,Dana
+"4608 3rd Ave s,Minneapolis,MN",44.919304,-93.273121,8,Field,Nokomis,1,5,12/11/2016,22:54,Dana
+"812 5th st ne,Minneapolis,MN",44.997976,-93.26012,3,St. Anthony West,Northeast,2,2,12/12/2016,11:45,Dana
+"902 5TH av n,Minneapolis,MN",44.982937,-93.291599,5,Sumner - Glenwood,Near North,2,3,12/12/2016,16:34,Dana
+"716 Adams st ne,Minneapolis,MN",44.997461,-93.256536,3,St. Anthony East,Northeast,2,2,12/12/2016,10:40,Dana
+"3012 20th ave s,Minneapolis,MN",44.947834,-93.243636,9,Corcoran,Powderhorn,2,6,12/12/2016,14:43,Dana
+"1818 Bryant ave n ,Minneapolis,MN",44.998165,-93.290588,5,Near - North,Near North,2,1,12/12/2016,09:49,Dana
+"520 15TH ST E,Minneapolis,MN",44.968074,-93.268397,7,Elliot Park,Central,2,3,12/12/2016,00:15,Dana
+"304 6th ave se,Minneapolis,MN",44.984013,-93.24757,3,Marcy Holmes,University,2,4,12/12/2016,11:47,Dana
+"214 15th St W,Minneapolis,MN",44.968022999999995,-93.281638,7,Loring Park,Central,1,3,12/11/2016,22:54,Dana
+"316 5th ave se,Minneapolis,MN",44.984876,-93.248721,3,Marcy Holmes,University,2,4,12/12/2016,10:41,Dana
+"1818 Polk st ne,Minneapolis,MN",45.006948,-93.24562900000001,1,Windom Park,Northeast,2,2,12/12/2016,16:34,Dana
+"628 20th ave ne,Minneapolis,MN",45.008389,-93.257215,1,Holland,Northeast,2,2,12/12/2016,14:46,Dana
+"1522 Dupont Ave. N. ,Minneapolis,MN",44.994925,-93.292144,5,Near - North,Near North,2,1,12/12/2016,09:49,Dana
+"1021 7 St N,Minneapolis,MN",44.988375,-93.290132,5,Sumner - Glenwood,Near North,2,1,12/12/2016,00:15,Dana
+"2910 4th st n,Minneapolis,MN",45.009916,-93.284627,5,Hawthorne,Near North,2,1,12/12/2016,11:47,Dana
+"688 summer st ne,Minneapolis,MN",44.996751,-93.253155,3,St. Anthony East,Northeast,2,2,12/12/2016,10:41,Dana
+"1706 Buchanan st ne,Minneapolis,MN",45.005266999999996,-93.23998399999999,1,Northeast Park,Northeast,2,2,12/12/2016,16:35,Dana
+"208 15th Street West,Minneapolis,MN",44.967739,-93.281171,7,Loring Park,Central,2,3,12/12/2016,00:16,Dana
+"1368 SPRUCE PL,Minneapolis,MN",44.968503999999996,-93.28085300000001,7,Loring Park,Central,2,3,12/12/2016,09:50,Dana
+"1234 Queen Ave N,Minneapolis,MN",44.990753999999995,-93.30949100000001,5,Willard - Hay,Near North,2,1,12/12/2016,14:46,Dana
+"210 15th st w,Minneapolis,MN",44.967667999999996,-93.28143,7,Loring Park,Central,1,3,12/11/2016,22:55,Dana
+"1922 Fremont s,Minneapolis,MN",44.963372,-93.295955,7,Lowry Hill,Calhoun Isle,2,3,12/12/2016,11:47,Dana
+"4325 Thomas Ave n,Minneapolis,MN",45.034176,-93.314014,4,Victory,Camden,2,1,12/12/2016,00:16,Dana
+"806 5th ave n,Minneapolis,MN",44.982932,-93.28986,5,Sumner - Glenwood,Near North,2,3,12/12/2016,16:37,Dana
+"3528 10th ave s,Minneapolis,MN",44.938626,-93.260323,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,10:43,Dana
+"1818 dupont Ave n,Minneapolis,MN",44.998055,-93.2923,5,Near - North,Near North,2,1,12/12/2016,09:50,Dana
+"1940 Oliver Ave n ,Minneapolis,MN",45.000076,-93.306926,5,Willard - Hay,Near North,2,1,12/12/2016,14:46,Dana
+"98 18th st e,Minneapolis,MN",44.965233000000005,-93.276612,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,11:48,Dana
+"716 9th Ave N,Minneapolis,MN",44.998577000000004,-93.260251,3,St. Anthony West,Northeast,2,2,12/12/2016,16:38,Dana
+"613 15TH ST E,Minneapolis,MN",44.968045000000004,-93.26668199999999,6,Elliot Park,Central,2,3,12/12/2016,00:17,Dana
+"418 6th ave ne,Minneapolis,MN",44.995021,-93.25833,3,St. Anthony West,Northeast,2,2,12/12/2016,09:52,Dana
+"1718 Irving Ave n,Minneapolis,MN",44.996939000000005,-93.299084,5,Near - North,Near North,2,1,12/12/2016,10:43,Dana
+"218 15th st w,Minneapolis,MN",44.967739,-93.281245,7,Loring Park,Central,1,3,12/11/2016,22:56,Dana
+"4329 Thomas ave,Minneapolis,MN",45.034288000000004,-93.31401600000001,4,Victory,Camden,2,1,12/12/2016,00:19,Dana
+"326 Clifton ave ,Minneapolis,MN",44.965906,-93.28323,7,Loring Park,Central,2,3,12/12/2016,14:47,Dana
+"704 summer,Minneapolis,MN",44.996918,-93.25238399999999,3,St. Anthony East,Northeast,2,2,12/12/2016,10:43,Dana
+"600 2nd st n,Minneapolis,MN",44.988078,-93.274552,3,North Loop,Central,1,1,12/11/2016,22:56,Dana
+"3118 Holmes ave s,Minneapolis,MN",44.945828000000006,-93.299607,10,ECCO,Calhoun Isle,2,5,12/12/2016,11:49,Dana
+"508 15th st e,Minneapolis,MN",44.968287,-93.268509,7,Elliot Park,Central,2,3,12/12/2016,00:20,Dana
+"1328 Irving Ave. N. ,Minneapolis,MN",44.992709999999995,-93.29915600000001,5,Near - North,Near North,2,1,12/12/2016,10:43,Dana
+"430 7th Avenue Southeast ,Minneapolis,MN",44.984896,-93.245042,3,Marcy Holmes,University,2,4,12/12/2016,11:49,Dana
+"4015 chicago,Minneapolis,MN",44.93008,-93.262192,8,Bancroft,Powderhorn,1,6,12/11/2016,22:58,Dana
+"3450 dupont Ave s,Minneapolis,MN",44.939744,-93.293643,10,South Uptown,Calhoun Isle,2,5,12/12/2016,14:47,Dana
+"602 15th Street East,Minneapolis,MN",44.968070000000004,-93.26746800000001,7,Elliot Park,Central,2,3,12/12/2016,00:20,Dana
+"310 5th ave se,Minneapolis,MN",44.98473,-93.248834,3,Marcy Holmes,University,2,4,12/12/2016,10:44,Dana
+"2728 39th st e,Minneapolis,MN",44.932326,-93.233195,12,Standish,Powderhorn,2,6,12/12/2016,09:53,Dana
+"3336 Harriet Ave s,Minneapolis,MN",44.941734999999994,-93.285875,8,Lyndale,Powderhorn,2,5,12/12/2016,16:38,Dana
+"430 7th Avenue Southeast ,Minneapolis,MN",44.984896,-93.245042,3,Marcy Holmes,University,2,4,12/12/2016,11:49,Dana
+"4th Ave s and E 32nd st,Minneapolis,MN",44.944992,-93.270276,9,Central,Powderhorn,1,5,12/11/2016,23:01,Dana
+"3000-3099 hennipen Ave s,Minneapolis,MN",44.948207000000004,-93.29831300000001,10,ECCO,Calhoun Isle,2,5,12/12/2016,00:21,Dana
+"720 5th Ave South East,Minneapolis,MN",44.989098999999996,-93.24538000000001,3,Marcy Holmes,University,2,4,12/12/2016,10:44,Dana
+"314 4th Ave South East,Minneapolis,MN",44.985628000000005,-93.25025,3,Marcy Holmes,University,2,4,12/12/2016,09:55,Dana
+"3432 Emerson Ave s,Minneapolis,MN",44.940134,-93.294876,10,South Uptown,Calhoun Isle,2,5,12/12/2016,14:49,Dana
+"1706 Stevens ave s,Minneapolis,MN",44.965972,-93.275655,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,11:49,Dana
+"322 12th Ave se,Minneapolis,MN",44.98084,-93.239141,3,Marcy Holmes,University,2,4,12/12/2016,16:38,Dana
+"1312 James Ave n ,Minneapolis,MN",44.992034000000004,-93.300685,5,Near - North,Near North,2,1,12/12/2016,11:49,Dana
+"514 15th st E,Minneapolis,MN",44.968074,-93.26845300000001,7,Elliot Park,Central,2,3,12/12/2016,00:22,Dana
+"2504 30TH AVE S,Minneapolis,MN",44.95708,-93.228696,2,Seward,Longfellow,2,4,12/12/2016,14:50,Dana
+"638 Adams st ne,Minneapolis,MN",44.996209,-93.25662,3,St. Anthony East,Northeast,2,2,12/12/2016,10:45,Dana
+"1518 Thomas Ave n ,Minneapolis,MN",44.994702000000004,-93.312977,5,Willard - Hay,Near North,2,1,12/12/2016,16:40,Dana
+"3935 chicago,Minneapolis,MN",44.931290000000004,-93.262204,8,Bancroft,Powderhorn,1,6,12/11/2016,23:01,Dana
+"1908 colfax ave s,Minneapolis,MN",44.963999,-93.291827,7,Lowry Hill,Calhoun Isle,2,3,12/12/2016,09:56,Dana
+"3528 Fremont ave s,Minneapolis,MN",44.938572,-93.29620899999999,10,South Uptown,Calhoun Isle,2,5,12/12/2016,11:51,Dana
+"3300-3399 hennipen Ave s,Minneapolis,MN",44.942774,-93.298363,10,ECCO,Calhoun Isle,2,5,12/12/2016,00:33,Dana
+"1322 Irving Ave n ,Minneapolis,MN",44.992539,-93.299419,5,Near - North,Near North,2,1,12/12/2016,10:45,Dana
+"3442 Garfield Ave s,Minneapolis,MN",44.939862,-93.287239,8,Lyndale,Powderhorn,2,5,12/12/2016,16:40,Dana
+"122 6th ave ne,Minneapolis,MN",44.993728999999995,-93.262618,3,St. Anthony West,Northeast,2,2,12/12/2016,09:57,Dana
+"2800 dupont Ave s,Minneapolis,MN",44.951233,-93.293203,10,Lowry Hill East,Calhoun Isle,1,3,12/11/2016,23:01,Dana
+"1614 Oliver Ave N,Minneapolis,MN",44.995731,-93.306674,5,Willard - Hay,Near North,2,1,12/12/2016,14:51,Dana
+"4333 Thomas Ave N,Minneapolis,MN",45.034377,-93.313681,4,Victory,Camden,2,1,12/12/2016,00:34,Dana
+"630 adams st ne,Minneapolis,MN",44.995979,-93.256491,3,St. Anthony East,Northeast,2,2,12/12/2016,10:46,Dana
+"312 4th st ne,Minneapolis,MN",44.991834999999995,-93.257574,3,St. Anthony West,Northeast,2,2,12/12/2016,11:52,Dana
+"3104 14th ave,Minneapolis,MN",44.946332,-93.255309,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,16:41,Dana
+"1708 Girard s,Minneapolis,MN",44.966392,-93.29691600000001,7,Lowry Hill,Calhoun Isle,2,3,12/12/2016,09:57,Dana
+"3300 Hennepin Ave S ,Minneapolis,MN",44.942774,-93.298363,10,ECCO,Calhoun Isle,2,5,12/12/2016,00:35,Dana
+"518 5th Ave se ,Minneapolis,MN",44.986957000000004,-93.24708199999999,3,Marcy Holmes,University,2,4,12/12/2016,10:46,Dana
+"216 15th st w,Minneapolis,MN",44.973556,-93.247661,6,Cedar Riverside,University,1,4,12/11/2016,23:02,Dana
+"818 upton ave n,Minneapolis,MN",44.986692,-93.314277,5,Willard - Hay,Near North,2,1,12/12/2016,14:54,Dana
+"3236 Elliot Ave S,Minneapolis,MN",44.943663,-93.261365,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,16:41,Dana
+"1362 spruce pl,Minneapolis,MN",44.968503999999996,-93.28085300000001,7,Loring Park,Central,2,3,12/12/2016,09:58,Dana
+"424 7th Ave se,Minneapolis,MN",44.984857,-93.245073,3,Marcy Holmes,University,2,4,12/12/2016,11:53,Dana
+"2900 Hennepin av South,Minneapolis,MN",44.949064,-93.298292,7,East Isles,Calhoun Isle,2,3,12/12/2016,00:35,Dana
+"3740 Longfellow Ave. S.,Minneapolis,MN",44.934691,-93.246081,12,Standish,Powderhorn,2,6,12/12/2016,10:47,Dana
+"209 15TH st w,Minneapolis,MN",44.967464,-93.281525,7,Loring Park,Central,1,3,12/11/2016,23:07,Dana
+"818 upton ave n,Minneapolis,MN",44.986692,-93.314277,5,Willard - Hay,Near North,2,1,12/12/2016,14:57,Dana
+"418 6th Ave se,Minneapolis,MN",44.985295,-93.246563,3,Marcy Holmes,University,2,4,12/12/2016,11:54,Dana
+"2908 bloomington ave,Minneapolis,MN",44.949778,-93.25289000000001,9,Midtown Phillips,Phillips,2,3,12/12/2016,00:36,Dana
+"224 19TH ST e,Minneapolis,MN",44.963968,-93.27308000000001,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,10:49,Dana
+"2800-2899 Emerson av s,Minneapolis,MN",44.951575,-93.29446999999999,10,Lowry Hill East,Calhoun Isle,1,3,12/11/2016,23:08,Dana
+"160 12th ave ne,Minneapolis,MN",44.999805,-93.266681,3,Sheridan,Northeast,2,2,12/12/2016,14:57,Dana
+"3008 12th ave,Minneapolis,MN",44.947902,-93.257601,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,16:43,Dana
+"250 6th st ne,Minneapolis,MN",44.992090000000005,-93.254222,3,St. Anthony East,Northeast,2,2,12/12/2016,09:58,Dana
+"26th Hennepin ave s,Minneapolis,MN",44.955436999999996,-93.296776,10,Lowry Hill East,Calhoun Isle,2,3,12/12/2016,00:37,Dana
+"408 6th ave se,Minneapolis,MN",44.985221,-93.24662099999999,3,Marcy Holmes,University,2,4,12/12/2016,11:56,Dana
+"818 5TH AV n,Minneapolis,MN",44.982795,-93.290313,5,Sumner - Glenwood,Near North,2,3,12/12/2016,16:44,Dana
+"2120 Emerson ave s,Minneapolis,MN",44.961264,-93.294685,7,Lowry Hill,Calhoun Isle,2,3,12/12/2016,10:50,Dana
+"410 6th ave ne,Minneapolis,MN",44.994915,-93.258624,3,St. Anthony West,Northeast,2,2,12/12/2016,10:00,Dana
+"2417 hennepin av s,Minneapolis,MN",44.95862,-93.29445,10,Lowry Hill East,Calhoun Isle,2,3,12/12/2016,00:37,Dana
+"3800 Elliot ave,Minneapolis,MN",44.933994,-93.261493,8,Bancroft,Powderhorn,2,6,12/12/2016,11:57,Dana
+"4200 4th Ave South,Minneapolis,MN",44.926817,-93.27016,8,Regina,Nokomis,1,5,12/11/2016,23:09,Dana
+"332 18th ave ne,Minneapolis,MN",45.006371,-93.263038,1,Holland,Northeast,2,2,12/12/2016,14:59,Dana
+"3430 dupont Ave n,Minneapolis,MN",45.017789,-93.29285,4,McKinley,Camden,2,1,12/12/2016,16:44,Dana
+"416 5th ave se,Minneapolis,MN",44.985946999999996,-93.24755,3,Marcy Holmes,University,2,4,12/12/2016,10:52,Dana
+"3300 Hennepin Ave S ,Minneapolis,MN",44.942774,-93.298363,10,ECCO,Calhoun Isle,2,5,12/12/2016,00:39,Dana
+"1820 Emerson s,Minneapolis,MN",44.964671,-93.294363,7,Lowry Hill,Calhoun Isle,2,3,12/12/2016,10:00,Dana
+"234 18th st e,Minneapolis,MN",44.965235,-93.273585,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,11:57,Dana
+"2906 james ave s,Minneapolis,MN",44.948985,-93.303391,7,East Isles,Calhoun Isle,2,3,12/12/2016,10:53,Dana
+"3056 14th Avenue South,Minneapolis,MN",44.946715000000005,-93.25533399999999,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,16:44,Dana
+"1600 2nd st n,Minneapolis,MN",44.995631,-93.279444,5,Near - North,Near North,1,1,12/11/2016,23:12,Dana
+"802 Queen Ave N,Minneapolis,MN",44.986265,-93.309652,5,Willard - Hay,Near North,2,1,12/12/2016,15:00,Dana
+"622 15th st e,Minneapolis,MN",44.96825,-93.26644499999999,7,Elliot Park,Central,2,3,12/12/2016,00:40,Dana
+"1536 41st e,Minneapolis,MN",44.928723,-93.25325699999999,8,Bancroft,Powderhorn,2,6,12/12/2016,10:01,Dana
+"1916 2nd ave s,Minneapolis,MN",44.963390999999994,-93.274374,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,11:59,Dana
+"1508 SPRUCE PL,Minneapolis,MN",44.966751,-93.28085300000001,7,Loring Park,Central,2,3,12/12/2016,10:54,Dana
+"302 RUSSELL AVE N,Minneapolis,MN",44.980740999999995,-93.311089,5,Harrison,Near North,2,3,12/12/2016,16:46,Dana
+"2800-2899 EMERSON AVE S,Minneapolis,MN",44.951575,-93.29446999999999,10,Lowry Hill East,Calhoun Isle,1,3,12/11/2016,23:13,Dana
+"3000 lyndale av s,Minneapolis,MN",44.948341,-93.288126,10,South Uptown,Calhoun Isle,2,5,12/12/2016,00:40,Dana
+"3122 22nd ave s,Minneapolis,MN",44.945831,-93.241117,9,Corcoran,Powderhorn,2,6,12/12/2016,15:00,Dana
+"3740 25th Ave. so,Minneapolis,MN",44.934433,-93.236189,12,Standish,Powderhorn,2,6,12/12/2016,10:02,Dana
+"3204 Gerard Ave s,Minneapolis,MN",44.944533,-93.297072,10,South Uptown,Calhoun Isle,2,5,12/12/2016,11:59,Dana
+"3742 Colfax Ave n,Minneapolis,MN",45.023378,-93.291589,4,McKinley,Camden,2,1,12/12/2016,16:47,Dana
+"120 19TH ST E,Minneapolis,MN",44.963968,-93.27558,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,10:57,Dana
+"2906 Hennepin Ave S,Minneapolis,MN",44.948951,-93.298293,7,East Isles,Calhoun Isle,2,3,12/12/2016,00:42,Dana
+"2800-2899 Dupont av s,Minneapolis,MN",44.951233,-93.293203,10,Lowry Hill East,Calhoun Isle,1,3,12/11/2016,23:13,Dana
+"1364 spruce pl,Minneapolis,MN",44.968503999999996,-93.28085300000001,7,Loring Park,Central,2,3,12/12/2016,10:03,Dana
+"700 5th Ave n,Minneapolis,MN",44.98292,-93.289226,5,Sumner - Glenwood,Near North,2,3,12/12/2016,16:48,Dana
+"334 19TH ST E,Minneapolis,MN",44.96397,-93.270938,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,11:59,Dana
+"5119 Bryant Ave n ,Minneapolis,MN",45.048297,-93.291809,4,Lind - Bohanon,Camden,2,1,12/12/2016,00:43,Dana
+"2886 james ave s,Minneapolis,MN",44.949625,-93.303714,7,East Isles,Calhoun Isle,2,3,12/12/2016,10:57,Dana
+"810 12th Ave n ,Minneapolis,MN",44.990848,-93.289715,5,Near - North,Near North,2,1,12/12/2016,10:03,Dana
+"4325 3rd Avenue South,Minneapolis,MN",44.924574,-93.272087,8,Regina,Nokomis,1,5,12/11/2016,23:14,Dana
+"3014 19th ave so,Minneapolis,MN",44.947798,-93.24515600000001,9,Corcoran,Powderhorn,2,6,12/12/2016,15:03,Dana
+"3020 4th st. N. ,Minneapolis,MN",45.011476,-93.284518,5,Hawthorne,Near North,2,1,12/12/2016,12:00,Dana
+"802 5th Ave n ,Minneapolis,MN",44.982938,-93.289694,5,Sumner - Glenwood,Near North,2,3,12/12/2016,16:50,Dana
+"3844 15th ave s,Minneapolis,MN",44.932793,-93.253925,8,Bancroft,Powderhorn,2,6,12/12/2016,10:58,Dana
+"726 Central Ave NE,Minneapolis,MN",44.991359,-93.250687,3,Marcy Holmes,University,2,2,12/12/2016,00:44,Dana
+"200 7th ave ne,Minneapolis,MN",44.9952,-93.263086,3,St. Anthony West,Northeast,2,2,12/12/2016,10:05,Dana
+"4313 3rd Ave s,Minneapolis,MN",44.924886,-93.272747,8,Regina,Nokomis,1,5,12/11/2016,23:15,Dana
+"1918 2nd Ave s,Minneapolis,MN",44.963254,-93.274374,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,12:00,Dana
+"2216 Bryant Ave n. ,Minneapolis,MN",45.002046,-93.291032,5,Hawthorne,Near North,2,1,12/12/2016,15:04,Dana
+"3800 Lyndale Ave N,Minneapolis,MN",45.024087,-93.287798,4,Webber - Camden,Camden,2,1,12/12/2016,00:46,Dana
+"328 RUSSELL AVE N,Minneapolis,MN",44.981392,-93.310743,5,Harrison,Near North,2,3,12/12/2016,16:50,Dana
+"1026 Irving Ave. N. ,Minneapolis,MN",44.988355,-93.299846,5,Near - North,Near North,2,1,12/12/2016,11:01,Dana
+"308 4th Ave se,Minneapolis,MN",44.985486,-93.250078,3,Marcy Holmes,University,2,4,12/12/2016,10:05,Dana
+"1924 2ND av s,Minneapolis,MN",44.962959000000005,-93.274054,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,12:01,Dana
+"312 8th Ave se,Minneapolis,MN",44.983184,-93.244566,3,Marcy Holmes,University,2,4,12/12/2016,15:04,Dana
+"3300 4th ave s,Minneapolis,MN",44.943042,-93.27046800000001,9,Central,Powderhorn,1,5,12/11/2016,23:15,Dana
+"3243 3rd ave s,Minneapolis,MN",44.943583000000004,-93.272515,9,Central,Powderhorn,2,5,12/12/2016,00:48,Dana
+"706 9th Ave. N. ,Minneapolis,MN",44.998577000000004,-93.260251,3,St. Anthony West,Northeast,2,2,12/12/2016,16:55,Dana
+"826 12th Ave n,Minneapolis,MN",44.990848,-93.28995400000001,5,Near - North,Near North,2,1,12/12/2016,10:05,Dana
+"1912 Emerson s,Minneapolis,MN",44.963894,-93.294736,7,Lowry Hill,Calhoun Isle,2,3,12/12/2016,11:01,Dana
+"420 6th ave se,Minneapolis,MN",44.98531,-93.24655200000001,3,Marcy Holmes,University,2,4,12/12/2016,12:02,Dana
+"3800-3899 lyndale Ave n,Minneapolis,MN",45.024087,-93.287798,4,Webber - Camden,Camden,2,1,12/12/2016,00:51,Dana
+"1636 Sheridan Ave N,Minneapolis,MN",44.996303000000005,-93.311776,5,Willard - Hay,Near North,2,1,12/12/2016,16:55,Dana
+"4506 29TH AV S,Minneapolis,MN",44.921175,-93.230912,12,Ericsson,Nokomis,2,6,12/12/2016,10:09,Dana
+"600 2nd st n. ,Minneapolis,MN",44.988078,-93.274552,3,North Loop,Central,1,1,12/11/2016,23:15,Dana
+"1520 36TH ST E,Minneapolis,MN",44.937759,-93.252655,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,11:02,Dana
+"3404 holmes ave s,Minneapolis,MN",44.941039,-93.299982,10,ECCO,Calhoun Isle,2,5,12/12/2016,12:02,Dana
+"2218 Bryant Ave n,Minneapolis,MN",45.002123,-93.290807,5,Hawthorne,Near North,2,1,12/12/2016,15:04,Dana
+"948 11th Ave n,Minneapolis,MN",44.989086,-93.287418,5,North Loop,Central,2,1,12/12/2016,17:00,Dana
+"3000 lyndale,Minneapolis,MN",45.010903000000006,-93.28765,5,Hawthorne,Near North,2,1,12/12/2016,00:52,Dana
+"304 5th st ne,Minneapolis,MN",44.992069,-93.25600899999999,3,St. Anthony West,Northeast,2,2,12/12/2016,11:04,Dana
+"2510 4th st n,Minneapolis,MN",45.00525,-93.284642,5,Hawthorne,Near North,2,1,12/12/2016,12:03,Dana
+"2200 harriet ave s,Minneapolis,MN",44.96071,-93.28576899999999,10,Whittier,Powderhorn,2,3,12/12/2016,17:02,Dana
+"5139 Bryant AV no,Minneapolis,MN",45.049025,-93.29182800000001,4,Lind - Bohanon,Camden,2,1,12/12/2016,00:55,Dana
+"410 5th Avenue Southeast ,Minneapolis,MN",44.985784,-93.247726,3,Marcy Holmes,University,2,4,12/12/2016,11:04,Dana
+"1826 Stevens av s,Minneapolis,MN",44.964304,-93.275639,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,12:04,Dana
+"Lyndale Ave s and 31st st e,Minneapolis,MN",44.946599,-93.288117,10,Lyndale,Powderhorn,2,5,12/12/2016,00:55,Dana
+"3036 HARRIET AVE S ,Minneapolis,MN",44.947058,-93.285875,8,Lyndale,Powderhorn,2,5,12/12/2016,17:03,Dana
+"3814 15th ave so,Minneapolis,MN",44.933603000000005,-93.253677,8,Bancroft,Powderhorn,2,6,12/12/2016,11:04,Dana
+"1528 33RD ST E,Minneapolis,MN",44.942933000000004,-93.252415,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,12:04,Dana
+"2444 grand ave s,Minneapolis,MN",44.957552,-93.28423599999999,10,Whittier,Powderhorn,2,3,12/12/2016,17:04,Dana
+"3133 Central Ave NE,Minneapolis,MN",45.025038,-93.246978,1,Audubon Park,Northeast,2,2,12/12/2016,00:55,Dana
+"630 8th ave se,Minneapolis,MN",44.986594000000004,-93.241883,3,Marcy Holmes,University,2,4,12/12/2016,15:04,Dana
+"2804 DuPont av s,Minneapolis,MN",44.951223,-93.293203,10,Lowry Hill East,Calhoun Isle,1,3,12/11/2016,23:16,Dana
+"2012 Emerson s,Minneapolis,MN",44.962266,-93.294721,7,Lowry Hill,Calhoun Isle,2,3,12/12/2016,11:05,Dana
+"3402 holmes ave s,Minneapolis,MN",44.941098,-93.299658,10,ECCO,Calhoun Isle,2,5,12/12/2016,12:05,Dana
+"326 12th ave se,Minneapolis,MN",44.980878999999995,-93.23911,3,Marcy Holmes,University,2,4,12/12/2016,17:06,Dana
+"718 Central Ave NE,Minneapolis,MN",44.991114,-93.250781,3,Marcy Holmes,University,2,2,12/12/2016,00:56,Dana
+"238 humbolt ave n,Minneapolis,MN",44.97933,-93.29790600000001,5,Harrison,Near North,2,3,12/12/2016,15:05,Dana
+"3108 humbolt Ave s,Minneapolis,MN",44.946171,-93.301128,10,ECCO,Calhoun Isle,2,5,12/12/2016,11:05,Dana
+"1820 Stevens Ave s,Minneapolis,MN",44.964494,-93.275679,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,12:05,Dana
+"1600 2nd st n,Minneapolis,MN",44.995631,-93.279444,5,Near - North,Near North,1,1,12/11/2016,23:16,Dana
+"1102 5th st se,Minneapolis,MN",44.982996,-93.238823,3,Marcy Holmes,University,2,4,12/12/2016,17:06,Dana
+"412 8TH AV SE,Minneapolis,MN",44.984075,-93.243415,3,Marcy Holmes,University,2,4,12/12/2016,15:05,Dana
+"720 Adams st ne,Minneapolis,MN",44.997574,-93.256625,3,St. Anthony East,Northeast,2,2,12/12/2016,11:05,Dana
+"3026 4th st n,Minneapolis,MN",45.01157,-93.284882,5,Hawthorne,Near North,2,1,12/12/2016,12:05,Dana
+"2500 n 2nd st,Minneapolis,MN",45.00496,-93.27964300000001,5,Hawthorne,Near North,1,1,12/11/2016,23:17,Dana
+"400 CLIFTON AVE,Minneapolis,MN",44.966787,-93.285093,7,Loring Park,Central,2,3,12/12/2016,15:06,Dana
+"232 e 18th st,Minneapolis,MN",44.965235,-93.273611,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,11:08,Dana
+"1110 Irving Ave. N.,Minneapolis,MN",44.989379,-93.29969399999999,5,Near - North,Near North,2,1,12/12/2016,12:06,Dana
+"2800-2899 DUPONT AVE S,Minneapolis,MN",44.951233,-93.293203,10,Lowry Hill East,Calhoun Isle,1,3,12/11/2016,23:17,Dana
+"1104 Irving Ave n,Minneapolis,MN",44.989272,-93.300066,5,Near - North,Near North,2,1,12/12/2016,11:09,Dana
+"330 newton av n,Minneapolis,MN",44.980859,-93.30581,5,Harrison,Near North,2,3,12/12/2016,15:06,Dana
+"3228 21st Ave. S.,Minneapolis,MN",44.943614000000004,-93.24268599999999,9,Corcoran,Powderhorn,2,6,12/12/2016,12:07,Dana
+"1006 Irving Ave n,Minneapolis,MN",44.98768,-93.29925300000001,5,Near - North,Near North,2,1,12/12/2016,11:09,Dana
+"700 2nd st n,Minneapolis,MN",44.995243,-93.26379200000001,3,St. Anthony West,Northeast,1,2,12/11/2016,23:19,Dana
+"1202 James Ave n ,Minneapolis,MN",44.990226,-93.300413,5,Near - North,Near North,2,1,12/12/2016,12:07,Dana
+"2418 Bryant Ave n,Minneapolis,MN",45.004417,-93.290763,5,Hawthorne,Near North,2,1,12/12/2016,15:06,Dana
+"3110 3rd st n,Minneapolis,MN",45.012094,-93.283396,5,Hawthorne,Near North,2,1,12/12/2016,11:09,Dana
+"101 15th st w,Minneapolis,MN",44.967707,-93.280109,7,Loring Park,Central,1,3,12/11/2016,23:20,Dana
+"1700 s stevens ave,Minneapolis,MN",44.966144,-93.275635,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,12:07,Dana
+"3900 11th ave,Minneapolis,MN",44.932204,-93.259059,8,Bancroft,Powderhorn,2,6,12/12/2016,11:10,Dana
+"1120 James Ave n,Minneapolis,MN",44.989624,-93.30068,5,Near - North,Near North,2,1,12/12/2016,12:07,Dana
+"4248 11th ave,Minneapolis,MN",44.925401,-93.259026,8,Northrop,Nokomis,2,6,12/12/2016,11:12,Dana
+"126 18TH ST E,Minneapolis,MN",44.96523,-93.27493,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,12:07,Dana
+"624 5th ave se,Minneapolis,MN",44.987679,-93.24651800000001,3,Marcy Holmes,University,2,4,12/12/2016,11:12,Dana
+"2018 Fremont ave s,Minneapolis,MN",44.962019,-93.29599499999999,7,Lowry Hill,Calhoun Isle,2,3,12/12/2016,12:08,Dana
+"3126 3rd st n,Minneapolis,MN",45.012277000000005,-93.283394,5,Hawthorne,Near North,2,1,12/12/2016,11:12,Dana
+"330 4th st ne,Minneapolis,MN",44.992358,-93.258038,3,St. Anthony West,Northeast,2,2,12/12/2016,12:08,Dana
+"334 9th st se,Minneapolis,MN",44.990594,-93.246087,3,Marcy Holmes,University,2,4,12/12/2016,11:13,Dana
+"3310 3rd ave s,Minneapolis,MN",44.94271,-93.272818,9,Central,Powderhorn,1,5,12/11/2016,23:20,Dana
+"2432 Pillsbury ave s,Minneapolis,MN",44.957917,-93.281305,10,Whittier,Powderhorn,2,3,12/12/2016,15:06,Dana
+"720 van white Blvd n,Minneapolis,MN",44.985948,-93.291966,5,Sumner - Glenwood,Near North,2,1,12/12/2016,01:42,Dana
+"2100 2 st no,Minneapolis,MN",45.000848,-93.27975699999999,5,Hawthorne,Near North,1,1,12/11/2016,23:22,Dana
+"608 7th ave se,Minneapolis,MN",44.986585,-93.24345799999999,3,Marcy Holmes,University,2,4,12/12/2016,12:10,Dana
+"200 19TH ST E,Minneapolis,MN",44.963968,-93.273395,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,11:15,Dana
+"2416 Pillsbury ave s,Minneapolis,MN",44.958416,-93.281304,10,Whittier,Powderhorn,2,3,12/12/2016,15:08,Dana
+"306 4th st ne,Minneapolis,MN",44.99175,-93.25749300000001,3,St. Anthony West,Northeast,2,2,12/12/2016,12:12,Dana
+"200 block 5th Ave se,Minneapolis,MN",44.98369,-93.249661,3,Marcy Holmes,University,2,4,12/12/2016,01:42,Dana
+"3730 elliot,Minneapolis,MN",44.935016999999995,-93.261268,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,11:15,Dana
+"2500 N 2ND ST,Minneapolis,MN",45.00496,-93.27964300000001,5,Hawthorne,Near North,1,1,12/11/2016,23:10,Dana
+"516 6th ave se,Minneapolis,MN",44.986445,-93.245292,3,Marcy Holmes,University,2,4,12/12/2016,12:12,Dana
+"2130 Jackson St ne,Minneapolis,MN",45.009671999999995,-93.249172,1,Holland,Northeast,2,2,12/12/2016,15:09,Dana
+"319 9th st se,Minneapolis,MN",44.990996,-93.24648,3,Marcy Holmes,University,2,4,12/12/2016,11:15,Dana
+"4000 lyndale ave,Minneapolis,MN",44.930205,-93.288696,10,East Harriet,Southwest,2,5,12/12/2016,01:42,Dana
+"3744 17th ave s,Minneapolis,MN",44.934604,-93.250262,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,12:13,Dana
+"4711 Bryant Ave n ,Minneapolis,MN",45.040676,-93.29180600000001,4,Lind - Bohanon,Camden,1,1,12/11/2016,23:23,Dana
+"1110 5th st ne,Minneapolis,MN",44.999291,-93.260266,3,Sheridan,Northeast,2,2,12/12/2016,11:15,Dana
+"1700-1899 lasalle,Minneapolis,MN",44.966364,-93.279353,7,Loring Park,Central,2,3,12/12/2016,01:46,Dana
+"414 8th Avenue Southeast ,Minneapolis,MN",44.98427,-93.243726,3,Marcy Holmes,University,2,4,12/12/2016,15:10,Dana
+"104 9th ave ne,Minneapolis,MN",44.997254,-93.26408599999999,3,St. Anthony West,Northeast,2,2,12/12/2016,12:13,Dana
+"4120 Chicago ave,Minneapolis,MN",44.928012,-93.262879,8,Bryant,Powderhorn,1,5,12/11/2016,23:24,Dana
+"2204 4th st n,Minneapolis,MN",45.001714,-93.284915,5,Hawthorne,Near North,2,1,12/12/2016,11:16,Dana
+"720 van white Blvd n,Minneapolis,MN",44.985948,-93.291966,5,Sumner - Glenwood,Near North,2,1,12/12/2016,01:47,Dana
+"310 12th Ave se,Minneapolis,MN",44.980723,-93.239232,3,Marcy Holmes,University,2,4,12/12/2016,17:06,Dana
+"504 6th Ave se ,Minneapolis,MN",44.986075,-93.245953,3,Marcy Holmes,University,2,4,12/12/2016,12:14,Dana
+"324 CLIFTON AVE,Minneapolis,MN",44.965906,-93.28323,7,Loring Park,Central,2,3,12/12/2016,15:10,Dana
+"508 5th st ne,Minneapolis,MN",44.994794,-93.257903,3,St. Anthony West,Northeast,2,2,12/12/2016,11:17,Dana
+"3108 3rd Ave s,Minneapolis,MN",44.946292,-93.273214,9,Central,Powderhorn,1,5,12/11/2016,23:26,Dana
+"2226 4th ave n,Minneapolis,MN",44.981598999999996,-93.30947900000001,5,Harrison,Near North,2,3,12/12/2016,17:14,Dana
+"1000-1098 van white memorial blvd,Minneapolis,MN",44.9826,-93.29487900000001,5,Sumner - Glenwood,Near North,2,3,12/12/2016,01:48,Dana
+"108 9th st ne,Minneapolis,MN",44.974216,-93.272067,7,Downtown West,Central,2,3,12/12/2016,12:15,Dana
+"3524 COLFAX AVE S ,Minneapolis,MN",44.938689000000004,-93.292375,10,South Uptown,Calhoun Isle,2,5,12/12/2016,15:12,Dana
+"718 6th ave se,Minneapolis,MN",44.988341999999996,-93.244151,3,Marcy Holmes,University,2,4,12/12/2016,11:18,Dana
+"2400 2nd st no,Minneapolis,MN",45.004081,-93.27937,5,Hawthorne,Near North,1,1,12/11/2016,23:27,Dana
+"2220 4th Ave n,Minneapolis,MN",44.981768,-93.30934599999999,5,Harrison,Near North,2,3,12/12/2016,17:15,Dana
+"1000 - 1098 Van White Mermorial Blvd,Minneapolis,MN",44.9826,-93.29487900000001,5,Sumner - Glenwood,Near North,2,3,12/12/2016,01:52,Dana
+"626 39th st e,Minneapolis,MN",44.932376,-93.266266,8,Bryant,Powderhorn,2,5,12/12/2016,12:15,Dana
+"314 8th ave se,Minneapolis,MN",44.983245000000004,-93.244519,3,Marcy Holmes,University,2,4,12/12/2016,15:12,Dana
+"2200 6th st n,Minneapolis,MN",45.001637,-93.28613,5,Hawthorne,Near North,2,1,12/12/2016,11:19,Dana
+"105 15th st w,Minneapolis,MN",44.967707,-93.280141,7,Loring Park,Central,1,3,12/11/2016,23:27,Dana
+"332 12th Avenue Southeast,Minneapolis,MN",44.980937,-93.239064,3,Marcy Holmes,University,2,4,12/12/2016,17:18,Dana
+"1700 lasalle av s,Minneapolis,MN",44.966364,-93.279353,7,Loring Park,Central,2,3,12/12/2016,01:53,Dana
+"430 4th ave ne,Minneapolis,MN",44.977166,-93.264641,7,Downtown West,Central,2,3,12/12/2016,12:16,Dana
+"1810 Jackson St ne,Minneapolis,MN",45.006309,-93.24963699999999,1,Logan Park,Northeast,2,2,12/12/2016,15:13,Dana
+"614 5th ave se,Minneapolis,MN",44.987582,-93.246597,3,Marcy Holmes,University,2,4,12/12/2016,11:19,Dana
+"3308 Chicago ave,Minneapolis,MN",44.942799,-93.262938,9,Central,Powderhorn,1,5,12/11/2016,23:28,Dana
+"522 2nd Avenue Southeast,Minneapolis,MN",44.988904,-93.25131800000001,3,Marcy Holmes,University,3,4,12/13/2016,08:14,Dana
+"1000 van white memorial blvd ,Minneapolis,MN",44.98806,-93.292245,5,Sumner - Glenwood,Near North,2,1,12/12/2016,01:53,Dana
+"102 9th ave ne,Minneapolis,MN",44.996173,-93.26724899999999,3,St. Anthony West,Northeast,2,2,12/12/2016,12:17,Dana
+"502 8th ave se,Minneapolis,MN",44.985115,-93.243052,3,Marcy Holmes,University,2,4,12/12/2016,15:13,Dana
+"228 19th st e,Minneapolis,MN",44.963968,-93.273063,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,11:20,Dana
+"2800 dupont Ave s,Minneapolis,MN",44.951233,-93.293203,10,Lowry Hill East,Calhoun Isle,1,3,12/11/2016,23:29,Dana
+"521 2nd ave se,Minneapolis,MN",44.988826,-93.25142199999999,3,Marcy Holmes,University,3,4,12/13/2016,08:16,Dana
+"200 block 3rd Ave se ,Minneapolis,MN",44.984704,-93.252815,3,Marcy Holmes,University,2,4,12/12/2016,01:54,Dana
+"201 18th st e,Minneapolis,MN",44.965211,-93.274015,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,12:18,Dana
+"710 20th ave ne,Minneapolis,MN",45.00873,-93.251808,1,Holland,Northeast,2,2,12/12/2016,15:14,Dana
+"210 5th st ne,Minneapolis,MN",44.991295,-93.25571,3,St. Anthony West,Northeast,2,2,12/12/2016,11:20,Dana
+"545 2nd st n,Minneapolis,MN",44.987427000000004,-93.27428,3,North Loop,Central,1,1,12/11/2016,23:29,Dana
+"1719 Lyn Park Ave N,Minneapolis,MN",44.997068,-93.286147,5,Near - North,Near North,3,1,12/13/2016,08:18,Dana
+"1900 Lasalle Ave,Minneapolis,MN",44.963918,-93.279777,7,Steven's Square - Loring Heights,Central,2,3,12/12/2016,01:56,Dana
+"118 9th ave ne,Minneapolis,MN",44.996292,-93.266903,3,St. Anthony West,Northeast,2,2,12/12/2016,12:18,Dana
+"618 18th St e,Minneapolis,MN",44.965205,-93.267184,6,Ventura Village,Phillips,2,3,12/12/2016,15:19,Dana
+"3146 Holmes Ave s,Minneapolis,MN",44.944953000000005,-93.299625,10,ECCO,Calhoun Isle,2,5,12/12/2016,11:20,Dana
+"1800 Emerson Ave n ,Minneapolis,MN",44.997955,-93.293696,5,Near - North,Near North,2,1,12/12/2016,01:56,Dana
+"523 2nd ave se,Minneapolis,MN",44.988867,-93.25139,3,Marcy Holmes,University,3,4,12/13/2016,08:22,Dana
+"3752 3RD AVE S ,Minneapolis,MN",44.934355,-93.273043,8,Central,Powderhorn,1,5,12/11/2016,23:35,Dana
+"402 7th Avenue Southeast ,Minneapolis,MN",44.984421000000005,-93.245421,3,Marcy Holmes,University,2,4,12/12/2016,12:19,Dana
+"1018 Irving Ave. N. ,Minneapolis,MN",44.987941,-93.299563,5,Near - North,Near North,2,1,12/12/2016,11:21,Dana
+"1715 Lyn park ave n,Minneapolis,MN",44.997053,-93.286146,5,Near - North,Near North,3,1,12/13/2016,08:27,Dana
+"2116 stevens ave s,Minneapolis,MN",44.961506,-93.275305,10,Whittier,Powderhorn,2,3,12/12/2016,12:20,Dana
+"1918 2nd Ave s,Minneapolis,MN",44.963254,-93.274374,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,11:21,Dana
+"122 9th ave ne,Minneapolis,MN",44.996321,-93.266816,3,St. Anthony West,Northeast,2,2,12/12/2016,12:21,Dana
+"5 15th St w,Minneapolis,MN",44.967586,-93.278324,7,Loring Park,Central,1,3,12/11/2016,23:36,Dana
+"1900 lasalle ave,Minneapolis,MN",44.963918,-93.279777,7,Steven's Square - Loring Heights,Central,2,3,12/12/2016,01:57,Dana
+"2514 Jackson st ne,Minneapolis,MN",45.0137,-93.249416,1,Holland,Northeast,2,2,12/12/2016,15:20,Dana
+"1081 12th Ave SE ,Minneapolis,MN",44.99035,-93.23495,2,Como,University,3,4,12/13/2016,08:28,Dana
+"310 19th st e,Minneapolis,MN",44.963969,-93.272067,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,11:21,Dana
+"118 10th ave ne,Minneapolis,MN",44.99731,-93.266901,3,St. Anthony West,Northeast,2,2,12/12/2016,12:22,Dana
+"2400 2ND ST N ,Minneapolis,MN",45.004081,-93.27937,5,Hawthorne,Near North,1,1,12/11/2016,23:37,Dana
+"4343 Thomas AV no,Minneapolis,MN",45.03463,-93.313975,4,Victory,Camden,2,1,12/12/2016,00:58,Dana
+"5300 lyndale ave,Minneapolis,MN",44.906678,-93.288713,13,Lynnhurst,Southwest,2,5,12/12/2016,01:57,Dana
+"1312 Russell Ave N,Minneapolis,MN",44.992059000000005,-93.3105,5,Willard - Hay,Near North,2,1,12/12/2016,15:20,Dana
+"505 Lyn park lane n,Minneapolis,MN",44.99576,-93.286912,5,Near - North,Near North,3,1,12/13/2016,08:30,Dana
+"230 5th st ne,Minneapolis,MN",44.991624,-93.255825,3,St. Anthony West,Northeast,2,2,12/12/2016,11:22,Dana
+"1236 Logan Ave n,Minneapolis,MN",44.990891999999995,-93.303189,5,Near - North,Near North,2,1,12/12/2016,12:24,Dana
+"3000 Lyndale Avenue South,Minneapolis,MN",44.948341,-93.288126,10,South Uptown,Calhoun Isle,2,5,12/12/2016,00:58,Dana
+"3139 3RD AVE S ,Minneapolis,MN",44.945387,-93.272534,9,Central,Powderhorn,1,5,12/11/2016,23:38,Dana
+"3600 Nicollet ave,Minneapolis,MN",44.937397999999995,-93.278312,8,King Field,Southwest,2,5,12/12/2016,01:59,Dana
+"1508 queen Ave n ,Minneapolis,MN",44.994403999999996,-93.30913000000001,5,Willard - Hay,Near North,2,1,12/12/2016,15:20,Dana
+"2208 Pillsbury ave s,Minneapolis,MN",44.960415000000005,-93.28129100000001,10,Whittier,Powderhorn,2,3,12/12/2016,12:40,Dana
+"328 19th st e,Minneapolis,MN",44.96397,-93.271176,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,11:23,Dana
+"699 46th ave n ,Minneapolis,MN",45.038507,-93.288842,4,Lind - Bohanon,Camden,2,1,12/12/2016,00:59,Dana
+"3408 10th ave S,Minneapolis,MN",44.940983,-93.260054,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,12:25,Dana
+"204 15th St w,Minneapolis,MN",44.967739,-93.281142,7,Loring Park,Central,1,3,12/11/2016,23:38,Dana
+"4045 Chicago ave,Minneapolis,MN",44.929196999999995,-93.262103,8,Bancroft,Powderhorn,2,6,12/12/2016,02:00,Dana
+"1908 Jackson st ne ,Minneapolis,MN",45.008307,-93.249441,1,Holland,Northeast,2,2,12/12/2016,15:21,Dana
+"2954 Aldrich Ave. n. ,Minneapolis,MN",45.010993,-93.289249,5,Hawthorne,Near North,2,1,12/12/2016,12:41,Dana
+"212 5th st ne,Minneapolis,MN",44.991295,-93.25571,3,St. Anthony West,Northeast,2,2,12/12/2016,11:23,Dana
+"715 2nd Ave se,Minneapolis,MN",44.990741,-93.250194,3,Marcy Holmes,University,3,2,12/13/2016,08:30,Dana
+"716 6th Avenue Southeast,Minneapolis,MN",44.98829,-93.24419300000001,3,Marcy Holmes,University,2,4,12/12/2016,12:26,Dana
+"511 15TH st e,Minneapolis,MN",44.968046,-93.26826899999999,6,Elliot Park,Central,1,3,12/11/2016,23:39,Dana
+"5300 lyndale,Minneapolis,MN",44.906678,-93.288713,13,Lynnhurst,Southwest,2,5,12/12/2016,02:01,Dana
+"3148 15th Ave S,Minneapolis,MN",44.945111,-93.253982,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,12:42,Dana
+"1708 34th St E.,Minneapolis,MN",44.941537,-93.24937,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,11:24,Dana
+"1093 12th Ave SE ,Minneapolis,MN",44.990696,-93.234883,2,Como,University,3,4,12/13/2016,08:32,Dana
+"112 9th ave ne,Minneapolis,MN",44.996247,-93.267033,3,St. Anthony West,Northeast,2,2,12/12/2016,12:26,Dana
+"328 newton av n,Minneapolis,MN",44.980837,-93.30581,5,Harrison,Near North,2,3,12/12/2016,15:21,Dana
+"2100 2ND ST N ,Minneapolis,MN",45.000848,-93.27975699999999,5,Hawthorne,Near North,1,1,12/11/2016,23:40,Dana
+"3720 Bloomington Avenue South,Minneapolis,MN",44.935117,-93.252725,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,02:01,Dana
+"124 18th st e,Minneapolis,MN",44.965441,-93.274939,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,11:26,Dana
+"3332 Gerard Ave s,Minneapolis,MN",44.941928000000004,-93.29737800000001,10,South Uptown,Calhoun Isle,2,5,12/12/2016,12:43,Dana
+"3835 14th ave s,Minneapolis,MN",44.933058,-93.25490400000001,8,Bancroft,Powderhorn,3,6,12/13/2016,08:33,Dana
+"906 33rd st E,Minneapolis,MN",44.943188,-93.260998,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,12:26,Dana
+"310 newton ave n,Minneapolis,MN",44.980269,-93.306283,5,Harrison,Near North,2,3,12/12/2016,15:21,Dana
+"3310 3rd Avenue South,Minneapolis,MN",44.94271,-93.272818,9,Central,Powderhorn,1,5,12/11/2016,23:40,Dana
+"1700-1899 lasalle Ave ,Minneapolis,MN",44.966364,-93.279353,7,Loring Park,Central,2,3,12/12/2016,02:02,Dana
+"340 19th St e,Minneapolis,MN",44.963971,-93.2707,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,11:26,Dana
+"709 2nd Ave SE,Minneapolis,MN",44.990571,-93.250332,3,Marcy Holmes,University,3,2,12/13/2016,08:33,Dana
+"622 6th st se,Minneapolis,MN",44.986312,-93.244426,3,Marcy Holmes,University,2,4,12/12/2016,15:22,Dana
+"318 4th st ne,Minneapolis,MN",44.991918,-93.257851,3,St. Anthony West,Northeast,2,2,12/12/2016,12:27,Dana
+"1316 Knox Ave n,Minneapolis,MN",44.992174,-93.301691,5,Near - North,Near North,2,1,12/12/2016,12:43,Dana
+"4620 Chicago,Minneapolis,MN",44.918989,-93.26289399999999,8,Field,Nokomis,1,5,12/11/2016,23:45,Dana
+"3600 Nicollet ave,Minneapolis,MN",44.937397999999995,-93.278312,8,King Field,Southwest,2,5,12/12/2016,02:03,Dana
+"224 5th st ne,Minneapolis,MN",44.991295,-93.25571,3,St. Anthony West,Northeast,2,2,12/12/2016,11:27,Dana
+"1717 Lyn park Ave n,Minneapolis,MN",44.997060999999995,-93.286146,5,Near - North,Near North,3,1,12/13/2016,08:33,Dana
+"624 18th St e,Minneapolis,MN",44.965218,-93.26703,6,Ventura Village,Phillips,2,3,12/12/2016,15:22,Dana
+"804. 41st st e,Minneapolis,MN",44.928758,-93.262433,8,Bancroft,Powderhorn,2,6,12/12/2016,12:27,Dana
+"3400 Chicago ave s,Minneapolis,MN",44.941212,-93.262943,9,Central,Powderhorn,1,5,12/11/2016,23:46,Dana
+"3940 10th ave s,Minneapolis,MN",44.931063,-93.260286,8,Bancroft,Powderhorn,2,6,12/12/2016,11:27,Dana
+"4329 Bloomington ave s,Minneapolis,MN",44.924031,-93.25199599999999,11,Northrop,Nokomis,2,6,12/12/2016,02:04,Dana
+"814 26th ave ne,Minneapolis,MN",45.014752,-93.250123,1,Holland,Northeast,2,2,12/12/2016,15:23,Dana
+"829 Lyndale pl,Minneapolis,MN",44.987177,-93.289627,5,Sumner - Glenwood,Near North,3,1,12/13/2016,08:36,Dana
+"1906 CLINTON AV S,Minneapolis,MN",44.963583,-93.27174699999999,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,12:28,Dana
+"4135 Thomas Ave N,Minneapolis,MN",45.03052,-93.313941,4,Victory,Camden,1,1,12/11/2016,23:46,Dana
+"508 6th Ave se,Minneapolis,MN",44.986243,-93.245822,3,Marcy Holmes,University,2,4,12/12/2016,11:29,Dana
+"2300 Emerson Ave N,Minneapolis,MN",45.002618,-93.294087,5,Jordan,Near North,2,1,12/12/2016,02:05,Dana
+"822 Upton Ave N,Minneapolis,MN",44.986831,-93.314275,5,Willard - Hay,Near North,2,1,12/12/2016,15:27,Dana
+"827 Lyndale Pl,Minneapolis,MN",44.987177,-93.289627,5,Sumner - Glenwood,Near North,3,1,12/13/2016,08:37,Dana
+"120 6th Avenue Southeast,Minneapolis,MN",44.982274,-93.24894300000001,3,Marcy Holmes,University,2,4,12/12/2016,12:28,Dana
+"1200 Plymouth Ave. N. ,Minneapolis,MN",44.992306,-93.29629,5,Near - North,Near North,1,1,12/11/2016,23:47,Dana
+"1604 James ave n,Minneapolis,MN",44.99548,-93.300351,5,Near - North,Near North,2,1,12/12/2016,12:44,Dana
+"3200 NICOLLET AVE,Minneapolis,MN",44.944375,-93.278418,8,Lyndale,Powderhorn,2,5,12/12/2016,02:05,Dana
+"4004 Aldrich ave s,Minneapolis,MN",44.930166,-93.289856,10,East Harriet,Southwest,2,5,12/12/2016,15:29,Dana
+"731 lyndale pl,Minneapolis,MN",44.985917,-93.28922,5,Sumner - Glenwood,Near North,3,1,12/13/2016,08:38,Dana
+"410 7th Ave se,Minneapolis,MN",44.984669,-93.245223,3,Marcy Holmes,University,2,4,12/12/2016,12:29,Dana
+"2220 franklin Ave e,Minneapolis,MN",44.963271999999996,-93.239825,6,Seward,Longfellow,2,4,12/12/2016,02:06,Dana
+"3238 Elliot ave s,Minneapolis,MN",44.943627,-93.261682,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,15:34,Dana
+"2304 Grand st ne,Minneapolis,MN",45.011381,-93.270142,3,Bottineau,Northeast,2,2,12/12/2016,12:45,Dana
+"2717 4th st e,Minneapolis,MN",44.973185,-93.217464,2,Prospect Park - East River Road,University,3,4,12/13/2016,08:38,Dana
+"2602 4th st n,Minneapolis,MN",45.00608,-93.284672,5,Hawthorne,Near North,2,1,12/12/2016,12:30,Dana
+"3434 Bloomington ave s,Minneapolis,MN",44.940125,-93.25273,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,02:08,Dana
+"3226 girard ave s,Minneapolis,MN",44.943891,-93.297414,10,South Uptown,Calhoun Isle,2,5,12/12/2016,12:46,Dana
+"3210 elliot,Minneapolis,MN",44.944331,-93.261365,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,15:34,Dana
+"2024 Emerson s,Minneapolis,MN",44.961954,-93.294723,7,Lowry Hill,Calhoun Isle,2,3,12/12/2016,12:30,Dana
+"3720 Bloomington ave,Minneapolis,MN",44.935117,-93.252725,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,02:10,Dana
+"3112 Aldrich Ave s,Minneapolis,MN",44.946358000000004,-93.289419,10,South Uptown,Calhoun Isle,2,5,12/12/2016,15:35,Dana
+"1822 39th st e,Minneapolis,MN",44.932319,-93.247393,8,Bancroft,Powderhorn,2,6,12/12/2016,12:46,Dana
+"1902 Clinton Ave s,Minneapolis,MN",44.963735,-93.27151500000001,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,12:30,Dana
+"2200 Emerson ave n ,Minneapolis,MN",45.001664,-93.293869,5,Hawthorne,Near North,2,1,12/12/2016,02:12,Dana
+"3604 Aldrich Ave s,Minneapolis,MN",44.937438,-93.289762,10,East Harriet,Southwest,2,5,12/12/2016,15:35,Dana
+"3604 10th ave s,Minneapolis,MN",44.937498,-93.260277,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,12:31,Dana
+"3300 NICOLLET AVE,Minneapolis,MN",44.942943,-93.27794300000001,8,Lyndale,Powderhorn,2,5,12/12/2016,02:14,Dana
+"3342 GIRARD Ave s,Minneapolis,MN",44.94164,-93.297104,10,South Uptown,Calhoun Isle,2,5,12/12/2016,12:46,Dana
+"109 Logan ave N,Minneapolis,MN",44.977173,-93.30327199999999,5,Harrison,Near North,2,3,12/12/2016,15:35,Dana
+"1328 Morgan Ave n ,Minneapolis,MN",44.992483,-93.304142,5,Willard - Hay,Near North,2,1,12/12/2016,12:31,Dana
+"3400 Nicollet Ave,Minneapolis,MN",44.941133,-93.27814599999999,8,Lyndale,Powderhorn,2,5,12/12/2016,02:16,Dana
+"410 6th st se,Minneapolis,MN",44.98761,-93.24797,3,Marcy Holmes,University,2,4,12/12/2016,15:36,Dana
+"2404 Clinton av s,Minneapolis,MN",44.95893,-93.271693,10,Whittier,Powderhorn,2,3,12/12/2016,12:47,Dana
+"1004 summit ave s,Minneapolis,MN",44.965438,-93.292171,7,Lowry Hill,Calhoun Isle,2,3,12/12/2016,12:31,Dana
+"2400 Emerson ave n ,Minneapolis,MN",45.003868,-93.293859,5,Hawthorne,Near North,2,1,12/12/2016,02:16,Dana
+"3216 elliot,Minneapolis,MN",44.944168,-93.26169200000001,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,15:36,Dana
+"1314 Knox ave n,Minneapolis,MN",44.992118,-93.301934,5,Willard - Hay,Near North,2,1,12/12/2016,12:47,Dana
+"2600 Emerson Ave n ,Minneapolis,MN",45.005992,-93.294187,5,Hawthorne,Near North,2,1,12/12/2016,02:16,Dana
+"420 7th ave se,Minneapolis,MN",44.984832,-93.24509300000001,3,Marcy Holmes,University,2,4,12/12/2016,12:32,Dana
+"280 queen av n,Minneapolis,MN",44.979534,-93.30958199999999,5,Harrison,Near North,2,3,12/12/2016,15:36,Dana
+"3400 block of Nicollet Avenue South,Minneapolis,MN",44.941133,-93.27814599999999,8,Lyndale,Powderhorn,2,5,12/12/2016,02:19,Dana
+"3330 17th Ave S,Minneapolis,MN",44.941971,-93.249941,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,12:48,Dana
+"3108 Aldrich Ave s,Minneapolis,MN",44.946433,-93.289417,10,South Uptown,Calhoun Isle,2,5,12/12/2016,15:36,Dana
+"2100 Emerson s,Minneapolis,MN",44.961814000000004,-93.294723,7,Lowry Hill,Calhoun Isle,2,3,12/12/2016,12:32,Dana
+"2720 franklin ave e,Minneapolis,MN",44.962778,-93.232134,6,Seward,Longfellow,2,4,12/12/2016,02:20,Dana
+"3708 4th st n,Minneapolis,MN",45.0224,-93.28501700000001,4,McKinley,Camden,2,1,12/12/2016,12:34,Dana
+"4542 Aldrich Ave s,Minneapolis,MN",44.920019,-93.289615,13,East Harriet,Southwest,2,5,12/12/2016,15:37,Dana
+"3340 James Ave no,Minneapolis,MN",45.016238,-93.300627,4,Folwell,Camden,2,1,12/12/2016,12:48,Dana
+"2600 Emerson Ave n,Minneapolis,MN",45.005992,-93.294187,5,Hawthorne,Near North,2,1,12/12/2016,02:26,Dana
+"1422 Logan Ave. N.,Minneapolis,MN",44.993801,-93.30292800000001,5,Willard - Hay,Near North,2,1,12/12/2016,12:34,Dana
+"3400 nicollet ave,Minneapolis,MN",44.941133,-93.27814599999999,8,Lyndale,Powderhorn,2,5,12/12/2016,02:27,Dana
+"302 7th ave se,Minneapolis,MN",44.983395,-93.246243,3,Marcy Holmes,University,2,4,12/12/2016,12:49,Dana
+"3123 3rd Ave s,Minneapolis,MN",44.945815,-93.272806,9,Central,Powderhorn,2,5,12/12/2016,00:59,Dana
+"104 10th ave ne,Minneapolis,MN",44.997234000000006,-93.267772,3,St. Anthony West,Northeast,2,2,12/12/2016,12:34,Dana
+"2600 Emerson Ave N,Minneapolis,MN",45.005992,-93.294187,5,Hawthorne,Near North,2,1,12/12/2016,02:29,Dana
+"2306 s stevens ave,Minneapolis,MN",44.960082,-93.275307,10,Whittier,Powderhorn,2,3,12/12/2016,12:51,Dana
+"414 7th ave ae,Minneapolis,MN",44.984713,-93.244893,3,Marcy Holmes,University,2,4,12/12/2016,12:38,Dana
+"3117 blooomington ave s,Minneapolis,MN",44.945951,-93.252175,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,01:00,Dana
+"2200 Emerson Ave n,Minneapolis,MN",45.001664,-93.293869,5,Hawthorne,Near North,2,1,12/12/2016,02:30,Dana
+"2210 Pillsbury ave s,Minneapolis,MN",44.960368,-93.281796,10,Whittier,Powderhorn,2,3,12/12/2016,12:39,Dana
+"3000 lyndale av s,Minneapolis,MN",44.948341,-93.288126,10,South Uptown,Calhoun Isle,2,5,12/12/2016,01:01,Dana
+"3246 girard ave s,Minneapolis,MN",44.943208,-93.29742399999999,10,South Uptown,Calhoun Isle,2,5,12/12/2016,12:51,Dana
+"528 7th Ave se,Minneapolis,MN",44.9858,-93.244326,3,Marcy Holmes,University,2,4,12/12/2016,12:39,Dana
+"3500 NICOLLET AVE S,Minneapolis,MN",44.939365,-93.278296,8,Lyndale,Powderhorn,2,5,12/12/2016,02:31,Dana
+"3417 bloomington,Minneapolis,MN",44.940773,-93.252156,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,01:03,Dana
+"3918 17th ave s,Minneapolis,MN",44.931681,-93.249882,8,Bancroft,Powderhorn,2,6,12/12/2016,12:40,Dana
+"2721 franklin ave e ,Minneapolis,MN",44.962556,-93.23177700000001,6,Seward,Longfellow,2,4,12/12/2016,02:31,Dana
+"328 7th AVE SE ,Minneapolis,MN",44.983651,-93.246038,3,Marcy Holmes,University,2,4,12/12/2016,12:52,Dana
+"3000 block of Lyndale Avenue South,Minneapolis,MN",44.948341,-93.288126,10,South Uptown,Calhoun Isle,2,5,12/12/2016,01:04,Dana
+"2600-2699 Emerson Ave n,Minneapolis,MN",45.005992,-93.294187,5,Hawthorne,Near North,2,1,12/12/2016,02:32,Dana
+"614 Morgan Ave n ,Minneapolis,MN",44.984875,-93.30448299999999,5,Near - North,Near North,2,1,12/12/2016,12:53,Dana
+"3500 NICOLLET AVE S ,Minneapolis,MN",44.939365,-93.278296,8,Lyndale,Powderhorn,2,5,12/12/2016,02:35,Dana
+"3234 Bloomington ave s,Minneapolis,MN",44.943705,-93.252769,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,01:04,Dana
+"3400 Nicollet ave,Minneapolis,MN",44.941133,-93.27814599999999,8,Lyndale,Powderhorn,2,5,12/12/2016,02:36,Dana
+"3100 LYNDALE Ave s,Minneapolis,MN",44.946599,-93.288136,10,South Uptown,Calhoun Isle,2,5,12/12/2016,01:06,Dana
+"4158 smelling ave S,Minneapolis,MN",44.927233,-93.22065500000001,12,Hiawatha,Longfellow,2,6,12/12/2016,12:55,Dana
+"2600 - 2699 Emerson AV N,Minneapolis,MN",45.005992,-93.294187,5,Hawthorne,Near North,2,1,12/12/2016,02:36,Dana
+"1350 lasalle av s,Minneapolis,MN",44.969955,-93.279351,7,Loring Park,Central,2,3,12/12/2016,01:07,Dana
+"2800 Emerson Ave n ,Minneapolis,MN",45.008695,-93.294294,5,Hawthorne,Near North,2,1,12/12/2016,02:36,Dana
+"426 7th ave se,Minneapolis,MN",44.98487,-93.245063,3,Marcy Holmes,University,2,4,12/12/2016,12:56,Dana
+"2000-2099 9th st s,Minneapolis,MN",44.964003000000005,-93.24408199999999,6,Seward,Longfellow,2,4,12/12/2016,02:40,Dana
+"3454 Bloomington Avenue South,Minneapolis,MN",44.939710999999996,-93.252452,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,01:07,Dana
+"Grant st e/Portland av,Minneapolis,MN",44.969485999999996,-93.267517,7,Elliot Park,Central,2,3,12/12/2016,02:45,Dana
+"1218 Knox Ave. N. ,Minneapolis,MN",44.990297999999996,-93.301699,5,Near - North,Near North,2,1,12/12/2016,12:56,Dana
+"Grant St E / Portland Ave ,Minneapolis,MN",44.969485999999996,-93.267517,7,Elliot Park,Central,2,3,12/12/2016,02:46,Dana
+"1350-1399 LaSalle av,Minneapolis,MN",44.969955,-93.279351,7,Loring Park,Central,2,3,12/12/2016,01:11,Dana
+"700 2nd ave n ,Minneapolis,MN",44.978958,-93.288049,5,Harrison,Near North,2,3,12/12/2016,02:46,Dana
+"916 summit ave s,Minneapolis,MN",44.965429,-93.290739,7,Lowry Hill,Calhoun Isle,2,3,12/12/2016,12:58,Dana
+"3200-3299 Emerson Ave n,Minneapolis,MN",45.013146,-93.294313,5,Folwell,Camden,2,1,12/12/2016,02:49,Dana
+"3000 ,LYNDALE,MN",45.010903000000006,-93.28765,5,Hawthorne,Near North,2,1,12/12/2016,01:12,Dana
+"portland and grant,Minneapolis,MN",44.969626,-93.267308,7,Elliot Park,Central,2,3,12/12/2016,02:50,Dana
+"2010 Stevens Ave s,Minneapolis,MN",44.961979,-93.275306,10,Whittier,Powderhorn,2,3,12/12/2016,12:59,Dana
+"1350 lasalle ave ,Minneapolis,MN",44.969955,-93.279351,7,Loring Park,Central,2,3,12/12/2016,01:13,Dana
+"14th Street East and park ave,Minneapolis,MN",44.968921,-93.265086,7,Elliot Park,Central,2,3,12/12/2016,02:50,Dana
+"3200 LYNDALE Ave s,Minneapolis,MN",44.944502,-93.28873399999999,10,South Uptown,Calhoun Isle,2,5,12/12/2016,01:14,Dana
+"3434 Bloomington ave,Minneapolis,MN",44.940125,-93.25273,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,01:14,Dana
+"3100 lyndale ave s,Minneapolis,MN",44.946599,-93.288136,10,South Uptown,Calhoun Isle,2,5,12/12/2016,02:51,Dana
+"1350-1399 LaSalle av,Minneapolis,MN",44.969955,-93.279351,7,Loring Park,Central,2,3,12/12/2016,01:15,Dana
+"3400 NICOLLET AVE,Minneapolis,MN",44.941133,-93.27814599999999,8,Lyndale,Powderhorn,2,5,12/12/2016,02:55,Dana
+"3300 Fremont Ave N,Minneapolis,MN",45.015223,-93.295168,4,Folwell,Camden,2,1,12/12/2016,02:57,Dana
+"3537 Bloomington Ave.,Minneapolis,MN",44.93844,-93.252165,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,01:15,Dana
+"200 block 3rd Ave se,Minneapolis,MN",44.984704,-93.252815,3,Marcy Holmes,University,2,4,12/12/2016,01:16,Dana
+"729 2nd ave n ,Minneapolis,MN",44.978922999999995,-93.28918,5,Harrison,Near North,2,3,12/12/2016,02:57,Dana
+"3000 LYNDALE,Minneapolis,MN",45.010903000000006,-93.28765,5,Hawthorne,Near North,2,1,12/12/2016,01:19,Dana
+"2100 9th st s ,Minneapolis,MN",44.964031,-93.242491,6,Seward,Longfellow,2,4,12/12/2016,02:58,Dana
+"1404 Logan Ave n,Minneapolis,MN",44.993336,-93.30289599999999,5,Willard - Hay,Near North,2,1,12/12/2016,13:00,Dana
+"741 Aldrich ave n,Minneapolis,MN",44.985843,-93.291135,5,Sumner - Glenwood,Near North,3,1,12/13/2016,08:39,Dana
+"1350-1399 lasalle ave,Minneapolis,MN",44.969955,-93.279351,7,Loring Park,Central,2,3,12/12/2016,01:21,Dana
+"5400 NICOLLET AVE,Minneapolis,MN",44.904959999999996,-93.27833299999999,11,Tangletown,Southwest,2,5,12/12/2016,02:59,Dana
+"4154 Snelling Ave. S.,Minneapolis,MN",44.927262,-93.220676,12,Hiawatha,Longfellow,2,6,12/12/2016,13:00,Dana
+"2711 40th st e,Minneapolis,MN",44.930492,-93.23324699999999,12,Standish,Powderhorn,3,6,12/13/2016,08:39,Dana
+"3100 lyndale ave s,Minneapolis,MN",44.946599,-93.288136,10,South Uptown,Calhoun Isle,2,5,12/12/2016,01:21,Dana
+"700 2nd av n,Minneapolis,MN",44.978958,-93.288049,5,Harrison,Near North,2,3,12/12/2016,02:59,Dana
+"334 26th ave ne,Minneapolis,MN",45.014990999999995,-93.26305,1,Holland,Northeast,2,2,12/12/2016,13:01,Dana
+"131 6th ave ne ,Minneapolis,MN",44.993629999999996,-93.262998,3,St. Anthony West,Northeast,3,2,12/13/2016,08:40,Dana
+"1170 Emerson Ave N,Minneapolis,MN",44.992106,-93.2941,5,Near - North,Near North,2,1,12/12/2016,01:22,Dana
+"3500 Fremont Ave n ,Minneapolis,MN",45.018578000000005,-93.295575,4,Folwell,Camden,2,1,12/12/2016,03:01,Dana
+"1320 Grand St ne,Minneapolis,MN",45.001134,-93.269334,3,Sheridan,Northeast,2,2,12/12/2016,13:03,Dana
+"3300 Emerson ave n ,Minneapolis,MN",45.015104,-93.293964,4,Folwell,Camden,2,1,12/12/2016,03:01,Dana
+"1350 LaSalle,Minneapolis,MN",44.969955,-93.279351,7,Loring Park,Central,2,3,12/12/2016,01:23,Dana
+"229 5th ave ne,Minneapolis,MN",44.978685999999996,-93.26146700000001,3,Downtown West,Central,3,3,12/13/2016,08:42,Dana
+"3916 17th ave s,Minneapolis,MN",44.931722,-93.25025600000001,8,Bancroft,Powderhorn,2,6,12/12/2016,13:03,Dana
+"1350 Lasalle ,Minneapolis,MN",44.969955,-93.279351,7,Loring Park,Central,2,3,12/12/2016,03:02,Dana
+"1350 Lasalle Ave,Minneapolis,MN",44.969955,-93.279351,7,Loring Park,Central,2,3,12/12/2016,01:23,Dana
+"3811 14thaves,Minneapolis,MN",44.933747,-93.254901,8,Bancroft,Powderhorn,3,6,12/13/2016,08:48,Dana
+"800 2nd Ave N,Minneapolis,MN",44.978947,-93.289552,5,Harrison,Near North,2,3,12/12/2016,03:02,Dana
+"1106 Main St ne,Minneapolis,MN",44.998783,-93.267415,3,Sheridan,Northeast,2,2,12/12/2016,13:06,Dana
+"5117 Bryant ave n,Minneapolis,MN",45.048251,-93.29181700000001,4,Lind - Bohanon,Camden,2,1,12/12/2016,01:26,Dana
+"619 Bryant Ave N,Minneapolis,MN",44.991409999999995,-93.29106999999999,5,Near - North,Near North,3,1,12/13/2016,08:49,Dana
+"3400 Lyndale ave s,Minneapolis,MN",44.941134999999996,-93.288533,10,South Uptown,Calhoun Isle,2,5,12/12/2016,01:27,Dana
+"2600 Emerson ave n ,Minneapolis,MN",45.005992,-93.294187,5,Hawthorne,Near North,2,1,12/12/2016,03:04,Dana
+"700 2nd Ave n,Minneapolis,MN",44.978958,-93.288049,5,Harrison,Near North,2,3,12/12/2016,03:05,Dana
+"1000 - 1099 53 AV N,Minneapolis,MN",45.051151000000004,-93.292838,4,Lind-Bohanon,Camden,2,1,12/12/2016,01:28,Dana
+"800-899 2 av n,Minneapolis,MN",44.978947,-93.289552,5,Harrison,Near North,2,3,12/12/2016,03:05,Dana
+"3300 Lyndale Ave S ,Minneapolis,MN",44.942801,-93.288535,10,South Uptown,Calhoun Isle,2,5,12/12/2016,01:28,Dana
+"Grant and Portland ave,Minneapolis,MN",44.969626,-93.267308,7,Elliot Park,Central,2,3,12/12/2016,03:05,Dana
+"1350 lasalle,Minneapolis,MN",44.969955,-93.279351,7,Loring Park,Central,2,3,12/12/2016,01:29,Dana
+"5640 34 th ave s,Minneapolis,MN",44.89992,-93.224412,11,Wenonah,Nokomis,2,6,12/12/2016,03:06,Dana
+"3434 bloomington ave so,Minneapolis,MN",44.940125,-93.25273,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,01:31,Dana
+"3400-3499 Fremont Ave n ,Minneapolis,MN",45.016913,-93.295233,4,Folwell,Camden,2,1,12/12/2016,03:09,Dana
+"3300 Lyndale Ave S ,Minneapolis,MN",44.942801,-93.288535,10,South Uptown,Calhoun Isle,2,5,12/12/2016,01:31,Dana
+"1789 BRYANT AVE S,Minneapolis,MN",44.96562,-93.290502,7,Lowry Hill,Calhoun Isle,3,3,12/13/2016,08:54,Dana
+"4140 Aldrich Ave. N. ,Minneapolis,MN",45.031086,-93.288616,4,Webber - Camden,Camden,2,1,12/12/2016,13:08,Dana
+"3200 Fremont Ave n,Minneapolis,MN",45.013145,-93.295579,5,Jordan,Near North,2,1,12/12/2016,03:11,Dana
+"720 van white memorial blvd ,Minneapolis,MN",44.985948,-93.291966,5,Sumner - Glenwood,Near North,2,1,12/12/2016,01:31,Dana
+"301 6th ave ne,Minneapolis,MN",44.994632,-93.260653,3,St. Anthony West,Northeast,3,2,12/13/2016,08:55,Dana
+"228 19th ave ne,Minneapolis,MN",44.973205,-93.245876,6,Cedar Riverside,University,2,4,12/12/2016,13:10,Dana
+"3500 Fremont Ave n,Minneapolis,MN",45.018578000000005,-93.295575,4,Folwell,Camden,2,1,12/12/2016,03:13,Dana
+"515 3rd Avenue Southeast,Minneapolis,MN",44.988224,-93.25007099999999,3,Marcy Holmes,University,3,4,12/13/2016,08:57,Dana
+"3540 6th st n,Minneapolis,MN",45.019674,-93.286502,4,McKinley,Camden,2,1,12/12/2016,13:10,Dana
+"4400 Nicolle Ave s,Minneapolis,MN",44.92304,-93.278306,8,King Field,Southwest,2,5,12/12/2016,03:17,Dana
+"1813 BRYANT AVE S,Minneapolis,MN",44.965286,-93.290503,7,Lowry Hill,Calhoun Isle,3,3,12/13/2016,08:59,Dana
+"3300 - 3399 Fremont AV N,Minneapolis,MN",45.015236,-93.295221,4,Folwell,Camden,2,1,12/12/2016,03:18,Dana
+"204 8th Ave se,Minneapolis,MN",44.9819,-93.245579,3,Marcy Holmes,University,2,4,12/12/2016,13:12,Dana
+"3600 Fremont Ave N,Minneapolis,MN",45.020608,-93.295232,4,Folwell,Camden,2,1,12/12/2016,03:18,Dana
+"421 6th ave ne,Minneapolis,MN",44.995345,-93.258482,3,St. Anthony West,Northeast,3,2,12/13/2016,08:59,Dana
+"700-799 2nd av n,Minneapolis,MN",44.978958,-93.288049,5,Harrison,Near North,2,3,12/12/2016,03:20,Dana
+"1914 STEVENS AVE S,Minneapolis,MN",44.963397,-93.275309,6,Steven's Square - Loring Heights,Central,2,3,12/12/2016,13:12,Dana
+"5133 28th ave s,Minneapolis,MN",44.909749,-93.231848,12,Keewaydin,Nokomis,2,6,12/12/2016,03:21,Dana
+"503 4th ave se,Minneapolis,MN",44.987178,-93.24906899999999,3,Marcy Holmes,University,3,4,12/13/2016,09:04,Dana
+"5703 34th ave s,Minneapolis,MN",44.899873,-93.222926,12,Morris Park,Nokomis,2,6,12/12/2016,03:21,Dana
+"302 19th ave ne,Minneapolis,MN",44.970538,-93.245684,6,Cedar Riverside,University,2,4,12/12/2016,13:12,Dana
+"901 20th. AV so,Minneapolis,MN",44.96397,-93.244068,6,Seward,Longfellow,2,4,12/12/2016,03:23,Dana
+"667 Summer st ne,Minneapolis,MN",44.997019,-93.25452800000001,3,St. Anthony East,Northeast,3,2,12/13/2016,09:07,Dana
+"700 glenwood av n,Minneapolis,MN",44.979465999999995,-93.288061,5,Harrison,Near North,2,3,12/12/2016,03:24,Dana
+"2450 clifton av s,Minneapolis,MN",44.966577,-93.286807,7,Loring Park,Central,2,3,12/12/2016,13:14,Dana
+"4900 Nicollet Ave s,Minneapolis,MN",44.914198999999996,-93.278026,11,Tangletown,Southwest,2,5,12/12/2016,03:24,Dana
+"2213 3rd st n,Minneapolis,MN",45.001641,-93.28339799999999,5,Hawthorne,Near North,3,1,12/13/2016,09:07,Dana
+"1402 Logan Ave n ,Minneapolis,MN",44.993209,-93.302837,5,Willard - Hay,Near North,2,1,12/12/2016,13:16,Dana
+"221 9th st s,Minneapolis,MN",44.973783000000005,-93.271102,7,Downtown West,Central,2,3,12/12/2016,03:24,Dana
+"2913 3rd st. N. ,Minneapolis,MN",45.009661,-93.283354,5,Hawthorne,Near North,3,1,12/13/2016,09:09,Dana
+"228 8th ave se,Minneapolis,MN",44.982129,-93.245396,3,Marcy Holmes,University,2,4,12/12/2016,13:16,Dana
+"2225 Franklin Ave e,Minneapolis,MN",44.962604999999996,-93.23965,6,Seward,Longfellow,2,4,12/12/2016,03:25,Dana
+"511 3rd ave se,Minneapolis,MN",44.988129,-93.250437,3,Marcy Holmes,University,3,4,12/13/2016,09:10,Dana
+"5650 34th Ave. S.,Minneapolis,MN",44.900301,-93.223069,11,Wenonah,Nokomis,2,6,12/12/2016,03:26,Dana
+"2206 6th st ne,Minneapolis,MN",45.010341,-93.259426,1,Holland,Northeast,2,2,12/12/2016,13:16,Dana
+"900 20ave s,Minneapolis,MN",44.963577,-93.244662,6,Seward,Longfellow,2,4,12/12/2016,03:27,Dana
+"2603 3rd st n,Minneapolis,MN",45.005947,-93.283363,5,Hawthorne,Near North,3,1,12/13/2016,09:10,Dana
+"3600 Fremont Ave n ,Minneapolis,MN",45.020608,-93.295232,4,Folwell,Camden,2,1,12/12/2016,03:28,Dana
+"3716 smelling ave,Minneapolis,MN",44.935077,-93.22751600000001,12,Howe,Longfellow,2,6,12/12/2016,13:16,Dana
+"2225 4th st n ,Minneapolis,MN",45.00226,-93.284949,5,Hawthorne,Near North,3,1,12/13/2016,09:10,Dana
+"2211 9th St S,Minneapolis,MN",44.963688,-93.23990500000001,6,Seward,Longfellow,2,4,12/12/2016,03:29,Dana
+"2204 STEVENS AVE S,Minneapolis,MN",44.960865000000005,-93.275304,10,Whittier,Powderhorn,2,3,12/12/2016,13:16,Dana
+"826 21st Ave n ,Minneapolis,MN",45.000251,-93.290544,5,Hawthorne,Near North,3,1,12/13/2016,09:12,Dana
+"3822 28th ave s,Minneapolis,MN",44.933351,-93.232126,12,Standish,Powderhorn,2,6,12/12/2016,03:29,Dana
+"1238 Knox Ave n,Minneapolis,MN",44.990811,-93.301935,5,Near - North,Near North,2,1,12/12/2016,13:17,Dana
+"3000 holmes Ave s,Minneapolis,MN",44.947829,-93.29956999999999,10,ECCO,Calhoun Isle,2,5,12/12/2016,03:30,Dana
+"1535 39th Street East,Minneapolis,MN",44.932165999999995,-93.25184300000001,8,Bancroft,Powderhorn,3,6,12/13/2016,09:14,Dana
+"3000 HOLMES AVE,Minneapolis,MN",44.947829,-93.29956999999999,10,ECCO,Calhoun Isle,2,5,12/12/2016,03:35,Dana
+"1528 Grand St ne,Minneapolis,MN",45.003465000000006,-93.270126,3,Sheridan,Northeast,2,2,12/12/2016,13:17,Dana
+"3000 Holmes Ave S ,Minneapolis,MN",44.947829,-93.29956999999999,10,ECCO,Calhoun Isle,2,5,12/12/2016,03:36,Dana
+"2621 4th st n,Minneapolis,MN",45.006172,-93.284904,5,Hawthorne,Near North,3,1,12/13/2016,09:14,Dana
+"14st E and park ave,Minneapolis,MN",44.968921,-93.265086,7,Elliot Park,Central,2,3,12/12/2016,03:37,Dana
+"1234 Knox Ave N,Minneapolis,MN",44.990793,-93.301569,5,Near - North,Near North,2,1,12/12/2016,13:18,Dana
+"3000 Holmes Ave S ,Minneapolis,MN",44.947829,-93.29956999999999,10,ECCO,Calhoun Isle,2,5,12/12/2016,03:39,Dana
+"1827 bryant ave s,Minneapolis,MN",44.965149,-93.290503,7,Lowry Hill,Calhoun Isle,3,3,12/13/2016,09:14,Dana
+"428 7th ave se,Minneapolis,MN",44.984883,-93.245052,3,Marcy Holmes,University,2,4,12/12/2016,13:18,Dana
+"3500 Fremont Ave N,Minneapolis,MN",45.018578000000005,-93.295575,4,Folwell,Camden,2,1,12/12/2016,03:41,Dana
+"52 1 4th Ave sE,Minneapolis,MN",45.000820000000004,-93.271878,3,Sheridan,Northeast,3,2,12/13/2016,09:15,Dana
+"2510 Pillsbury ave s,Minneapolis,MN",44.956863,-93.281311,10,Whittier,Powderhorn,2,3,12/12/2016,13:23,Dana
+"3000 holmes ave s,Minneapolis,MN",44.947829,-93.29956999999999,10,ECCO,Calhoun Isle,2,5,12/12/2016,03:45,Dana
+"1907 dupont ave s,Minneapolis,MN",44.964071000000004,-93.292702,7,Lowry Hill,Calhoun Isle,3,3,12/13/2016,09:16,Dana
+"600-720 van white memorial blvd,Minneapolis,MN",44.985948,-93.291966,5,Sumner - Glenwood,Near North,2,1,12/12/2016,01:32,Dana
+"3700 Fremont ave n ,Minneapolis,MN",45.022188,-93.295618,4,Folwell,Camden,2,1,12/12/2016,03:47,Dana
+"3048 10th ave S,Minneapolis,MN",44.946816,-93.260442,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,13:24,Dana
+"1500 lasalle av s,Minneapolis,MN",44.967395,-93.27967199999999,7,Loring Park,Central,2,3,12/12/2016,01:35,Dana
+"3819 14th Avenue South,Minneapolis,MN",44.933491,-93.254902,8,Bancroft,Powderhorn,3,6,12/13/2016,09:17,Dana
+"3600 - 3699 Fremont AV N,Minneapolis,MN",45.020608,-93.295232,4,Folwell,Camden,2,1,12/12/2016,03:49,Dana
+"1350 LaSalle,Minneapolis,MN",44.969955,-93.279351,7,Loring Park,Central,2,3,12/12/2016,01:38,Dana
+"521 3rd Ave se,Minneapolis,MN",44.988423,-93.249915,3,Marcy Holmes,University,3,4,12/13/2016,09:18,Dana
+"230 8th Ave se ,Minneapolis,MN",44.982147999999995,-93.24538000000001,3,Marcy Holmes,University,2,4,12/12/2016,13:25,Dana
+"3600 Fremont Ave n,Minneapolis,MN",45.020608,-93.295232,4,Folwell,Camden,2,1,12/12/2016,03:49,Dana
+"1350 Lasalle ,Minneapolis,MN",44.969955,-93.279351,7,Loring Park,Central,2,3,12/12/2016,01:38,Dana
+"4153 14th ave S,Minneapolis,MN",44.927182,-93.254906,8,Bancroft,Powderhorn,3,6,12/13/2016,09:21,Dana
+"320 Clifton ave,Minneapolis,MN",44.965905,-93.283229,7,Loring Park,Central,2,3,12/12/2016,13:25,Dana
+"2211 9th st s ,Minneapolis,MN",44.963688,-93.23990500000001,6,Seward,Longfellow,2,4,12/12/2016,03:50,Dana
+"1500-1599 LaSalle av,Minneapolis,MN",44.967395,-93.27967199999999,7,Loring Park,Central,2,3,12/12/2016,01:38,Dana
+"1521 spruce pl,Minneapolis,MN",44.967011,-93.280816,7,Loring Park,Central,3,3,12/13/2016,09:21,Dana
+"3234 Girard Ave s ,Minneapolis,MN",44.943582,-93.29707900000001,10,South Uptown,Calhoun Isle,2,5,12/12/2016,13:25,Dana
+"3700 Fremont ave n ,Minneapolis,MN",45.022188,-93.295618,4,Folwell,Camden,2,1,12/12/2016,03:51,Dana
+"4015 Bloomington,Minneapolis,MN",44.929978999999996,-93.25206999999999,8,Bancroft,Powderhorn,2,6,12/12/2016,01:40,Dana
+"3541 13th ave S,Minneapolis,MN",44.938114,-93.25596999999999,9,Powderhorn Park,Powderhorn,3,6,12/13/2016,09:22,Dana
+"2520 Pillsbury ave s,Minneapolis,MN",44.956637,-93.281777,10,Whittier,Powderhorn,2,3,12/12/2016,13:25,Dana
+"3600 Fremont Ave n,Minneapolis,MN",45.020608,-93.295232,4,Folwell,Camden,2,1,12/12/2016,03:53,Dana
+"1500 lasalle av ,Minneapolis,MN",44.967395,-93.27967199999999,7,Loring Park,Central,2,3,12/12/2016,01:40,Dana
+"635 Summer st ne,Minneapolis,MN",44.997059,-93.256625,3,St. Anthony East,Northeast,3,2,12/13/2016,09:24,Dana
+"3450 girard ave s,Minneapolis,MN",44.939713,-93.297115,10,South Uptown,Calhoun Isle,2,5,12/12/2016,13:26,Dana
+"1400 Lasalle ,Minneapolis,MN",44.968778,-93.279353,7,Loring Park,Central,2,3,12/12/2016,03:54,Dana
+"4000 lyndale av s,Minneapolis,MN",44.930205,-93.288696,10,East Harriet,Southwest,2,5,12/12/2016,01:40,Dana
+"337 oak grove st ,Minneapolis,MN",44.967071000000004,-93.28452800000001,7,Loring Park,Central,3,3,12/13/2016,09:25,Dana
+"3050 ELLIOTT AVE,Minneapolis,MN",44.947742,-93.261427,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,13:27,Dana
+"628 15th St e,Minneapolis,MN",44.968072,-93.26629100000001,7,Elliot Park,Central,2,3,12/12/2016,01:41,Dana
+"673 Summer st ne,Minneapolis,MN",44.997044,-93.254265,3,St. Anthony East,Northeast,3,2,12/13/2016,09:28,Dana
+"3400 Girard Ave s,Minneapolis,MN",44.941148999999996,-93.297386,10,South Uptown,Calhoun Isle,2,5,12/12/2016,13:27,Dana
+"1100 Van White Memorial Blvd,Minneapolis,MN",44.988817,-93.292063,5,Sumner - Glenwood,Near North,2,1,12/12/2016,01:41,Dana
+"3445 Longfellow Ave. S.,Minneapolis,MN",44.939793,-93.246066,9,Corcoran,Powderhorn,3,6,12/13/2016,09:31,Dana
+"1830 James ave n,Minneapolis,MN",44.998360999999996,-93.30051999999999,5,Willard - Hay,Near North,2,1,12/12/2016,13:29,Dana
+"2119 4th st n,Minneapolis,MN",45.000811999999996,-93.28537299999999,5,Hawthorne,Near North,3,1,12/13/2016,09:31,Dana
+"406 5th ave SE,Minneapolis,MN",44.985712,-93.248064,3,Marcy Holmes,University,2,4,12/12/2016,13:29,Dana
+"1407 Dupont Ave N,Minneapolis,MN",44.993347,-93.29301,5,Near - North,Near North,3,1,12/13/2016,09:31,Dana
+"3548 girard ave s,Minneapolis,MN",44.938061,-93.29741,10,South Uptown,Calhoun Isle,2,5,12/12/2016,13:31,Dana
+"2729 3rd st n,Minneapolis,MN",45.008183,-93.28378000000001,5,Hawthorne,Near North,3,1,12/13/2016,09:33,Dana
+"226 8th av se,Minneapolis,MN",44.98211,-93.245411,3,Marcy Holmes,University,2,4,12/12/2016,13:32,Dana
+"527 4th Avenue Southeast,Minneapolis,MN",44.987918,-93.248479,3,Marcy Holmes,University,3,4,12/13/2016,09:33,Dana
+"926 newton ave n,Minneapolis,MN",44.987722,-93.305389,5,Near - North,Near North,2,1,12/12/2016,13:33,Dana
+"2111 6th st n ,Minneapolis,MN",45.000638,-93.28685,5,Hawthorne,Near North,3,1,12/13/2016,09:36,Dana
+"618 Morgan Ave N,Minneapolis,MN",44.984956,-93.304482,5,Near - North,Near North,2,1,12/12/2016,13:34,Dana
+"2419 4th st n,Minneapolis,MN",45.004296999999994,-93.28535600000001,5,Hawthorne,Near North,3,1,12/13/2016,09:36,Dana
+"718 jefferson st ne,Minneapolis,MN",44.997465000000005,-93.255353,3,St. Anthony East,Northeast,2,2,12/12/2016,13:34,Dana
+"817 32ND ST E,Minneapolis,MN",44.944721,-93.262425,9,Powderhorn Park,Powderhorn,3,6,12/13/2016,09:37,Dana
+"212 8th ave se,Minneapolis,MN",44.981977,-93.245518,3,Marcy Holmes,University,2,4,12/12/2016,13:36,Dana
+"3449 11th ave s,Minneapolis,MN",44.939908,-93.258752,9,Powderhorn Park,Powderhorn,3,6,12/13/2016,09:38,Dana
+"1926 6th st ne,Minneapolis,MN",45.008144,-93.258533,1,Holland,Northeast,2,2,12/12/2016,13:36,Dana
+"1623 4th st e,Minneapolis,MN",44.979119,-93.232303,2,University of Minnesota,University,3,4,12/13/2016,09:43,Dana
+"1006 Newton av no,Minneapolis,MN",44.988192,-93.305711,5,Near - North,Near North,2,1,12/12/2016,13:37,Dana
+"303 5th ave se,Minneapolis,MN",44.984755,-93.24915899999999,3,Marcy Holmes,University,3,4,12/13/2016,09:43,Dana
+"1138 Jefferson st ne,Minneapolis,MN",44.999886,-93.255271,1,Logan Park,Northeast,2,2,12/12/2016,13:38,Dana
+"2417 Fremont ave n,Minneapolis,MN",45.004197999999995,-93.295666,5,Jordan,Near North,3,1,12/13/2016,09:44,Dana
+"2104 Aldrich Ave. n. ,Minneapolis,MN",45.000512,-93.289244,5,Hawthorne,Near North,2,1,12/12/2016,13:38,Dana
+"1769 dupont s,Minneapolis,MN",44.966196999999994,-93.292753,7,Lowry Hill,Calhoun Isle,3,3,12/13/2016,09:45,Dana
+"702 Jefferson st ne,Minneapolis,MN",44.997008,-93.255,3,St. Anthony East,Northeast,2,2,12/12/2016,13:39,Dana
+"901 Summer st ne,Minneapolis,MN",44.997062,-93.248299,3,St. Anthony East,Northeast,3,2,12/13/2016,09:45,Dana
+"208 8th Avenue Southeast ,Minneapolis,MN",44.981938,-93.245548,3,Marcy Holmes,University,2,4,12/12/2016,13:39,Dana
+"215 5th st ne,Minneapolis,MN",44.991583,-93.25484399999999,3,St. Anthony East,Northeast,3,2,12/13/2016,09:46,Dana
+"238 clifton av,Minneapolis,MN",44.965907,-93.282772,7,Loring Park,Central,2,3,12/12/2016,13:41,Dana
+"321 5th ave se,Minneapolis,MN",44.985074,-93.248609,3,Marcy Holmes,University,3,4,12/13/2016,09:48,Dana
+"1316 POWDERHORN TER,Minneapolis,MN",44.945665999999996,-93.255137,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,13:42,Dana
+"1913 dupont s,Minneapolis,MN",44.963893,-93.292701,7,Lowry Hill,Calhoun Isle,3,3,12/13/2016,09:49,Dana
+"404 clifton ave,Minneapolis,MN",44.966856,-93.28525,7,Loring Park,Central,2,3,12/12/2016,13:44,Dana
+"1111 13th Ave SE,Minneapolis,MN",44.991246000000004,-93.233612,2,Como,University,3,4,12/13/2016,09:50,Dana
+"320 19th ave ne,Minneapolis,MN",44.970483,-93.245683,6,Cedar Riverside,University,2,4,12/12/2016,13:44,Dana
+"2909 6th st. N. ,Minneapolis,MN",45.009853,-93.28668,5,Hawthorne,Near North,3,1,12/13/2016,09:50,Dana
+"530 7th ave se,Minneapolis,MN",44.985814000000005,-93.244315,3,Marcy Holmes,University,2,4,12/12/2016,13:45,Dana
+"225 5th st ne,Minneapolis,MN",44.991664,-93.255338,3,St. Anthony East,Northeast,3,2,12/13/2016,09:50,Dana
+"720 Jefferson st ne,Minneapolis,MN",44.997561,-93.25525,3,St. Anthony East,Northeast,2,2,12/12/2016,13:49,Dana
+"607 Ridgewood av s,Minneapolis,MN",44.963346,-93.287228,7,Steven's Square - Loring Heights,Central,3,3,12/13/2016,09:51,Dana
+"306 8th ave se,Minneapolis,MN",44.983000000000004,-93.24470600000001,3,Marcy Holmes,University,2,4,12/12/2016,13:50,Dana
+"1201 Humboldt Ave N,Minneapolis,MN",44.990276,-93.29857700000001,5,Near - North,Near North,3,1,12/13/2016,09:51,Dana
+"4004 39th ave,Minneapolis,MN",44.930349,-93.21692,12,Hiawatha,Longfellow,2,6,12/12/2016,13:50,Dana
+"819 12th Ave n ,Minneapolis,MN",44.99082,-93.290437,5,Near - North,Near North,3,1,12/13/2016,09:52,Dana
+"1908 Oliver Ave n ,Minneapolis,MN",44.999178,-93.306652,5,Willard - Hay,Near North,2,1,12/12/2016,13:51,Dana
+"1041 12th Ave SE ,Minneapolis,MN",44.989124,-93.23491899999999,2,Como,University,3,4,12/13/2016,09:53,Dana
+"2218 aldrich ave n,Minneapolis,MN",45.002198,-93.28931,5,Hawthorne,Near North,2,1,12/12/2016,13:51,Dana
+"816 21st Ave n,Minneapolis,MN",45.000505,-93.290504,5,Hawthorne,Near North,3,1,12/13/2016,09:53,Dana
+"706 Oliver Ave N,Minneapolis,MN",44.985369,-93.306659,5,Near - North,Near North,2,1,12/12/2016,13:52,Dana
+"1409 spruce pl ,Minneapolis,MN",44.968573,-93.280814,7,Loring Park,Central,3,3,12/13/2016,09:53,Dana
+"3012 18th ave s,Minneapolis,MN",44.947911,-93.24902800000001,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,13:52,Dana
+"3037 Knox Ave s,Minneapolis,MN",44.947049,-93.304315,10,ECCO,Calhoun Isle,3,5,12/13/2016,09:55,Dana
+"314 Clifton ave ,Minneapolis,MN",44.96642,-93.284026,7,Loring Park,Central,2,3,12/12/2016,13:52,Dana
+"2327 6th st n,Minneapolis,MN",45.003541999999996,-93.28671899999999,5,Hawthorne,Near North,3,1,12/13/2016,09:55,Dana
+"3210 Fremont Ave s,Minneapolis,MN",44.944308,-93.295815,10,South Uptown,Calhoun Isle,2,5,12/12/2016,13:54,Dana
+"719 5th Ave se,Minneapolis,MN",44.98905,-93.245766,3,Marcy Holmes,University,3,4,12/13/2016,09:56,Dana
+"2104 Pillsbury ave s,Minneapolis,MN",44.961731,-93.281286,10,Whittier,Powderhorn,2,3,12/12/2016,13:55,Dana
+"1107 13th ave se,Minneapolis,MN",44.991009000000005,-93.233696,2,Como,University,3,4,12/13/2016,09:56,Dana
+"130 14th ave ne,Minneapolis,MN",45.001673,-93.269429,3,Sheridan,Northeast,2,2,12/12/2016,13:55,Dana
+"1459 32ND st w,Minneapolis,MN",44.944716,-93.299832,10,ECCO,Calhoun Isle,3,5,12/13/2016,09:58,Dana
+"2406 aldrich ave n,Minneapolis,MN",45.003993,-93.289233,5,Hawthorne,Near North,2,1,12/12/2016,13:55,Dana
+"727 - 5TH AVE SE,Minneapolis,MN",44.989177000000005,-93.245361,3,Marcy Holmes,University,3,4,12/13/2016,10:00,Dana
+"132 14th ave ne,Minneapolis,MN",45.001713,-93.269313,3,Sheridan,Northeast,2,2,12/12/2016,13:56,Dana
+"2431 6th st n,Minneapolis,MN",45.004655,-93.28688299999999,5,Hawthorne,Near North,3,1,12/13/2016,10:02,Dana
+"3030 Fremont Ave s,Minneapolis,MN",44.947246,-93.29578199999999,10,South Uptown,Calhoun Isle,2,5,12/12/2016,13:56,Dana
+"509 lyndale pl ,Minneapolis,MN",44.982859000000005,-93.288647,5,Sumner - Glenwood,Near North,3,3,12/13/2016,10:02,Dana
+"2100 Pillsbury ave s,Minneapolis,MN",44.961783000000004,-93.281653,10,Whittier,Powderhorn,2,3,12/12/2016,13:57,Dana
+"3827 10TH AVE S,Minneapolis,MN",44.933238,-93.259952,8,Bancroft,Powderhorn,3,6,12/13/2016,10:02,Dana
+"316 8th ave se,Minneapolis,MN",44.983306,-93.244473,3,Marcy Holmes,University,2,4,12/12/2016,13:57,Dana
+"307 6th Avenue Southeast ,Minneapolis,MN",44.984147,-93.247508,3,Marcy Holmes,University,3,4,12/13/2016,10:03,Dana
+"620 Quincy st ne,Minneapolis,MN",44.995727,-93.251181,3,St. Anthony East,Northeast,2,2,12/12/2016,13:58,Dana
+"113 14th st e,Minneapolis,MN",44.968902,-93.276759,7,Loring Park,Central,3,3,12/13/2016,10:03,Dana
+"310 8th ave se,Minneapolis,MN",44.983121999999995,-93.244613,3,Marcy Holmes,University,2,4,12/12/2016,13:59,Dana
+"329 Ridgewood av s,Minneapolis,MN",44.963663000000004,-93.283873,7,Steven's Square - Loring Heights,Central,3,3,12/13/2016,10:04,Dana
+"3014 18th ave so,Minneapolis,MN",44.947788,-93.249026,9,Powderhorn Park,Powderhorn,2,6,12/12/2016,13:59,Dana
+"3705 10th ave s,Minneapolis,MN",44.935694,-93.259671,9,Powderhorn Park,Powderhorn,3,6,12/13/2016,10:04,Dana
+"324 8th ave se,Minneapolis,MN",44.9834,-93.244401,3,Marcy Holmes,University,2,4,12/12/2016,14:00,Dana
+"213 14TH ST E,Minneapolis,MN",44.968902,-93.27680500000001,7,Loring Park,Central,3,3,12/13/2016,10:04,Dana
+"310 7th ave se,Minneapolis,MN",44.983474,-93.24618000000001,3,Marcy Holmes,University,2,4,12/12/2016,14:02,Dana
+"331 oak Grove st ,Minneapolis,MN",44.967119,-93.283911,7,Loring Park,Central,3,3,12/13/2016,10:05,Dana
+"624 15th ave ne,Minneapolis,MN",45.003094,-93.257313,1,Logan Park,Northeast,2,2,12/12/2016,14:02,Dana
+"329 4th st ne,Minneapolis,MN",44.992484999999995,-93.257664,3,St. Anthony West,Northeast,3,2,12/13/2016,10:05,Dana
+"416 8th Ave se ,Minneapolis,MN",44.984221000000005,-93.24343499999999,3,Marcy Holmes,University,2,4,12/12/2016,14:04,Dana
+"1509 SPRUCE PL,Minneapolis,MN",44.967358000000004,-93.28081800000001,7,Loring Park,Central,3,3,12/13/2016,10:08,Dana
+"638 19th ave ne,Minneapolis,MN",45.007308,-93.256261,1,Logan Park,Northeast,2,2,12/12/2016,14:05,Dana
+"1415 girard Ave n ,Minneapolis,MN",44.99361,-93.297554,5,Near - North,Near North,3,1,12/13/2016,10:10,Dana
+"2106 Bryant Ave. N. ,Minneapolis,MN",45.000456,-93.29103,5,Hawthorne,Near North,2,1,12/12/2016,14:05,Dana
+"525 4th ave se,Minneapolis,MN",44.98799,-93.248797,3,Marcy Holmes,University,3,4,12/13/2016,10:14,Dana
+"304 8th Avenue Southeast,Minneapolis,MN",44.982939,-93.244753,3,Marcy Holmes,University,2,4,12/12/2016,14:05,Dana
+"511 lyndale pl,Minneapolis,MN",44.983342,-93.288949,5,Sumner - Glenwood,Near North,3,3,12/13/2016,10:14,Dana
+"2017 PILLSBURY AV S,Minneapolis,MN",44.961811,-93.280925,10,Whittier,Powderhorn,3,3,12/13/2016,10:16,Dana
+"1621 Girard Ave N,Minneapolis,MN",44.996036,-93.297552,5,Near - North,Near North,3,1,12/13/2016,10:17,Dana
+"3323 6th st n ,Minneapolis,MN",45.015679,-93.286795,4,McKinley,Camden,3,1,12/13/2016,10:18,Dana
+"3507 25th Ave. S.,Minneapolis,MN",44.939218,-93.235915,9,Corcoran,Powderhorn,3,6,12/13/2016,10:18,Dana
+"15 23 Girard ave n,Minneapolis,MN",44.978128999999996,-93.29719200000001,5,Harrison,Near North,3,3,12/13/2016,10:19,Dana
+"1321 Grand St ne,Minneapolis,MN",45.001335,-93.268699,3,Sheridan,Northeast,3,2,12/13/2016,10:21,Dana
+"415 6th ave se,Minneapolis,MN",44.985326,-93.24658199999999,3,Marcy Holmes,University,3,4,12/13/2016,10:21,Dana
+"3651 6th st. N. ,Minneapolis,MN",45.021836,-93.286551,4,McKinley,Camden,3,1,12/13/2016,10:23,Dana
+"1701 Grand st ne,Minneapolis,MN",45.005188000000004,-93.26974,3,Sheridan,Northeast,3,2,12/13/2016,10:23,Dana
+"703 Humboldt ave n ,Minneapolis,MN",44.985784,-93.29819300000001,5,Near - North,Near North,3,1,12/13/2016,10:24,Dana
+"3547 12th ave s,Minneapolis,MN",44.937931,-93.257464,9,Powderhorn Park,Powderhorn,3,6,12/13/2016,10:24,Dana
+"201 20th ave ne,Minneapolis,MN",45.008739,-93.26596500000001,3,Bottineau,Northeast,3,2,12/13/2016,10:28,Dana
+"321 7th Avenue Southeast,Minneapolis,MN",44.983944,-93.245846,3,Marcy Holmes,University,3,4,12/13/2016,10:28,Dana
+"431 Clifton pl,Minneapolis,MN",44.966637,-93.28625100000001,7,Loring Park,Central,3,3,12/13/2016,10:28,Dana
+"3921 16th ave s,Minneapolis,MN",44.931613,-93.250786,8,Bancroft,Powderhorn,3,6,12/13/2016,10:29,Dana
+"1623 girard Ave n ,Minneapolis,MN",44.996078999999995,-93.297201,5,Near - North,Near North,3,1,12/13/2016,10:29,Dana
+"411 7th Ave se,Minneapolis,MN",44.984913,-93.245341,3,Marcy Holmes,University,3,4,12/13/2016,10:29,Dana
+"3237 GIRARD AVE S,Minneapolis,MN",44.943509000000006,-93.2967,10,South Uptown,Calhoun Isle,3,5,12/13/2016,10:30,Dana
+"323 Clifton av,Minneapolis,MN",44.966095,-93.283938,7,Loring Park,Central,3,3,12/13/2016,10:32,Dana
+"425 7th Ave se,Minneapolis,MN",44.984913,-93.245072,3,Marcy Holmes,University,3,4,12/13/2016,10:33,Dana
+"521 7th ave se,Minneapolis,MN",44.986106,-93.244427,3,Marcy Holmes,University,3,4,12/13/2016,10:33,Dana
+"339 oak Grove st,Minneapolis,MN",44.967281,-93.284461,7,Loring Park,Central,3,3,12/13/2016,10:34,Dana
+"959 20th ave ne,Minneapolis,MN",45.00907,-93.24586500000001,1,Windom Park,Northeast,3,2,12/13/2016,13:58,Dana
+"1607 Sheridan ave n,Minneapolis,MN",44.995428000000004,-93.31236,5,Willard - Hay,Near North,3,1,12/13/2016,13:59,Dana
+"3107 28th ave,Minneapolis,MN",44.946576,-93.231278,2,Longfellow,Longfellow,3,6,12/13/2016,13:59,Dana
+"2311 Madison St ne,Minneapolis,MN",45.011516,-93.25395300000001,1,Holland,Northeast,3,2,12/13/2016,14:00,Dana
+"855 23rd ave se,Minneapolis,MN",44.985279999999996,-93.220618,2,Como,University,3,4,12/13/2016,14:00,Dana
+"2209 Howard st ne,Minneapolis,MN",45.010095,-93.253116,1,Holland,Northeast,3,2,12/13/2016,14:02,Dana
+"3809 41st st e,Minneapolis,MN",44.928768,-93.21775699999999,12,Hiawatha,Longfellow,3,6,12/13/2016,14:02,Dana
+"3311 Bryant Ave N. ,Minneapolis,MN",45.01532,-93.290897,4,McKinley,Camden,3,1,12/13/2016,14:02,Dana
+"2721 8th Ave n,Minneapolis,MN",44.986105,-93.314913,5,Willard - Hay,Near North,3,1,12/13/2016,14:03,Dana
+"1008 17TH ST E,Minneapolis,MN",44.9664,-93.25914499999999,6,Elliot Park,Central,3,3,12/13/2016,14:03,Dana
+"3213 Bryant ave n,Minneapolis,MN",45.013612,-93.29056899999999,4,McKinley,Camden,3,1,12/13/2016,14:05,Dana
+"503 19th Street East,Minneapolis,MN",44.963938,-93.268552,6,Ventura Village,Phillips,3,3,12/13/2016,14:06,Dana
+"4600 Camden AV no,Minneapolis,MN",45.038659,-93.288641,4,Lind - Bohanon,Camden,3,1,12/13/2016,14:06,Dana
+"5737 31 ave s,Minneapolis,MN",44.899504,-93.227251,11,Wenonah,Nokomis,3,6,12/13/2016,14:07,Dana
+"931 20th ave ne,Minneapolis,MN",45.009066,-93.24682,1,Windom Park,Northeast,3,2,12/13/2016,14:11,Dana
+"4311 1st Ave s,Minneapolis,MN",44.924638,-93.276276,8,King Field,Southwest,3,5,12/13/2016,14:11,Dana
+"625 16th st e,Minneapolis,MN",44.966715,-93.26639899999999,6,Elliot Park,Central,3,3,12/13/2016,14:11,Dana
+"709 23rd Ave n ,Minneapolis,MN",45.002565999999995,-93.288471,5,Hawthorne,Near North,3,1,12/13/2016,14:11,Dana
+"2829 31st st e ,Minneapolis,MN",44.946847,-93.23110600000001,2,Longfellow,Longfellow,3,6,12/13/2016,14:12,Dana
+"817 13th Avenue Southeast,Minneapolis,MN",44.985301,-93.233804,3,Marcy Holmes,University,3,4,12/13/2016,14:13,Dana
+"933 20th ave ne,Minneapolis,MN",45.008909,-93.246814,1,Windom Park,Northeast,3,2,12/13/2016,14:13,Dana
+"1841 - 36TH ST E,Minneapolis,MN",44.937725,-93.246481,12,Standish,Powderhorn,3,6,12/13/2016,14:12,Dana
+"803 21st Ave n ,Minneapolis,MN",45.000225,-93.290056,5,Hawthorne,Near North,3,1,12/13/2016,14:15,Dana
+"927 14th Ave n ,Minneapolis,MN",44.993047,-93.292034,5,Near - North,Near North,3,1,12/13/2016,14:15,Dana
+"301 6th st se,Minneapolis,MN",44.98865,-93.249697,3,Marcy Holmes,University,3,4,12/13/2016,14:17,Dana
+"1421 6th st se,Minneapolis,MN",44.982098,-93.233225,3,Marcy Holmes,University,3,4,12/13/2016,14:19,Dana
+"613 16th st e,Minneapolis,MN",44.967154,-93.266914,6,Elliot Park,Central,3,3,12/13/2016,14:20,Dana
+"3223 Bryant Ave n,Minneapolis,MN",45.01392,-93.290817,4,McKinley,Camden,3,1,12/13/2016,14:20,Dana
+"4605 18th ave so,Minneapolis,MN",44.91943,-93.248561,11,Northrop,Nokomis,3,6,12/13/2016,14:21,Dana
+"309 6th Ave se ,Minneapolis,MN",44.984215999999996,-93.247454,3,Marcy Holmes,University,3,4,12/13/2016,14:22,Dana
+"1411 6th st se,Minneapolis,MN",44.98218,-93.23344300000001,3,Marcy Holmes,University,3,4,12/13/2016,14:22,Dana
+"305 6th st se,Minneapolis,MN",44.988556,-93.249464,3,Marcy Holmes,University,3,4,12/13/2016,14:23,Dana
+"1415 6th st se,Minneapolis,MN",44.982147,-93.233356,3,Marcy Holmes,University,3,4,12/13/2016,14:23,Dana
+"2615 Morgan Ave n,Minneapolis,MN",45.006515,-93.304677,5,Jordan,Near North,3,1,12/13/2016,14:24,Dana
+"1431 6th St se,Minneapolis,MN",44.982009999999995,-93.23299200000001,3,Marcy Holmes,University,3,4,12/13/2016,14:24,Dana
+"3215 Bryant ave n,Minneapolis,MN",45.013690000000004,-93.290853,4,McKinley,Camden,3,1,12/13/2016,14:26,Dana
+"3417 Bryant Ave. N. ,Minneapolis,MN",45.017386,-93.290909,4,McKinley,Camden,3,1,12/13/2016,14:27,Dana
+"511 bryant av n,Minneapolis,MN",44.982888,-93.29086099999999,5,Sumner - Glenwood,Near North,3,3,12/13/2016,14:27,Dana
+"1215 12th Ave N,Minneapolis,MN",44.990817,-93.297308,5,Near - North,Near North,3,1,12/13/2016,14:29,Dana
+"2417 Jackson st ne,Minneapolis,MN",45.012316,-93.249101,1,Holland,Northeast,3,2,12/13/2016,14:32,Dana
+"1325 15th Ave n ,Minneapolis,MN",44.994139000000004,-93.298114,5,Near - North,Near North,3,1,12/13/2016,14:33,Dana
+"315 dupont av n,Minneapolis,MN",44.980294,-93.29304499999999,5,Sumner - Glenwood,Near North,3,3,12/13/2016,14:39,Dana
+"527 BRYANT AVE N,Minneapolis,MN",44.983089,-93.29085500000001,5,Sumner - Glenwood,Near North,3,3,12/13/2016,14:40,Dana
+"1809 19th St e,Minneapolis,MN",44.963746,-93.251802,6,Ventura Village,Phillips,3,3,12/13/2016,14:40,Dana
+"627 18th St e,Minneapolis,MN",44.965204,-93.266141,6,Ventura Village,Phillips,3,3,12/13/2016,14:43,Dana
+"2623 Polk st ne,Minneapolis,MN",45.015772999999996,-93.245211,1,Audubon Park,Northeast,3,2,12/13/2016,14:44,Dana
+"2707 dupont Ave n ,Minneapolis,MN",45.008031,-93.293316,5,Hawthorne,Near North,3,1,12/13/2016,14:45,Dana
+"3141 Pierce st ne,Minneapolis,MN",45.025239,-93.240951,1,Waite Park,Northeast,3,2,12/13/2016,14:46,Dana
+"1319 27th Ave n,Minneapolis,MN",45.007742,-93.2957,5,Jordan,Near North,3,1,12/13/2016,14:48,Dana
+"2747 Randolph St ne,Minneapolis,MN",45.018153000000005,-93.271097,1,Marshall Terrace,Northeast,3,2,12/13/2016,14:48,Dana
+"477 girard TER,Minneapolis,MN",44.982831,-93.29598100000001,5,Harrison,Near North,3,3,12/13/2016,14:49,Dana
+"2631 Madison st ne,Minneapolis,MN",45.015867,-93.253977,1,Holland,Northeast,3,2,12/13/2016,14:51,Dana
+"641 26th ave ne,Minneapolis,MN",44.966877000000004,-93.234544,2,Cedar Riverside,University,3,4,12/13/2016,14:51,Dana
+"329 6th Ave se,Minneapolis,MN",44.984728000000004,-93.247051,3,Marcy Holmes,University,3,4,12/13/2016,14:52,Dana
+"3801 6th st n,Minneapolis,MN",45.02393,-93.286553,4,Webber - Camden,Camden,3,1,12/13/2016,10:34,Dana
+"1301 12th Ave. N.,Minneapolis,MN",44.990817,-93.297632,5,Near - North,Near North,3,1,12/13/2016,14:53,Dana
+"3521 DuPont Ave s,Minneapolis,MN",44.938803,-93.29324799999999,10,South Uptown,Calhoun Isle,3,5,12/13/2016,14:54,Dana
+"2417 14th ave n,Minneapolis,MN",44.993321,-93.311004,5,Willard - Hay,Near North,3,1,12/13/2016,14:54,Dana
+"2005 grand ave s,Minneapolis,MN",44.962524,-93.284162,10,Whittier,Powderhorn,3,3,12/13/2016,14:55,Dana
+"2127 grand ave s,Minneapolis,MN",44.961090000000006,-93.283863,10,Whittier,Powderhorn,3,3,12/13/2016,14:57,Dana
+"2727 Polk St ne,Minneapolis,MN",45.0177,-93.24521700000001,1,Audubon Park,Northeast,3,2,12/13/2016,14:57,Dana
+"5701 31 ave s,Minneapolis,MN",44.90056,-93.227243,11,Wenonah,Nokomis,3,6,12/13/2016,14:59,Dana
+"2935 queen ave n,Minneapolis,MN",45.010639000000005,-93.309874,4,Jordan,Near North,3,1,12/13/2016,14:59,Dana
+"2817 31st st e,Minneapolis,MN",44.946849,-93.231307,2,Longfellow,Longfellow,3,6,12/13/2016,14:59,Dana
+"3245 GIRARD AVE S,Minneapolis,MN",44.943253999999996,-93.296704,10,South Uptown,Calhoun Isle,3,5,12/13/2016,10:35,Dana
+"4357 girard Ave n,Minneapolis,MN",45.034985,-93.297069,4,Webber - Camden,Camden,3,1,12/13/2016,12:09,Dana
+"3149 Holmes ave s,Minneapolis,MN",44.944884,-93.29923199999999,10,ECCO,Calhoun Isle,3,5,12/13/2016,10:35,Dana
+"1601 33rd Ave n,Minneapolis,MN",45.014977,-93.299396,4,Folwell,Camden,3,1,12/13/2016,15:00,Dana
+"3137 Garfield Ave s,Minneapolis,MN",44.945297,-93.286615,8,Lyndale,Powderhorn,3,5,12/13/2016,12:11,Dana
+"227 oak Grove st,Minneapolis,MN",44.966398,-93.282275,7,Loring Park,Central,3,3,12/13/2016,10:35,Dana
+"1 429 6th St se ,Minneapolis,MN",44.989727,-93.25250600000001,3,Marcy Holmes,University,3,2,12/13/2016,15:00,Dana
+"305 7th ave se,Minneapolis,MN",44.983489,-93.246211,3,Marcy Holmes,University,3,4,12/13/2016,12:11,Dana
+"1901 Colfax s,Minneapolis,MN",44.964233,-93.291428,7,Lowry Hill,Calhoun Isle,3,3,12/13/2016,10:36,Dana
+"3537 DuPont Ave s,Minneapolis,MN",44.938342,-93.293015,10,South Uptown,Calhoun Isle,3,5,12/13/2016,15:01,Dana
+"508 8th Ave se,Minneapolis,MN",44.98523,-93.24296,3,Marcy Holmes,University,3,4,12/13/2016,12:13,Dana
+"715 5TH av s,Minneapolis,MN",44.973535999999996,-93.265854,7,Downtown West,Central,3,3,12/13/2016,15:02,Dana
+"4217 Humboldt ave n,Minneapolis,MN",45.031935,-93.298583,4,Webber - Camden,Camden,3,1,12/13/2016,12:14,Dana
+"3743 6th st n,Minneapolis,MN",45.02335,-93.286821,4,McKinley,Camden,3,1,12/13/2016,10:37,Dana
+"1427 6th St se,Minneapolis,MN",44.982038,-93.233067,3,Marcy Holmes,University,3,4,12/13/2016,15:04,Dana
+"307 8th Ave sE,Minneapolis,MN",44.983016,-93.244737,3,Marcy Holmes,University,3,4,12/13/2016,12:14,Dana
+"3109 girard ave s,Minneapolis,MN",44.946164,-93.296678,10,South Uptown,Calhoun Isle,3,5,12/13/2016,10:38,Dana
+"1321 27th Ave n ,Minneapolis,MN",45.007742,-93.295713,5,Jordan,Near North,3,1,12/13/2016,15:04,Dana
+"2209 jackson st ne,Minneapolis,MN",45.010273,-93.248863,1,Holland,Northeast,3,2,12/13/2016,12:15,Dana
+"4023 17ave s,Minneapolis,MN",44.929618,-93.249538,8,Bancroft,Powderhorn,3,6,12/13/2016,10:38,Dana
+"2701 polk st ne,Minneapolis,MN",45.016824,-93.24554599999999,1,Audubon Park,Northeast,3,2,12/13/2016,15:05,Dana
+"3217 Harriet Ave s,Minneapolis,MN",44.944115000000004,-93.285321,8,Lyndale,Powderhorn,3,5,12/13/2016,12:15,Dana
+"1933 dupont s,Minneapolis,MN",44.963246999999996,-93.29286,7,Lowry Hill,Calhoun Isle,3,3,12/13/2016,10:39,Dana
+"4149 4th ave S,Minneapolis,MN",44.92723,-93.269823,8,Bryant,Powderhorn,3,5,12/13/2016,15:05,Dana
+"2409 Bryant Ave n ,Minneapolis,MN",45.004129,-93.291332,5,Hawthorne,Near North,3,1,12/13/2016,12:16,Dana
+"1829 Girard Ave N,Minneapolis,MN",44.998277,-93.297493,5,Near - North,Near North,3,1,12/13/2016,10:40,Dana
+"2913 Polk st ne,Minneapolis,MN",45.020806,-93.24477900000001,1,Audubon Park,Northeast,3,2,12/13/2016,15:07,Dana
+"713 Madison St ne,Minneapolis,MN",44.997369,-93.25348100000001,3,St. Anthony East,Northeast,3,2,12/13/2016,10:40,Dana
+"2823 Bryant ave n,Minneapolis,MN",45.009260999999995,-93.290886,5,Hawthorne,Near North,3,1,12/13/2016,12:16,Dana
+"4555 43rd ave s,Minneapolis,MN",44.919952,-93.21146,12,Hiawatha,Longfellow,3,6,12/13/2016,15:08,Dana
+"329 clifton av ,Minneapolis,MN",44.966095,-93.283938,7,Loring Park,Central,3,3,12/13/2016,10:42,Dana
+"311 8th Ave sE,Minneapolis,MN",44.983140999999996,-93.244641,3,Marcy Holmes,University,3,4,12/13/2016,12:17,Dana
+"2515 Jackson st ne,Minneapolis,MN",45.013687,-93.24862399999999,1,Holland,Northeast,3,2,12/13/2016,15:08,Dana
+"3717 DuPont Ave N. ,Minneapolis,MN",45.022692,-93.293123,4,Folwell,Camden,3,1,12/13/2016,15:09,Dana
+"3713 Snelling Ave s,Minneapolis,MN",44.935472,-93.22659499999999,12,Howe,Longfellow,3,6,12/13/2016,12:18,Dana
+"821 13th Ave se,Minneapolis,MN",44.985305,-93.2338,3,Marcy Holmes,University,3,4,12/13/2016,15:11,Dana
+"215 20th ave ne,Minneapolis,MN",45.00855,-93.26531999999999,3,Bottineau,Northeast,3,2,12/13/2016,10:43,Dana
+"509 8th ave se,Minneapolis,MN",44.985244,-93.243267,3,Marcy Holmes,University,3,4,12/13/2016,12:19,Dana
+"1021 23rd Ave n,Minneapolis,MN",45.011159,-93.244363,1,Windom Park,Northeast,3,2,12/13/2016,15:17,Dana
+"2431 humbolr ave s,Minneapolis,MN",44.958073,-93.297943,7,East Isles,Calhoun Isle,3,3,12/13/2016,10:44,Dana
+"3543 26th ave s,Minneapolis,MN",44.938228,-93.234398,9,Corcoran,Powderhorn,3,6,12/13/2016,12:22,Dana
+"3507 Bryant ave n,Minneapolis,MN",45.018809999999995,-93.29084399999999,4,McKinley,Camden,3,1,12/13/2016,15:19,Dana
+"311 6th Ave se,Minneapolis,MN",44.984284,-93.2474,3,Marcy Holmes,University,3,4,12/13/2016,10:45,Dana
+"3213 - 21ST AV S,Minneapolis,MN",44.944171000000004,-93.242299,9,Corcoran,Powderhorn,3,6,12/13/2016,12:23,Dana
+"807 21st Ave n,Minneapolis,MN",45.000225,-93.290288,5,Hawthorne,Near North,3,1,12/13/2016,15:20,Dana
+"1709 5th st ne,Minneapolis,MN",45.005590000000005,-93.260237,1,Holland,Northeast,3,2,12/13/2016,10:46,Dana
+"311 5th Ave se,Minneapolis,MN",44.985005,-93.248914,3,Marcy Holmes,University,3,4,12/13/2016,12:25,Dana
+"505 Humboldt av n,Minneapolis,MN",44.982889,-93.298323,5,Harrison,Near North,3,3,12/13/2016,15:21,Dana
+"1041 15th ave se,Minneapolis,MN",44.989022999999996,-93.23114,1,Como,University,3,4,12/13/2016,10:46,Dana
+"641 18th St e,Minneapolis,MN",44.965205,-93.26562,6,Ventura Village,Phillips,3,3,12/13/2016,12:25,Dana
+"1221 27th ave n,Minneapolis,MN",45.007737,-93.294863,5,Jordan,Near North,3,1,12/13/2016,15:22,Dana
+"217 22nd ave ne,Minneapolis,MN",45.010247,-93.265336,3,Bottineau,Northeast,3,2,12/13/2016,10:47,Dana
+"1913 newton Ave n ,Minneapolis,MN",44.999196000000005,-93.30591899999999,5,Willard - Hay,Near North,3,1,12/13/2016,12:26,Dana
+"931 18th AVE SE,Minneapolis,MN",44.985554,-93.227241,2,Como,University,3,4,12/13/2016,15:25,Dana
+"3159 15th av s,Minneapolis,MN",44.944871,-93.253502,9,Powderhorn Park,Powderhorn,3,6,12/13/2016,10:49,Dana
+"623 22nd ave ne,Minneapolis,MN",44.966534,-93.240157,2,Cedar Riverside,University,3,4,12/13/2016,12:27,Dana
+"637 19th st E ,Minneapolis,MN",44.963938,-93.265911,6,Ventura Village,Phillips,3,3,12/13/2016,15:25,Dana
+"711 Oliver Ave., North,MN",44.985490999999996,-93.307311,5,Near - North,Near North,3,1,12/13/2016,12:28,Dana
+"3939 Aldrich ave n,Minneapolis,MN",45.026897999999996,-93.289622,4,Webber - Camden,Camden,3,1,12/13/2016,10:50,Dana
+"1509 27th Ave n ,Minneapolis,MN",45.007761,-93.298794,5,Jordan,Near North,3,1,12/13/2016,15:30,Dana
+"641 19th St e,Minneapolis,MN",44.963938,-93.265861,6,Ventura Village,Phillips,3,3,12/13/2016,12:28,Dana
+"1043 12th Ave SE,Minneapolis,MN",44.989095,-93.23461400000001,2,Como,University,3,4,12/13/2016,10:51,Dana
+"945 18th ave se,Minneapolis,MN",44.985944,-93.226947,2,Como,University,3,4,12/13/2016,15:31,Dana
+"521 8th Avenue Southeast ,Minneapolis,MN",44.985537,-93.24306,3,Marcy Holmes,University,3,4,12/13/2016,12:28,Dana
+"313 7th Avenue Southeast ,Minneapolis,MN",44.983862,-93.245912,3,Marcy Holmes,University,3,4,12/13/2016,10:54,Dana
+"415 7th st se,Minneapolis,MN",44.988878,-93.246643,3,Marcy Holmes,University,3,4,12/13/2016,15:32,Dana
+"1813 Jackson st ne,Minneapolis,MN",45.006417,-93.248846,1,Logan Park,Northeast,3,2,12/13/2016,12:29,Dana
+"1019 13th Ave SE,Minneapolis,MN",44.988432,-93.233687,2,Como,University,3,4,12/13/2016,10:54,Dana
+"2931 Tyler st ne,Minneapolis,MN",45.021309,-93.245761,1,Audubon Park,Northeast,3,2,12/13/2016,15:33,Dana
+"2209 stevens av s,Minneapolis,MN",44.960827,-93.275267,10,Whittier,Powderhorn,3,3,12/13/2016,12:30,Dana
+"3005 17th ave so,Minneapolis,MN",44.948208,-93.249943,9,Powderhorn Park,Powderhorn,3,6,12/13/2016,10:55,Dana
+"509 HUMBOLDT AVE N,Minneapolis,MN",44.983169000000004,-93.298215,5,Harrison,Near North,3,3,12/13/2016,15:35,Dana
+"2303 Quincy St ne,Minneapolis,MN",45.011111,-93.250578,1,Holland,Northeast,3,2,12/13/2016,12:32,Dana
+"309 6th ave se,Minneapolis,MN",44.984215999999996,-93.247454,3,Marcy Holmes,University,3,4,12/13/2016,10:56,Dana
+"2717 DUPONT AVE N,Minneapolis,MN",45.008286,-93.293071,5,Hawthorne,Near North,3,1,12/13/2016,15:37,Dana
+"3027 pleasant Ave s,Minneapolis,MN",44.947286,-93.28255300000001,8,Lyndale,Powderhorn,3,5,12/13/2016,12:32,Dana
+"601 RIDGEWOOD AVE S,Minneapolis,MN",44.963211,-93.286772,7,Steven's Square - Loring Heights,Central,3,3,12/13/2016,10:58,Dana
+"2321 queen ave n,Minneapolis,MN",45.002935,-93.30985600000001,5,Willard - Hay,Near North,3,1,12/13/2016,15:38,Dana
+"3615 Girard Ave n ,Minneapolis,MN",45.020845,-93.297196,4,Folwell,Camden,3,1,12/13/2016,12:33,Dana
+"3653 6th st n,Minneapolis,MN",45.021877,-93.286551,4,McKinley,Camden,3,1,12/13/2016,10:58,Dana
+"1535 48th st e,Minneapolis,MN",44.916072,-93.25224399999999,11,Northrop,Nokomis,3,6,12/13/2016,15:38,Dana
+"825 22nd ave,Minneapolis,MN",44.98444,-93.221858,2,Como,University,3,4,12/13/2016,12:34,Dana
+"3335 elliot,Minneapolis,MN",44.942295,-93.26133,9,Powderhorn Park,Powderhorn,3,6,12/13/2016,10:59,Dana
+"509 Humboldt av n,Minneapolis,MN",44.983169000000004,-93.298215,5,Harrison,Near North,3,3,12/13/2016,15:39,Dana
+"2819 girard Ave n,Minneapolis,MN",45.009198,-93.297136,5,Jordan,Near North,3,1,12/13/2016,12:34,Dana
+"417 8th Ave s,Minneapolis,MN",44.984462,-93.24397900000001,3,Marcy Holmes,University,3,4,12/13/2016,11:00,Dana
+"523 HUMBOLDT AVE N,Minneapolis,MN",44.983364,-93.298216,5,Harrison,Near North,3,3,12/13/2016,15:39,Dana
+"93 18th st 3,Minneapolis,MN",44.965206,-93.276684,6,Steven's Square - Loring Heights,Central,3,3,12/13/2016,12:36,Dana
+"3451 11th ave,Minneapolis,MN",44.939857,-93.258418,9,Powderhorn Park,Powderhorn,3,6,12/13/2016,11:00,Dana
+"3201 polk st ne,Minneapolis,MN",45.025954,-93.244524,1,Waite Park,Northeast,3,2,12/13/2016,15:40,Dana
+"3705 Snelling Ave. S. ,Minneapolis,MN",44.935779,-93.22681700000001,12,Howe,Longfellow,3,6,12/13/2016,12:37,Dana
+"215 clifton av s,Minneapolis,MN",44.966065,-93.283842,7,Loring Park,Central,3,3,12/13/2016,11:01,Dana
+"2305 harriet ave s,Minneapolis,MN",44.959863,-93.285199,10,Whittier,Powderhorn,3,3,12/13/2016,15:43,Dana
+"2025 harriet ave s,Minneapolis,MN",44.961864,-93.285129,10,Whittier,Powderhorn,3,3,12/13/2016,15:44,Dana
+"3547 COLFAX AVE S,Minneapolis,MN",44.938105,-93.29202,10,South Uptown,Calhoun Isle,3,5,12/13/2016,15:46,Dana
+"2103 4th ave n,Minneapolis,MN",44.981574,-93.307356,5,Harrison,Near North,3,3,12/13/2016,15:48,Dana
+"2815 DuPont Ave n,Minneapolis,MN",45.009077000000005,-93.293335,5,Hawthorne,Near North,3,1,12/13/2016,15:48,Dana
+"731 Buchanan st ne,Minneapolis,MN",44.997820000000004,-93.239396,3,Beltrami,Northeast,3,2,12/13/2016,15:49,Dana
+"1307 29th Ave n,Minneapolis,MN",45.009539000000004,-93.295647,5,Jordan,Near North,3,1,12/13/2016,15:50,Dana
+"1003 29th Ave n ,Minneapolis,MN",45.00952,-93.291832,5,Hawthorne,Near North,3,1,12/13/2016,15:51,Dana
+"3153 Fremont Ave s,Minneapolis,MN",44.944947,-93.29576899999999,10,South Uptown,Calhoun Isle,3,5,12/13/2016,15:52,Dana
+"313 6th ave se,Minneapolis,MN",44.984353000000006,-93.247345,3,Marcy Holmes,University,3,4,12/13/2016,11:01,Dana
+"603 11th ave se,Minneapolis,MN",44.984213000000004,-93.23831700000001,3,Marcy Holmes,University,3,4,12/13/2016,12:38,Dana
+"1711 olson mem hwy,Minneapolis,MN",44.984535,-93.30451,5,Near - North,Near North,3,1,12/13/2016,15:52,Dana
+"1325 29th Ave n,Minneapolis,MN",45.00954,-93.29575600000001,5,Jordan,Near North,3,1,12/13/2016,15:53,Dana
+"3431 Colfax Ave s,Minneapolis,MN",44.940284000000005,-93.291988,10,South Uptown,Calhoun Isle,3,5,12/13/2016,15:54,Dana
+"3231 39th st e,Minneapolis,MN",44.932333,-93.224758,12,Howe,Longfellow,3,6,12/13/2016,12:39,Dana
+"221 CLIFTON AVE,Minneapolis,MN",44.966066999999995,-93.28384799999999,7,Loring Park,Central,3,3,12/13/2016,11:01,Dana
+"811 12th Ave se ,Minneapolis,MN",44.985952000000005,-93.235089,3,Marcy Holmes,University,3,4,12/13/2016,15:55,Dana
+"1925 Oliver ave n,Minneapolis,MN",44.999615999999996,-93.30696400000001,5,Willard - Hay,Near North,3,1,12/13/2016,12:40,Dana
+"419 8th Ave se,Minneapolis,MN",44.984569,-93.243894,3,Marcy Holmes,University,3,4,12/13/2016,11:03,Dana
+"511 Humboldt n,Minneapolis,MN",44.983197,-93.298215,5,Harrison,Near North,3,3,12/13/2016,15:56,Dana
+"619 22nd ave ne,Minneapolis,MN",45.010191999999996,-93.257723,1,Holland,Northeast,3,2,12/13/2016,12:41,Dana
+"3711 Aldrich Ave n ,Minneapolis,MN",45.022482000000004,-93.28966,4,McKinley,Camden,3,1,12/13/2016,11:03,Dana
+"819 13th Ave se,Minneapolis,MN",44.985303,-93.233802,3,Marcy Holmes,University,3,4,12/13/2016,15:59,Dana
+"525 8th Ave se,Minneapolis,MN",44.985633,-93.242981,3,Marcy Holmes,University,3,4,12/13/2016,12:41,Dana
+"2545 5th ST ne,Minneapolis,MN",45.014441,-93.260336,1,Holland,Northeast,3,2,12/13/2016,11:04,Dana
+"407 queen n,Minneapolis,MN",44.981846000000004,-93.310001,5,Harrison,Near North,3,3,12/13/2016,15:59,Dana
+"1839 36th st E,Minneapolis,MN",44.937725,-93.246569,12,Standish,Powderhorn,3,6,12/13/2016,12:42,Dana
+"3523 Aldrich Ave. n. ,Minneapolis,MN",45.019296999999995,-93.289649,4,McKinley,Camden,3,1,12/13/2016,11:05,Dana
+"1637 Hillside Ave N,Minneapolis,MN",45.002167,-93.30203900000001,5,Jordan,Near North,3,1,12/13/2016,16:06,Dana
+"1809 Irving ave n,Minneapolis,MN",44.997731,-93.299453,5,Willard - Hay,Near North,3,1,12/13/2016,12:43,Dana
+"631 23rd ave ne,Minneapolis,MN",45.011076,-93.25734200000001,1,Holland,Northeast,3,2,12/13/2016,11:05,Dana
+"301 queen ave n,Minneapolis,MN",44.980726000000004,-93.309733,5,Harrison,Near North,3,3,12/13/2016,16:08,Dana
+"819 Russell Ave n ,Minneapolis,MN",44.986676,-93.311308,5,Willard - Hay,Near North,3,1,12/13/2016,12:43,Dana
+"527 7th ave se,Minneapolis,MN",44.986019,-93.244196,3,Marcy Holmes,University,3,4,12/13/2016,11:06,Dana
+"715 BUCHANAN ST NE,Minneapolis,MN",44.997382,-93.239448,3,Beltrami,Northeast,3,2,12/13/2016,16:11,Dana
+"3641 17th ave S,Minneapolis,MN",44.936522,-93.249499,9,Powderhorn Park,Powderhorn,3,6,12/13/2016,12:44,Dana
+"253 queen av s,Minneapolis,MN",44.973804,-93.30926,7,Bryn - Mawr,Calhoun Isle,3,3,12/13/2016,16:12,Dana
+"1919 Irving ave n,Minneapolis,MN",44.998834,-93.299442,5,Willard - Hay,Near North,3,1,12/13/2016,11:06,Dana
+"601 19th St e,Minneapolis,MN",44.963938,-93.26763000000001,6,Ventura Village,Phillips,3,3,12/13/2016,12:45,Dana
+"3309 22nd Ave. S.,Minneapolis,MN",44.942523,-93.240289,9,Corcoran,Powderhorn,3,6,12/13/2016,11:06,Dana
+"2109 harriet ave s,Minneapolis,MN",44.961541,-93.28519,10,Whittier,Powderhorn,3,3,12/13/2016,16:15,Dana
+"729 8th Ave s,Minneapolis,MN",44.987724,-93.241517,3,Marcy Holmes,University,3,4,12/13/2016,12:46,Dana
+"1005 James Avenue North ,Minneapolis,MN",44.987694,-93.300721,5,Near - North,Near North,3,1,12/13/2016,11:07,Dana
+"2019 harriet ave s,Minneapolis,MN",44.962028000000004,-93.285448,10,Whittier,Powderhorn,3,3,12/13/2016,16:17,Dana
+"3125 pleasant Ave s,Minneapolis,MN",44.945593,-93.283007,8,Lyndale,Powderhorn,3,5,12/13/2016,12:48,Dana
+"639 23rd ave ne,Minneapolis,MN",45.011418,-93.257177,1,Holland,Northeast,3,2,12/13/2016,11:07,Dana
+"305 QUEEN AVE N,Minneapolis,MN",44.980758,-93.30973399999999,5,Harrison,Near North,3,3,12/13/2016,16:18,Dana
+"713 8th Ave se,Minneapolis,MN",44.987251,-93.24159499999999,3,Marcy Holmes,University,3,4,12/13/2016,12:49,Dana
+"3411 aldrich ave n,Minneapolis,MN",45.017117,-93.289647,4,McKinley,Camden,3,1,12/13/2016,11:10,Dana
+"227 7th Ave se,Minneapolis,MN",44.982659000000005,-93.24685699999999,3,Marcy Holmes,University,3,4,12/13/2016,16:21,Dana
+"3757 Girard Ave n ,Minneapolis,MN",45.023782000000004,-93.29692299999999,4,Folwell,Camden,3,1,12/13/2016,12:51,Dana
+"1913 Irving ave n,Minneapolis,MN",44.998807,-93.29944499999999,5,Willard - Hay,Near North,3,1,12/13/2016,11:11,Dana
+"1009 17th ave se,Minneapolis,MN",44.988121,-93.228237,1,Como,University,3,4,12/13/2016,12:51,Dana
+"305 24th ave ne,Minneapolis,MN",45.012186,-93.26441700000001,3,Bottineau,Northeast,3,2,12/13/2016,11:11,Dana
+"2311 Jackson St ne,Minneapolis,MN",45.011236,-93.248825,1,Holland,Northeast,3,2,12/13/2016,12:51,Dana
+"3245 aldrich ave n ,Minneapolis,MN",45.014571999999994,-93.289313,4,McKinley,Camden,3,1,12/13/2016,11:13,Dana
+"615 7th Ave se,Minneapolis,MN",44.986847999999995,-93.243545,3,Marcy Holmes,University,3,4,12/13/2016,11:15,Dana
+"605 18TH ST e,Minneapolis,MN",44.965140999999996,-93.267425,6,Ventura Village,Phillips,3,3,12/13/2016,12:52,Dana
+"3657 18th ave s,Minneapolis,MN",44.936077000000004,-93.248296,9,Powderhorn Park,Powderhorn,3,6,12/13/2016,11:16,Dana
+"705 26th ave ne,Minneapolis,MN",44.966341,-93.234542,2,Cedar Riverside,University,3,4,12/13/2016,12:53,Dana
+"2003 ivring ave n,Minneapolis,MN",44.99985,-93.298912,5,Jordan,Near North,3,1,12/13/2016,11:17,Dana
+"629 19th st e ,Minneapolis,MN",44.963771,-93.266188,6,Ventura Village,Phillips,3,3,12/13/2016,12:53,Dana
+"1775 Emerson ave s,Minneapolis,MN",44.965973,-93.293971,7,Lowry Hill,Calhoun Isle,3,3,12/13/2016,11:18,Dana
+"1709 2nd ave s,Minneapolis,MN",44.965918,-93.273707,6,Steven's Square - Loring Heights,Central,3,3,12/13/2016,12:53,Dana
+"505 9th ave se,Minneapolis,MN",44.984675,-93.242378,3,Marcy Holmes,University,3,4,12/13/2016,12:54,Dana
+"205 clifton ave,Minneapolis,MN",44.966062,-93.28383199999999,7,Loring Park,Central,3,3,12/13/2016,11:20,Dana
+"2547 Quincy st ne,Minneapolis,MN",45.014637,-93.250881,1,Holland,Northeast,3,2,12/13/2016,12:55,Dana
+"25 23rd ave ne ,Minneapolis,MN",45.011061,-93.27095899999999,3,Bottineau,Northeast,3,2,12/13/2016,11:21,Dana
+"201 6th Ave se,Minneapolis,MN",44.982957,-93.248453,3,Marcy Holmes,University,3,4,12/13/2016,12:56,Dana
+"1201 32 est,Minneapolis,MN",45.025825,-93.242228,1,Waite Park,Northeast,3,2,12/13/2016,11:21,Dana
+"1009 19th st e,Minneapolis,MN",44.963772,-93.259084,6,Ventura Village,Phillips,3,3,12/13/2016,12:56,Dana
+"2951 Aldrich ave n,Minneapolis,MN",45.010983,-93.289621,5,Hawthorne,Near North,3,1,12/13/2016,11:22,Dana
+"1507 queen Ave n,Minneapolis,MN",44.994337,-93.30985,5,Willard - Hay,Near North,3,1,12/13/2016,12:57,Dana
+"1303 32nd st e,Minneapolis,MN",44.944734999999994,-93.255011,9,Powderhorn Park,Powderhorn,3,6,12/13/2016,11:23,Dana
+"225 8th Avenue Southeast ,Minneapolis,MN",44.982557,-93.245097,3,Marcy Holmes,University,3,4,12/13/2016,11:24,Dana
+"107 32nd st w,Minneapolis,MN",44.944717,-93.280066,8,Lyndale,Powderhorn,3,5,12/13/2016,12:57,Dana
+"1901 Logan Ave n ,Minneapolis,MN",44.998758,-93.303202,5,Willard - Hay,Near North,3,1,12/13/2016,11:25,Dana
+"3441 Oliver ave n,Minneapolis,MN",45.018021999999995,-93.307213,4,Folwell,Camden,3,1,12/13/2016,12:57,Dana
+"119 17TH st e,Minneapolis,MN",44.966262,-93.274835,6,Steven's Square - Loring Heights,Central,3,3,12/13/2016,11:26,Dana
+"2603 Jackson st ne,Minneapolis,MN",45.015049,-93.249098,1,Holland,Northeast,3,2,12/13/2016,12:58,Dana
+"4359 girard Ave n,Minneapolis,MN",45.035178,-93.297179,4,Webber - Camden,Camden,3,1,12/13/2016,11:27,Dana
+"719 8th Avenue Southeast ,Minneapolis,MN",44.987353999999996,-93.24132,3,Marcy Holmes,University,3,4,12/13/2016,12:58,Dana
+"1725 James Ave N,Minneapolis,MN",44.996604999999995,-93.30069300000001,5,Willard - Hay,Near North,3,1,12/13/2016,11:27,Dana
+"2507 Upton ave n,Minneapolis,MN",45.005233000000004,-93.314925,5,Willard - Hay,Near North,3,1,12/13/2016,12:59,Dana
+"2417 Aldrich Ave n. ,Minneapolis,MN",45.004405,-93.289865,5,Hawthorne,Near North,3,1,12/13/2016,11:27,Dana
+"2215 36 th st e,Minneapolis,MN",44.937538,-93.239728,12,Standish,Powderhorn,3,6,12/13/2016,13:00,Dana
+"3319 Elliot Avenue South,Minneapolis,MN",44.942558,-93.261329,9,Powderhorn Park,Powderhorn,3,6,12/13/2016,11:28,Dana
+"503 9th ave se,Minneapolis,MN",44.984659,-93.242393,3,Marcy Holmes,University,3,4,12/13/2016,13:01,Dana
+"225 18th St e,Minneapolis,MN",44.965207,-93.273278,6,Steven's Square - Loring Heights,Central,3,3,12/13/2016,11:29,Dana
+"3255 Irving Ave. n. ,Minneapolis,MN",45.014860999999996,-93.299687,4,Folwell,Camden,3,1,12/13/2016,13:01,Dana
+"219 19th Street East,Minneapolis,MN",44.963941999999996,-93.27350200000001,6,Steven's Square - Loring Heights,Central,3,3,12/13/2016,11:31,Dana
+"4125 Standish ave so,Minneapolis,MN",44.927925,-93.239367,12,Standish,Powderhorn,3,6,12/13/2016,13:03,Dana
+"3035 13TH AV S,Minneapolis,MN",44.947571999999994,-93.25629599999999,9,Powderhorn Park,Powderhorn,3,6,12/13/2016,11:31,Dana
+"2211 Queen Ave. N.,Minneapolis,MN",45.001903999999996,-93.30983499999999,5,Willard - Hay,Near North,3,1,12/13/2016,13:03,Dana
+"411 Clifton ave,Minneapolis,MN",44.966097,-93.28394300000001,7,Loring Park,Central,3,3,12/13/2016,11:31,Dana
+"1015 19th Ave SE ,Minneapolis,MN",44.988296000000005,-93.225595,1,Como,University,3,4,12/13/2016,13:04,Dana
+"305 19th st e,Minneapolis,MN",44.963941999999996,-93.27244499999999,6,Steven's Square - Loring Heights,Central,3,3,12/13/2016,11:32,Dana
+"1847 34th Street East,Minneapolis,MN",44.941323,-93.246025,9,Corcoran,Powderhorn,3,6,12/13/2016,13:04,Dana
+"21 27th ave ne,Minneapolis,MN",45.016812,-93.271629,1,Marshall Terrace,Northeast,3,2,12/13/2016,11:32,Dana
+"427 8th ave se,Minneapolis,MN",44.984698,-93.243662,3,Marcy Holmes,University,3,4,12/13/2016,11:32,Dana
+"711 26th ave ne,Minneapolis,MN",44.966134999999994,-93.234299,2,Cedar Riverside,University,3,4,12/13/2016,13:05,Dana
+"323 7th ave se,Minneapolis,MN",44.983954,-93.245838,3,Marcy Holmes,University,3,4,12/13/2016,11:34,Dana
+"877 21st Ave SE ,Minneapolis,MN",44.985734,-93.223225,2,Como,University,3,4,12/13/2016,13:09,Dana
+"37 23rd ave ne,Minneapolis,MN",45.011305,-93.27040699999999,3,Bottineau,Northeast,3,2,12/13/2016,11:34,Dana
+"513 11th ave se,Minneapolis,MN",44.983278000000006,-93.23906600000001,3,Marcy Holmes,University,3,4,12/13/2016,13:10,Dana
+"3317 Girard Ave s,Minneapolis,MN",44.942372999999996,-93.29683399999999,10,South Uptown,Calhoun Isle,3,5,12/13/2016,11:35,Dana
+"3447 32nd ave s,Minneapolis,MN",44.939862,-93.225665,12,Howe,Longfellow,3,6,12/13/2016,13:13,Dana
+"3309 Elliot Avenue South,Minneapolis,MN",44.942868,-93.261328,9,Powderhorn Park,Powderhorn,3,6,12/13/2016,11:36,Dana
+"627 19th st e,Minneapolis,MN",44.963938,-93.266288,6,Ventura Village,Phillips,3,3,12/13/2016,13:14,Dana
+"19 28th ave ne,Minneapolis,MN",44.930104,-93.231625,12,Standish,Powderhorn,3,6,12/13/2016,11:36,Dana
+"3211 37th st e,Minneapolis,MN",44.935936,-93.226301,12,Howe,Longfellow,3,6,12/13/2016,13:15,Dana
+"3655 Snelling Ave s,Minneapolis,MN",44.936288,-93.226892,12,Howe,Longfellow,3,6,12/13/2016,11:36,Dana
+"811 Sheridan Ave n ,Minneapolis,MN",44.986458,-93.312366,5,Willard - Hay,Near North,3,1,12/13/2016,13:15,Dana
+"1107 14th ave se,Minneapolis,MN",44.991023999999996,-93.23233499999999,2,Como,University,3,4,12/13/2016,11:38,Dana
+"1223 Thomas aven ,Minneapolis,MN",44.990787,-93.31370600000001,5,Willard - Hay,Near North,3,1,12/13/2016,13:16,Dana
+"2001 Irving ave n,Minneapolis,MN",44.999836,-93.298914,5,Jordan,Near North,3,1,12/13/2016,11:38,Dana
+"517 BRYANT AVE N,Minneapolis,MN",44.982963,-93.290859,5,Sumner - Glenwood,Near North,3,3,12/13/2016,13:18,Dana
+"3313 Fremont ave s,Minneapolis,MN",44.942501,-93.295798,10,South Uptown,Calhoun Isle,3,5,12/13/2016,11:38,Dana
+"719 Oliver ave n,Minneapolis,MN",44.985714,-93.30704200000001,5,Near - North,Near North,3,1,12/13/2016,13:19,Dana
+"423 8th Ave se,Minneapolis,MN",44.984588,-93.243515,3,Marcy Holmes,University,3,4,12/13/2016,11:39,Dana
+"1845 Quincy St ne,Minneapolis,MN",45.007533,-93.250387,1,Logan Park,Northeast,3,2,12/13/2016,13:20,Dana
+"229 8th ave se,Minneapolis,MN",44.982571,-93.245086,3,Marcy Holmes,University,3,4,12/13/2016,11:39,Dana
+"1235 Thomas Ave n,Minneapolis,MN",44.991172999999996,-93.31370799999999,5,Willard - Hay,Near North,3,1,12/13/2016,13:22,Dana
+"915 23rd ave ne,Minneapolis,MN",45.011066,-93.24851899999999,1,Holland,Northeast,3,2,12/13/2016,11:40,Dana
+"1103 6th st se ,Minneapolis,MN",44.984032,-93.23812099999999,3,Marcy Holmes,University,3,4,12/13/2016,13:24,Dana
+"305 8th AVE se,Minneapolis,MN",44.982954,-93.244784,3,Marcy Holmes,University,3,4,12/13/2016,11:41,Dana
+"203 6th Ave se,Minneapolis,MN",44.982977000000005,-93.248437,3,Marcy Holmes,University,3,4,12/13/2016,13:24,Dana
+"317 18th st e ,Minneapolis,MN",44.965206,-93.271861,6,Steven's Square - Loring Heights,Central,3,3,12/13/2016,11:41,Dana
+"1013 20th ave ne,Minneapolis,MN",45.009097,-93.244913,1,Windom Park,Northeast,3,2,12/13/2016,13:25,Dana
+"3313 Fremont ave s,Minneapolis,MN",44.942501,-93.295798,10,South Uptown,Calhoun Isle,3,5,12/13/2016,11:41,Dana
+"2333 Thomas Ave n. ,Minneapolis,MN",45.003454999999995,-93.313528,5,Willard - Hay,Near North,3,1,12/13/2016,13:27,Dana
+"1239 Thomas Ave N,Minneapolis,MN",44.991254999999995,-93.313373,5,Willard - Hay,Near North,3,1,12/13/2016,13:27,Dana
+"911 23rd ave ne,Minneapolis,MN",45.010884999999995,-93.24855699999999,1,Holland,Northeast,3,2,12/13/2016,11:41,Dana
+"2407 Sheridan ave n,Minneapolis,MN",45.004512,-93.312389,5,Willard - Hay,Near North,3,1,12/13/2016,13:28,Dana
+"425 8th Ave se,Minneapolis,MN",44.984716,-93.24378,3,Marcy Holmes,University,3,4,12/13/2016,11:42,Dana
+"2509 Madison st ne,Minneapolis,MN",45.014492,-93.254278,1,Holland,Northeast,3,2,12/13/2016,13:28,Dana
+"2421 Garfield Ave s,Minneapolis,MN",44.958424,-93.286739,10,Whittier,Powderhorn,3,3,12/13/2016,11:43,Dana
+"1109 10th Ave n ,Minneapolis,MN",44.988158,-93.292702,5,Sumner - Glenwood,Near North,3,1,12/13/2016,13:29,Dana
+"703 Morgan Ave n ,Minneapolis,MN",44.985257,-93.304867,5,Near - North,Near North,3,1,12/13/2016,11:43,Dana
+"929 23rd ave ne,Minneapolis,MN",45.010882,-93.247346,1,Windom Park,Northeast,3,2,12/13/2016,11:43,Dana
+"717 17TH st e,Minneapolis,MN",44.966268,-93.26467199999999,6,Elliot Park,Central,3,3,12/13/2016,13:29,Dana
+"921 23rd ave ne,Minneapolis,MN",45.010883,-93.24794,1,Holland,Northeast,3,2,12/13/2016,11:44,Dana
+"2707 Sheridan ave n,Minneapolis,MN",45.008072,-93.312405,4,Jordan,Near North,3,1,12/13/2016,13:29,Dana
+"3319 41st Ave. S. ,Minneapolis,MN",44.94265,-93.21399699999999,2,Cooper,Longfellow,3,6,12/13/2016,13:30,Dana
+"2423 aldrich ave n ,Minneapolis,MN",45.004571999999996,-93.28999,5,Hawthorne,Near North,3,1,12/13/2016,11:45,Dana
+"639 19th st e,Minneapolis,MN",44.963938,-93.265886,6,Ventura Village,Phillips,3,3,12/13/2016,13:31,Dana
+"21 28th ave ne,Minneapolis,MN",45.018587,-93.271869,1,Marshall Terrace,Northeast,3,2,12/13/2016,11:45,Dana
+"2203 Howard st ne,Minneapolis,MN",45.010028999999996,-93.253116,1,Holland,Northeast,3,2,12/13/2016,13:31,Dana
+"2415 Garfield Ave s ,Minneapolis,MN",44.958583000000004,-93.286737,10,Whittier,Powderhorn,3,3,12/13/2016,11:45,Dana
+"691 22nd ave ne,Minneapolis,MN",45.009983,-93.253219,1,Holland,Northeast,3,2,12/13/2016,13:32,Dana
+"1027 17th Ave SE ,Minneapolis,MN",44.988651000000004,-93.22845600000001,1,Como,University,3,4,12/13/2016,11:46,Dana
+"2315 Aldrich ave n,Minneapolis,MN",45.003145,-93.289899,5,Hawthorne,Near North,3,1,12/13/2016,11:47,Dana
+"717 6th st se,Minneapolis,MN",44.986252,-93.242956,3,Marcy Holmes,University,3,4,12/13/2016,13:32,Dana
+"2611 California st ne,Minneapolis,MN",45.015336,-93.268653,1,Marshall Terrace,Northeast,3,2,12/13/2016,11:47,Dana
+"1303 6th st e,Minneapolis,MN",44.982909,-93.23532900000001,3,Marcy Holmes,University,3,4,12/13/2016,13:33,Dana
+"3107 12th ave,Minneapolis,MN",44.946255,-93.257182,9,Powderhorn Park,Powderhorn,3,6,12/13/2016,11:50,Dana
+"669 23rd ave ne,Minneapolis,MN",45.011072999999996,-93.25444300000001,1,Holland,Northeast,3,2,12/13/2016,13:34,Dana
+"3045 12th ave,Minneapolis,MN",44.946809,-93.257188,9,Powderhorn Park,Powderhorn,3,6,12/13/2016,11:52,Dana
+"1301 6th st e,Minneapolis,MN",44.983089,-93.235224,3,Marcy Holmes,University,3,4,12/13/2016,13:36,Dana
+"607 19th St e,Minneapolis,MN",44.963938,-93.267261,6,Ventura Village,Phillips,3,3,12/13/2016,13:37,Dana
+"207 8th Avenue Southeast ,Minneapolis,MN",44.982121,-93.245446,3,Marcy Holmes,University,3,4,12/13/2016,11:53,Dana
+"2115 Bryant Ave n ,Minneapolis,MN",45.000793,-93.29145799999999,5,Hawthorne,Near North,3,1,12/13/2016,13:38,Dana
+"3449 18th ave so,Minneapolis,MN",44.939683,-93.248366,9,Powderhorn Park,Powderhorn,3,6,12/13/2016,11:55,Dana
+"1103 Logan ave n,Minneapolis,MN",44.988999,-93.303234,5,Near - North,Near North,3,1,12/13/2016,11:56,Dana
+"303 18TH st e,Minneapolis,MN",44.965204,-93.272605,6,Steven's Square - Loring Heights,Central,3,3,12/13/2016,11:56,Dana
+"811 13th Avenue Southeast,Minneapolis,MN",44.985294,-93.23380999999999,3,Marcy Holmes,University,3,4,12/13/2016,13:39,Dana
+"409 CLIFTON AVE,Minneapolis,MN",44.966097,-93.28394200000001,7,Loring Park,Central,3,3,12/13/2016,11:56,Dana
+"2029 5th Ave s,Minneapolis,MN",44.961844,-93.268958,6,Ventura Village,Phillips,3,3,12/13/2016,13:40,Dana
+"3001 12th Ave. S. ,Minneapolis,MN",44.94835,-93.257571,9,Powderhorn Park,Powderhorn,3,6,12/13/2016,11:57,Dana
+"3445 Colfax Ave s,Minneapolis,MN",44.939864,-93.291993,10,South Uptown,Calhoun Isle,3,5,12/13/2016,13:40,Dana
+"3731 aldrich ave n ,Minneapolis,MN",45.023028000000004,-93.28966,4,McKinley,Camden,3,1,12/13/2016,11:59,Dana
+"3301 Bryant Ave n ,Minneapolis,MN",45.015069,-93.29089599999999,4,McKinley,Camden,3,1,12/13/2016,13:41,Dana
+"1917 STEVENS AVE S,Minneapolis,MN",44.963254,-93.27493100000001,6,Steven's Square - Loring Heights,Central,3,3,12/13/2016,11:59,Dana
+"715 9th Ave N,Minneapolis,MN",44.998551,-93.260243,3,St. Anthony West,Northeast,3,2,12/13/2016,13:42,Dana
+"1835 Irving ave n,Minneapolis,MN",44.998458,-93.299699,5,Willard - Hay,Near North,3,1,12/13/2016,12:00,Dana
+"601 18th st e,Minneapolis,MN",44.965096,-93.267624,6,Ventura Village,Phillips,3,3,12/13/2016,13:42,Dana
+"707 newton Ave n ,Minneapolis,MN",44.985378000000004,-93.306027,5,Near - North,Near North,3,1,12/13/2016,12:00,Dana
+"2315 Madison st ne,Minneapolis,MN",45.011641,-93.254013,1,Holland,Northeast,3,2,12/13/2016,13:42,Dana
+"1917 2ND AVE S,Minneapolis,MN",44.96328,-93.273798,6,Steven's Square - Loring Heights,Central,3,3,12/13/2016,12:01,Dana
+"1223 Thomas Ave n ,Minneapolis,MN",44.990787,-93.31370600000001,5,Willard - Hay,Near North,3,1,12/13/2016,13:43,Dana
+"421 8th ave se,Minneapolis,MN",44.984639,-93.243696,3,Marcy Holmes,University,3,4,12/13/2016,12:02,Dana
+"641 18th st e,Minneapolis,MN",44.965205,-93.26562,6,Ventura Village,Phillips,3,3,12/13/2016,13:44,Dana
+"627 Newton Ave N,Minneapolis,MN",44.985143,-93.305779,5,Near - North,Near North,3,1,12/13/2016,12:04,Dana
+"615 Elwood Ave n ,Minneapolis,MN",44.984932,-93.298947,5,Near - North,Near North,3,1,12/13/2016,13:44,Dana
+"1709 stevens ave s,Minneapolis,MN",44.965958,-93.275276,6,Steven's Square - Loring Heights,Central,3,3,12/13/2016,12:05,Dana
+"2303 TALMAGE AVE SE,Minneapolis,MN",44.989727,-93.22014399999999,1,Como,University,3,4,12/13/2016,13:45,Dana
+"1313 13 th ave s,Minneapolis,MN",44.96695,-93.25654499999999,6,Elliot Park,Central,3,3,12/13/2016,12:06,Dana
+"1307 6th St se ,Minneapolis,MN",44.983077,-93.235063,3,Marcy Holmes,University,3,4,12/13/2016,13:45,Dana
+"803 22nd ave ne,Minneapolis,MN",45.009890000000006,-93.250865,1,Holland,Northeast,3,2,12/13/2016,12:06,Dana
+"135 17th st e,Minneapolis,MN",44.966262,-93.274436,6,Steven's Square - Loring Heights,Central,3,3,12/13/2016,12:07,Dana
+"615 17th st e,Minneapolis,MN",44.966255,-93.267277,6,Elliot Park,Central,3,3,12/13/2016,13:47,Dana
+"309 8th ave se,Minneapolis,MN",44.983079,-93.24468900000001,3,Marcy Holmes,University,3,4,12/13/2016,12:07,Dana
+"3303 40th st e,Minneapolis,MN",44.930534,-93.223562,12,Hiawatha,Longfellow,3,6,12/13/2016,13:53,Dana
+"2421 14th ave n,Minneapolis,MN",44.993322,-93.31105500000001,5,Willard - Hay,Near North,3,1,12/13/2016,13:55,Dana
+"1903 2nd ave s,Minneapolis,MN",44.963862,-93.27401,6,Steven's Square - Loring Heights,Central,3,3,12/13/2016,12:08,Dana
+"3223 Bryant ave n,Minneapolis,MN",45.01392,-93.290817,4,McKinley,Camden,3,1,12/13/2016,13:57,Dana
+"3105 28th ave,Minneapolis,MN",44.946609,-93.231563,2,Longfellow,Longfellow,3,6,12/13/2016,13:57,Dana
+"617Elwood Ave n ,Minneapolis,MN",44.984986,-93.298867,5,Near - North,Near North,3,1,12/13/2016,13:57,Dana

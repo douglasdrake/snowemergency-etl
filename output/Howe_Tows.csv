@@ -1,0 +1,845 @@
+Location,Latitude,Longitude,Ward,Community,Neighborhood,Tow_Zone,Day,Emergency,Date,Time
+"710 RUSSELL AVE N,Minneapolis,MN",44.985471000000004,-93.31076800000001,5,Near North,Willard - Hay,1,2,Howe,04/16/2018,14:43
+"150 26th Ave SE,Minneapolis,MN",44.971199,-93.220151,2,University,Prospect Park - East River Road,4,2,Howe,04/16/2018,14:43
+"360 18th Ave NE,Minneapolis,MN",45.006359,-93.262426,1,Northeast,Holland,2,2,Howe,04/16/2018,14:44
+"3520 31st st e ,Minneapolis,MN",44.939345,-93.227075,12,Longfellow,Howe,6,2,Howe,04/16/2018,14:46
+"4004 Emerson Ave n,Minneapolis,MN",45.027867,-93.294223,4,Camden,Webber - Camden,1,2,Howe,04/16/2018,14:47
+"3024 13th ave,Minneapolis,MN",44.947417,-93.256635,9,Powderhorn,Powderhorn Park,6,2,Howe,04/16/2018,14:49
+"3128 15th ave,Minneapolis,MN",44.945703,-93.254061,9,Powderhorn,Powderhorn Park,6,2,Howe,04/16/2018,14:51
+"1104 14th ave se,Minneapolis,MN",44.991001000000004,-93.231776,1,University,Como,4,2,Howe,04/16/2018,14:53
+"2516 34th st e,Minneapolis,MN",44.941345,-93.23521,9,Powderhorn,Corcoran,6,2,Howe,04/16/2018,14:57
+"2320 pleasant Ave ,Minneapolis,MN",44.959438,-93.283287,10,Powderhorn,Whittier,3,2,Howe,04/16/2018,15:00
+"1404 6th st se,Minneapolis,MN",44.982157,-93.23411899999999,3,University,Marcy Holmes,4,2,Howe,04/16/2018,15:00
+"238 Irving ave n,Minneapolis,MN",44.979246,-93.299148,5,Near North,Harrison,3,2,Howe,04/16/2018,15:02
+"3714 43rd st e,Minneapolis,MN",44.925314,-93.218599,12,Longfellow,Hiawatha,6,2,Howe,04/16/2018,15:02
+"814 Oliver Ave N,Minneapolis,MN",44.986571999999995,-93.306748,5,Near North,Near - North,1,2,Howe,04/16/2018,15:02
+"3620 dupont Ave n ,Minneapolis,MN",45.02098,-93.292816,4,Camden,McKinley,1,2,Howe,04/16/2018,15:03
+"320 bryant ave n ,Minneapolis,MN",44.981493,-93.290435,5,Near North,Sumner - Glenwood,3,2,Howe,04/16/2018,15:05
+"3726 Colfax Ave n ,Minneapolis,MN",45.022931,-93.291575,4,Camden,McKinley,1,2,Howe,04/16/2018,15:06
+"1350 sheridan ave n ,Minneapolis,MN",44.993131,-93.311751,5,Near North,Willard - Hay,1,2,Howe,04/16/2018,15:08
+"1348 sheridan ave n ,Minneapolis,MN",44.9931,-93.31173000000001,5,Near North,Willard - Hay,1,2,Howe,04/16/2018,15:14
+"1816 Steven ave s,Minneapolis,MN",44.964705,-93.275673,6,Central,Steven's Square - Loring Heights,3,2,Howe,04/16/2018,15:16
+"622 RUSSELL AVE N,Minneapolis,MN",44.984998,-93.310753,5,Near North,Willard - Hay,1,2,Howe,04/16/2018,15:18
+"2705 Delaware st se,Minneapolis,MN",44.971455999999996,-93.218878,2,University,Prospect Park - East River Road,4,2,Howe,04/16/2018,15:20
+"2516 Delaware st se,Minneapolis,MN",44.972114000000005,-93.221298,2,University,Prospect Park - East River Road,4,2,Howe,04/16/2018,15:22
+"3706 DuPont Ave n,Minneapolis,MN",45.022421,-93.29282099999999,4,Camden,McKinley,1,2,Howe,04/16/2018,15:23
+"738 16th st e,Minneapolis,MN",44.967394,-93.26292600000001,6,Central,Elliot Park,3,2,Howe,04/16/2018,15:23
+"3014 ALDRICH Av S,Minneapolis,MN",44.948132,-93.289383,10,Calhoun Isle,South Uptown,5,2,Howe,04/16/2018,15:26
+"1430 Newton Ave N,Minneapolis,MN",44.994011,-93.30543399999999,5,Near North,Willard - Hay,1,2,Howe,04/16/2018,15:28
+"1526 talmage ave se,Minneapolis,MN",44.989527,-93.230447,1,University,Como,4,2,Howe,04/16/2018,15:29
+"3018 ALDRICH AV S,Minneapolis,MN",44.94769,-93.289686,10,Calhoun Isle,South Uptown,5,2,Howe,04/16/2018,15:30
+"3516 39th Street East,Minneapolis,MN",44.932384000000006,-93.221451,12,Longfellow,Howe,6,2,Howe,04/16/2018,15:34
+"3210 Chicago Avenue South,Minneapolis,MN",44.944324,-93.262952,9,Powderhorn,Central,5,1,Howe,04/15/2018,21:25
+"3136 E 28th ST,Minneapolis,MN",44.951989000000005,-93.226388,2,Longfellow,Longfellow,4,2,Howe,04/16/2018,15:35
+"3710 dupont Ave n ,Minneapolis,MN",45.022529999999996,-93.292834,4,Camden,McKinley,1,2,Howe,04/16/2018,15:39
+"3038 14th ave s,Minneapolis,MN",44.947229,-93.255354,9,Powderhorn,Powderhorn Park,6,2,Howe,04/16/2018,15:42
+"1014 15th Ave se ,Minneapolis,MN",44.988432,-93.230448,1,University,Como,4,2,Howe,04/16/2018,15:44
+"2312 Pillsbury Ave s,Minneapolis,MN",44.959703000000005,-93.281747,10,Powderhorn,Whittier,3,2,Howe,04/16/2018,15:44
+"930 17th Ave Se,Minneapolis,MN",44.985676,-93.228306,2,University,Como,4,2,Howe,04/16/2018,15:44
+"1900 newton ave n ,Minneapolis,MN",44.998756,-93.30569100000001,5,Near North,Willard - Hay,1,2,Howe,04/16/2018,15:46
+"3040 14th Avenue South,Minneapolis,MN",44.947196000000005,-93.25535699999999,9,Powderhorn,Powderhorn Park,6,2,Howe,04/16/2018,15:46
+"1910 Steven ave s,Minneapolis,MN",44.963498,-93.275649,6,Central,Steven's Square - Loring Heights,3,2,Howe,04/16/2018,15:46
+"2734 Pillsbury Ave s,Minneapolis,MN",44.952571,-93.281696,10,Powderhorn,Whittier,3,2,Howe,04/16/2018,15:48
+"331 17th ave ne,Minneapolis,MN",45.005271,-93.263072,3,Northeast,Sheridan,2,2,Howe,04/16/2018,15:48
+"1024 14th ave se,Minneapolis,MN",44.988617,-93.23170999999999,1,University,Como,4,2,Howe,04/16/2018,15:50
+"1416 6th St Se,Minneapolis,MN",44.981966,-93.233612,3,University,Marcy Holmes,4,2,Howe,04/16/2018,15:20
+"1002 16th ave se,Minneapolis,MN",44.987938,-93.229502,1,University,Como,4,2,Howe,04/16/2018,15:51
+"4014 Bryant Ave n ,Minneapolis,MN",45.028110999999996,-93.290352,4,Camden,Webber - Camden,1,2,Howe,04/16/2018,15:51
+"1034 14th Ave Se,Minneapolis,MN",44.988873999999996,-93.23172,1,University,Como,4,2,Howe,04/16/2018,14:50
+"1126 12th Ave N,Minneapolis,MN",44.989697,-93.306027,5,Near North,Near - North,1,2,Howe,04/16/2018,15:54
+"2426 33rd st e,Minneapolis,MN",44.943159,-93.236373,9,Powderhorn,Corcoran,6,2,Howe,04/16/2018,15:54
+"1000 UPTON AVE N,Minneapolis,MN",44.988102000000005,-93.314352,5,Near North,Willard - Hay,1,2,Howe,04/16/2018,15:54
+"3658 5th st ne,Minneapolis,MN",45.035043,-93.259959,1,Northeast,Columbia Park,2,2,Howe,04/16/2018,15:55
+"3552 Irving Ave n,Minneapolis,MN",45.020108,-93.299065,4,Camden,Folwell,1,2,Howe,04/16/2018,15:57
+"1022 15th Ave Se,Minneapolis,MN",44.988526,-93.230427,1,University,Como,4,2,Howe,04/16/2018,15:59
+"2326 Grand Ave s ,Minneapolis,MN",44.959302,-93.284481,10,Powderhorn,Whittier,3,2,Howe,04/16/2018,16:04
+"2106 14th ave n ,Minneapolis,MN",44.99321,-93.30703199999999,5,Near North,Willard - Hay,1,2,Howe,04/16/2018,16:04
+"2802 33rd st,Minneapolis,MN",44.943073,-93.231771,9,Longfellow,Longfellow,6,2,Howe,04/16/2018,16:07
+"3632 snelling,Minneapolis,MN",44.936786,-93.22794300000001,12,Longfellow,Howe,6,2,Howe,04/16/2018,16:09
+"1124 12th Ave N,Minneapolis,MN",44.989697,-93.306027,5,Near North,Near - North,1,2,Howe,04/16/2018,16:10
+"706 17th st e,Minneapolis,MN",44.966491,-93.264935,6,Central,Elliot Park,3,2,Howe,04/16/2018,16:19
+"1120 8th Ave n,Minneapolis,MN",44.986339,-93.29893100000001,5,Near North,Near - North,1,2,Howe,04/16/2018,16:22
+"1344 UPTON AVE N,Minneapolis,MN",44.992987,-93.314364,5,Near North,Willard - Hay,1,2,Howe,04/16/2018,16:30
+"940 11th Ave N,Minneapolis,MN",44.989272,-93.292288,5,Near North,Near - North,1,2,Howe,04/16/2018,16:33
+"754 Pierce St NE,Minneapolis,MN",44.998472,-93.24123,3,Northeast,Beltrami,2,2,Howe,04/16/2018,16:34
+"3404 Snelling Avenue South,Minneapolis,MN",44.940964,-93.231369,12,Longfellow,Howe,6,2,Howe,04/16/2018,16:37
+"1030 16th ave se,Minneapolis,MN",44.988785,-93.229248,1,University,Como,4,2,Howe,04/16/2018,16:39
+"3408 Snelling Avenue South,Minneapolis,MN",44.940851,-93.231246,12,Longfellow,Howe,6,2,Howe,04/16/2018,16:41
+"1711 lyn park ave n ,Minneapolis,MN",44.997037,-93.286165,5,Near North,Near - North,1,3,Howe,04/17/2018,08:15
+"1711 lyn park ave n ,Minneapolis,MN",44.997037,-93.286165,5,Near North,Near - North,1,3,Howe,04/17/2018,08:21
+"2915 3rd st n ,Minneapolis,MN",45.010042,-93.283794,5,Near North,Hawthorne,1,3,Howe,04/17/2018,08:25
+"511 3rd ave se,Minneapolis,MN",44.988112,-93.25043199999999,3,University,Marcy Holmes,4,3,Howe,04/17/2018,08:29
+"321 3rd ave se,Minneapolis,MN",44.986255,-93.251914,3,University,Marcy Holmes,4,3,Howe,04/17/2018,08:33
+"303 3rd ave ne,Minneapolis,MN",44.990996,-93.258364,3,Northeast,St. Anthony West,2,3,Howe,04/17/2018,08:34
+"325 3rd ave ne,Minneapolis,MN",44.990792,-93.25761700000001,3,Northeast,St. Anthony West,2,3,Howe,04/17/2018,08:37
+"827 Lyndale place,Minneapolis,MN",44.983462,-93.288678,5,Near North,Sumner - Glenwood,3,3,Howe,04/17/2018,08:41
+"305 3rd ave ne,Minneapolis,MN",44.991015000000004,-93.258309,3,Northeast,St. Anthony West,2,3,Howe,04/17/2018,08:41
+"503 3rd ave ne,Minneapolis,MN",44.992471,-93.254631,3,Northeast,St. Anthony East,2,3,Howe,04/17/2018,08:44
+"747 lyndale ave n ,Minneapolis,MN",44.985416,-93.288797,5,Near North,Sumner - Glenwood,1,3,Howe,04/17/2018,08:45
+"105 14th st w,Minneapolis,MN",44.968789,-93.27936,7,Central,Loring Park,3,3,Howe,04/17/2018,08:46
+"2725 40th Street East,Minneapolis,MN",44.930503,-93.232741,12,Powderhorn,Standish,6,3,Howe,04/17/2018,08:47
+"2119 6th St n,Minneapolis,MN",45.000853,-93.286899,5,Near North,Hawthorne,1,3,Howe,04/17/2018,08:48
+"829 Aldrich ave n ,Minneapolis,MN",44.986587,-93.29097,5,Near North,Sumner - Glenwood,1,3,Howe,04/17/2018,08:51
+"113 14TH ST W,Minneapolis,MN",44.968789,-93.2794,7,Central,Loring Park,3,3,Howe,04/17/2018,08:55
+"107 14TH ST W,Minneapolis,MN",44.968789,-93.27937,7,Central,Loring Park,3,3,Howe,04/17/2018,08:58
+"109 14th st w,Minneapolis,MN",44.968789,-93.27938,7,Central,Loring Park,3,3,Howe,04/17/2018,09:05
+"409 6th ave se,Minneapolis,MN",44.985362,-93.246811,3,University,Marcy Holmes,4,3,Howe,04/17/2018,09:06
+"901 39th St E,Minneapolis,MN",44.932354,-93.261227,8,Powderhorn,Bancroft,6,3,Howe,04/17/2018,09:07
+"423 6th ave ne,Minneapolis,MN",44.995379,-93.258341,3,Northeast,St. Anthony West,2,3,Howe,04/17/2018,09:08
+"721 Aldrich ave n ,Minneapolis,MN",44.985440000000004,-93.289733,5,Near North,Sumner - Glenwood,1,3,Howe,04/17/2018,09:10
+"1211 Fremont Ave N,Minneapolis,MN",44.989739,-93.294888,5,Near North,Near - North,1,3,Howe,04/17/2018,09:10
+"3159 15th ave,Minneapolis,MN",44.94488,-93.253511,9,Powderhorn,Powderhorn Park,6,3,Howe,04/17/2018,09:19
+"3025 16th ave,Minneapolis,MN",44.947502,-93.250997,9,Powderhorn,Powderhorn Park,6,3,Howe,04/17/2018,09:21
+"209 9th ave ne,Minneapolis,MN",44.996995,-93.263825,3,Northeast,St. Anthony West,2,3,Howe,04/17/2018,09:27
+"701 6th ave se,Minneapolis,MN",44.987876,-93.24455,3,University,Marcy Holmes,4,3,Howe,04/17/2018,09:28
+"629 6th ave se,Minneapolis,MN",44.987525,-93.245094,3,University,Marcy Holmes,4,3,Howe,04/17/2018,09:31
+"1827 dupont ave n ,Minneapolis,MN",44.998273,-93.292928,5,Near North,Near - North,1,3,Howe,04/17/2018,09:33
+"111 14th st w,Minneapolis,MN",44.968789,-93.27939,7,Central,Loring Park,3,3,Howe,04/17/2018,09:34
+"713 6th ave se,Minneapolis,MN",44.988499,-93.244487,3,University,Marcy Holmes,4,3,Howe,04/17/2018,09:36
+"3101 James ave s,Minneapolis,MN",44.946549,-93.303395,10,Calhoun Isle,ECCO,5,3,Howe,04/17/2018,09:37
+"423 5th ave se,Minneapolis,MN",44.986098,-93.24819699999999,3,University,Marcy Holmes,4,3,Howe,04/17/2018,09:37
+"2021 aldrich ave n ,Minneapolis,MN",44.999899,-93.289895,5,Near North,Hawthorne,1,3,Howe,04/17/2018,09:38
+"3043 James ave s,Minneapolis,MN",44.946949,-93.303054,10,Calhoun Isle,ECCO,5,3,Howe,04/17/2018,09:38
+"3019 6th St n,Minneapolis,MN",45.011362,-93.28670699999999,5,Near North,Hawthorne,1,3,Howe,04/17/2018,09:41
+"605 4th st ne,Minneapolis,MN",44.995263,-93.25921600000001,3,Northeast,St. Anthony West,2,3,Howe,04/17/2018,09:42
+"3717 15th Avenue South,Minneapolis,MN",44.935264000000004,-93.253393,9,Powderhorn,Powderhorn Park,6,3,Howe,04/17/2018,09:42
+"723 8th ave se,Minneapolis,MN",44.987486,-93.241522,3,University,Marcy Holmes,4,3,Howe,04/17/2018,09:43
+"647 adams st ne,Minneapolis,MN",44.99645,-93.255957,3,Northeast,St. Anthony East,2,3,Howe,04/17/2018,09:45
+"3405 Holmes ave ,Minneapolis,MN",44.940999,-93.299358,10,Calhoun Isle,ECCO,5,3,Howe,04/17/2018,09:45
+"1069 13th Ave Se,Minneapolis,MN",44.989989,-93.233624,2,University,Como,4,3,Howe,04/17/2018,08:54
+"3435 15th Avenue South,Minneapolis,MN",44.940115000000006,-93.253349,9,Powderhorn,Powderhorn Park,6,3,Howe,04/17/2018,09:48
+"3141 16th Ave s,Minneapolis,MN",44.945281,-93.250957,9,Powderhorn,Powderhorn Park,6,3,Howe,04/17/2018,09:50
+"303 8th ave se,Minneapolis,MN",44.982994,-93.245101,3,University,Marcy Holmes,4,3,Howe,04/17/2018,09:54
+"3415 16th av s ,Minneapolis,MN",44.940874,-93.250879,9,Powderhorn,Powderhorn Park,6,3,Howe,04/17/2018,09:54
+"1621 Girard Ave N,Minneapolis,MN",44.996063,-93.297493,5,Near North,Near - North,1,3,Howe,04/17/2018,10:01
+"1605 Girard ave n ,Minneapolis,MN",44.995552,-93.297513,5,Near North,Near - North,1,3,Howe,04/17/2018,10:03
+"1309 SPRUCE PL,Minneapolis,MN",44.96983,-93.280834,7,Central,Loring Park,3,3,Howe,04/17/2018,10:07
+"503 6th st se,Minneapolis,MN",44.987482,-93.246317,3,University,Marcy Holmes,4,3,Howe,04/17/2018,10:08
+"3633 25th ave so,Minneapolis,MN",44.936714,-93.235679,12,Powderhorn,Standish,6,3,Howe,04/17/2018,10:11
+"19 OAK GROVE ST,Minneapolis,MN",44.966374,-93.278779,7,Central,Loring Park,3,3,Howe,04/17/2018,10:11
+"605 6th st se,Minneapolis,MN",44.986924,-93.24477399999999,3,University,Marcy Holmes,4,3,Howe,04/17/2018,10:12
+"1723 36th st e,Minneapolis,MN",44.9376,-93.249388,9,Powderhorn,Powderhorn Park,6,3,Howe,04/17/2018,10:14
+"1341 irving ave n ,Minneapolis,MN",44.992829,-93.299648,5,Near North,Near - North,1,3,Howe,04/17/2018,10:14
+"615 7th st se,Minneapolis,MN",44.987827,-93.24377199999999,3,University,Marcy Holmes,4,3,Howe,04/17/2018,10:15
+"335 Clifton av s,Minneapolis,MN",44.965981,-93.28444499999999,7,Central,Loring Park,3,3,Howe,04/17/2018,10:16
+"723 9th ave se,Minneapolis,MN",44.986902,-93.24006999999999,3,University,Marcy Holmes,4,3,Howe,04/17/2018,10:17
+"333 oak grove st,Minneapolis,MN",44.966974,-93.284061,7,Central,Loring Park,3,3,Howe,04/17/2018,10:17
+"399 Clifton ave ,Minneapolis,MN",44.966007,-93.2845,7,Central,Loring Park,3,3,Howe,04/17/2018,10:19
+"2927 Bryant Ave n ,Minneapolis,MN",45.010332,-93.290798,5,Near North,Hawthorne,1,3,Howe,04/17/2018,10:20
+"717 7th st se,Minneapolis,MN",44.987249,-93.242194,3,University,Marcy Holmes,4,3,Howe,04/17/2018,10:20
+"2709 aldrich ave n ,Minneapolis,MN",45.008107,-93.28955400000001,5,Near North,Hawthorne,1,3,Howe,04/17/2018,10:22
+"1729 madison st ne,Minneapolis,MN",45.005404999999996,-93.253427,1,Northeast,Logan Park,2,3,Howe,04/17/2018,10:23
+"1321 Irving Ave N,Minneapolis,MN",44.992245000000004,-93.29966,5,Near North,Near - North,1,3,Howe,04/17/2018,10:24
+"2703 37th st,Minneapolis,MN",44.935924,-93.232747,12,Powderhorn,Standish,6,3,Howe,04/17/2018,10:28
+"627 8th Ave Se,Minneapolis,MN",44.986668,-93.242209,3,University,Marcy Holmes,4,3,Howe,04/17/2018,10:27
+"1419 5th st ne,Minneapolis,MN",45.002516,-93.259989,3,Northeast,Sheridan,2,3,Howe,04/17/2018,10:29
+"1087 12th Ave Se,Minneapolis,MN",44.990485,-93.234882,2,University,Como,4,3,Howe,04/17/2018,09:48
+"3111 GIRARD AVE S,Minneapolis,MN",44.946128,-93.296696,10,Calhoun Isle,South Uptown,5,3,Howe,04/17/2018,10:29
+"2319 36th st,Minneapolis,MN",44.937509999999996,-93.23781899999999,12,Powderhorn,Standish,6,3,Howe,04/17/2018,10:30
+"507 13 ave se,Minneapolis,MN",44.98202,-93.236407,3,University,Marcy Holmes,4,3,Howe,04/17/2018,10:31
+"333 oak grove st,Minneapolis,MN",44.966974,-93.284061,7,Central,Loring Park,3,3,Howe,04/17/2018,10:31
+"429 7thave Se,Minneapolis,MN",44.985052,-93.245345,3,University,Marcy Holmes,4,3,Howe,04/17/2018,09:44
+"3131 girard ave s,Minneapolis,MN",44.94551,-93.296687,10,Calhoun Isle,South Uptown,5,3,Howe,04/17/2018,10:32
+"729 8th Ave Se,Minneapolis,MN",44.987691999999996,-93.241449,3,University,Marcy Holmes,4,3,Howe,04/17/2018,09:44
+"335 oak grove st,Minneapolis,MN",44.966956,-93.284343,7,Central,Loring Park,3,3,Howe,04/17/2018,10:33
+"335 Clifton av s,Minneapolis,MN",44.965981,-93.28444499999999,7,Central,Loring Park,3,3,Howe,04/17/2018,10:33
+"3211 girard ave s,Minneapolis,MN",44.944302,-93.296724,10,Calhoun Isle,South Uptown,5,3,Howe,04/17/2018,10:34
+"343 ulysses st ne,Minneapolis,MN",44.991846,-93.235936,1,University,Como,2,3,Howe,04/17/2018,10:35
+"3145 Fremont ave s,Minneapolis,MN",44.945039,-93.295469,10,Calhoun Isle,South Uptown,5,3,Howe,04/17/2018,10:38
+"3147 GIRARD AVE S,Minneapolis,MN",44.945065,-93.296712,10,Calhoun Isle,South Uptown,5,3,Howe,04/17/2018,10:38
+"329 Clifton Ave ,Minneapolis,MN",44.965979,-93.28444,7,Central,Loring Park,3,3,Howe,04/17/2018,10:39
+"713 9th ave se,Minneapolis,MN",44.986855,-93.240011,3,University,Marcy Holmes,4,3,Howe,04/17/2018,10:42
+"1015 6th st se ,Minneapolis,MN",44.984613,-93.238833,3,University,Marcy Holmes,4,3,Howe,04/17/2018,10:45
+"2349 james ave n,Minneapolis,MN",45.003524,-93.303055,5,Near North,Jordan,1,3,Howe,04/17/2018,10:46
+"325 7th st se,Minneapolis,MN",44.98969,-93.248245,3,University,Marcy Holmes,4,3,Howe,04/17/2018,10:46
+"327 7th st se,Minneapolis,MN",44.989686,-93.248236,3,University,Marcy Holmes,4,3,Howe,04/17/2018,10:49
+"327 Clifton av s,Minneapolis,MN",44.965978,-93.284438,7,Central,Loring Park,3,3,Howe,04/17/2018,10:52
+"2529 Irving ave n ,Minneapolis,MN",45.005534000000004,-93.29941600000001,5,Near North,Jordan,1,3,Howe,04/17/2018,10:53
+"715 11th ave se,Minneapolis,MN",44.985762,-93.237639,3,University,Marcy Holmes,4,3,Howe,04/17/2018,10:54
+"211 Ridgewood ave s,Minneapolis,MN",44.963578000000005,-93.281407,7,Central,Steven's Square - Loring Heights,3,3,Howe,04/17/2018,10:55
+"1325 Morgan Ave N,Minneapolis,MN",44.992374,-93.304672,5,Near North,Willard - Hay,1,3,Howe,04/17/2018,10:56
+"2133 irving ave n ,Minneapolis,MN",45.001356,-93.298991,5,Near North,Jordan,1,3,Howe,04/17/2018,10:56
+"925 6th st se,Minneapolis,MN",44.985039,-93.239886,3,University,Marcy Holmes,4,3,Howe,04/17/2018,10:57
+"3709 18th av s,Minneapolis,MN",44.935589,-93.248365,9,Powderhorn,Powderhorn Park,6,3,Howe,04/17/2018,10:57
+"2011 pleasant ave,Minneapolis,MN",44.962231,-93.282549,10,Powderhorn,Whittier,3,3,Howe,04/17/2018,10:57
+"2123 dupont Ave n ,Minneapolis,MN",45.001124,-93.292837,5,Near North,Hawthorne,1,3,Howe,04/17/2018,10:59
+"3137 FREMONT AV S,Minneapolis,MN",44.945277000000004,-93.29549899999999,10,Calhoun Isle,South Uptown,5,3,Howe,04/17/2018,11:00
+"325 clifton ave,Minneapolis,MN",44.965977,-93.284437,7,Central,Loring Park,3,3,Howe,04/17/2018,11:00
+"3713 18th av s,Minneapolis,MN",44.935517,-93.248329,9,Powderhorn,Powderhorn Park,6,3,Howe,04/17/2018,11:01
+"2921 aldrich ave n ,Minneapolis,MN",45.010166,-93.289582,5,Near North,Hawthorne,1,3,Howe,04/17/2018,11:04
+"1309 33RD ST W,Minneapolis,MN",44.942751,-93.295926,10,Calhoun Isle,South Uptown,5,3,Howe,04/17/2018,11:04
+"325 7th st se,Minneapolis,MN",44.98969,-93.248245,3,University,Marcy Holmes,4,3,Howe,04/17/2018,11:04
+"323 clifton ave,Minneapolis,MN",44.965977,-93.284435,7,Central,Loring Park,3,3,Howe,04/17/2018,11:05
+"1113 winter st ne,Minneapolis,MN",44.993297999999996,-93.235516,1,University,Mid - City Industrial,2,3,Howe,04/17/2018,11:06
+"2905 39th st e,Minneapolis,MN",44.932311999999996,-93.230817,12,Powderhorn,Standish,6,3,Howe,04/17/2018,11:10
+"1239 LOGAN AVE N,Minneapolis,MN",44.990877000000005,-93.303472,5,Near North,Near - North,1,3,Howe,04/17/2018,11:10
+"1729 jackson st ne,Minneapolis,MN",45.005972,-93.24917099999999,1,Northeast,Logan Park,2,3,Howe,04/17/2018,11:11
+"2405 Pillsbury Ave S,Minneapolis,MN",44.958837,-93.280872,10,Powderhorn,Whittier,3,3,Howe,04/17/2018,11:12
+"609 9 1/2 ave se,Minneapolis,MN",44.987245,-93.257116,3,University,Nicollet Island - East Bank,4,3,Howe,04/17/2018,11:12
+"617 Morgan Ave N,Minneapolis,MN",44.984914,-93.30481800000001,5,Near North,Near - North,1,3,Howe,04/17/2018,11:13
+"2303 quincy st ne,Minneapolis,MN",45.011111,-93.250578,1,Northeast,Holland,2,3,Howe,04/17/2018,11:14
+"1919 Stevens av s,Minneapolis,MN",44.963262,-93.275018,6,Central,Steven's Square - Loring Heights,3,3,Howe,04/17/2018,11:16
+"705 11th ave se,Minneapolis,MN",44.985459999999996,-93.237876,3,University,Marcy Holmes,4,3,Howe,04/17/2018,11:18
+"3203 Emerson ave s ,Minneapolis,MN",44.944496,-93.29421500000001,10,Calhoun Isle,South Uptown,5,3,Howe,04/17/2018,11:18
+"545 9 1/2 ave se ,Minneapolis,MN",44.987245,-93.257116,3,University,Nicollet Island - East Bank,4,3,Howe,04/17/2018,11:22
+"3205 32nd st,Minneapolis,MN",44.944835,-93.206102,2,Longfellow,Cooper,6,3,Howe,04/17/2018,11:24
+"2317 32nd st,Minneapolis,MN",44.944556,-93.23795600000001,9,Powderhorn,Corcoran,6,3,Howe,04/17/2018,11:25
+"217 Humboldt ave n,Minneapolis,MN",44.978444,-93.29854499999999,5,Near North,Harrison,3,3,Howe,04/17/2018,11:26
+"211 girard ave,Minneapolis,MN",44.978437,-93.297604,5,Near North,Harrison,3,3,Howe,04/17/2018,11:27
+"907 Morgan ave n ,Minneapolis,MN",44.987140999999994,-93.30471999999999,5,Near North,Near - North,1,3,Howe,04/17/2018,11:29
+"1013 12TH AVE SE,Minneapolis,MN",44.988388,-93.23491700000001,2,University,Como,4,3,Howe,04/17/2018,08:57
+"803 Logan Ave N,Minneapolis,MN",44.986218,-93.303577,5,Near North,Near - North,1,3,Howe,04/17/2018,11:30
+"3127 Fremont ave s,Minneapolis,MN",44.945586999999996,-93.295463,10,Calhoun Isle,South Uptown,5,3,Howe,04/17/2018,11:31
+"2311 pillsbury ave s,Minneapolis,MN",44.959672,-93.280934,10,Powderhorn,Whittier,3,3,Howe,04/17/2018,11:32
+"917 Morgan ave n ,Minneapolis,MN",44.98745,-93.304755,5,Near North,Near - North,1,3,Howe,04/17/2018,11:33
+"1227 6th ave se ,Minneapolis,MN",44.989809,-93.24298,3,University,Marcy Holmes,4,3,Howe,04/17/2018,11:34
+"2619 Colfax Ave n ,Minneapolis,MN",45.00654,-93.292022,5,Near North,Hawthorne,1,3,Howe,04/17/2018,11:35
+"1421 SPRUCE PLACE,Minneapolis,MN",44.968247999999996,-93.280458,7,Central,Loring Park,3,3,Howe,04/17/2018,11:34
+"2635 dupont Ave n ,Minneapolis,MN",45.007013,-93.293341,5,Near North,Hawthorne,1,3,Howe,04/17/2018,11:37
+"2205 Pillsbury ave ,Minneapolis,MN",44.960617,-93.280847,10,Powderhorn,Whittier,3,3,Howe,04/17/2018,11:38
+"335 ulysses st ne,Minneapolis,MN",44.991789000000004,-93.235926,1,University,Como,2,3,Howe,04/17/2018,11:38
+"715 13th ave se,Minneapolis,MN",44.984621999999995,-93.23465300000001,3,University,Marcy Holmes,4,3,Howe,04/17/2018,11:38
+"1495 6th st se,Minneapolis,MN",44.981938,-93.232842,3,University,Marcy Holmes,4,3,Howe,04/17/2018,11:41
+"1371 SPRUCE PLACE,Minneapolis,MN",44.969528000000004,-93.280833,7,Central,Loring Park,3,3,Howe,04/17/2018,11:37
+"1407 6th st se,Minneapolis,MN",44.982394,-93.23340999999999,3,University,Marcy Holmes,4,3,Howe,04/17/2018,11:44
+"707 12TH AVE SE,Minneapolis,MN",44.9849,-93.23621999999999,3,University,Marcy Holmes,4,3,Howe,04/17/2018,10:02
+"2401 JAMES AVE N,Minneapolis,MN",45.004055,-93.30232600000001,5,Near North,Jordan,1,3,Howe,04/17/2018,11:48
+"1205 7TH ST SE,Minneapolis,MN",44.984592,-93.235715,3,University,Marcy Holmes,4,3,Howe,04/17/2018,10:07
+"1015 Knox Ave N,Minneapolis,MN",44.988403000000005,-93.302214,5,Near North,Near - North,1,3,Howe,04/17/2018,11:53
+"2445 pleasant av s,Minneapolis,MN",44.957634999999996,-93.28255899999999,10,Powderhorn,Whittier,3,3,Howe,04/17/2018,11:53
+"2217 Girard ave s,Minneapolis,MN",44.960296,-93.296609,7,Calhoun Isle,East Isles,3,3,Howe,04/17/2018,11:56
+"2217 grand ave s,Minneapolis,MN",44.960256,-93.283939,10,Powderhorn,Whittier,3,3,Howe,04/17/2018,11:58
+"1371 SPRUCE PL,Minneapolis,MN",44.969528000000004,-93.280833,7,Central,Loring Park,3,3,Howe,04/17/2018,10:00
+"2005 grand av s,Minneapolis,MN",44.962536,-93.28387099999999,10,Powderhorn,Whittier,3,3,Howe,04/17/2018,12:00
+"2545 harriet ave,Minneapolis,MN",44.955847,-93.285211,10,Powderhorn,Whittier,3,3,Howe,04/17/2018,12:00
+"919 Morgan ave n ,Minneapolis,MN",44.987513,-93.304674,5,Near North,Near - North,1,3,Howe,04/17/2018,12:03
+"2532 harriet ave ,Minneapolis,MN",44.956125,-93.285833,10,Powderhorn,Whittier,3,3,Howe,04/17/2018,12:04
+"701 13th ave se,Minneapolis,MN",44.983992,-93.234802,3,University,Marcy Holmes,4,3,Howe,04/17/2018,12:04
+"3629 Elliott Ave s,Minneapolis,MN",44.936724,-93.261015,9,Powderhorn,Powderhorn Park,6,3,Howe,04/17/2018,12:05
+"713 13th ave se,Minneapolis,MN",44.984571,-93.23477700000001,3,University,Marcy Holmes,4,3,Howe,04/17/2018,12:06
+"2311 quincy st ne,Minneapolis,MN",45.011275,-93.250519,1,Northeast,Holland,2,3,Howe,04/17/2018,12:07
+"709 13 th ave se,Minneapolis,MN",44.984419,-93.234893,3,University,Marcy Holmes,4,3,Howe,04/17/2018,12:09
+"2943 dupont Ave n ,Minneapolis,MN",45.010914,-93.29339399999999,5,Near North,Hawthorne,1,3,Howe,04/17/2018,12:09
+"727 13th ave se,Minneapolis,MN",44.98492,-93.234411,3,University,Marcy Holmes,4,3,Howe,04/17/2018,12:10
+"3749 Elliott Ave s,Minneapolis,MN",44.934539,-93.260936,9,Powderhorn,Powderhorn Park,6,3,Howe,04/17/2018,12:10
+"3441 Emerson ave s ,Minneapolis,MN",44.940053999999996,-93.294246,10,Calhoun Isle,South Uptown,5,3,Howe,04/17/2018,12:11
+"2923 dupont Ave n ,Minneapolis,MN",45.010259999999995,-93.293319,5,Near North,Hawthorne,1,3,Howe,04/17/2018,12:11
+"1419 6th ave se,Minneapolis,MN",44.989809,-93.24298,3,University,Marcy Holmes,4,3,Howe,04/17/2018,12:17
+"507 9 1/2 Ave Se,Minneapolis,MN",44.987245,-93.257116,3,University,Nicollet Island - East Bank,4,3,Howe,04/17/2018,12:16
+"2305 quincy st ne,Minneapolis,MN",45.011163,-93.250574,1,Northeast,Holland,2,3,Howe,04/17/2018,12:18
+"511 9 1/2 Ave Se,Minneapolis,MN",44.987245,-93.257116,3,University,Nicollet Island - East Bank,4,3,Howe,04/17/2018,12:17
+"1827 russell ave n ,Minneapolis,MN",44.998277,-93.310772,5,Near North,Willard - Hay,1,3,Howe,04/17/2018,12:18
+"815 12th ave se,Minneapolis,MN",44.986173,-93.235223,3,University,Marcy Holmes,4,3,Howe,04/17/2018,12:19
+"2311 quincy st ne,Minneapolis,MN",45.011275,-93.250519,1,Northeast,Holland,2,3,Howe,04/17/2018,12:21
+"3107 22nd Avenue South,Minneapolis,MN",44.946238,-93.240352,9,Powderhorn,Corcoran,6,3,Howe,04/17/2018,12:28
+"1423 6th st se,Minneapolis,MN",44.982275,-93.233094,3,University,Marcy Holmes,4,3,Howe,04/17/2018,12:30
+"1335 Queen Ave. N.,Minneapolis,MN",44.992754,-93.309793,5,Near North,Willard - Hay,1,3,Howe,04/17/2018,12:30
+"2919 LOGAN AVE N,Minneapolis,MN",45.010222,-93.303473,5,Near North,Jordan,1,3,Howe,04/17/2018,12:32
+"3117 22nd Ave S,Minneapolis,MN",44.946033,-93.24025400000001,9,Powderhorn,Corcoran,6,3,Howe,04/17/2018,12:32
+"3105 22nd Avenue South,Minneapolis,MN",44.946404,-93.24025400000001,9,Powderhorn,Corcoran,6,3,Howe,04/17/2018,12:32
+"3115 22nd ave,Minneapolis,MN",44.946082000000004,-93.24025400000001,9,Powderhorn,Corcoran,6,3,Howe,04/17/2018,12:34
+"1409 6th st se,Minneapolis,MN",44.982378999999995,-93.23337099999999,3,University,Marcy Holmes,4,3,Howe,04/17/2018,12:38
+"2409 grand ave s,Minneapolis,MN",44.958729,-93.283962,10,Powderhorn,Whittier,3,3,Howe,04/17/2018,12:40
+"1411 6th st se,Minneapolis,MN",44.982364000000004,-93.233331,3,University,Marcy Holmes,4,3,Howe,04/17/2018,12:41
+"2127 grand ave s,Minneapolis,MN",44.961090000000006,-93.283863,10,Powderhorn,Whittier,3,3,Howe,04/17/2018,12:42
+"3407 Colfax ave s,Minneapolis,MN",44.940477,-93.29171099999999,10,Calhoun Isle,South Uptown,5,3,Howe,04/17/2018,12:47
+"2401 harriet ave s,Minneapolis,MN",44.958966,-93.285191,10,Powderhorn,Whittier,3,3,Howe,04/17/2018,12:49
+"3551 Colfax ave s,Minneapolis,MN",44.93806,-93.291747,10,Calhoun Isle,South Uptown,5,3,Howe,04/17/2018,12:49
+"839 Gertrude brown place,Minneapolis,MN",44.985118,-93.290523,5,Near North,Sumner - Glenwood,1,3,Howe,04/17/2018,12:50
+"2117 harriet,Minneapolis,MN",44.961317,-93.285165,10,Powderhorn,Whittier,3,3,Howe,04/17/2018,12:51
+"2717 delaware st se,Minneapolis,MN",44.971272,-93.218287,2,University,Prospect Park - East River Road,4,3,Howe,04/17/2018,12:52
+"2707 Delaware St SE,Minneapolis,MN",44.971469,-93.218795,2,University,Prospect Park - East River Road,4,3,Howe,04/17/2018,12:56
+"3453 EMERSON AV S,Minneapolis,MN",44.939662,-93.294256,10,Calhoun Isle,South Uptown,5,3,Howe,04/17/2018,12:58
+"2617 Pillsbury ave ,Minneapolis,MN",44.954944,-93.280975,10,Powderhorn,Whittier,3,3,Howe,04/17/2018,13:00
+"937 17th ave se,Minneapolis,MN",44.985805,-93.228912,2,University,Como,4,3,Howe,04/17/2018,13:01
+"1107 13th Ave Se,Minneapolis,MN",44.99103,-93.233642,2,University,Como,4,3,Howe,04/17/2018,13:02
+"3129 22nd ave so,Minneapolis,MN",44.945693,-93.24025300000001,9,Powderhorn,Corcoran,6,3,Howe,04/17/2018,13:04
+"1025 15th Ave Se,Minneapolis,MN",44.988642,-93.231066,1,University,Como,4,3,Howe,04/17/2018,13:04
+"2317 pleasant ave ,Minneapolis,MN",44.959567,-93.282513,10,Powderhorn,Whittier,3,3,Howe,04/17/2018,13:07
+"3335 aldrich ave n ,Minneapolis,MN",45.016058,-93.289559,4,Camden,McKinley,1,3,Howe,04/17/2018,13:08
+"3301 Bryant Ave n ,Minneapolis,MN",45.015073,-93.29083,4,Camden,McKinley,1,3,Howe,04/17/2018,13:11
+"2301 pleasant ave ,Minneapolis,MN",44.959938,-93.28254100000001,10,Powderhorn,Whittier,3,3,Howe,04/17/2018,13:12
+"1705 TAYLOR ST NE,Minneapolis,MN",45.005371000000004,-93.24328299999999,1,Northeast,Northeast Park,2,3,Howe,04/17/2018,13:14
+"951 18th ave se,Minneapolis,MN",44.986107000000004,-93.22725,2,University,Como,4,3,Howe,04/17/2018,13:19
+"1121 10th Ave N,Minneapolis,MN",44.988145,-93.292702,5,Near North,Sumner - Glenwood,1,3,Howe,04/17/2018,13:20
+"1225 12th ave n ,Minneapolis,MN",44.990990000000004,-93.294726,5,Near North,Near - North,1,3,Howe,04/17/2018,13:20
+"1431 11th ave n,Minneapolis,MN",44.988755,-93.29942,5,Near North,Near - North,1,3,Howe,04/17/2018,13:24
+"3217 24th Avenue South,Minneapolis,MN",44.944031,-93.236886,9,Powderhorn,Corcoran,6,3,Howe,04/17/2018,13:25
+"931 17th ave se,Minneapolis,MN",44.985637,-93.228971,2,University,Como,4,3,Howe,04/17/2018,13:27
+"2821 33rd Street East,Minneapolis,MN",44.942797999999996,-93.231353,9,Longfellow,Longfellow,6,3,Howe,04/17/2018,13:28
+"813 Thornton St SE,Minneapolis,MN",44.965634,-93.21895699999999,2,University,Prospect Park - East River Road,4,3,Howe,04/17/2018,13:30
+"979 17th ave se,Minneapolis,MN",44.987008,-93.22889,2,University,Como,4,3,Howe,04/17/2018,13:31
+"2623 Delaware st se,Minneapolis,MN",44.971784,-93.220464,2,University,Prospect Park - East River Road,4,3,Howe,04/17/2018,13:32
+"3033 29th ave,Minneapolis,MN",44.947038,-93.229721,2,Longfellow,Longfellow,6,3,Howe,04/17/2018,13:32
+"803 Thornton St SE,Minneapolis,MN",44.96606,-93.218936,2,University,Prospect Park - East River Road,4,3,Howe,04/17/2018,13:34
+"3251 29th ave,Minneapolis,MN",44.943441,-93.22971,2,Longfellow,Longfellow,6,3,Howe,04/17/2018,13:34
+"2641 Pillsbury ave ,Minneapolis,MN",44.954186,-93.281035,10,Powderhorn,Whittier,3,3,Howe,04/17/2018,13:35
+"2713 MORGAN AVE N,Minneapolis,MN",45.008236,-93.304705,5,Near North,Jordan,1,3,Howe,04/17/2018,13:38
+"3225 bossen terr,Minneapolis,MN",44.900665000000004,-93.22438000000001,11,Nokomis,Wenonah,6,3,Howe,04/17/2018,13:42
+"3405 Dupont ave s,Minneapolis,MN",44.940993,-93.292923,10,Calhoun Isle,South Uptown,5,3,Howe,04/17/2018,13:42
+"3441 Dupont ave s,Minneapolis,MN",44.94,-93.292929,10,Calhoun Isle,South Uptown,5,3,Howe,04/17/2018,13:44
+"5729 33rd av s,Minneapolis,MN",44.899113,-93.223863,11,Nokomis,Wenonah,6,3,Howe,04/17/2018,13:47
+"4115 Bryant Ave n ,Minneapolis,MN",45.030136,-93.290981,4,Camden,Webber - Camden,1,3,Howe,04/17/2018,13:50
+"605 Erie st se ,Minneapolis,MN",44.969918,-93.223917,2,University,Prospect Park - East River Road,4,3,Howe,04/17/2018,13:50
+"1827 oak park ave n ,Minneapolis,MN",44.98773,-93.304225,5,Near North,Near - North,1,3,Howe,04/17/2018,13:51
+"3919 Bryant Ave n ,Minneapolis,MN",45.026345,-93.29086099999999,4,Camden,Webber - Camden,1,3,Howe,04/17/2018,13:53
+"613 Erie st se,Minneapolis,MN",44.969725,-93.223985,2,University,Prospect Park - East River Road,4,3,Howe,04/17/2018,13:54
+"2525 Delaware st se,Minneapolis,MN",44.972138,-93.22136,2,University,Prospect Park - East River Road,4,3,Howe,04/17/2018,13:57
+"1617 Thomas Pl,Minneapolis,MN",44.985147,-93.301804,5,Near North,Near - North,1,3,Howe,04/17/2018,13:58
+"2231 oak park ave n ,Minneapolis,MN",44.987898,-93.309331,5,Near North,Willard - Hay,1,3,Howe,04/17/2018,14:00
+"869 22nd ave se,Minneapolis,MN",44.985658,-93.221863,2,University,Como,4,3,Howe,04/17/2018,14:00
+"3233 COLFAX AV S,Minneapolis,MN",44.943643,-93.29171,10,Calhoun Isle,South Uptown,5,3,Howe,04/17/2018,14:04
+"2633 Pillsbury Ave s,Minneapolis,MN",44.954370000000004,-93.28097700000001,10,Powderhorn,Whittier,3,3,Howe,04/17/2018,14:06
+"1819 polk st ne,Minneapolis,MN",45.006571,-93.245295,1,Northeast,Windom Park,2,3,Howe,04/17/2018,14:06
+"3211 COLFAX AV S,Minneapolis,MN",44.944353,-93.29173,10,Calhoun Isle,South Uptown,5,3,Howe,04/17/2018,14:07
+"2635 Pillsbury ave ,Minneapolis,MN",44.954287,-93.280997,10,Powderhorn,Whittier,3,3,Howe,04/17/2018,14:11
+"2605 garfeild ave s ,Minneapolis,MN",44.955146,-93.28649300000001,10,Powderhorn,Whittier,3,3,Howe,04/17/2018,14:11
+"2817 GARFIELD AVE S,Minneapolis,MN",44.951342,-93.28653100000001,10,Powderhorn,Whittier,3,3,Howe,04/17/2018,14:13
+"819 Russell Ave N,Minneapolis,MN",44.986659,-93.311301,5,Near North,Willard - Hay,1,3,Howe,04/17/2018,14:19
+"853 18th Ave Se,Minneapolis,MN",44.985228,-93.22760600000001,2,University,Como,4,3,Howe,04/17/2018,14:20
+"2515 LOGAN AVE N,Minneapolis,MN",45.005629,-93.30341700000001,5,Near North,Jordan,1,3,Howe,04/17/2018,14:22
+"925 20th Ave Se,Minneapolis,MN",44.987314000000005,-93.224508,2,University,Como,4,3,Howe,04/17/2018,14:22
+"4035 Colfax Ave n ,Minneapolis,MN",45.028859999999995,-93.292218,4,Camden,Webber - Camden,1,3,Howe,04/17/2018,14:30
+"847 25th ave se,Minneapolis,MN",44.985061,-93.21810500000001,2,University,Como,4,3,Howe,04/17/2018,14:38
+"3331 dupont Ave n ,Minneapolis,MN",45.015948,-93.29338100000001,4,Camden,Folwell,1,3,Howe,04/17/2018,14:38
+"955 17th ave se,Minneapolis,MN",44.986375,-93.228977,2,University,Como,4,3,Howe,04/17/2018,14:42
+"907 Dartmouth st se,Minneapolis,MN",44.968596000000005,-93.225266,2,University,Prospect Park - East River Road,4,3,Howe,04/17/2018,14:42
+"929 Dartmouth Avenue ,Minneapolis,MN",44.96815,-93.22446500000001,2,University,Prospect Park - East River Road,4,3,Howe,04/17/2018,14:44
+"1713 queen ave n ,Minneapolis,MN",44.997459,-93.30974499999999,5,Near North,Willard - Hay,1,3,Howe,04/17/2018,14:45
+"905 Dartmouth st se ,Minneapolis,MN",44.968651,-93.225332,2,University,Prospect Park - East River Road,4,3,Howe,04/17/2018,14:45
+"4107 37th. St e,Minneapolis,MN",44.935717,-93.21395,12,Longfellow,Howe,6,3,Howe,04/17/2018,14:46
+"2515 colfax ave s,Minneapolis,MN",44.956811,-93.291537,10,Calhoun Isle,Lowry Hill East,3,3,Howe,04/17/2018,14:47
+"3527 31st Street East,Minneapolis,MN",44.946828000000004,-93.221313,2,Longfellow,Longfellow,6,3,Howe,04/17/2018,14:48
+"1327 Yale ave se,Minneapolis,MN",44.966251,-93.220217,2,University,Prospect Park - East River Road,4,3,Howe,04/17/2018,14:49
+"1235 Queen Ave N,Minneapolis,MN",44.990674,-93.309844,5,Near North,Willard - Hay,1,3,Howe,04/17/2018,14:50
+"3415 Dupont ave s,Minneapolis,MN",44.940704,-93.292926,10,Calhoun Isle,South Uptown,5,3,Howe,04/17/2018,14:56
+"2403 Polk st ne,Minneapolis,MN",45.012276,-93.245251,1,Northeast,Windom Park,2,3,Howe,04/17/2018,14:58
+"3301 41st st,Minneapolis,MN",44.928722,-93.224179,12,Longfellow,Hiawatha,6,3,Howe,04/17/2018,15:00
+"4325 45th ave,Minneapolis,MN",44.924391,-93.208629,12,Longfellow,Hiawatha,6,3,Howe,04/17/2018,15:02
+"2015 ALDRICH AVE S,Minneapolis,MN",44.962044,-93.289036,10,Calhoun Isle,Lowry Hill East,3,3,Howe,04/17/2018,15:09
+"2017 ALDRICH AVE S,Minneapolis,MN",44.961917,-93.289001,10,Calhoun Isle,Lowry Hill East,3,3,Howe,04/17/2018,15:11
+"513 Humboldt av n,Minneapolis,MN",44.983224,-93.298461,5,Near North,Harrison,3,3,Howe,04/17/2018,15:13
+"1815 queen Ave n ,Minneapolis,MN",44.998146000000006,-93.30985,5,Near North,Willard - Hay,1,3,Howe,04/17/2018,15:16
+"1801 Queen Ave N,Minneapolis,MN",44.997788,-93.30974300000001,5,Near North,Willard - Hay,1,3,Howe,04/17/2018,15:23
+"817 21st ave n ,Minneapolis,MN",45.000239,-93.290288,5,Near North,Hawthorne,1,3,Howe,04/17/2018,15:25
+"1811 Oliver ave n ,Minneapolis,MN",44.997867,-93.307305,5,Near North,Willard - Hay,1,3,Howe,04/17/2018,15:28
+"1601 Talmage Ave Se,Minneapolis,MN",44.989711,-93.229457,1,University,Como,4,3,Howe,04/17/2018,15:25
+"1099 15th Ave Se,Minneapolis,MN",44.990775,-93.23105,1,University,Como,4,3,Howe,04/17/2018,15:29
+"913 Dartmouth Avenue ,Minneapolis,MN",44.968126,-93.224917,2,University,Prospect Park - East River Road,4,3,Howe,04/17/2018,15:31
+"1321 Yale ave se,Minneapolis,MN",44.96625,-93.220292,2,University,Prospect Park - East River Road,4,3,Howe,04/17/2018,15:34
+"3405 Elliott Ave s,Minneapolis,MN",44.941096,-93.261015,9,Powderhorn,Powderhorn Park,6,3,Howe,04/17/2018,15:35
+"3723 HARRIET AVE S,Minneapolis,MN",44.935116,-93.285381,8,Southwest,King Field,5,3,Howe,04/17/2018,15:40
+"659 Ontario st se,Minneapolis,MN",44.968649,-93.225311,2,University,Prospect Park - East River Road,4,3,Howe,04/17/2018,15:46
+"919 16th Ave N,Minneapolis,MN",44.995048,-93.291363,5,Near North,Near - North,1,3,Howe,04/17/2018,15:47
+"921 Darthmouth Ave,Minneapolis,MN",44.968163,-93.224704,2,University,Prospect Park - East River Road,4,3,Howe,04/17/2018,15:46
+"657 Ontario st se,Minneapolis,MN",44.968664000000004,-93.225311,2,University,Prospect Park - East River Road,4,3,Howe,04/17/2018,15:49
+"2019 ALDRICH AVE S,Minneapolis,MN",44.961788,-93.289046,10,Calhoun Isle,Lowry Hill East,3,3,Howe,04/17/2018,15:58
+"5745 Bossen Terr,Minneapolis,MN",44.898881,-93.226294,11,Nokomis,Wenonah,6,3,Howe,04/17/2018,15:56
+"2203 ALDRICH AVE S,Minneapolis,MN",44.960678,-93.288985,10,Calhoun Isle,Lowry Hill East,3,3,Howe,04/17/2018,16:03
+"631 22nd ave n ,Minneapolis,MN",45.001332,-93.28716999999999,5,Near North,Hawthorne,1,3,Howe,04/17/2018,16:04
+"703 25th ave n ,Minneapolis,MN",45.004796,-93.28814799999999,5,Near North,Hawthorne,1,3,Howe,04/17/2018,16:06
+"641 Ontario st se,Minneapolis,MN",44.968782,-93.225311,2,University,Prospect Park - East River Road,4,3,Howe,04/17/2018,16:10
+"1525 32ND ST E,Minneapolis,MN",44.944734000000004,-93.252525,9,Powderhorn,Powderhorn Park,6,3,Howe,04/17/2018,16:11
+"1029 16th Ave N,Minneapolis,MN",44.995098999999996,-93.293633,5,Near North,Near - North,1,3,Howe,04/17/2018,16:12
+"3423 ELLIOT AVE S,Minneapolis,MN",44.940658,-93.261054,9,Powderhorn,Powderhorn Park,6,3,Howe,04/17/2018,16:21
+"5433 31ST AVE S,Minneapolis,MN",44.904298,-93.226922,11,Nokomis,Wenonah,6,3,Howe,04/17/2018,16:27
+"5745 SANDER DRV,Minneapolis,MN",44.898807,-93.225038,11,Nokomis,Wenonah,6,3,Howe,04/17/2018,16:33
+"2300 lyndale,Minneapolis,MN",44.959967999999996,-93.28838499999999,10,Calhoun Isle,Lowry Hill East,3,1,Howe,04/15/2018,21:29
+"2400 Lyndale Ave N,Minneapolis,MN",45.003853,-93.287801,5,Near North,Hawthorne,1,1,Howe,04/15/2018,21:29
+"2400 2499 Lyndale Ave n ,Minneapolis,MN",45.003854,-93.287716,5,Near North,Hawthorne,1,1,Howe,04/15/2018,21:33
+"3045 Chicago Ave,Minneapolis,MN",44.946909999999995,-93.262213,9,Powderhorn,Powderhorn Park,6,1,Howe,04/15/2018,21:41
+"2900 LYNDALE AVE N ,Minneapolis,MN",45.009759,-93.287623,5,Near North,Hawthorne,1,1,Howe,04/15/2018,21:44
+"2500 Lyndale Ave n ,Minneapolis,MN",45.004806,-93.28799599999999,5,Near North,Hawthorne,1,1,Howe,04/15/2018,21:48
+"3500-3599 LYNDALE AVE N,Minneapolis,MN",45.018627,-93.287745,4,Camden,McKinley,1,1,Howe,04/15/2018,21:49
+"2300 BLOCK LYNDALE AVE N,Minneapolis,MN",45.002575,-93.287983,5,Near North,Hawthorne,1,1,Howe,04/15/2018,21:56
+"3042 Johnson St NE,Minneapolis,MN",45.023502,-93.23734300000001,1,Northeast,Audubon Park,2,1,Howe,04/15/2018,22:09
+"4417 4th ave s,Minneapolis,MN",44.922729,-93.269935,8,Nokomis,Regina,5,1,Howe,04/15/2018,22:10
+"3600 Lyndale Ave N,Minneapolis,MN",45.02045,-93.287772,4,Camden,McKinley,1,1,Howe,04/15/2018,22:13
+"3500l lyndale ,Minneapolis,MN",44.939361,-93.288565,10,Calhoun Isle,South Uptown,5,1,Howe,04/15/2018,22:14
+"2331 Central Ave NE,Minneapolis,MN",45.011506,-93.246925,1,Northeast,Windom Park,2,1,Howe,04/15/2018,22:14
+"100-199 15th st w,Minneapolis,MN",44.967717,-93.27934300000001,7,Central,Loring Park,3,1,Howe,04/15/2018,22:15
+"3600-3699 LYNDALE AVE N,Minneapolis,MN",45.020451,-93.287752,4,Camden,McKinley,1,1,Howe,04/15/2018,22:15
+"3225 Johnson St NE,Minneapolis,MN",45.026617,-93.23685,1,Northeast,Waite Park,2,1,Howe,04/15/2018,22:17
+"717 UNIVERSITY AVE SE,Minneapolis,MN",44.983287,-93.245131,3,University,Marcy Holmes,4,1,Howe,04/15/2018,22:04
+"821 university s ,Minneapolis,MN",44.982834000000004,-93.244052,3,University,Marcy Holmes,4,1,Howe,04/15/2018,22:22
+"600-699 15th St e ,Minneapolis,MN",44.968057,-93.267635,6,Central,Elliot Park,3,1,Howe,04/15/2018,22:23
+"525 university ave se,Minneapolis,MN",44.984307,-93.247692,3,University,Marcy Holmes,4,1,Howe,04/15/2018,22:26
+"914 3rd st n,Minneapolis,MN",44.98945,-93.28116,3,Central,North Loop,1,1,Howe,04/15/2018,22:26
+"4011 Bloomington ave ,Minneapolis,MN",44.930054,-93.25203499999999,8,Powderhorn,Bancroft,6,1,Howe,04/15/2018,22:26
+"3700 Lyndale Ave n ,Minneapolis,MN",45.022311,-93.287788,4,Camden,McKinley,1,1,Howe,04/15/2018,22:26
+"3600-3699 lyndale ave n,Minneapolis,MN",45.020451,-93.287752,4,Camden,McKinley,1,1,Howe,04/15/2018,22:26
+"3932 Bloomington Avenue South,Minneapolis,MN",44.931311,-93.252725,8,Powderhorn,Bancroft,6,1,Howe,04/15/2018,22:27
+"715 univ ave se,Minneapolis,MN",44.974267,-93.221699,2,University,Prospect Park - East River Road,4,1,Howe,04/15/2018,22:28
+"1837 Central Ave NE,Minneapolis,MN",45.00724,-93.247378,1,Northeast,Logan Park,2,1,Howe,04/15/2018,22:30
+"3800 lyndale ,Minneapolis,MN",45.024097999999995,-93.287796,4,Camden,Webber - Camden,1,1,Howe,04/15/2018,22:30
+"1813 Central Ave NE,Minneapolis,MN",45.006547999999995,-93.247004,1,Northeast,Windom Park,2,1,Howe,04/15/2018,22:34
+"1815 Central Ave NE,Minneapolis,MN",45.006588,-93.246999,1,Northeast,Windom Park,2,1,Howe,04/15/2018,22:36
+"1-99 15th St w,Minneapolis,MN",44.967721999999995,-93.277815,7,Central,Loring Park,3,1,Howe,04/15/2018,22:36
+"3812 4th Ave S,Minneapolis,MN",44.933648,-93.270504,8,Powderhorn,Bryant,5,1,Howe,04/15/2018,22:47
+"623 5th st n,Minneapolis,MN",44.984666,-93.28031800000001,5,Central,North Loop,1,1,Howe,04/15/2018,22:47
+"2522 Central Ave NE,Minneapolis,MN",45.013915000000004,-93.247737,1,Northeast,Holland,2,1,Howe,04/15/2018,22:47
+"700-799. 15th st e,Minneapolis,MN",44.968059999999994,-93.265063,7,Central,Elliot Park,3,1,Howe,04/15/2018,22:48
+"4000 Lyndale Ave N,Minneapolis,MN",45.027711,-93.28777600000001,4,Camden,Webber - Camden,1,1,Howe,04/15/2018,22:48
+"4217 4th ave,Minneapolis,MN",44.926372,-93.269795,8,Nokomis,Regina,5,1,Howe,04/15/2018,22:51
+"1804 5TH ST SE,Minneapolis,MN",44.979058,-93.228937,2,University,University of Minnesota,4,1,Howe,04/15/2018,22:52
+"1-99 15st e,Minneapolis,MN",44.968047,-93.277109,7,Central,Loring Park,3,1,Howe,04/15/2018,22:54
+"1722 5th st se ,Minneapolis,MN",44.979269,-93.229462,2,University,University of Minnesota,4,1,Howe,04/15/2018,22:56
+"4100 LYNDALE AVE N,Minneapolis,MN",45.029786,-93.288113,4,Camden,Webber - Camden,1,1,Howe,04/15/2018,22:57
+"313 16TH AVE SE,Minneapolis,MN",44.978676,-93.233795,2,University,University of Minnesota,4,1,Howe,04/15/2018,22:59
+"2422 Central Ave NE,Minneapolis,MN",45.012894,-93.2477,1,Northeast,Holland,2,1,Howe,04/15/2018,22:59
+"1810 5th st se,Minneapolis,MN",44.979034999999996,-93.22888,2,University,University of Minnesota,4,1,Howe,04/15/2018,23:01
+"3700 lyndale AVE N,Minneapolis,MN",45.022311,-93.287788,4,Camden,McKinley,1,1,Howe,04/15/2018,23:05
+"3400 bloomington ave,Minneapolis,MN",44.941225,-93.252646,9,Powderhorn,Powderhorn Park,6,1,Howe,04/15/2018,23:05
+"325 16TH AVE SE,Minneapolis,MN",44.978729,-93.23375300000001,2,University,University of Minnesota,4,1,Howe,04/15/2018,23:10
+"702 5TH ST N ,Minneapolis,MN",44.985929,-93.280759,5,Central,North Loop,1,1,Howe,04/15/2018,23:14
+"5228 Bloomington ave s,Minneapolis,MN",44.907976,-93.252843,11,Nokomis,Hale,6,1,Howe,04/15/2018,23:15
+"2400 BLAISDELL AVE S,Minneapolis,MN",44.958876000000004,-93.280113,10,Powderhorn,Whittier,3,1,Howe,04/15/2018,23:18
+"674 13TH AVE NE,Minneapolis,MN",45.000904,-93.254075,1,Northeast,Logan Park,2,1,Howe,04/15/2018,23:18
+"4600 lyndale AVE N ,Minneapolis,MN",45.038466,-93.28622299999999,4,Camden,Camden Industrial,1,1,Howe,04/15/2018,23:18
+"2200 block of blaisdell,Minneapolis,MN",44.960681,-93.28004,10,Powderhorn,Whittier,3,1,Howe,04/15/2018,23:19
+"4600 LYNDALE AVE N,Minneapolis,MN",45.038466,-93.28622299999999,4,Camden,Camden Industrial,1,1,Howe,04/15/2018,23:20
+"2400 BLAISDELL AVE S,Minneapolis,MN",44.958876000000004,-93.280113,10,Powderhorn,Whittier,3,1,Howe,04/15/2018,23:20
+"686 13TH AVE NE,Minneapolis,MN",45.00067,-93.252931,1,Northeast,Logan Park,2,1,Howe,04/15/2018,23:21
+"3422 Bloomington ave s,Minneapolis,MN",44.940438,-93.25275,9,Powderhorn,Powderhorn Park,6,1,Howe,04/15/2018,23:22
+"3537 4TH AVE S,Minneapolis,MN",44.938403,-93.269856,9,Powderhorn,Central,5,1,Howe,04/15/2018,23:23
+"500 15th St e,Minneapolis,MN",44.968301000000004,-93.268698,7,Central,Elliot Park,3,1,Howe,04/15/2018,23:23
+"2500 block of blaisdell,Minneapolis,MN",44.957337,-93.27962600000001,10,Powderhorn,Whittier,3,1,Howe,04/15/2018,23:26
+"4600 MINNEHAHA AVE S,Minneapolis,MN",44.919637,-93.214788,12,Longfellow,Hiawatha,6,1,Howe,04/15/2018,23:27
+"4600 MINNEHAHA AVE S,Minneapolis,MN",44.919637,-93.214788,12,Longfellow,Hiawatha,6,1,Howe,04/15/2018,23:29
+"4800 LYNDALE AVE N ,Minneapolis,MN",45.042964000000005,-93.284933,4,Camden,Lind - Bohanon,1,1,Howe,04/15/2018,23:29
+"724 14th St e ,Minneapolis,MN",44.969133,-93.263809,7,Central,Elliot Park,3,1,Howe,04/15/2018,23:32
+"921 20th ave s,Minneapolis,MN",44.963526,-93.243697,6,Longfellow,Seward,4,1,Howe,04/15/2018,23:33
+"670 13TH AVE NE,Minneapolis,MN",45.000906,-93.254359,1,Northeast,Logan Park,2,1,Howe,04/15/2018,23:33
+"726 5TH ST N ,Minneapolis,MN",44.986302,-93.281296,5,Central,North Loop,1,1,Howe,04/15/2018,23:34
+"1802 University Ave NE,Minneapolis,MN",45.006906,-93.263636,3,Northeast,Bottineau,2,1,Howe,04/15/2018,23:35
+"608 14th st e,Minneapolis,MN",44.969139,-93.26694499999999,7,Central,Elliot Park,3,1,Howe,04/15/2018,23:41
+"1013 18TH AVE SE,Minneapolis,MN",44.988276,-93.227181,1,University,Como,4,1,Howe,04/15/2018,23:43
+"700 2ND AVE N ,Minneapolis,MN",44.978944,-93.288048,5,Near North,Harrison,3,1,Howe,04/15/2018,23:44
+"80 13TH AVE NE,Minneapolis,MN",44.999557,-93.27036,3,Northeast,Sheridan,2,1,Howe,04/15/2018,23:45
+"3036 4TH AVE S,Minneapolis,MN",44.947154,-93.270658,9,Powderhorn,Central,5,1,Howe,04/15/2018,23:46
+"669 13TH AVE NE,Minneapolis,MN",45.001177,-93.254501,1,Northeast,Logan Park,2,1,Howe,04/15/2018,23:48
+"313 MAIN ST SE,Minneapolis,MN",44.983684000000004,-93.25277700000001,3,University,Marcy Holmes,4,1,Howe,04/15/2018,23:50
+"728 5TH ST N ,Minneapolis,MN",44.986309999999996,-93.281308,5,Central,North Loop,1,1,Howe,04/15/2018,23:54
+"700 2ND AVE N ,Minneapolis,MN",44.978944,-93.288048,5,Near North,Harrison,3,1,Howe,04/15/2018,23:56
+"404 main st se,Minneapolis,MN",44.982648,-93.251866,3,University,Marcy Holmes,4,1,Howe,04/16/2018,00:01
+"670 13TH AVE NE,Minneapolis,MN",45.000906,-93.254359,1,Northeast,Logan Park,2,1,Howe,04/16/2018,00:02
+"410 main st se,Minneapolis,MN",44.982587,-93.25172099999999,3,University,Marcy Holmes,4,1,Howe,04/16/2018,00:03
+"2500 block of blaisdell ave,Minneapolis,MN",44.957337,-93.27962600000001,10,Powderhorn,Whittier,3,1,Howe,04/16/2018,00:05
+"2600 blaisdell,Minneapolis,MN",44.955521000000005,-93.279634,10,Powderhorn,Whittier,3,1,Howe,04/16/2018,00:07
+"700 2nd Ave n,Minneapolis,MN",44.978944,-93.288048,5,Near North,Harrison,3,1,Howe,04/16/2018,00:08
+"2700 block of blaisdell,Minneapolis,MN",44.953632,-93.280047,10,Powderhorn,Whittier,3,1,Howe,04/16/2018,00:09
+"4628 bloomington AVE S,I,MN",44.918662,-93.252725,11,Nokomis,Northrop,6,1,Howe,04/16/2018,00:09
+"2600 hennepin av s,Minneapolis,MN",44.955352000000005,-93.297202,7,Calhoun Isle,East Isles,3,1,Howe,04/16/2018,00:10
+"2103 9th st se,Minneapolis,MN",44.963761,-93.242407,6,Longfellow,Seward,4,1,Howe,04/16/2018,00:12
+"417 10th Ave n,Minneapolis,MN",44.987871000000005,-93.28331999999999,5,Central,North Loop,1,1,Howe,04/16/2018,00:12
+"3800 lyndale ave n,Minneapolis,MN",45.024097999999995,-93.287796,4,Camden,Webber - Camden,1,1,Howe,04/16/2018,00:12
+"991 15TH AVE SE,Minneapolis,MN",44.987558,-93.230379,2,University,Como,4,1,Howe,04/16/2018,00:03
+"2108 9th st se,Minneapolis,MN",44.964017999999996,-93.242363,6,Longfellow,Seward,4,1,Howe,04/16/2018,00:14
+"1724 5TH ST SE,Minneapolis,MN",44.979267,-93.229457,2,University,University of Minnesota,4,1,Howe,04/16/2018,00:02
+"456 6t Ave N,Minneapolis,MN",44.984681,-93.278983,5,Central,North Loop,1,1,Howe,04/16/2018,00:17
+"66 13TH AVE NE,Minneapolis,MN",44.999418,-93.27076,3,Northeast,Sheridan,2,1,Howe,04/16/2018,00:17
+"2900 block of blaisdell ave,Minneapolis,MN",44.95074,-93.279668,10,Powderhorn,Whittier,3,1,Howe,04/16/2018,00:21
+"74 13th Ave NE,Minneapolis,MN",44.999497,-93.27053199999999,3,Northeast,Sheridan,2,1,Howe,04/16/2018,00:23
+"1572 38TH ST E,Minneapolis,MN",44.934264,-93.251325,9,Powderhorn,Powderhorn Park,6,1,Howe,04/16/2018,00:23
+"1205 2ND ST NE,Minneapolis,MN",44.999946,-93.265895,3,Northeast,Sheridan,2,1,Howe,04/16/2018,00:25
+"3929 SHERIDAN AVE S,Minneapolis,MN",44.931228999999995,-93.312747,13,Southwest,Linden Hills,5,1,Howe,04/16/2018,00:27
+"2701 W 43RD ST ,Minneapolis,MN",44.92407,-93.31265,13,Southwest,Linden Hills,5,1,Howe,04/16/2018,00:32
+"23RD AVE & E 35TH ST ,Minneapolis,MN",44.939533000000004,-93.238901,9,Powderhorn,Corcoran,6,1,Howe,04/16/2018,00:32
+"253 3RD AVE N ,Minneapolis,MN",44.98458,-93.27233199999999,3,Central,North Loop,3,1,Howe,04/16/2018,00:32
+"700 2ND AVE N ,Minneapolis,MN",44.978944,-93.288048,5,Near North,Harrison,3,1,Howe,04/16/2018,00:33
+"78 13th Ave NE,Minneapolis,MN",44.999537,-93.27041700000001,3,Northeast,Sheridan,2,1,Howe,04/16/2018,00:34
+"4311 upton ave s ,Minneapolis,MN",44.924107,-93.31451899999999,13,Southwest,Linden Hills,5,1,Howe,04/16/2018,00:35
+"2099 EMERSON AVE N,Minneapolis,MN",45.000254999999996,-93.294107,5,Near North,Hawthorne,1,1,Howe,04/16/2018,00:36
+"4000 MINNEHAHA AVE S,Minneapolis,MN",44.930375,-93.221532,12,Longfellow,Hiawatha,6,1,Howe,04/16/2018,00:36
+"669 13TH AVE NE,Minneapolis,MN",45.001177,-93.254501,1,Northeast,Logan Park,2,1,Howe,04/16/2018,00:37
+"3975 MINNEHAHA AVE S,Minneapolis,MN",44.930611999999996,-93.221328,12,Longfellow,Howe,6,1,Howe,04/16/2018,00:38
+"2505 9TH ST S,Minneapolis,MN",44.963985,-93.236161,6,Longfellow,Seward,4,1,Howe,04/16/2018,00:15
+"3800 LYNDALE AVE N ,Minneapolis,MN",45.024097999999995,-93.287796,4,Camden,Webber - Camden,1,1,Howe,04/16/2018,00:43
+"3975 minnehaha AVE S,Minneapolis,MN",44.930611999999996,-93.221328,12,Longfellow,Howe,6,1,Howe,04/16/2018,00:43
+"1500 BLAISDELL AVE S,Minneapolis,MN",44.962707,-93.27942900000001,7,Central,Steven's Square - Loring Heights,3,1,Howe,04/16/2018,00:45
+"1314 5th st se,Minneapolis,MN",44.981551,-93.235839,3,University,Marcy Holmes,4,1,Howe,04/16/2018,00:46
+"1500 block of blaisdell,Minneapolis,MN",44.962707,-93.27942900000001,7,Central,Steven's Square - Loring Heights,3,1,Howe,04/16/2018,00:47
+"204 6TH AVE N ,Minneapolis,MN",44.987268,-93.275366,3,Central,North Loop,1,1,Howe,04/16/2018,00:48
+"4401 minnehaha ave s,Minneapolis,MN",44.923109000000004,-93.21598900000001,12,Longfellow,Hiawatha,6,1,Howe,04/16/2018,00:53
+"4000 MINNEHAHA AVE S,Minneapolis,MN",44.930375,-93.221532,12,Longfellow,Hiawatha,6,1,Howe,04/16/2018,00:54
+"3300 block of Hennepin,Minneapolis,MN",44.942789000000005,-93.29858,10,Calhoun Isle,ECCO,5,1,Howe,04/16/2018,00:57
+"3975 minnehaha a s,Minneapolis,MN",44.916321999999994,-93.214867,12,Longfellow,Hiawatha,6,1,Howe,04/16/2018,00:58
+"2213 9th st s,Minneapolis,MN",44.963689,-93.240014,6,Longfellow,Seward,4,1,Howe,04/16/2018,00:58
+"4000 Lyndale Ave n ,Minneapolis,MN",45.027711,-93.28777600000001,4,Camden,Webber - Camden,1,1,Howe,04/16/2018,00:59
+"2210 9TH ST S,Minneapolis,MN",44.964428999999996,-93.239825,2,University,Cedar Riverside,4,1,Howe,04/16/2018,01:02
+"2200 EMERSON AVE N ,Minneapolis,MN",45.001657,-93.293811,5,Near North,Hawthorne,1,1,Howe,04/16/2018,01:03
+"3100 HENNEPIN AVE ,Minneapolis,MN",44.946444,-93.29798199999999,10,Calhoun Isle,South Uptown,5,1,Howe,04/16/2018,01:04
+"408 6TH AVE N ,Minneapolis,MN",44.984931,-93.27861700000001,5,Central,North Loop,1,1,Howe,04/16/2018,01:06
+"2500 hennepin ave s,Minneapolis,MN",44.957190999999995,-93.295956,7,Calhoun Isle,East Isles,3,1,Howe,04/16/2018,01:07
+"3700 minnehaha ave,Minneapolis,MN",44.935761,-93.225548,12,Longfellow,Howe,6,1,Howe,04/16/2018,01:10
+"2100 block of nicollet,Minneapolis,MN",44.961773,-93.278329,10,Powderhorn,Whittier,3,1,Howe,04/16/2018,01:10
+"804 3rd st n,Minneapolis,MN",44.988409000000004,-93.279744,3,Central,North Loop,1,1,Howe,04/16/2018,01:12
+"695 13th Ave NE,Minneapolis,MN",45.001207,-93.253023,1,Northeast,Logan Park,2,1,Howe,04/16/2018,01:13
+"2100 block of nicollet,Minneapolis,MN",44.961773,-93.278329,10,Powderhorn,Whittier,3,1,Howe,04/16/2018,01:13
+"2615 9TH ST S,Minneapolis,MN",44.96356,-93.233953,6,Longfellow,Seward,4,1,Howe,04/16/2018,00:35
+"3500 Minnehaha,Minneapolis,MN",44.939407,-93.228061,12,Longfellow,Howe,6,1,Howe,04/16/2018,01:18
+"2500 block nicollet,Minneapolis,MN",44.957184999999996,-93.27810500000001,10,Powderhorn,Whittier,3,1,Howe,04/16/2018,01:20
+"617 Grant St e,Minneapolis,MN",44.969561999999996,-93.267297,7,Central,Elliot Park,3,1,Howe,04/16/2018,01:20
+"2200 Chicago av s ,Minneapolis,MN",44.960902000000004,-93.262569,6,Phillips,Ventura Village,3,1,Howe,04/16/2018,01:21
+"2500 block of Nicole Ave ,Minneapolis,MN",44.957184999999996,-93.27810500000001,10,Powderhorn,Whittier,3,1,Howe,04/16/2018,01:23
+"2613 9TH ST S,Minneapolis,MN",44.96356,-93.233976,6,Longfellow,Seward,4,1,Howe,04/16/2018,00:34
+"2900 Emerson Ave N,Minneapolis,MN",45.009693,-93.294151,5,Near North,Hawthorne,1,1,Howe,04/16/2018,01:25
+"2104 9th st s,Minneapolis,MN",44.964017999999996,-93.242427,6,Longfellow,Seward,4,1,Howe,04/16/2018,01:25
+"901 3rd st n ,Minneapolis,MN",44.988633,-93.281374,3,Central,North Loop,1,1,Howe,04/16/2018,01:26
+"167 27TH AVE SE,Minneapolis,MN",44.970553,-93.220033,2,University,Prospect Park - East River Road,4,1,Howe,04/16/2018,00:52
+"171 27TH AVE SE,Minneapolis,MN",44.97065,-93.219953,2,University,Prospect Park - East River Road,4,1,Howe,04/16/2018,00:53
+"1609 2nd St NE,Minneapolis,MN",45.004556,-93.265803,3,Northeast,Sheridan,2,1,Howe,04/16/2018,01:28
+"2000 block of nicollet,Minneapolis,MN",44.962551,-93.278029,10,Powderhorn,Whittier,3,1,Howe,04/16/2018,01:28
+"2120 9TH ST S,Minneapolis,MN",44.964017999999996,-93.242172,6,Longfellow,Seward,4,1,Howe,04/15/2018,23:55
+"1900 NICOLLET AVE S,Minneapolis,MN",44.963464,-93.278451,7,Central,Steven's Square - Loring Heights,3,1,Howe,04/16/2018,01:30
+"2600-2700 EMERSON AVE N,Minneapolis,MN",45.007976,-93.294084,5,Near North,Hawthorne,1,1,Howe,04/16/2018,01:33
+"1700 EMERSON AVE N ,Minneapolis,MN",44.996459,-93.293864,5,Near North,Near - North,1,1,Howe,04/16/2018,01:36
+"3400 minnehaha,Minneapolis,MN",44.941144,-93.229407,12,Longfellow,Howe,6,1,Howe,04/16/2018,01:38
+"737 5th st n,Minneapolis,MN",44.985564000000004,-93.28137,5,Central,North Loop,1,1,Howe,04/16/2018,01:39
+"3400 MINNEHAHA AVE S,Minneapolis,MN",44.941144,-93.229407,12,Longfellow,Howe,6,1,Howe,04/16/2018,01:44
+"2100 block of nicollet,Minneapolis,MN",44.961773,-93.278329,10,Powderhorn,Whittier,3,1,Howe,04/16/2018,01:44
+"335 2ND ST NE,Minneapolis,MN",44.991659999999996,-93.260226,3,Northeast,St. Anthony West,2,1,Howe,04/16/2018,01:44
+"1 Groveland av s,Minneapolis,MN",44.964199,-93.278595,7,Central,Steven's Square - Loring Heights,3,1,Howe,04/16/2018,01:46
+"2100 block of nicollet,Minneapolis,MN",44.961773,-93.278329,10,Powderhorn,Whittier,3,1,Howe,04/16/2018,01:47
+"3400 minnehaha ave,Minneapolis,MN",44.941144,-93.229407,12,Longfellow,Howe,6,1,Howe,04/16/2018,01:48
+"3400 Minnehaha Ave,Minneapolis,MN",44.941144,-93.229407,12,Longfellow,Howe,6,1,Howe,04/16/2018,01:50
+"2200 Emerson ave n,Minneapolis,MN",45.001657,-93.293811,5,Near North,Hawthorne,1,1,Howe,04/16/2018,01:50
+"22 University Ave NE,Minneapolis,MN",44.988611,-93.257021,3,University,Nicollet Island - East Bank,2,1,Howe,04/16/2018,01:50
+"2700 Emerson Ave n ,Minneapolis,MN",45.007976,-93.294084,5,Near North,Hawthorne,1,1,Howe,04/16/2018,01:51
+"3200 Emerson Ave N,Minneapolis,MN",45.013146,-93.294332,5,Camden,Folwell,1,1,Howe,04/16/2018,01:53
+"2000 block of nicollet,Minneapolis,MN",44.962551,-93.278029,10,Powderhorn,Whittier,3,1,Howe,04/16/2018,01:53
+"1500 LASALLE AVE S,Minneapolis,MN",44.967451000000004,-93.279534,7,Central,Loring Park,3,1,Howe,04/16/2018,00:50
+"3400 Minnehaha Ave,Minneapolis,MN",44.941144,-93.229407,12,Longfellow,Howe,6,1,Howe,04/16/2018,01:55
+"2700 43rd st,Minneapolis,MN",44.924558000000005,-93.312788,13,Southwest,Linden Hills,5,1,Howe,04/16/2018,01:57
+"3600 MINNEHAHA AVE S,Minneapolis,MN",44.937605,-93.226764,12,Longfellow,Howe,6,1,Howe,04/16/2018,01:58
+"00 Groveland ave,Minneapolis,MN",44.964196,-93.277822,7,Central,Steven's Square - Loring Heights,3,1,Howe,04/16/2018,01:58
+"3400 Minnehaha,Minneapolis,MN",44.941144,-93.229407,12,Longfellow,Howe,6,1,Howe,04/16/2018,01:59
+"00 groveland av,Minneapolis,MN",44.964196,-93.277822,7,Central,Steven's Square - Loring Heights,3,1,Howe,04/16/2018,01:59
+"3300-3399 FREMONT AVE N,Minneapolis,MN",45.015221000000004,-93.295282,4,Camden,Folwell,1,1,Howe,04/16/2018,02:02
+"3700 minnehaha,Minneapolis,MN",44.935761,-93.225548,12,Longfellow,Howe,6,1,Howe,04/16/2018,02:05
+"1900 block of nicollet,Minneapolis,MN",44.963464,-93.278451,7,Central,Steven's Square - Loring Heights,3,1,Howe,04/16/2018,02:12
+"514 1st st n,Minneapolis,MN",44.988684,-93.273178,3,Central,North Loop,1,1,Howe,04/16/2018,02:15
+"2000 NICOLLET AVE S,Minneapolis,MN",44.962551,-93.278029,10,Powderhorn,Whittier,3,1,Howe,04/16/2018,02:15
+"1700 block nicollet ave ,Minneapolis,MN",44.966833,-93.278091,7,Central,Loring Park,3,1,Howe,04/16/2018,02:15
+"1700 block of nicollet,Minneapolis,MN",44.966833,-93.278091,7,Central,Loring Park,3,1,Howe,04/16/2018,02:17
+"1700 NICOLLET AVE S,Minneapolis,MN",44.966833,-93.278091,7,Central,Loring Park,3,1,Howe,04/16/2018,02:20
+"400 Groveland av s,Minneapolis,MN",44.965843,-93.285057,7,Central,Loring Park,3,1,Howe,04/16/2018,02:22
+"2100 Fremont Ave N,Minneapolis,MN",45.000248,-93.29566,5,Near North,Jordan,1,1,Howe,04/16/2018,02:22
+"3800 minnehaha ave,Minneapolis,MN",44.933595000000004,-93.224154,12,Longfellow,Howe,6,1,Howe,04/16/2018,02:26
+"3200 Fremont Ave n ,Minneapolis,MN",45.013145,-93.295598,5,Near North,Jordan,1,1,Howe,04/16/2018,02:27
+"3800 minnehaha ave,Minneapolis,MN",44.933595000000004,-93.224154,12,Longfellow,Howe,6,1,Howe,04/16/2018,02:28
+"2500 44th st w,Minneapolis,MN",44.923037,-93.311607,13,Southwest,Linden Hills,5,1,Howe,04/16/2018,02:30
+"2631 44th st w ,Minneapolis,MN",44.922979999999995,-93.313181,13,Southwest,Linden Hills,5,1,Howe,04/16/2018,02:33
+"3226 44TH ST W,Minneapolis,MN",44.923558,-93.321143,13,Southwest,Linden Hills,5,1,Howe,04/16/2018,02:35
+"4300 freemont ave n,Minneapolis,MN",45.033656,-93.295459,4,Camden,Webber - Camden,1,1,Howe,04/16/2018,02:35
+"3800 minnehaha,Minneapolis,MN",44.933595000000004,-93.224154,12,Longfellow,Howe,6,1,Howe,04/16/2018,02:36
+"00 19th st e,Minneapolis,MN",44.963956,-93.277811,6,Central,Steven's Square - Loring Heights,3,1,Howe,04/16/2018,02:37
+"3600-3699 FREMONT AVE N,Minneapolis,MN",45.020581,-93.295296,4,Camden,Folwell,1,1,Howe,04/16/2018,02:37
+"609 61st st w,Minneapolis,MN",44.892081,-93.287948,11,Southwest,Windom,5,1,Howe,04/16/2018,02:39
+"1700 NICOLLET AVE S,Minneapolis,MN",44.966833,-93.278091,7,Central,Loring Park,3,1,Howe,04/16/2018,02:47
+"247 3rd Ave n,Minneapolis,MN",44.984584000000005,-93.272328,3,Central,North Loop,3,1,Howe,04/16/2018,02:48
+"3975 MINNEHAHA AVE S,Minneapolis,MN",44.930611999999996,-93.221328,12,Longfellow,Howe,6,1,Howe,04/16/2018,02:50
+"1700 block nicollet ave,Minneapolis,MN",44.966833,-93.278091,7,Central,Loring Park,3,1,Howe,04/16/2018,02:51
+"2100 Fremont Ave n ,Minneapolis,MN",45.000248,-93.29566,5,Near North,Jordan,1,1,Howe,04/16/2018,02:51
+"4000 Fremont Ave N,Minneapolis,MN",45.027815000000004,-93.29557700000001,4,Camden,Webber - Camden,1,1,Howe,04/16/2018,02:51
+"16 2nd st se,Minneapolis,MN",44.987199,-93.257951,3,University,Nicollet Island - East Bank,4,1,Howe,04/16/2018,02:51
+"2000 NICOLLET AVE S,Minneapolis,MN",44.962551,-93.278029,10,Powderhorn,Whittier,3,1,Howe,04/16/2018,02:54
+"1 19th st e,Minneapolis,MN",44.963797,-93.277559,6,Central,Steven's Square - Loring Heights,3,1,Howe,04/16/2018,02:55
+"2100 NICOLLET AVE S,Minneapolis,MN",44.961773,-93.278329,10,Powderhorn,Whittier,3,1,Howe,04/16/2018,02:59
+"3300 FREMONT AVE N,Minneapolis,MN",45.015221999999994,-93.295175,4,Camden,Folwell,1,1,Howe,04/16/2018,03:00
+"3700 MINNEHAHA AVE S,Minneapolis,MN",44.935761,-93.225548,12,Longfellow,Howe,6,1,Howe,04/16/2018,03:07
+"00 19th st e,Minneapolis,MN",44.963956,-93.277811,6,Central,Steven's Square - Loring Heights,3,1,Howe,04/16/2018,03:11
+"4100 Fremont ave n ,Minneapolis,MN",45.029726000000004,-93.295474,4,Camden,Webber - Camden,1,1,Howe,04/16/2018,03:11
+"3700 MINNEHAHA AVE S,Minneapolis,MN",44.935761,-93.225548,12,Longfellow,Howe,6,1,Howe,04/16/2018,03:13
+"3200 Fremont Ave n ,Minneapolis,MN",45.013145,-93.295598,5,Near North,Jordan,1,1,Howe,04/16/2018,03:14
+"2503 9TH ST S,Minneapolis,MN",44.963985,-93.236161,6,Longfellow,Seward,4,1,Howe,04/16/2018,02:09
+"175 27TH AVE SE,Minneapolis,MN",44.970746999999996,-93.21987299999999,2,University,Prospect Park - East River Road,4,1,Howe,04/16/2018,02:08
+"3249 Nicollet ave,Minneapolis,MN",44.943309,-93.27766700000001,8,Powderhorn,Lyndale,5,1,Howe,04/16/2018,03:16
+"207 5TH AVE SE,Minneapolis,MN",44.984099,-93.249792,3,University,Marcy Holmes,4,1,Howe,04/16/2018,03:02
+"4100 FREMONT AVE N,Minneapolis,MN",45.029726000000004,-93.295474,4,Camden,Webber - Camden,1,1,Howe,04/16/2018,03:21
+"49 27TH AVE SE,Minneapolis,MN",44.966469000000004,-93.220554,2,University,Prospect Park - East River Road,4,1,Howe,04/16/2018,03:03
+"161 27TH AVE SE,Minneapolis,MN",44.970408,-93.220152,2,University,Prospect Park - East River Road,4,1,Howe,04/16/2018,03:14
+"3618 NICOLLET AVE S,Minneapolis,MN",44.937121000000005,-93.278444,8,Southwest,King Field,5,1,Howe,04/16/2018,03:30
+"400 block of 15th st w,Minneapolis,MN",44.968424,-93.28596,7,Central,Loring Park,3,1,Howe,04/16/2018,03:31
+"400 block of 15th st w,Minneapolis,MN",44.968424,-93.28596,7,Central,Loring Park,3,1,Howe,04/16/2018,03:33
+"3215 Nicollet ave,Minneapolis,MN",44.944414,-93.277519,8,Powderhorn,Lyndale,5,1,Howe,04/16/2018,03:34
+"3600-3699 FREMONT AVE N,Minneapolis,MN",45.020581,-93.295296,4,Camden,Folwell,1,1,Howe,04/16/2018,03:35
+"4000 Fremont Ave N,Minneapolis,MN",45.027815000000004,-93.29557700000001,4,Camden,Webber - Camden,1,1,Howe,04/16/2018,03:35
+"1300 WILLOW ST,Minneapolis,MN",44.96985,-93.281862,7,Central,Loring Park,3,1,Howe,04/16/2018,03:36
+"1400 block of nicollet,Minneapolis,MN",44.968527,-93.278277,7,Central,Loring Park,3,1,Howe,04/16/2018,03:41
+"2400 Fremont Ave n ,Minneapolis,MN",45.003724,-93.295648,5,Near North,Jordan,1,1,Howe,04/16/2018,03:45
+"5841 NICOLLET AV,Minneapolis,MN",44.896781,-93.277681,11,Southwest,Windom,5,1,Howe,04/16/2018,03:45
+"00 18th st e,Minneapolis,MN",44.96522,-93.277812,7,Central,Steven's Square - Loring Heights,3,1,Howe,04/16/2018,03:45
+"3617 Nicollet ave,Minneapolis,MN",44.937015,-93.277598,8,Southwest,King Field,5,1,Howe,04/16/2018,03:47
+"3600 FREMONT AVE N,Minneapolis,MN",45.020581,-93.295278,4,Camden,Folwell,1,1,Howe,04/16/2018,04:04
+"00 GROVELAND AVE,Minneapolis,MN",44.964196,-93.277822,7,Central,Steven's Square - Loring Heights,3,1,Howe,04/16/2018,03:00
+"1900 1ST AVE S,Minneapolis,MN",44.963853,-93.276957,6,Central,Steven's Square - Loring Heights,3,1,Howe,04/16/2018,04:07
+"1800 1ST AVE S,Minneapolis,MN",44.964942,-93.276951,6,Central,Steven's Square - Loring Heights,3,1,Howe,04/16/2018,04:09
+"1400 block of nicollet,Minneapolis,MN",44.968527,-93.278277,7,Central,Loring Park,3,1,Howe,04/16/2018,04:10
+"5618 NICOLLET AVE,Minneapolis,MN",44.900849,-93.278436,11,Southwest,Windom,5,1,Howe,04/16/2018,04:15
+"3627 Nicollet ave,Minneapolis,MN",44.93667,-93.277579,8,Southwest,King Field,5,1,Howe,04/16/2018,04:20
+"2900 Fremont Ave N,Minneapolis,MN",45.009759,-93.295204,5,Near North,Jordan,1,1,Howe,04/16/2018,04:22
+"3200-3299 FREMONT AVE N,Minneapolis,MN",45.013145,-93.295598,5,Near North,Jordan,1,1,Howe,04/16/2018,04:29
+"4220 NICOLLET AVE S,Minneapolis,MN",44.926075,-93.278326,8,Southwest,King Field,5,1,Howe,04/16/2018,04:41
+"3526 NICOLLET AVE S,Minneapolis,MN",44.938756,-93.27833299999999,8,Powderhorn,Lyndale,5,1,Howe,04/16/2018,04:43
+"2700 FREMONT AVE N,Minneapolis,MN",45.007779,-93.295582,5,Near North,Jordan,1,1,Howe,04/16/2018,04:50
+"3200 Fremont Ave N,Minneapolis,MN",45.013145,-93.295598,5,Near North,Jordan,1,1,Howe,04/16/2018,04:57
+"5324 NICOLLET AVE S,Minneapolis,MN",44.905296,-93.278462,11,Southwest,Tangletown,5,1,Howe,04/16/2018,04:58
+"4334 NICOLLET,Minneapolis,MN",44.923966,-93.278286,8,Southwest,King Field,5,1,Howe,04/16/2018,05:01
+"3836 NICOLLET AVE,Minneapolis,MN",44.933005,-93.278286,8,Southwest,King Field,5,1,Howe,04/16/2018,05:15
+"3142 lyndale ave s,Minneapolis,MN",44.945099,-93.288585,10,Calhoun Isle,South Uptown,5,1,Howe,04/16/2018,05:26
+"718 Aldrich Ave N,Minneapolis,MN",44.985792,-93.289486,5,Near North,Sumner - Glenwood,1,2,Howe,04/16/2018,08:29
+"3532 14th ave s,Minneapolis,MN",44.938347,-93.2552,9,Powderhorn,Powderhorn Park,6,2,Howe,04/16/2018,08:29
+"712 aldrich ave n ,Minneapolis,MN",44.985596,-93.289473,5,Near North,Sumner - Glenwood,1,2,Howe,04/16/2018,08:29
+"3506 14th ave,Minneapolis,MN",44.939221,-93.2552,9,Powderhorn,Powderhorn Park,6,2,Howe,04/16/2018,08:32
+"3532 14th Avenue South,Minneapolis,MN",44.938347,-93.2552,9,Powderhorn,Powderhorn Park,6,2,Howe,04/16/2018,08:32
+"1088 12th Ave Se,Minneapolis,MN",44.990573,-93.23434,2,University,Como,4,2,Howe,04/16/2018,08:32
+"726 ALDRICH AVE N ,Minneapolis,MN",44.986062,-93.289902,5,Near North,Sumner - Glenwood,1,2,Howe,04/16/2018,08:35
+"1086 12th ave se,Minneapolis,MN",44.990464,-93.234328,2,University,Como,4,2,Howe,04/16/2018,08:38
+"1716 bryant ave s,Minneapolis,MN",44.966308000000005,-93.290887,7,Calhoun Isle,Lowry Hill,3,2,Howe,04/16/2018,08:40
+"122 3rd ave ne,Minneapolis,MN",44.990331,-93.260085,3,Northeast,St. Anthony West,2,2,Howe,04/16/2018,08:57
+"3120 3rd st n ,Minneapolis,MN",45.012208,-93.283376,5,Near North,Hawthorne,1,2,Howe,04/16/2018,08:59
+"3136 JAMES Ava s,Minneapolis,MN",44.945302000000005,-93.303664,10,Calhoun Isle,ECCO,5,2,Howe,04/16/2018,09:01
+"810 3rd ave ne,Minneapolis,MN",44.993567999999996,-93.25081899999999,3,Northeast,St. Anthony East,2,2,Howe,04/16/2018,09:02
+"3546 3rd St n ,Minneapolis,MN",45.019292,-93.283469,4,Camden,McKinley,1,2,Howe,04/16/2018,09:02
+"3028 KNOX AV S,Minneapolis,MN",44.947324,-93.30494200000001,10,Calhoun Isle,ECCO,5,2,Howe,04/16/2018,09:06
+"608 4th st se,Minneapolis,MN",44.984488,-93.24663100000001,3,University,Marcy Holmes,4,2,Howe,04/16/2018,09:11
+"416 3rd ave ne,Minneapolis,MN",44.991238,-93.25636,3,Northeast,St. Anthony West,2,2,Howe,04/16/2018,09:13
+"304 4th ave se,Minneapolis,MN",44.98527,-93.25027,3,University,Marcy Holmes,4,2,Howe,04/16/2018,09:15
+"422 4th ave ne,Minneapolis,MN",44.993004,-93.25676,3,Northeast,St. Anthony West,2,2,Howe,04/16/2018,09:19
+"1812 Bryant Ave N,Minneapolis,MN",44.997925,-93.290764,5,Near North,Near - North,1,2,Howe,04/16/2018,09:19
+"2100 block of Dupont Ave s,Minneapolis,MN",44.961791,-93.293428,7,Calhoun Isle,Lowry Hill,3,2,Howe,04/16/2018,09:22
+"3816 15th ave s,Minneapolis,MN",44.933554,-93.253923,8,Powderhorn,Bancroft,6,2,Howe,04/16/2018,09:23
+"3844 15th ave,Minneapolis,MN",44.932807000000004,-93.253943,8,Powderhorn,Bancroft,6,2,Howe,04/16/2018,09:23
+"624 5th ave se,Minneapolis,MN",44.987487,-93.246048,3,University,Marcy Holmes,4,2,Howe,04/16/2018,09:25
+"508 3rd Ave Se,Minneapolis,MN",44.987815999999995,-93.250035,3,University,Marcy Holmes,4,2,Howe,04/16/2018,08:46
+"804 5th ave se,Minneapolis,MN",44.989444,-93.244733,3,University,Marcy Holmes,4,2,Howe,04/16/2018,09:28
+"4020 15th Avenue South,Minneapolis,MN",44.929619,-93.253665,8,Powderhorn,Bancroft,6,2,Howe,04/16/2018,09:28
+"618 5th ave se,Minneapolis,MN",44.987429,-93.246095,3,University,Marcy Holmes,4,2,Howe,04/16/2018,09:30
+"2126 4th st n ,Minneapolis,MN",45.000569,-93.28494,5,Near North,Hawthorne,1,2,Howe,04/16/2018,09:35
+"2214 4th St n ,Minneapolis,MN",45.001976,-93.284623,5,Near North,Hawthorne,1,2,Howe,04/16/2018,09:39
+"4546 14th Avenue South,Minneapolis,MN",44.920667,-93.254948,11,Nokomis,Northrop,6,2,Howe,04/16/2018,09:40
+"142 6th ave ne,Minneapolis,MN",44.99358,-93.262524,3,Northeast,St. Anthony West,2,2,Howe,04/16/2018,09:41
+"3906 14th ave,Minneapolis,MN",44.932043,-93.25523000000001,8,Powderhorn,Bancroft,6,2,Howe,04/16/2018,09:43
+"820 3rd ave ne,Minneapolis,MN",44.993601,-93.25159000000001,3,Northeast,St. Anthony East,2,2,Howe,04/16/2018,09:44
+"4020 16th Avenue South,Minneapolis,MN",44.929745000000004,-93.251389,8,Powderhorn,Bancroft,6,2,Howe,04/16/2018,09:45
+"3924 14th ave,Minneapolis,MN",44.931551,-93.25518000000001,8,Powderhorn,Bancroft,6,2,Howe,04/16/2018,09:46
+"408 7th ave ne,Minneapolis,MN",44.996123,-93.259484,3,Northeast,St. Anthony West,2,2,Howe,04/16/2018,09:48
+"1204 humboldt av n,Minneapolis,MN",44.990937,-93.298183,5,Near North,Near - North,1,2,Howe,04/16/2018,09:49
+"1206 Humboldt Ave N,Minneapolis,MN",44.99098,-93.298183,5,Near North,Near - North,1,2,Howe,04/16/2018,09:51
+"1380 spruce place,Minneapolis,MN",44.968506,-93.28114000000001,7,Central,Loring Park,3,2,Howe,04/16/2018,09:52
+"422 5th Ave Se,Minneapolis,MN",44.985954,-93.247488,3,University,Marcy Holmes,4,2,Howe,04/16/2018,09:51
+"1408 spruce pl,Minneapolis,MN",44.968365000000006,-93.28107800000001,7,Central,Loring Park,3,2,Howe,04/16/2018,09:54
+"610 5th ave se,Minneapolis,MN",44.987351000000004,-93.24615899999999,3,University,Marcy Holmes,4,2,Howe,04/16/2018,09:54
+"728 6th st ne,Minneapolis,MN",44.997745,-93.258107,3,Northeast,St. Anthony West,2,2,Howe,04/16/2018,09:57
+"1130 Humboldt Ave N,Minneapolis,MN",44.989691,-93.297574,5,Near North,Near - North,1,2,Howe,04/16/2018,09:58
+"302 4th ave se,Minneapolis,MN",44.985159,-93.250359,3,University,Marcy Holmes,4,2,Howe,04/16/2018,09:58
+"520 5th ave se,Minneapolis,MN",44.986903999999996,-93.24674399999999,3,University,Marcy Holmes,4,2,Howe,04/16/2018,10:03
+"2226 4th St n,Minneapolis,MN",45.002339,-93.284665,5,Near North,Hawthorne,1,2,Howe,04/16/2018,10:07
+"2224 4th St n,Minneapolis,MN",44.981790999999994,-93.309473,5,Near North,Harrison,3,2,Howe,04/16/2018,10:10
+"3008 James ave s,Minneapolis,MN",44.947943,-93.30368299999999,10,Calhoun Isle,ECCO,5,2,Howe,04/16/2018,10:12
+"1942 Emerson Ave ,Minneapolis,MN",44.963068,-93.294635,7,Calhoun Isle,Lowry Hill,3,2,Howe,04/16/2018,10:12
+"1102 Humboldt Ave N,Minneapolis,MN",44.989301,-93.29757,5,Near North,Near - North,1,2,Howe,04/16/2018,10:14
+"4124 13th Avenue South,Minneapolis,MN",44.927814,-93.256496,8,Powderhorn,Bancroft,6,2,Howe,04/16/2018,10:15
+"3352 HUMBOLDT AV S,Minneapolis,MN",44.941548,-93.301214,10,Calhoun Isle,ECCO,5,2,Howe,04/16/2018,10:16
+"4040 15th ave s,Minneapolis,MN",44.929623,-93.2543,8,Powderhorn,Bancroft,6,2,Howe,04/16/2018,10:16
+"726 6th st ne,Minneapolis,MN",44.997735999999996,-93.258101,3,Northeast,St. Anthony West,2,2,Howe,04/16/2018,10:16
+"720 summer st ne,Minneapolis,MN",44.996906,-93.252178,3,Northeast,St. Anthony East,2,2,Howe,04/16/2018,10:22
+"3020 JAMES AV S,Minneapolis,MN",44.947579,-93.30368299999999,10,Calhoun Isle,ECCO,5,2,Howe,04/16/2018,10:22
+"322 5th ave se,Minneapolis,MN",44.984899,-93.248294,3,University,Marcy Holmes,4,2,Howe,04/16/2018,10:23
+"1124 humboldt ave n,Minneapolis,MN",44.989608000000004,-93.297573,5,Near North,Near - North,1,2,Howe,04/16/2018,10:29
+"702 5th ave se,Minneapolis,MN",44.98854,-93.245453,3,University,Marcy Holmes,4,2,Howe,04/16/2018,10:32
+"1834 37th st ,Minneapolis,MN",44.936134,-93.246649,12,Powderhorn,Standish,6,2,Howe,04/16/2018,10:37
+"3532 13th ave so,Minneapolis,MN",44.938346,-93.256496,9,Powderhorn,Powderhorn Park,6,2,Howe,04/16/2018,10:38
+"3350 Humboldt ave s,Minneapolis,MN",44.941621000000005,-93.301186,10,Calhoun Isle,ECCO,5,2,Howe,04/16/2018,10:39
+"326 6th st se,Minneapolis,MN",44.988087,-93.24903,3,University,Marcy Holmes,4,2,Howe,04/16/2018,10:40
+"638 5th st ne,Minneapolis,MN",44.996348,-93.258935,3,Northeast,St. Anthony West,2,2,Howe,04/16/2018,10:41
+"2618 4th St n,Minneapolis,MN",45.006569,-93.284676,5,Near North,Hawthorne,1,2,Howe,04/16/2018,10:42
+"404 6th ave se,Minneapolis,MN",44.985198,-93.246661,3,University,Marcy Holmes,4,2,Howe,04/16/2018,10:44
+"718 summer st ne,Minneapolis,MN",44.996906,-93.252204,3,Northeast,St. Anthony East,2,2,Howe,04/16/2018,10:44
+"2616 4th St n,Minneapolis,MN",45.006122999999995,-93.284922,5,Near North,Hawthorne,1,2,Howe,04/16/2018,10:44
+"326 5th Ave Se,Minneapolis,MN",44.984996,-93.24821899999999,3,University,Marcy Holmes,4,2,Howe,04/16/2018,10:44
+"2322 Irving Ave N,Minneapolis,MN",45.003352,-93.298886,5,Near North,Jordan,1,2,Howe,04/16/2018,10:48
+"214 5th St NE,Minneapolis,MN",44.991295,-93.25571,3,Northeast,St. Anthony West,2,2,Howe,04/16/2018,10:49
+"2214 girard ave n,Minneapolis,MN",45.002097,-93.29688399999999,5,Near North,Jordan,1,2,Howe,04/16/2018,10:57
+"3412 15th ave,Minneapolis,MN",44.942735,-93.257165,9,Powderhorn,Powderhorn Park,6,2,Howe,04/16/2018,10:57
+"812 5th St NE,Minneapolis,MN",44.998012,-93.260003,3,Northeast,St. Anthony West,2,2,Howe,04/16/2018,10:59
+"110 oak Grove St,Minneapolis,MN",44.966514000000004,-93.280191,7,Central,Loring Park,3,2,Howe,04/16/2018,11:00
+"316 5th st ne,Minneapolis,MN",44.992468,-93.256214,3,Northeast,St. Anthony West,2,2,Howe,04/16/2018,11:00
+"1302 spruce pl,Minneapolis,MN",44.968506,-93.28114000000001,7,Central,Loring Park,3,2,Howe,04/16/2018,11:01
+"200 Clifton ave,Minneapolis,MN",44.965964,-93.282739,7,Central,Loring Park,3,2,Howe,04/16/2018,11:02
+"3138 19th ave s,Minneapolis,MN",44.945142,-93.24512800000001,9,Powderhorn,Corcoran,6,2,Howe,04/16/2018,11:03
+"210 clifton ave,Minneapolis,MN",44.965967,-93.282748,7,Central,Loring Park,3,2,Howe,04/16/2018,11:04
+"3040 17th Avenue South,Minneapolis,MN",44.94705,-93.25025,9,Powderhorn,Powderhorn Park,6,2,Howe,04/16/2018,11:04
+"604 6th ave se ,Minneapolis,MN",44.986878000000004,-93.244744,3,University,Marcy Holmes,4,2,Howe,04/16/2018,11:08
+"1778 BRYANT AVE S,Minneapolis,MN",44.965848,-93.290887,7,Calhoun Isle,Lowry Hill,3,2,Howe,04/16/2018,11:08
+"122 10th ave ne,Minneapolis,MN",44.99779,-93.267135,3,Northeast,St. Anthony West,2,2,Howe,04/16/2018,11:13
+"126 19th st e,Minneapolis,MN",44.963955,-93.27465600000001,6,Central,Steven's Square - Loring Heights,3,2,Howe,04/16/2018,11:14
+"3812 6th st n,Minneapolis,MN",45.024351,-93.286252,4,Camden,Webber - Camden,1,2,Howe,04/16/2018,11:14
+"3836 15th Avenue South,Minneapolis,MN",44.933025,-93.253943,8,Powderhorn,Bancroft,6,2,Howe,04/16/2018,11:15
+"718 6th ave se,Minneapolis,MN",44.988426000000004,-93.24410400000001,3,University,Marcy Holmes,4,2,Howe,04/16/2018,11:17
+"2906. 4th St n,Minneapolis,MN",45.009817,-93.284614,5,Near North,Hawthorne,1,2,Howe,04/16/2018,11:18
+"724 6th st ne,Minneapolis,MN",44.997727000000005,-93.258095,3,Northeast,St. Anthony West,2,2,Howe,04/16/2018,11:19
+"4346 13th Avenue South,Minneapolis,MN",44.923659,-93.256496,11,Nokomis,Northrop,6,2,Howe,04/16/2018,11:20
+"716 6th ave se,Minneapolis,MN",44.988365,-93.24415400000001,3,University,Marcy Holmes,4,2,Howe,04/16/2018,11:20
+"3016 Longfellow ave ,Minneapolis,MN",44.94767,-93.246361,9,Powderhorn,Corcoran,6,2,Howe,04/16/2018,11:20
+"3210 4th St n,Minneapolis,MN",45.013536,-93.284646,4,Camden,McKinley,1,2,Howe,04/16/2018,11:21
+"2212 Irving Ave N,Minneapolis,MN",45.00201,-93.298652,5,Near North,Jordan,1,2,Howe,04/16/2018,11:21
+"226 8th ave se,Minneapolis,MN",44.982116999999995,-93.245427,3,University,Marcy Holmes,4,2,Howe,04/16/2018,11:23
+"426 8th ave se,Minneapolis,MN",44.984364,-93.24327199999999,3,University,Marcy Holmes,4,2,Howe,04/16/2018,11:27
+"506 6th ave se,Minneapolis,MN",44.985985,-93.24544499999999,3,University,Marcy Holmes,4,2,Howe,04/16/2018,11:27
+"3104 Girard ave s,Minneapolis,MN",44.946261,-93.297397,10,Calhoun Isle,South Uptown,5,2,Howe,04/16/2018,11:29
+"2018 Fremont Ave s,Minneapolis,MN",44.962027,-93.29598,7,Calhoun Isle,Lowry Hill,3,2,Howe,04/16/2018,11:31
+"1334 5th st ne,Minneapolis,MN",45.001936,-93.26049,3,Northeast,Sheridan,2,2,Howe,04/16/2018,11:33
+"1306 grand st ne,Minneapolis,MN",45.000752,-93.26905,3,Northeast,Sheridan,2,2,Howe,04/16/2018,11:35
+"320 7th ave se,Minneapolis,MN",44.983453999999995,-93.245806,3,University,Marcy Holmes,4,2,Howe,04/16/2018,11:37
+"2230 girard ave n ,Minneapolis,MN",45.002496,-93.296865,5,Near North,Jordan,1,2,Howe,04/16/2018,11:38
+"422 7th ave se,Minneapolis,MN",44.98473,-93.244795,3,University,Marcy Holmes,4,2,Howe,04/16/2018,11:40
+"412 5th Avse,Minneapolis,MN",44.977717999999996,-93.262557,3,Central,Downtown West,3,2,Howe,04/16/2018,10:56
+"3120 Longfellow ave s,Minneapolis,MN",44.945774,-93.246416,9,Powderhorn,Corcoran,6,2,Howe,04/16/2018,11:44
+"3408 22nd Avenue South,Minneapolis,MN",44.940993,-93.240985,9,Powderhorn,Corcoran,6,2,Howe,04/16/2018,11:44
+"2008 clinton av s,Minneapolis,MN",44.962385999999995,-93.271822,10,Powderhorn,Whittier,3,2,Howe,04/16/2018,11:46
+"320 5th st se,Minneapolis,MN",44.987521,-93.25022299999999,3,University,Marcy Holmes,4,2,Howe,04/16/2018,11:47
+"722 7th st SE ,Minneapolis,MN",44.986773,-93.24239,3,University,Marcy Holmes,4,2,Howe,04/16/2018,11:48
+"306 3rd Ave Se,Minneapolis,MN",44.985857,-93.251529,3,University,Marcy Holmes,4,2,Howe,04/16/2018,10:56
+"223 irving ave n ,Minneapolis,MN",44.978718,-93.299441,5,Near North,Harrison,3,2,Howe,04/16/2018,11:48
+"400 Clifton ave,Minneapolis,MN",44.966768,-93.285062,7,Central,Loring Park,3,2,Howe,04/16/2018,11:52
+"1826 2nd avs,Minneapolis,MN",44.964826,-93.274028,6,Central,Steven's Square - Loring Heights,3,2,Howe,04/16/2018,11:52
+"328 Clifton ave,Minneapolis,MN",44.966015000000006,-93.28290600000001,7,Central,Loring Park,3,2,Howe,04/16/2018,11:55
+"728 4th st ne,Minneapolis,MN",44.996790000000004,-93.261002,3,Northeast,St. Anthony West,2,2,Howe,04/16/2018,11:55
+"3206 16th av so,Minneapolis,MN",44.94437,-93.251713,9,Powderhorn,Powderhorn Park,6,2,Howe,04/16/2018,11:55
+"1912 Irving Ave N,Minneapolis,MN",44.999241,-93.29905699999999,5,Near North,Near - North,1,2,Howe,04/16/2018,11:58
+"508 11th ave se,Minneapolis,MN",44.983318,-93.238446,3,University,Marcy Holmes,4,2,Howe,04/16/2018,11:59
+"356 garfield st ne,Minneapolis,MN",44.992528,-93.233331,1,University,Como,2,2,Howe,04/16/2018,12:01
+"2120 34th st,Minneapolis,MN",44.941581,-93.241478,9,Powderhorn,Corcoran,6,2,Howe,04/16/2018,12:05
+"604 11th ave se,Minneapolis,MN",44.984255,-93.237913,3,University,Marcy Holmes,4,2,Howe,04/16/2018,12:06
+"340 ulysses st ne,Minneapolis,MN",44.991518,-93.235878,1,University,Como,4,2,Howe,04/16/2018,12:06
+"3112 22nd ave ,Minneapolis,MN",44.94611,-93.240981,9,Powderhorn,Corcoran,6,2,Howe,04/16/2018,12:07
+"512 8th Ave Se,Minneapolis,MN",44.985217999999996,-93.242627,3,University,Marcy Holmes,4,2,Howe,04/16/2018,11:49
+"3122 22nd ave,Minneapolis,MN",44.945855,-93.240981,9,Powderhorn,Corcoran,6,2,Howe,04/16/2018,12:08
+"1910 irving ave n,Minneapolis,MN",44.999223,-93.29907,5,Near North,Near - North,1,2,Howe,04/16/2018,12:09
+"302 8th Ave Se,Minneapolis,MN",44.982751,-93.24446800000001,3,University,Marcy Holmes,4,2,Howe,04/16/2018,11:49
+"520 7th Ave Se,Minneapolis,MN",44.985619,-93.24409200000001,3,University,Marcy Holmes,4,2,Howe,04/16/2018,11:39
+"3138 HUMBOLT AVE S,Minneapolis,MN",44.945297,-93.301135,10,Calhoun Isle,ECCO,5,2,Howe,04/16/2018,12:12
+"3120 Emerson ave s,Minneapolis,MN",44.945808,-93.294791,10,Calhoun Isle,South Uptown,5,2,Howe,04/16/2018,12:13
+"2120 6th St n,Minneapolis,MN",45.000877,-93.286119,5,Near North,Hawthorne,1,2,Howe,04/16/2018,12:14
+"1910 2nd Ave s ,Minneapolis,MN",44.96359,-93.274341,6,Central,Steven's Square - Loring Heights,3,2,Howe,04/16/2018,12:15
+"3116 22nd Avenue South,Minneapolis,MN",44.945965,-93.240981,9,Powderhorn,Corcoran,6,2,Howe,04/16/2018,12:16
+"716 5th ave se,Minneapolis,MN",44.988825,-93.245207,3,University,Marcy Holmes,4,2,Howe,04/16/2018,12:16
+"1152 14th ave ne,Minneapolis,MN",45.001698,-93.24216899999999,1,Northeast,Northeast Park,2,2,Howe,04/16/2018,12:16
+"3120 Fremont ave s,Minneapolis,MN",44.945808,-93.296049,10,Calhoun Isle,South Uptown,5,2,Howe,04/16/2018,12:17
+"3120 22nd Avenue South,Minneapolis,MN",44.945892,-93.240988,9,Powderhorn,Corcoran,6,2,Howe,04/16/2018,12:19
+"526 5th st se,Minneapolis,MN",44.985806,-93.246615,3,University,Marcy Holmes,4,2,Howe,04/16/2018,12:19
+"418 7th st se,Minneapolis,MN",44.988488000000004,-93.246825,3,University,Marcy Holmes,4,2,Howe,04/16/2018,12:19
+"3218 6th St n,Minneapolis,MN",45.013784,-93.286176,4,Camden,McKinley,1,2,Howe,04/16/2018,12:20
+"2116 GIRARD AVE S,Minneapolis,MN",44.961462,-93.297297,7,Calhoun Isle,Lowry Hill,3,2,Howe,04/16/2018,12:22
+"1142 15th ave se,Minneapolis,MN",44.99221,-93.23039,1,University,Como,2,2,Howe,04/16/2018,12:23
+"1902 pleasant ave s,Minneapolis,MN",44.96372,-93.283304,7,Central,Steven's Square - Loring Heights,3,2,Howe,04/16/2018,12:24
+"1700 Stevens avs,Minneapolis,MN",44.966164,-93.275603,6,Central,Steven's Square - Loring Heights,3,2,Howe,04/16/2018,12:25
+"1204 6th st SE,Minneapolis,MN",44.983536,-93.23691,3,University,Marcy Holmes,4,2,Howe,04/16/2018,12:28
+"2314 32nd st e,Minneapolis,MN",44.944963,-93.238168,9,Powderhorn,Corcoran,6,2,Howe,04/16/2018,12:29
+"2318 32nd Street East,Minneapolis,MN",44.944974,-93.237944,9,Powderhorn,Corcoran,6,2,Howe,04/16/2018,12:31
+"324 7th st se,Minneapolis,MN",44.989308,-93.248772,3,University,Marcy Holmes,4,2,Howe,04/16/2018,12:32
+"900 Irving Ave. N.,Minneapolis,MN",44.987041999999995,-93.299297,5,Near North,Near - North,1,2,Howe,04/16/2018,12:34
+"1826 irving ave n ,Minneapolis,MN",44.998222,-93.29910500000001,5,Near North,Near - North,1,2,Howe,04/16/2018,12:35
+"914 6th st se,Minneapolis,MN",44.984678,-93.240607,3,University,Marcy Holmes,4,2,Howe,04/16/2018,12:39
+"1038 james ave n,Minneapolis,MN",44.988021999999994,-93.30034,5,Near North,Near - North,1,2,Howe,04/16/2018,12:41
+"926 5th st se,Minneapolis,MN",44.983619,-93.24113100000001,3,University,Marcy Holmes,4,2,Howe,04/16/2018,12:42
+"3450 DUPONT AV S,Minneapolis,MN",44.93971,-93.293538,10,Calhoun Isle,South Uptown,5,2,Howe,04/16/2018,12:46
+"2104 aldrich ave n ,Minneapolis,MN",45.00053,-93.289237,5,Near North,Hawthorne,1,2,Howe,04/16/2018,12:46
+"604 8th Ave Se,Minneapolis,MN",44.985904999999995,-93.242129,3,University,Marcy Holmes,4,2,Howe,04/16/2018,12:48
+"1226 7th st se,Minneapolis,MN",44.984131,-93.23577399999999,3,University,Marcy Holmes,4,2,Howe,04/16/2018,12:50
+"3526 DUPONT AV S,Minneapolis,MN",44.938629,-93.293648,10,Calhoun Isle,South Uptown,5,2,Howe,04/16/2018,12:51
+"1022 6th st se,Minneapolis,MN",44.984255,-93.239436,3,University,Marcy Holmes,4,2,Howe,04/16/2018,12:53
+"4122 Aldrich Ave n,Minneapolis,MN",45.030072,-93.289105,4,Camden,Webber - Camden,1,2,Howe,04/16/2018,12:54
+"328 Garfield st ne,Minneapolis,MN",44.992034999999994,-93.23333199999999,1,University,Como,2,2,Howe,04/16/2018,12:55
+"2806 dupont Ave n ,Minneapolis,MN",45.008815999999996,-93.292797,5,Near North,Hawthorne,1,2,Howe,04/16/2018,12:56
+"1500 spruce place ,Minneapolis,MN",44.966908000000004,-93.280835,7,Central,Loring Park,3,2,Howe,04/16/2018,12:56
+"1824 32nd st e,Minneapolis,MN",44.944914000000004,-93.247334,9,Powderhorn,Corcoran,6,2,Howe,04/16/2018,13:01
+"1920 MORGAN AVE N,Minneapolis,MN",44.999462,-93.304167,5,Near North,Willard - Hay,1,2,Howe,04/16/2018,13:02
+"2214 Pillsbury ave,Minneapolis,MN",44.960293,-93.281759,10,Powderhorn,Whittier,3,2,Howe,04/16/2018,13:03
+"1030 James Ave N,Minneapolis,MN",44.988308,-93.300338,5,Near North,Near - North,1,2,Howe,04/16/2018,13:03
+"3430 21st ave ,Minneapolis,MN",44.940309,-93.242552,9,Powderhorn,Corcoran,6,2,Howe,04/16/2018,13:04
+"746 buchanan st ne,Minneapolis,MN",44.99828,-93.239975,3,Northeast,Beltrami,2,2,Howe,04/16/2018,13:05
+"3410 Emerson ave s ,Minneapolis,MN",44.940815,-93.294882,10,Calhoun Isle,South Uptown,5,2,Howe,04/16/2018,13:05
+"526 bryant ave ,Minneapolis,MN",44.98369,-93.290479,5,Near North,Sumner - Glenwood,3,2,Howe,04/16/2018,13:06
+"1002 7th St Se,Minneapolis,MN",44.98533,-93.238853,3,University,Marcy Holmes,4,2,Howe,04/16/2018,13:08
+"522 Bryant ave n,Minneapolis,MN",44.983608000000004,-93.29083,5,Near North,Sumner - Glenwood,3,2,Howe,04/16/2018,13:09
+"758 buchanan st ne,Minneapolis,MN",44.998574,-93.240085,3,Northeast,Beltrami,2,2,Howe,04/16/2018,13:11
+"1602 irving ave n ,Minneapolis,MN",44.995432,-93.299159,5,Near North,Near - North,1,2,Howe,04/16/2018,13:11
+"1312 7th ave se,Minneapolis,MN",44.988273,-93.242396,3,University,Marcy Holmes,4,2,Howe,04/16/2018,13:12
+"406 11th ave se,Minneapolis,MN",44.982301,-93.239399,3,University,Marcy Holmes,4,2,Howe,04/16/2018,13:12
+"3048 18th Avenue South,Minneapolis,MN",44.946824,-93.248952,9,Powderhorn,Powderhorn Park,6,2,Howe,04/16/2018,13:13
+"2300 pillsbury ave s,Minneapolis,MN",44.959882,-93.281763,10,Powderhorn,Whittier,3,2,Howe,04/16/2018,13:14
+"522 12th ave se,Minneapolis,MN",44.983245000000004,-93.23694300000001,3,University,Marcy Holmes,4,2,Howe,04/16/2018,13:15
+"416 11th ave se,Minneapolis,MN",44.982599,-93.23915699999999,3,University,Marcy Holmes,4,2,Howe,04/16/2018,13:15
+"3224 Elliot ave s,Minneapolis,MN",44.943957,-93.261643,9,Powderhorn,Powderhorn Park,6,2,Howe,04/16/2018,13:16
+"3504 27th Avenue South,Minneapolis,MN",44.939284,-93.233688,9,Powderhorn,Corcoran,6,2,Howe,04/16/2018,13:16
+"1218 7th SE,Minneapolis,MN",44.984167,-93.235864,3,University,Marcy Holmes,4,2,Howe,04/16/2018,13:16
+"1844 32nd Street East,Minneapolis,MN",44.944743,-93.246082,9,Powderhorn,Corcoran,6,2,Howe,04/16/2018,13:17
+"618 12th ave se,Minneapolis,MN",44.984029,-93.23628199999999,3,University,Marcy Holmes,4,2,Howe,04/16/2018,13:20
+"3750 6th st n,Minneapolis,MN",45.023511,-93.286227,4,Camden,McKinley,1,2,Howe,04/16/2018,13:21
+"1916 PLEASANT AVE S,Minneapolis,MN",44.963553999999995,-93.28304399999999,7,Central,Steven's Square - Loring Heights,3,2,Howe,04/16/2018,13:22
+"716 11th Ave Se,Minneapolis,MN",44.985541,-93.23696600000001,3,University,Marcy Holmes,4,2,Howe,04/16/2018,12:51
+"1010 Logan Ave N,Minneapolis,MN",44.988268,-93.302934,5,Near North,Near - North,1,2,Howe,04/16/2018,13:24
+"808 11th Ave Se,Minneapolis,MN",44.986418,-93.236535,3,University,Marcy Holmes,4,2,Howe,04/16/2018,12:51
+"1110 5th Ave Se,Minneapolis,MN",44.991483,-93.243534,3,University,Marcy Holmes,4,2,Howe,04/16/2018,13:00
+"2004 Pillsbury Ave s,Minneapolis,MN",44.962426,-93.28169399999999,10,Powderhorn,Whittier,3,2,Howe,04/16/2018,13:26
+"1230 Morgan ave n ,Minneapolis,MN",44.990657,-93.304138,5,Near North,Near - North,1,2,Howe,04/16/2018,13:28
+"2426 Pillsbury Ave ,Minneapolis,MN",44.958101,-93.28172099999999,10,Powderhorn,Whittier,3,2,Howe,04/16/2018,13:28
+"2622 dupont Ave n ,Minneapolis,MN",45.006664,-93.292787,5,Near North,Hawthorne,1,2,Howe,04/16/2018,13:30
+"1536 32nd st,Minneapolis,MN",44.944913,-93.251723,9,Powderhorn,Powderhorn Park,6,2,Howe,04/16/2018,13:30
+"1526 32nd st,Minneapolis,MN",44.944733,-93.252476,9,Powderhorn,Powderhorn Park,6,2,Howe,04/16/2018,13:32
+"1240 LOGAN AVE N,Minneapolis,MN",44.990953000000005,-93.303208,5,Near North,Near - North,1,2,Howe,04/16/2018,13:33
+"636 15th ave ne,Minneapolis,MN",45.002922999999996,-93.256575,1,Northeast,Logan Park,2,2,Howe,04/16/2018,13:34
+"518 12th ave se,Minneapolis,MN",44.983095,-93.237083,3,University,Marcy Holmes,4,2,Howe,04/16/2018,13:35
+"1820 stevens avs S,Minneapolis,MN",44.964487,-93.275648,6,Central,Steven's Square - Loring Heights,3,2,Howe,04/16/2018,13:37
+"3206 HOLMES AVE,Minneapolis,MN",44.944363,-93.29974,10,Calhoun Isle,ECCO,5,2,Howe,04/16/2018,13:38
+"3346 6th St n,Minneapolis,MN",45.016409,-93.28624,4,Camden,McKinley,1,2,Howe,04/16/2018,13:40
+"502 12th ave se,Minneapolis,MN",44.982601,-93.237478,3,University,Marcy Holmes,4,2,Howe,04/16/2018,13:41
+"822 5th ave n,Minneapolis,MN",44.98299,-93.290356,5,Near North,Sumner - Glenwood,3,2,Howe,04/16/2018,13:41
+"3528 Emerson ave s,Minneapolis,MN",44.938576,-93.294954,10,Calhoun Isle,South Uptown,5,2,Howe,04/16/2018,13:42
+"658 Madison St NE,Minneapolis,MN",44.996761,-93.25398,3,Northeast,St. Anthony East,2,2,Howe,04/16/2018,13:45
+"814 5th ave n,Minneapolis,MN",44.982941,-93.29025899999999,5,Near North,Sumner - Glenwood,3,2,Howe,04/16/2018,13:45
+"1236 Morgan Ave. N.,Minneapolis,MN",44.990851,-93.304164,5,Near North,Near - North,1,2,Howe,04/16/2018,13:45
+"2440 Pillsbury ave ,Minneapolis,MN",44.957688,-93.281754,10,Powderhorn,Whittier,3,2,Howe,04/16/2018,13:46
+"1518 8th st se,Minneapolis,MN",44.983601,-93.23064699999999,2,University,University of Minnesota,4,2,Howe,04/16/2018,13:47
+"3716 DuPont Ave n,Minneapolis,MN",45.022695,-93.292825,4,Camden,McKinley,1,2,Howe,04/16/2018,13:47
+"804 4th St NE,Minneapolis,MN",44.997338,-93.261393,3,Northeast,St. Anthony West,2,2,Howe,04/16/2018,13:49
+"3024 30th ave ,Minneapolis,MN",44.947476,-93.228768,2,Longfellow,Longfellow,6,2,Howe,04/16/2018,13:53
+"3516 Emerson Ave s ,Minneapolis,MN",44.938887,-93.294895,10,Calhoun Isle,South Uptown,5,2,Howe,04/16/2018,13:55
+"3234 DUPONT AV S,Minneapolis,MN",44.943608000000005,-93.293561,10,Calhoun Isle,South Uptown,5,2,Howe,04/16/2018,13:56
+"714 newton ave n ,Minneapolis,MN",44.985624,-93.305492,5,Near North,Near - North,1,2,Howe,04/16/2018,13:57
+"3152 29th Avenue South,Minneapolis,MN",44.945153999999995,-93.230358,2,Longfellow,Longfellow,6,2,Howe,04/16/2018,13:57
+"1716 Rollins ave SE,Minneapolis,MN",44.985015000000004,-93.227817,2,University,Como,4,2,Howe,04/16/2018,13:58
+"1516 8th st se,Minneapolis,MN",44.983629,-93.230715,2,University,University of Minnesota,4,2,Howe,04/16/2018,14:00
+"3508 DUPONT AV S,Minneapolis,MN",44.939141,-93.293676,10,Calhoun Isle,South Uptown,5,2,Howe,04/16/2018,14:00
+"2226 34th st e,Minneapolis,MN",44.941571,-93.239471,9,Powderhorn,Corcoran,6,2,Howe,04/16/2018,14:03
+"508 12th ave se,Minneapolis,MN",44.982872,-93.237255,3,University,Marcy Holmes,4,2,Howe,04/16/2018,14:03
+"808 13th ave se,Minneapolis,MN",44.985163,-93.233571,3,University,Marcy Holmes,4,2,Howe,04/16/2018,14:07
+"1399 2nd ave n,Minneapolis,MN",44.978982,-93.298177,5,Near North,Harrison,3,2,Howe,04/16/2018,14:07
+"3128 28th ave s,Minneapolis,MN",44.946054,-93.231884,2,Longfellow,Longfellow,6,2,Howe,04/16/2018,14:10
+"728 12th ave se,Minneapolis,MN",44.98525,-93.235325,3,University,Marcy Holmes,4,2,Howe,04/16/2018,14:10
+"1500 brook ave se,Minneapolis,MN",44.986393,-93.22937399999999,2,University,Como,4,2,Howe,04/16/2018,14:12
+"2520 Pillsbury Ave ,Minneapolis,MN",44.956578,-93.281754,10,Powderhorn,Whittier,3,2,Howe,04/16/2018,14:21
+"1226 Oliver ave n ,Minneapolis,MN",44.990439,-93.306641,5,Near North,Near - North,1,2,Howe,04/16/2018,14:21
+"3626 dupont Ave n ,Minneapolis,MN",45.021145000000004,-93.292793,4,Camden,McKinley,1,2,Howe,04/16/2018,14:23
+"3622 dupont Ave n ,Minneapolis,MN",45.021035,-93.29281999999999,4,Camden,McKinley,1,2,Howe,04/16/2018,14:25
+"234 Humboldt ave n,Minneapolis,MN",44.979186,-93.29790899999999,5,Near North,Harrison,3,2,Howe,04/16/2018,14:27
+"1504 8th St Se,Minneapolis,MN",44.983791,-93.23111999999999,2,University,University of Minnesota,4,2,Howe,04/16/2018,14:04
+"324 19th ave ne,Minneapolis,MN",45.007582,-93.263349,3,Northeast,Bottineau,2,2,Howe,04/16/2018,14:28
+"1218 Oliver Ave N,Minneapolis,MN",44.990292,-93.306703,5,Near North,Near - North,1,2,Howe,04/16/2018,14:29
+"608 12th Ave Se,Minneapolis,MN",44.983937,-93.236298,3,University,Marcy Holmes,4,2,Howe,04/16/2018,13:55
+"216 Humboldt ave n,Minneapolis,MN",44.978512,-93.298037,5,Near North,Harrison,3,2,Howe,04/16/2018,14:30
+"1102 7th St Se,Minneapolis,MN",44.984853,-93.23758199999999,3,University,Marcy Holmes,4,2,Howe,04/16/2018,13:55
+"1126 6th st se,Minneapolis,MN",44.983453000000004,-93.237344,3,University,Marcy Holmes,4,2,Howe,04/16/2018,14:32
+"2306 32nd Street East,Minneapolis,MN",44.944957,-93.238596,9,Powderhorn,Corcoran,6,2,Howe,04/16/2018,14:32
+"2632 PILLSBURY AVE S,Minneapolis,MN",44.954376,-93.281679,10,Powderhorn,Whittier,3,2,Howe,04/16/2018,14:33
+"2200 PILLSBURY AVE S,Minneapolis,MN",44.960598,-93.281672,10,Powderhorn,Whittier,3,2,Howe,04/16/2018,14:34
+"2314 Pillsbury Ave s,Minneapolis,MN",44.959604,-93.28176500000001,10,Powderhorn,Whittier,3,2,Howe,04/16/2018,14:37
+"1720 Rollins ave se,Minneapolis,MN",44.985112,-93.227611,2,University,Como,4,2,Howe,04/16/2018,14:38
+"1854 33rd Street East,Minneapolis,MN",44.943090000000005,-93.24597800000001,9,Powderhorn,Corcoran,6,2,Howe,04/16/2018,14:38
+"2750 pillsbury av s,Minneapolis,MN",44.952182,-93.281706,10,Powderhorn,Whittier,3,2,Howe,04/16/2018,14:40
+"1306 Summer St NE,Minneapolis,MN",44.996906,-93.2409,3,Northeast,Beltrami,2,2,Howe,04/16/2018,14:41
+"1300 Winter St NE,Minneapolis,MN",44.993285,-93.23268,1,University,Como,2,2,Howe,04/16/2018,14:42
+"3146 29th Avenue South,Minneapolis,MN",44.945326,-93.230354,2,Longfellow,Longfellow,6,2,Howe,04/16/2018,14:43
