@@ -8,7 +8,7 @@ The City of Minneapolis has made data available for tows and tags resulting from
 ## Towing Data
 For two of the snow emergencies, Grant 2015 and Polk 2016, the `.csv` files do not have latitude, longitude, ward, community or neighborhood information available.  We are able to use the GeoJSON files to extract the latitude and longitude information.  Using the latitude and longitude, we are then able to find the corresponding ward, community and neighborhood of each point.  In addition, for these emergencies, there are towing incidents that do not have latitude and longitude information but do have address information.  We geocode the latitude and longitude using the Google geocoding API.
 
-The steps used for the Grand and Polk Towing Data are as follows:
+The steps used for the Grant and Polk Towing Data are as follows:
 
 1.  Fill missing coordinates by using Google Places to geocode the given address information.
 2.  Fill missing Ward, Community, and Neighborhood information in using shapely's `polygon.contains(point)` functionality. We have GeoJSONs with the boundaries for Minneapolis Wards, Communities, and Neighborhoods. For each point, we can write a function that returns the corresponding Ward, Community, and Neighborhood.
